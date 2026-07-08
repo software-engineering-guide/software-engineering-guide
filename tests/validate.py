@@ -141,6 +141,17 @@ if os.path.exists(zt_path):
 else:
     check("zensical.toml exists", False, "file missing")
 
+# 12. The generated chapter map used by the guide_xref auto-linking extension
+# matches the chapters on disk.
+xr_path = os.path.join(ROOT, "guide_xref", "chapters.py")
+if os.path.exists(xr_path):
+    xr = dict(re.findall(r"^    \"(\d+\.\d+)\": \('([^']+)'", read(xr_path), re.M))
+    want = {f"{dec(f)[0]}.{dec(f)[1]}": os.path.basename(f) for f in chapters}
+    check("guide_xref/chapters.py matches disk", xr == want,
+          f"stale entries: {sorted(set(xr.items()) ^ set(want.items()))[:6]}")
+else:
+    check("guide_xref/chapters.py exists", False, "file missing (run `just nav`)")
+
 print()
 if failures:
     print(f"RESULT: {len(failures)} check(s) FAILED")

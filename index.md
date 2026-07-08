@@ -40,6 +40,7 @@ The book is published as a website at
 - **[docs/project/](docs/project/index.md)** : project documentation.
 - **[docs/examples/](docs/examples/index.md)** : small illustrative examples.
 - **[tools/gen_nav.py](tools/gen_nav.py)** : navigation generator (`just nav`).
+- **[guide_xref/](guide_xref/__init__.py)** : build-time auto-linking of chapter cross-references.
 - **[tests/validate.py](tests/validate.py)** : validation suite (`just test`).
 - **[docs/project/changelog.md](docs/project/changelog.md)** : history of notable changes.
 

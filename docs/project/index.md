@@ -62,6 +62,11 @@ generated navigation, and the tests all agree.
   never drift from the chapters.
 - **Offline, dependency-free tests.** The suite uses only the standard library so
   it runs anywhere, including CI and pre-commit hooks.
+- **Cross-references are auto-linked at build time.** Prose refers to
+  chapters by decimal number ("see chapter 8.1"), as the spec requires. The
+  `guide_xref` Markdown extension turns those references into links when
+  Zensical builds the site, so the sources stay plain and the site stays
+  navigable. `tests/test_xref.py` pins down what does and does not get linked.
 - **No em-dashes, by rule and by test.** A deliberate style choice, enforced so
   it stays true as the book grows.
 

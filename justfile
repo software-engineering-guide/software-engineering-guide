@@ -5,9 +5,10 @@
 default:
     @just --list --unsorted
 
-# Run the validation suite.
+# Run the validation suite and the cross-reference linking tests.
 test:
     python3 tests/validate.py
+    uv run python tests/test_xref.py
 
 # Regenerate the TOC, contents page, subject index, and zensical.toml nav.
 nav:

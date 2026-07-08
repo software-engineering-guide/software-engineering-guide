@@ -5,8 +5,10 @@ Five navigation artifacts are generated from the chapters, not written by hand:
 - `README.md` (the table of contents on the repository home page)
 - `docs/index.md` (the home page of the published site)
 - `docs/front-matter/table-of-contents.md`
-- `docs/chapters/12.7-index.md` (the subject index)
+- `docs/chapters/12.7-index.md` (the subject index, with links)
 - the `nav` block in `zensical.toml` (the site navigation)
+- `guide_xref/chapters.py` (the chapter map used to auto-link plain-text
+  cross-references like "chapter 8.1" when the site is built)
 
 They are produced by
 [`tools/gen_nav.py`](https://github.com/collisdigital/software-engineering-guide/blob/main/tools/gen_nav.py).
@@ -31,7 +33,9 @@ groups by part, and:
 - rewrites the `nav` block in `zensical.toml` between its marker comments, so
   the site navigation always lists every page,
 - scans the substantive chapters (Parts 1 through 11) for a fixed list of key
-  terms and writes the subject index to `docs/chapters/12.7-index.md`.
+  terms and writes the subject index to `docs/chapters/12.7-index.md`,
+- regenerates `guide_xref/chapters.py` so build-time cross-reference linking
+  always matches the chapters on disk.
 
 Part titles live in the `PART_TITLES` dictionary near the top of the script. The
 generator uses colon-style part headers ("Part 1: People"), never em-dashes.

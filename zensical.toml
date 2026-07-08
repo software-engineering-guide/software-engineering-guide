@@ -223,6 +223,9 @@ link = "https://github.com/collisdigital/software-engineering-guide"
 # ----------------------------------------------------------------------------
 # Markdown extensions
 # ----------------------------------------------------------------------------
+# Auto-link plain-text chapter cross-references ("chapter 8.1") to the
+# matching chapter page. Lives in guide_xref/ at the repository root.
+[project.markdown_extensions.guide_xref]
 [project.markdown_extensions.abbr]
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.attr_list]

@@ -28,6 +28,8 @@ jobs:
         run: uv sync --locked
       - name: Validate the repository
         run: uv run python tests/validate.py
+      - name: Test cross-reference linking
+        run: uv run python tests/test_xref.py
       - name: Build the site
         run: uv run zensical build --clean
       - uses: actions/configure-pages@v6

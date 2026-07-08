@@ -77,6 +77,13 @@ template.
 Refer to other chapters by decimal number, for example "see chapter 8.1" or
 "(chapter 3.1)." Do not hard-code file paths in chapter prose.
 
+On the published site these references become links automatically: the
+`guide_xref` Markdown extension (at the repository root) recognizes the
+reference formats at build time and links the decimal numbers to the matching
+chapter pages. It never touches version numbers or quantities (WCAG 2.2,
+Apache 2.0, an OKR graded 1.0), and `tests/test_xref.py` locks that behavior
+in. Keep writing plain decimal references; the build does the rest.
+
 ## Changing the structure
 
 To add, remove, rename, or renumber a chapter:

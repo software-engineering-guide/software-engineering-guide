@@ -42,7 +42,10 @@ The full, enforceable version of rules 1 through 5 is
   - `docs/contributing/` : contributor and agent guides, plus shared snippets.
   - `docs/project/` : project documentation and the changelog.
 - `tools/` : `gen_nav.py`, which generates the README TOC, the site home page,
-  the contents page, the subject index, and the `nav` block in `zensical.toml`.
+  the contents page, the subject index, the `nav` block in `zensical.toml`,
+  and the chapter map in `guide_xref/chapters.py`.
+- `guide_xref/` : the Markdown extension that auto-links plain-text chapter
+  cross-references ("chapter 8.1") when the site is built.
 - `tests/` : `validate.py`, the enforcement suite.
 - `zensical.toml`, `justfile`, `pyproject.toml`, `SITE.md` : site configuration,
   task runner, dependencies, and the site build guide.
