@@ -9,3 +9,7 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# Site build
+site/
+.venv/

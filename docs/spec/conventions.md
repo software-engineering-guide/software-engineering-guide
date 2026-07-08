@@ -11,7 +11,7 @@ if it is broken.
 - Chapter **N.0** is the part introduction. Chapters **N.1, N.2, ...** are the
   content chapters. Numbering within each part is contiguous and starts at N.0.
   (enforced)
-- Chapter files live in `chapters/` and are named `N.M-slug.md`, for example
+- Chapter files live in `docs/chapters/` and are named `N.M-slug.md`, for example
   `8.1-ci-cd-and-delivery.md`. The slug is lowercase with dashes.
 - The first heading of every chapter file is `# N.M Title`, and the `N.M` must
   match the file name. (enforced)
@@ -82,7 +82,8 @@ Refer to other chapters by decimal number, for example "see chapter 8.1" or
 To add, remove, rename, or renumber a chapter:
 
 1. Edit the chapter file (or create it following the template).
-2. Update `spec/structure.md` so the manifest matches.
+2. Update `docs/spec/structure.md` so the manifest matches.
 3. If a part's introduction lists its chapters, update that list.
-4. Run `make nav` to regenerate the table of contents, index, and TOC page.
-5. Run `make test`. It must pass before the change is complete.
+4. Run `just nav` to regenerate the table of contents, the site navigation,
+   the index, and the TOC page.
+5. Run `just test`. It must pass before the change is complete.

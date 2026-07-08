@@ -17,24 +17,27 @@ how it reads, change the spec first, then bring the chapters into line.
 - **[roadmap.md](roadmap.md)** is the authoring backlog and the adoption
   checklists organizations can use to put the recommendations into practice.
 
-The rendered book lives in `../README.md` (table of contents),
-`../front-matter/` (introduction and contents), and `../chapters/` (100 flat,
-decimal-numbered chapter files; Part 12 holds the appendices).
+The rendered book lives in [`../index.md`](../index.md) (the site home page
+and table of contents), [`../front-matter/`](../front-matter/table-of-contents.md)
+(introduction and contents), and `../chapters/` (100 flat, decimal-numbered
+chapter files; Part 12 holds the appendices). The site is published with
+Zensical; the navigation in `zensical.toml` is generated from the chapters.
 
 ## How the pieces fit together
 
 1. `spec/structure.md` and `spec/conventions.md` define what should exist and how
    it should read.
 2. The chapter files in `../chapters/` are written to satisfy that definition.
-3. `../tools/gen_nav.py` derives the README table of contents, the
-   `front-matter/table-of-contents.md` page, and the subject index
-   (`chapters/12.7-index.md`) from the chapter files.
-4. `../tests/validate.py` checks the whole thing back against the spec: the
+3. `tools/gen_nav.py` (at the repository root) derives the README table of
+   contents, the site home page, the `front-matter/table-of-contents.md` page,
+   the subject index (`chapters/12.7-index.md`), and the `nav` block in
+   `zensical.toml` from the chapter files.
+4. `tests/validate.py` (at the repository root) checks the whole thing back against the spec: the
    count, the numbering, the required sections, the style rules, the links, and
    whether `structure.md` still matches the files on disk.
 
-Run `make test` (or `python3 tests/validate.py`) after any change. Run
-`make nav` (or `python3 tools/gen_nav.py`) after adding, removing, or renaming a
+Run `just test` (or `python3 tests/validate.py`) after any change. Run
+`just nav` (or `python3 tools/gen_nav.py`) after adding, removing, or renaming a
 chapter, so the generated navigation stays in sync.
 
 ## Purpose and audience

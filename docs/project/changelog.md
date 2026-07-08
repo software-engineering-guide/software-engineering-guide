@@ -6,6 +6,12 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 ## [Unreleased]
 
 ### Added
+- A published documentation site built with Zensical, configured in
+  `zensical.toml`, deployed to GitHub Pages by a GitHub Actions workflow, and
+  described in `SITE.md`. Dependencies are managed with uv and tasks run
+  through a `justfile` (which replaces the `Makefile`).
+- A dev container definition (`.devcontainer/`) with uv, just, and git-lfs for
+  building and serving the site.
 - A startup example to every content chapter, placed before the enterprise and
   government examples, so each topic is illustrated at early-stage as well as at
   large-organization scale (81 chapters).
@@ -18,6 +24,10 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   files against.
 
 ### Changed
+- Restructured the repository for site publishing: the book now lives under
+  `docs/` (`docs/chapters/`, `docs/front-matter/`, `docs/spec/`,
+  `docs/examples/`), the contributor guides moved to `docs/contributing/`, and
+  the project documentation and this changelog moved to `docs/project/`.
 - Consolidated the two goals-and-metrics chapters (OKRs and KPIs) into a single
   chapter, 11.4 "Objectives, key results, and key performance indicators," to
   reach exactly 100 chapters with no loss of substance.
