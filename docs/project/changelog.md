@@ -6,6 +6,11 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 ## [Unreleased]
 
 ### Added
+
+- A "Questions to discuss with your team" section to every content chapter,
+  placed before the examples, with three chapter-specific questions each backed
+  by a comprehensive paragraph of context (81 chapters). The section is now part
+  of the chapter template, the conventions spec, and the enforced test suite.
 - A published documentation site built with Zensical, configured in
   `zensical.toml`, deployed to GitHub Pages by a GitHub Actions workflow, and
   described in `SITE.md`. Dependencies are managed with uv and tasks run
@@ -29,6 +34,7 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   files against.
 
 ### Changed
+
 - Adopted the upstream README title and introduction ("Software Engineering
   Guide") in the generated navigation and the site name, and moved the project
   logo to `docs/assets/logo.png` so the published site uses it as its logo and
@@ -47,6 +53,7 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   no longer overwritten by the navigation generator.
 
 ### Fixed
+
 - Corrected three SWEBOK crosswalk entries that pointed to "2.3.1" instead of
   chapter 2.13, and reworded four bare cross-references to the house-style
   "chapter N.M" form.

@@ -21,7 +21,8 @@ PART_TITLES = {
 }
 REQUIRED_SECTIONS = [
     "## Overview and motivation", "## Key principles", "## Recommendations",
-    "## Trade-offs: pros and cons", "## Examples", "## Business case",
+    "## Trade-offs: pros and cons", "## Questions to discuss with your team",
+    "## Examples", "## Business case",
     "## Anti-patterns", "## Maturity model", "## Ideas for discussion",
     "## Key takeaways", "## References and further reading",
 ]

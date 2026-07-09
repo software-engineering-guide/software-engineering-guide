@@ -35,6 +35,14 @@ why it matters in enterprise and government settings. Warm, direct, plain.]
 
 [A paragraph on the central tension and how to resolve it.]
 
+## Questions to discuss with your team
+
+1. **[A sharp, specific question?]** [Three to six sentences of comprehensive context: why it matters for a large team, the competing considerations, what evidence to bring, and how the answer should change what you do.]
+
+2. **[A second question?]** [Comprehensive supporting information.]
+
+3. **[A third question?]** [Comprehensive supporting information.]
+
 ## Examples
 
 **Enterprise.** [A concrete, realistic enterprise scenario.]

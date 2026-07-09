@@ -28,13 +28,14 @@ checked. (enforced)
 3. `## Key principles` (a short bulleted list)
 4. `## Recommendations` (the core, under `###` subheadings)
 5. `## Trade-offs: pros and cons` (at least one Markdown table plus prose)
-6. `## Examples` (at least one enterprise and one government example)
-7. `## Business case: motivations, ROI, and TCO`
-8. `## Anti-patterns and pitfalls`
-9. `## Maturity model` (four levels: 1 Initial, 2 Managed, 3 Defined, 4 Optimizing)
-10. `## Ideas for discussion` (four to six questions)
-11. `## Key takeaways`
-12. `## References and further reading`
+6. `## Questions to discuss with your team` (exactly three questions, each with a comprehensive paragraph of supporting context)
+7. `## Examples` (at least one enterprise and one government example)
+8. `## Business case: motivations, ROI, and TCO`
+9. `## Anti-patterns and pitfalls`
+10. `## Maturity model` (four levels: 1 Initial, 2 Managed, 3 Defined, 4 Optimizing)
+11. `## Ideas for discussion` (four to six questions)
+12. `## Key takeaways`
+13. `## References and further reading`
 
 Part introductions (N.0) use a lighter shape: two or three framing paragraphs, a
 `## Chapters in this part` list, and a `## How these chapters interrelate`
