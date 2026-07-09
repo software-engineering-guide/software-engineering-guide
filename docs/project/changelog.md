@@ -29,6 +29,10 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   files against.
 
 ### Changed
+- Adopted the upstream README title and introduction ("Software Engineering
+  Guide") in the generated navigation and the site name, and moved the project
+  logo to `docs/assets/logo.png` so the published site uses it as its logo and
+  favicon.
 - Restructured the repository for site publishing: the book now lives under
   `docs/` (`docs/chapters/`, `docs/front-matter/`, `docs/spec/`,
   `docs/examples/`), the contributor guides moved to `docs/contributing/`, and

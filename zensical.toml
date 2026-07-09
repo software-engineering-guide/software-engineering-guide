@@ -1,14 +1,13 @@
-# Zensical configuration for the Software Engineering Recommendations site.
+# Zensical configuration for the Software Engineering Guide site.
 # Read more: https://zensical.org/docs/setup/basics/
 #
 # The `nav` block between the GENERATED NAV markers is produced by
 # tools/gen_nav.py (`just nav`). Edit everything else freely.
 
 [project]
-site_name = "Software Engineering Recommendations"
-site_description = """A comprehensive guidebook of software engineering best \
-practices for large developer teams, including enterprise and government \
-organizations."""
+site_name = "Software Engineering Guide"
+site_description = """A guidebook of good practices for software developer \
+teams, including for startups, enterprises, and government organizations."""
 site_url = "https://software-engineering-guide.github.io/software-engineering-guide/"
 repo_url = "https://github.com/software-engineering-guide/software-engineering-guide"
 repo_name = "software-engineering-guide/software-engineering-guide"
@@ -181,6 +180,8 @@ nav = [
 # ----------------------------------------------------------------------------
 [project.theme]
 language = "en"
+logo = "assets/logo.png"
+favicon = "assets/logo.png"
 features = [
     "announce.dismiss",
     "content.action.edit",
@@ -202,9 +203,6 @@ features = [
     "search.highlight",
     "toc.follow",
 ]
-
-[project.theme.icon]
-logo = "lucide/book-open"
 
 [[project.theme.palette]]
 scheme = "default"

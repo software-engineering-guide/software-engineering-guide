@@ -1,4 +1,4 @@
-# Software Engineering Recommendations: build and check tasks.
+# Software Engineering Guide: build and check tasks.
 # The validation suite needs only Python 3; the site build uses uv + Zensical.
 
 # List available tasks.

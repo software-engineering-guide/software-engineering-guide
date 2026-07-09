@@ -1,11 +1,12 @@
-# Software Engineering Recommendations
+# Software Engineering Guide
 
-A comprehensive guidebook of best practices for **large software developer
-teams**, including **enterprise and government** organizations. It spans
-engineering culture, programming craft, architecture, security, AI, data and
-analytics, UI/UX, automation, delivery, operations, flow, management, and the
-full breadth of the software engineering body of knowledge, treating
-compliance, scale, and long-lived systems as first-class concerns.
+This is a guidebook of good practices for **software developer
+teams**, including for startups, enterprises, and government organizations.
+
+The guide spans ways of working, programming craft, architecture, security,
+AI, data and analytics, UI/UX, automation, delivery, operations, flow,
+management, and the full breadth of the software engineering body of
+knowledge.
 
 - **[What is software engineering?](front-matter/what-is-software-engineering.md):** start here
 - **[Introduction](front-matter/introduction.md):** what this book is and how to read it

@@ -1,29 +1,15 @@
-# Software Engineering Recommendations
+# Software Engineering Guide
 
-A comprehensive guidebook of best practices for **large software developer
-teams**, including **enterprise and government** organizations. It spans
-engineering culture, programming craft, architecture, security, AI, data and
-analytics, UI/UX, automation, delivery, operations, flow, management, and the
-full breadth of the software engineering body of knowledge, treating
-compliance, scale, and long-lived systems as first-class concerns.
+This is a guidebook of good practices for **software developer
+teams**, including for startups, enterprises, and government organizations.
 
-This guidebook is published as a website at
+The guide spans ways of working, programming craft, architecture, security,
+AI, data and analytics, UI/UX, automation, delivery, operations, flow,
+management, and the full breadth of the software engineering body of
+knowledge.
+
+The guide is published as a website at
 <https://software-engineering-guide.github.io/software-engineering-guide/>.
-
-- **[What is software engineering?](docs/front-matter/what-is-software-engineering.md):** start here
-- **[Introduction](docs/front-matter/introduction.md):** what this book is and how to read it
-- **[Table of contents](docs/front-matter/table-of-contents.md):** the full chapter list
-- **[Specification](docs/spec/index.md):** outline, principles, backlog, and checklists
-
-## How to read this guidebook
-
-Parts are whole numbers; chapters are decimals. Chapter **N.0** introduces each
-part; **N.1, N.2, …** are its chapters. Part 12 collects the appendices
-(glossary, checklists, templates, maturity self-assessment, references,
-adoption roadmap, and index). Each chapter states principles, recommendations,
-trade-offs, examples (enterprise and government), a business case (ROI/TCO),
-anti-patterns, a maturity model, discussion questions, and references. Adopt
-incrementally; do not big-bang.
 
 ## Table of contents
 

@@ -50,12 +50,13 @@ def toc_body(pathprefix):
         out.append("")
     return "\n".join(out)
 
-INTRO="""A comprehensive guidebook of best practices for **large software developer
-teams**, including **enterprise and government** organizations. It spans
-engineering culture, programming craft, architecture, security, AI, data and
-analytics, UI/UX, automation, delivery, operations, flow, management, and the
-full breadth of the software engineering body of knowledge, treating
-compliance, scale, and long-lived systems as first-class concerns."""
+INTRO="""This is a guidebook of good practices for **software developer
+teams**, including for startups, enterprises, and government organizations.
+
+The guide spans ways of working, programming craft, architecture, security,
+AI, data and analytics, UI/UX, automation, delivery, operations, flow,
+management, and the full breadth of the software engineering body of
+knowledge."""
 
 HOW_TO_READ="""## How to read this guidebook
 
@@ -76,19 +77,12 @@ knowledge continuity protect against turnover and scale. Regulatory and
 government constraints are treated as design inputs, not afterthoughts."""
 
 # ---- README (repository home page) ----
-readme=f"""# Software Engineering Recommendations
+readme=f"""# Software Engineering Guide
 
 {INTRO}
 
-This guidebook is published as a website at
+The guide is published as a website at
 <{SITE_URL}>.
-
-- **[What is software engineering?](docs/front-matter/what-is-software-engineering.md):** start here
-- **[Introduction](docs/front-matter/introduction.md):** what this book is and how to read it
-- **[Table of contents](docs/front-matter/table-of-contents.md):** the full chapter list
-- **[Specification](docs/spec/index.md):** outline, principles, backlog, and checklists
-
-{HOW_TO_READ}
 
 ## Table of contents
 
@@ -104,7 +98,7 @@ for how the site is built, served locally, and deployed.
 write(f"{ROOT}/README.md", readme)
 
 # ---- docs/index.md (site home page) ----
-home=f"""# Software Engineering Recommendations
+home=f"""# Software Engineering Guide
 
 {INTRO}
 

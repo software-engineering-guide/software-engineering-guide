@@ -1,7 +1,7 @@
 [project]
 name = "software-engineering-guide"
 version = "1.0.0"
-description = "Software Engineering Recommendations: a guidebook for large developer teams, published with Zensical."
+description = "Software Engineering Guide: good practices for software developer teams, published with Zensical."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
