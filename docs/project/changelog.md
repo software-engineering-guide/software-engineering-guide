@@ -6,6 +6,17 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 ## [Unreleased]
 
 ### Added
+- A published documentation site built with Zensical, configured in
+  `zensical.toml`, deployed to GitHub Pages by a GitHub Actions workflow, and
+  described in `SITE.md`. Dependencies are managed with uv and tasks run
+  through a `justfile` (which replaces the `Makefile`).
+- A dev container definition (`.devcontainer/`) with uv, just, and git-lfs for
+  building and serving the site.
+- Build-time auto-linking of chapter cross-references: the `guide_xref`
+  Markdown extension links plain-text references ("chapter 8.1", "(10.1)",
+  reference tables) to the matching chapter pages on the published site, with
+  tests in `tests/test_xref.py`; the generated subject index now links every
+  entry.
 - A startup example to every content chapter, placed before the enterprise and
   government examples, so each topic is illustrated at early-stage as well as at
   large-organization scale (81 chapters).
@@ -18,6 +29,14 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   files against.
 
 ### Changed
+- Adopted the upstream README title and introduction ("Software Engineering
+  Guide") in the generated navigation and the site name, and moved the project
+  logo to `docs/assets/logo.png` so the published site uses it as its logo and
+  favicon.
+- Restructured the repository for site publishing: the book now lives under
+  `docs/` (`docs/chapters/`, `docs/front-matter/`, `docs/spec/`,
+  `docs/examples/`), the contributor guides moved to `docs/contributing/`, and
+  the project documentation and this changelog moved to `docs/project/`.
 - Consolidated the two goals-and-metrics chapters (OKRs and KPIs) into a single
   chapter, 11.4 "Objectives, key results, and key performance indicators," to
   reach exactly 100 chapters with no loss of substance.
@@ -28,6 +47,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   no longer overwritten by the navigation generator.
 
 ### Fixed
+- Corrected three SWEBOK crosswalk entries that pointed to "2.3.1" instead of
+  chapter 2.13, and reworded four bare cross-references to the house-style
+  "chapter N.M" form.
 - Removed all em-dashes across the book and reworded the text so it reads
   naturally, and removed stock LLM phrasing. Both are now enforced by the tests.
 

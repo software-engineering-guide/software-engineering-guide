@@ -11,7 +11,7 @@ if it is broken.
 - Chapter **N.0** is the part introduction. Chapters **N.1, N.2, ...** are the
   content chapters. Numbering within each part is contiguous and starts at N.0.
   (enforced)
-- Chapter files live in `chapters/` and are named `N.M-slug.md`, for example
+- Chapter files live in `docs/chapters/` and are named `N.M-slug.md`, for example
   `8.1-ci-cd-and-delivery.md`. The slug is lowercase with dashes.
 - The first heading of every chapter file is `# N.M Title`, and the `N.M` must
   match the file name. (enforced)
@@ -77,12 +77,20 @@ template.
 Refer to other chapters by decimal number, for example "see chapter 8.1" or
 "(chapter 3.1)." Do not hard-code file paths in chapter prose.
 
+On the published site these references become links automatically: the
+`guide_xref` Markdown extension (at the repository root) recognizes the
+reference formats at build time and links the decimal numbers to the matching
+chapter pages. It never touches version numbers or quantities (WCAG 2.2,
+Apache 2.0, an OKR graded 1.0), and `tests/test_xref.py` locks that behavior
+in. Keep writing plain decimal references; the build does the rest.
+
 ## Changing the structure
 
 To add, remove, rename, or renumber a chapter:
 
 1. Edit the chapter file (or create it following the template).
-2. Update `spec/structure.md` so the manifest matches.
+2. Update `docs/spec/structure.md` so the manifest matches.
 3. If a part's introduction lists its chapters, update that list.
-4. Run `make nav` to regenerate the table of contents, index, and TOC page.
-5. Run `make test`. It must pass before the change is complete.
+4. Run `just nav` to regenerate the table of contents, the site navigation,
+   the index, and the TOC page.
+5. Run `just test`. It must pass before the change is complete.

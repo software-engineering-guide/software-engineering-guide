@@ -1,0 +1,25 @@
+{
+  "name": "software-engineering-guide",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/git-lfs:1": {},
+    "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {},
+    "ghcr.io/guiyomh/features/just:0": {}
+  },
+  "postCreateCommand": "uv sync --locked",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": {
+      "label": "Zensical site (just serve)"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "tamasfe.even-better-toml",
+        "davidanson.vscode-markdownlint",
+        "skellock.just"
+      ]
+    }
+  }
+}
