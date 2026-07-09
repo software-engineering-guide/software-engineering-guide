@@ -5,7 +5,7 @@ welcome, from fixing a typo to writing a new chapter.
 
 The full contributing guide lives in the book itself:
 [docs/contributing/index.md](docs/contributing/index.md), published at
-<https://collisdigital.github.io/software-engineering-guide/contributing/>.
+<https://software-engineering-guide.github.io/software-engineering-guide/contributing/>.
 
 The short version:
 

@@ -15,7 +15,7 @@ check it, and where the source of truth lives. For the book itself, see the
   enforces the spec; the `justfile` wires them together; `zensical.toml`
   configures the published site.
 - **Contributor guidance:**
-  [`AGENTS.md`](https://github.com/collisdigital/software-engineering-guide/blob/main/AGENTS.md)
+  [`AGENTS.md`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/AGENTS.md)
   at the repository root, and the guides in the
   [contributing section](../contributing/index.md).
 
@@ -36,7 +36,7 @@ just stats   # chapter and word counts
 ```
 
 How the published site is built and deployed is described in
-[`SITE.md`](https://github.com/collisdigital/software-engineering-guide/blob/main/SITE.md)
+[`SITE.md`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/SITE.md)
 at the repository root.
 
 ## How specification-driven development works here

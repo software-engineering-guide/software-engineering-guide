@@ -13,3 +13,4 @@ Thumbs.db
 # Site build
 site/
 .venv/
+.cache/

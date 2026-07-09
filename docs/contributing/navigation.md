@@ -11,7 +11,7 @@ Five navigation artifacts are generated from the chapters, not written by hand:
   cross-references like "chapter 8.1" when the site is built)
 
 They are produced by
-[`tools/gen_nav.py`](https://github.com/collisdigital/software-engineering-guide/blob/main/tools/gen_nav.py).
+[`tools/gen_nav.py`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/tools/gen_nav.py).
 Do not edit them by hand, because the next generation will overwrite your
 change.
 

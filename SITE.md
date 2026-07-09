@@ -1,7 +1,7 @@
 # The documentation site
 
 How the guidebook is built into a website and published. The site lives at
-<https://collisdigital.github.io/software-engineering-guide/>.
+<https://software-engineering-guide.github.io/software-engineering-guide/>.
 
 ## Toolchain
 

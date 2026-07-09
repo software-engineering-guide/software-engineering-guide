@@ -4,7 +4,7 @@ A map of everything in this repository. For the book itself, start with the
 [table of contents](README.md) or the opening chapter,
 [What is software engineering?](docs/front-matter/what-is-software-engineering.md).
 The book is published as a website at
-<https://collisdigital.github.io/software-engineering-guide/>.
+<https://software-engineering-guide.github.io/software-engineering-guide/>.
 
 ## The book (everything under `docs/` is published)
 

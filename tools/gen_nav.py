@@ -3,7 +3,7 @@ import os, re, glob
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS=f"{ROOT}/docs"
 CH=f"{DOCS}/chapters"
-SITE_URL="https://collisdigital.github.io/software-engineering-guide/"
+SITE_URL="https://software-engineering-guide.github.io/software-engineering-guide/"
 def read(p): return open(p).read()
 def write(p,t): open(p,"w").write(t)
 

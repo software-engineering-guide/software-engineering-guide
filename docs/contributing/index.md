@@ -20,7 +20,7 @@ tests enforce the mechanical parts.
 ## Setup
 
 You need Python 3, [uv](https://docs.astral.sh/uv/), and
-[just](https://github.com/casey/just). See [`SITE.md`](https://github.com/collisdigital/software-engineering-guide/blob/main/SITE.md)
+[just](https://github.com/casey/just). See [`SITE.md`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/SITE.md)
 for how the published site is built.
 
 ```sh

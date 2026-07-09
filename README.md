@@ -8,7 +8,7 @@ full breadth of the software engineering body of knowledge, treating
 compliance, scale, and long-lived systems as first-class concerns.
 
 This guidebook is published as a website at
-<https://collisdigital.github.io/software-engineering-guide/>.
+<https://software-engineering-guide.github.io/software-engineering-guide/>.
 
 - **[What is software engineering?](docs/front-matter/what-is-software-engineering.md):** start here
 - **[Introduction](docs/front-matter/introduction.md):** what this book is and how to read it
