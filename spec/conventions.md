@@ -90,7 +90,7 @@ in. Keep writing plain decimal references; the build does the rest.
 To add, remove, rename, or renumber a chapter:
 
 1. Edit the chapter file (or create it following the template).
-2. Update `docs/spec/structure.md` so the manifest matches.
+2. Update `spec/structure.md` so the manifest matches.
 3. If a part's introduction lists its chapters, update that list.
 4. Run `just nav` to regenerate the table of contents, the site navigation,
    the index, and the TOC page.

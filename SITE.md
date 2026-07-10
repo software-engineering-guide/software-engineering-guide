@@ -3,6 +3,10 @@
 How the guidebook is built into a website and published. The site lives at
 <https://software-engineering-guide.github.io/software-engineering-guide/>.
 
+The rendering is a side effect of the book, not the source of truth. The
+specification for it is [`spec/mkdocs-zensical/index.md`](spec/mkdocs-zensical/index.md);
+this page is the practical how-to that follows from it.
+
 ## Toolchain
 
 - **[Zensical](https://zensical.org/)** is the static site generator. It is
@@ -39,7 +43,6 @@ Everything under `docs/` is published:
 - `docs/index.md` : the home page (generated).
 - `docs/front-matter/` : the opening essay, introduction, and contents page.
 - `docs/chapters/` : the 100 chapters, named `N.M-slug.md`.
-- `docs/spec/` : the specification (structure, conventions, roadmap).
 - `docs/examples/` : worked examples.
 - `docs/contributing/` : contributor guides and shared snippets.
 - `docs/project/` : project documentation and the changelog.

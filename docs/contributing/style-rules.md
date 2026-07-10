@@ -2,7 +2,7 @@
 
 The house style in one place. Items marked "(test)" are enforced by
 `tests/validate.py`; a violation fails the build. The full narrative version is
-[`spec/conventions.md`](../spec/conventions.md).
+`spec/conventions.md` at the repository root.
 
 ## Hard rules
 
@@ -37,6 +37,6 @@ The house style in one place. Items marked "(test)" are enforced by
 
 ## After editing
 
-- If you changed the set of chapters, update `docs/spec/structure.md` and run
+- If you changed the set of chapters, update `spec/structure.md` and run
   `just nav`.
 - Always run `just test`.

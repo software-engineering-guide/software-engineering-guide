@@ -33,7 +33,7 @@ FORBIDDEN = [r"\bnot only\b", r"\bbut also\b", r"\bload.bearing\b"]
 # other file, including all chapters and examples, must stay clean.
 STYLE_EXEMPT = {
     "AGENTS.md", "docs/contributing/testing.md", "docs/contributing/style-rules.md",
-    "docs/spec/conventions.md", "docs/contributing/index.md",
+    "spec/conventions.md", "spec/index.md", "spec/README.md", "docs/contributing/index.md",
 }
 
 failures = []
@@ -116,13 +116,13 @@ for f in chapters:
 check("wikipedia links well-formed", not badwiki, f"{badwiki[:8]}")
 
 # 9. spec/structure.md lists exactly the chapters on disk.
-sp = os.path.join(ROOT, "docs", "spec", "structure.md")
+sp = os.path.join(ROOT, "spec", "structure.md")
 if os.path.exists(sp):
     spec_ch = set(re.findall(r"^\| (\d+\.\d+) \|", read(sp), re.M))
-    check("docs/spec/structure.md matches disk (missing)", not (disk - spec_ch), f"{sorted(disk - spec_ch)[:8]}")
-    check("docs/spec/structure.md matches disk (extra)", not (spec_ch - disk), f"{sorted(spec_ch - disk)[:8]}")
+    check("spec/structure.md matches disk (missing)", not (disk - spec_ch), f"{sorted(disk - spec_ch)[:8]}")
+    check("spec/structure.md matches disk (extra)", not (spec_ch - disk), f"{sorted(spec_ch - disk)[:8]}")
 else:
-    check("docs/spec/structure.md exists", False, "file missing")
+    check("spec/structure.md exists", False, "file missing")
 
 # 10. README, the site home page, and the contents page link every chapter file.
 for navrel in ["README.md", "docs/index.md", "docs/front-matter/table-of-contents.md"]:

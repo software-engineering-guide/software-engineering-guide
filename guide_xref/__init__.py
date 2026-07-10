@@ -1,6 +1,6 @@
 """Build-time auto-linking of plain-text chapter cross-references.
 
-The house style (docs/spec/conventions.md) says chapters refer to each other
+The house style (spec/conventions.md) says chapters refer to each other
 by decimal number ("see chapter 8.1") and never hard-code file paths in
 prose. This Markdown extension keeps the sources that way while giving the
 published site real links: during rendering it recognizes the repository's

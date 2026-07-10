@@ -11,7 +11,6 @@ knowledge.
 - **[What is software engineering?](front-matter/what-is-software-engineering.md):** start here
 - **[Introduction](front-matter/introduction.md):** what this book is and how to read it
 - **[Table of contents](front-matter/table-of-contents.md):** the full chapter list
-- **[Specification](spec/index.md):** outline, principles, backlog, and checklists
 
 ## How to read this guidebook
 

@@ -23,7 +23,7 @@ it works in CI and as a pre-commit hook.
 - **No forbidden phrases** ("not only", "but also", "load-bearing").
 - **All internal `.md` links resolve.**
 - **Wikipedia links are well-formed** (`https://en.wikipedia.org/wiki/...`).
-- **`docs/spec/structure.md` matches the files on disk**, in both directions.
+- **`spec/structure.md` matches the files on disk**, in both directions.
 - **README and the contents page link every chapter.**
 
 ## When a check fails
@@ -33,7 +33,7 @@ The failing line names the file and the problem. Common fixes:
 - Em-dash found: reword the sentence to remove the "—". Do not just delete it.
 - Missing section: add the missing `##` section from the chapter template.
 - Structure mismatch: you added or renamed a chapter without updating
-  `docs/spec/structure.md`, or vice versa. Bring them back in line.
+  `spec/structure.md`, or vice versa. Bring them back in line.
 - Broken link: fix the path, or update it after a rename.
 - Numbering gap: renumber so the part is contiguous from N.0.
 

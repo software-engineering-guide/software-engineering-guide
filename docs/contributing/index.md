@@ -13,7 +13,7 @@ The book follows a strict house style. The essentials:
 - Define terms on first use. Link key concepts to Wikipedia on first mention.
 - Real references only.
 
-The full rules are in [`spec/conventions.md`](../spec/conventions.md) and the short
+The full rules are in `spec/conventions.md` at the repository root, and the short
 version is the [style rules](style-rules.md). The
 tests enforce the mechanical parts.
 
@@ -39,7 +39,7 @@ just stats   # chapter and word counts
    files, [testing](testing.md) for the tests.
 2. Make the smallest change that does the job.
 3. If you added, removed, renamed, or renumbered a chapter, update
-   [`spec/structure.md`](../spec/structure.md) and run `just nav`.
+   `spec/structure.md` at the repository root and run `just nav`.
 4. Run `just test`. It must pass.
 5. Add a one-line entry to the [changelog](../project/changelog.md) under **Unreleased**.
 
@@ -56,7 +56,7 @@ just stats   # chapter and word counts
   `docs/front-matter/table-of-contents.md`, `docs/chapters/12.7-index.md`, and
   the `nav` block in `zensical.toml`). Change the chapters and run `just nav`
   instead.
-- Do not add a chapter without also updating `docs/spec/structure.md`.
+- Do not add a chapter without also updating `spec/structure.md`.
 - Do not introduce em-dashes or the forbidden phrases; the tests will fail.
 
 ## Reporting issues

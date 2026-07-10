@@ -35,6 +35,13 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- Moved the specification out of `docs/spec/` to the repository root at `spec/`,
+  making it the standalone source of truth for the book (chapters as Markdown)
+  rather than a published site section. Added `spec/mkdocs-zensical/index.md` as
+  the source of truth for the rendering side effects (site build, navigation,
+  deployment). The site navigation no longer lists a "Specification" section, and
+  the tests, `AGENTS.md`, `SITE.md`, `CONTRIBUTING.md`, and the contributor
+  guides now point at the repository-root `spec/`.
 - Adopted the upstream README title and introduction ("Software Engineering
   Guide") in the generated navigation and the site name, and moved the project
   logo to `docs/assets/logo.png` so the published site uses it as its logo and

@@ -22,25 +22,29 @@ static site built with Zensical (see `SITE.md`).
    in [`docs/contributing/chapter-template.md`](docs/contributing/chapter-template.md).
 4. **Define terms on first use** and **link key concepts to Wikipedia** on first
    mention. Real references only; never fabricate a work or a URL.
-5. **The spec is the source of truth.** Structure is declared in
-   [`docs/spec/structure.md`](docs/spec/structure.md); style is declared in
-   [`docs/spec/conventions.md`](docs/spec/conventions.md). Change the spec and
+5. **The spec is the source of truth.** It lives at the repository root in
+   [`spec/`](spec/index.md), not under `docs/`, because the book (not the site)
+   is what it governs. Structure is declared in
+   [`spec/structure.md`](spec/structure.md); style is declared in
+   [`spec/conventions.md`](spec/conventions.md). Change the spec and
    the chapters together.
 6. **Tests must pass.** Run `just test` before you consider a change done.
 
 The full, enforceable version of rules 1 through 5 is
 [`docs/contributing/style-rules.md`](docs/contributing/style-rules.md) and
-[`docs/spec/conventions.md`](docs/spec/conventions.md).
+[`spec/conventions.md`](spec/conventions.md).
 
 ## Repository layout
 
 - `docs/` : everything the published site contains (built with Zensical).
   - `docs/chapters/` : the 100 chapter files, named `N.M-slug.md` (flat, decimal-numbered).
   - `docs/front-matter/` : the opening essay, introduction, and table of contents.
-  - `docs/spec/` : the specification-driven source of truth (structure, conventions, roadmap).
   - `docs/examples/` : small illustrative examples (a chapter skeleton, OKRs, an ADR).
   - `docs/contributing/` : contributor and agent guides, plus shared snippets.
   - `docs/project/` : project documentation and the changelog.
+- `spec/` : the specification-driven source of truth (structure, conventions,
+  roadmap), plus `spec/mkdocs-zensical/` for the rendering side effects. It is
+  hand-authored and not published to the site; the book is what it governs.
 - `tools/` : `gen_nav.py`, which generates the README TOC, the site home page,
   the contents page, the subject index, the `nav` block in `zensical.toml`,
   and the chapter map in `guide_xref/chapters.py`.
@@ -66,7 +70,7 @@ The full, enforceable version of rules 1 through 5 is
 
 1. Read the relevant task guide above.
 2. Make the smallest change that satisfies the request.
-3. If you changed the set of chapters, update `docs/spec/structure.md` and run
+3. If you changed the set of chapters, update `spec/structure.md` and run
    `just nav`.
 4. Run `just test`. Fix anything it reports.
 5. Update `docs/project/changelog.md` with a one-line summary of what changed.

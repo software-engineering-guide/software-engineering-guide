@@ -148,12 +148,6 @@ nav = [
     { "12.6 Adoption roadmap" = "chapters/12.6-adoption-roadmap.md" },
     { "12.7 Index" = "chapters/12.7-index.md" },
   ] },
-  { "Specification" = [
-    { "Overview" = "spec/index.md" },
-    { "Structure" = "spec/structure.md" },
-    { "Conventions" = "spec/conventions.md" },
-    { "Roadmap" = "spec/roadmap.md" },
-  ] },
   { "Examples" = [
     { "Overview" = "examples/index.md" },
     { "ADR example" = "examples/adr-example.md" },

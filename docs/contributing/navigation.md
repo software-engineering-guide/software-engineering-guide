@@ -42,7 +42,8 @@ generator uses colon-style part headers ("Part 1: People"), never em-dashes.
 
 ## What it does not touch
 
-`docs/spec/index.md` and `docs/spec/structure.md` are the hand-authored source
-of truth. The generator does not write them. If you change the structure, update
-`docs/spec/structure.md` yourself, then run `just nav` for the derived files and
+The specification at the repository root (`spec/index.md`, `spec/structure.md`,
+and its companions) is the hand-authored source of truth. The generator does not
+write it, and it is not part of the published site. If you change the structure,
+update `spec/structure.md` yourself, then run `just nav` for the derived files and
 `just test` to confirm everything lines up.

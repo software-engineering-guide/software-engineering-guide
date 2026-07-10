@@ -2,7 +2,7 @@
 
 The canonical list of parts and their chapter counts. This is a quick reference
 for agents and contributors; the authoritative per-chapter manifest is
-[`spec/structure.md`](../spec/structure.md).
+`spec/structure.md` at the repository root.
 
 | Part | Title | Chapters (including the N.0 introduction) |
 | --- | --- | --- |

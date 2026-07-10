@@ -8,9 +8,9 @@ check it, and where the source of truth lives. For the book itself, see the
 
 - **The book:** `docs/chapters/` (100 files), `docs/front-matter/`, and the
   appendices in Part 12.
-- **Source of truth:** [`docs/spec/`](../spec/index.md). The structure is
-  declared in `spec/structure.md` and the writing rules in
-  `spec/conventions.md`. Everything else is built to match.
+- **Source of truth:** `spec/` at the repository root (not published to the
+  site). The structure is declared in `spec/structure.md` and the writing rules
+  in `spec/conventions.md`. Everything else is built to match.
 - **Tooling:** `tools/gen_nav.py` generates navigation; `tests/validate.py`
   enforces the spec; the `justfile` wires them together; `zensical.toml`
   configures the published site.

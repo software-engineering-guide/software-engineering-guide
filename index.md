@@ -27,10 +27,14 @@ The book is published as a website at
 
 ## Specification (source of truth)
 
-- **[docs/spec/index.md](docs/spec/index.md)** : how the spec drives the book.
-- **[docs/spec/structure.md](docs/spec/structure.md)** : the canonical chapter manifest.
-- **[docs/spec/conventions.md](docs/spec/conventions.md)** : the writing and format specification.
-- **[docs/spec/roadmap.md](docs/spec/roadmap.md)** : backlog and adoption checklists.
+The book is the source of truth; the website is a rendering of it. The spec lives
+at the repository root, not under `docs/`, and is not published to the site.
+
+- **[spec/index.md](spec/index.md)** : how the spec drives the book.
+- **[spec/structure.md](spec/structure.md)** : the canonical chapter manifest.
+- **[spec/conventions.md](spec/conventions.md)** : the writing and format specification.
+- **[spec/roadmap.md](spec/roadmap.md)** : backlog and adoption checklists.
+- **[spec/mkdocs-zensical/index.md](spec/mkdocs-zensical/index.md)** : the rendering side effects (site build, nav, deploy).
 
 ## Contributing and tooling
 

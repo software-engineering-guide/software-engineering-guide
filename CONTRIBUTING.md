@@ -13,6 +13,6 @@ The short version:
   The rules are in [docs/contributing/style-rules.md](docs/contributing/style-rules.md).
 - Run `just test` before you consider a change done.
 - If you change the set of chapters, update
-  [docs/spec/structure.md](docs/spec/structure.md) and run `just nav`.
+  [spec/structure.md](spec/structure.md) and run `just nav`.
 - Add a one-line entry to [docs/project/changelog.md](docs/project/changelog.md)
   under **Unreleased**.

@@ -105,7 +105,6 @@ home=f"""# Software Engineering Guide
 - **[What is software engineering?](front-matter/what-is-software-engineering.md):** start here
 - **[Introduction](front-matter/introduction.md):** what this book is and how to read it
 - **[Table of contents](front-matter/table-of-contents.md):** the full chapter list
-- **[Specification](spec/index.md):** outline, principles, backlog, and checklists
 
 {HOW_TO_READ}
 
@@ -150,12 +149,6 @@ def nav_block():
     for p in sorted(byp):
         section(f"Part {p}: {PART_TITLES[p]}",
                 [(label_for(f), f"chapters/{os.path.basename(f)}") for f in sorted(byp[p], key=dec)])
-    section("Specification", [
-        ("Overview", "spec/index.md"),
-        ("Structure", "spec/structure.md"),
-        ("Conventions", "spec/conventions.md"),
-        ("Roadmap", "spec/roadmap.md"),
-    ])
     section("Examples", [
         ("Overview", "examples/index.md"),
         ("ADR example", "examples/adr-example.md"),
@@ -215,7 +208,8 @@ for L in sorted(byl):
     out+=[f"## {L}",""]+[f"- **{t}**: {', '.join(chlink(n) for n in entries[t])}" for t in byl[L]]+[""]
 write(f"{CH}/12.7-index.md","\n".join(out))
 
-# spec/index.md and spec/structure.md are hand-authored source-of-truth (not generated here).
+# The specification lives at the repository root in spec/ (hand-authored source of
+# truth, not published to the site), so it is not part of the generated nav.
 
 print("nav generated. parts:", {p:len(byp[p]) for p in sorted(byp)})
 print("index terms:", len(entries))

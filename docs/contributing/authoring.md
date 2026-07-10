@@ -2,9 +2,9 @@
 
 ## Before you write
 
-- Read the [style rules](style-rules.md) and
-  [`spec/conventions.md`](../spec/conventions.md).
-- Check [`spec/structure.md`](../spec/structure.md) to see where the topic fits
+- Read the [style rules](style-rules.md) and `spec/conventions.md` at the
+  repository root.
+- Check `spec/structure.md` at the repository root to see where the topic fits
   and what number it should have.
 
 ## Writing a new chapter
@@ -21,7 +21,7 @@
 4. Define terms on first use. Add Wikipedia links to key concepts on first
    mention, in prose only.
 5. Cross-reference related chapters by decimal, for example "(chapter 8.1)."
-6. Add the chapter to `docs/spec/structure.md`.
+6. Add the chapter to `spec/structure.md`.
 7. If the part introduction (N.0) lists its chapters, add a bullet there.
 8. Run `just nav`, then `just test`.
 
@@ -36,7 +36,7 @@
 
 ## Renaming or renumbering
 
-- Rename the file, update its `# N.M Title` heading, update `docs/spec/structure.md`,
+- Rename the file, update its `# N.M Title` heading, update `spec/structure.md`,
   and update every cross-reference that points to the old number.
 - Run `just nav` and `just test`. The tests will flag a mismatch between the H1
   and the file name, a numbering gap, or a broken link.
