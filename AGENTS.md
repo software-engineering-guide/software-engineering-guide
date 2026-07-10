@@ -37,7 +37,7 @@ The full, enforceable version of rules 1 through 5 is
 ## Repository layout
 
 - `docs/` : everything the published site contains (built with Zensical).
-  - `docs/chapters/` : the 100 chapter files, named `N.M-slug.md` (flat, decimal-numbered).
+  - `docs/chapters/` : the chapter files, named `PP-CC-slug.md` with a zero-padded, dash-separated, sortable prefix (the chapter number in the text stays dotted, e.g. `8.1`).
   - `docs/front-matter/` : the opening essay, introduction, and table of contents.
   - `docs/examples/` : small illustrative examples (a chapter skeleton, OKRs, an ADR).
   - `docs/contributing/` : contributor and agent guides, plus shared snippets.

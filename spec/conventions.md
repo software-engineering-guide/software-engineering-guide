@@ -11,10 +11,17 @@ if it is broken.
 - Chapter **N.0** is the part introduction. Chapters **N.1, N.2, ...** are the
   content chapters. Numbering within each part is contiguous and starts at N.0.
   (enforced)
-- Chapter files live in `docs/chapters/` and are named `N.M-slug.md`, for example
-  `8.1-ci-cd-and-delivery.md`. The slug is lowercase with dashes.
-- The first heading of every chapter file is `# N.M Title`, and the `N.M` must
-  match the file name. (enforced)
+- Chapter files live in `docs/chapters/` and are named with a zero-padded,
+  dash-separated, sortable numeric prefix followed by a lowercase-dash slug:
+  `PP-CC-slug.md`, where `PP` is the two-digit part number and `CC` the two-digit
+  chapter number (the N.0 introduction is `PP-00`), for example
+  `01-00-people.md` and `08-01-ci-cd-and-delivery.md`. Padding both fields and
+  joining them with a dash means a plain lexical sort (as in `ls`) lists the
+  chapters in reading order.
+- The first heading of every chapter file is `# N.M Title` using the unpadded,
+  dotted chapter number (for example `# 8.1 CI/CD and delivery`), and that number
+  must match the file's `PP-CC` prefix. Chapter cross-references in prose use the
+  same dotted form ("chapter 8.1"). (enforced)
 - Part 12 is the appendices (glossary, checklists, templates, maturity
   self-assessment, references, adoption roadmap, and index).
 

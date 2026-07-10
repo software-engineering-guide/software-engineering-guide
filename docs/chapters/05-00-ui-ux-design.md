@@ -16,6 +16,9 @@ Enterprise and government raise the stakes further. Enterprise software often ha
 - **5.6 Frontend engineering**: Building the client-facing layer for an environment you do not control, with attention to framework longevity, rendering strategy, performance, and resilience.
 - **5.7 Mobile application development**: Building for mobile devices, covering native, cross-platform, and progressive web approaches; platform design guidelines; offline, battery, and fragmentation constraints; app store distribution; and mobile security and accessibility.
 
+- **5.8 Design research and usability testing**: Reducing the risk of building the wrong thing through generative and evaluative research, the right method for each question, usability testing done well, representative recruiting, and synthesis that actually changes decisions.
+- **5.9 Service design**: Designing the whole service a person experiences across channels and over time, front-stage and back-stage, using service blueprints and journey maps and aligning the organization behind the service, not just a single screen.
+
 ## How these chapters interrelate
 
 These chapters form a single throughline from understanding to delivery. UX foundations (5.1) establish who the user is and what job they are trying to do. UI and design systems (5.2) give that understanding a consistent visual form. Content design (5.4) supplies the words that carry it. Frontend engineering (5.6) ships the result. Accessibility (5.3) and internationalization (5.5) are not separate stages but qualities woven through all the others: an accessible, translatable experience is designed into shared components, content patterns, and code from the start, never bolted on later. Chapter 5.3 in particular leans on chapter 5.2 to solve accessibility once in each component, and on chapter 5.6 to preserve it in semantic, standards-based markup.

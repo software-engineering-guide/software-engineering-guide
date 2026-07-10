@@ -17,13 +17,13 @@ The book is published as a website at
 
 ## The appendices (Part 12)
 
-- **[Glossary](docs/chapters/12.1-glossary.md)** : definitions of key terms.
-- **[Checklists](docs/chapters/12.2-checklists.md)** : ready-to-use review and launch checklists.
-- **[Templates](docs/chapters/12.3-templates.md)** : ADRs, RFCs, postmortems, threat models, and more.
-- **[Maturity self-assessment](docs/chapters/12.4-maturity-self-assessment.md)** : the four-level model for every domain.
-- **[References](docs/chapters/12.5-references.md)** : the SWEBOK crosswalk, standards index, and bibliography.
-- **[Adoption roadmap](docs/chapters/12.6-adoption-roadmap.md)** : how to roll the practices out.
-- **[Index](docs/chapters/12.7-index.md)** : the subject index.
+- **[Glossary](docs/chapters/12-01-glossary.md)** : definitions of key terms.
+- **[Checklists](docs/chapters/12-02-checklists.md)** : ready-to-use review and launch checklists.
+- **[Templates](docs/chapters/12-03-templates.md)** : ADRs, RFCs, postmortems, threat models, and more.
+- **[Maturity self-assessment](docs/chapters/12-04-maturity-self-assessment.md)** : the four-level model for every domain.
+- **[References](docs/chapters/12-05-references.md)** : the SWEBOK crosswalk, standards index, and bibliography.
+- **[Adoption roadmap](docs/chapters/12-06-adoption-roadmap.md)** : how to roll the practices out.
+- **[Index](docs/chapters/12-07-index.md)** : the subject index.
 
 ## Specification (source of truth)
 

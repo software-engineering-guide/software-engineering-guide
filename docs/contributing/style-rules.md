@@ -32,7 +32,7 @@ The house style in one place. Items marked "(test)" are enforced by
 
 - Content chapters use the exact section order in
   [`chapter-template.md`](chapter-template.md).
-- The first heading is `# N.M Title`, and `N.M` matches the file name.
+- The first heading is `# N.M Title` (dotted chapter number), and it matches the file's zero-padded `PP-CC` prefix.
 - Numbering within each part is contiguous and starts at N.0.
 
 ## After editing

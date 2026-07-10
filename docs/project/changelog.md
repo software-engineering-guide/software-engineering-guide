@@ -7,6 +7,20 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Ten more chapters, taking the book from 123 to 133: 1.11 Engineering
+  management; 1.12 Diversity, equity, inclusion, and belonging; 2.20 Error
+  handling and resilience patterns; 3.14 Multi-tenancy and SaaS architecture;
+  5.8 Design research and usability testing; 5.9 Service design; 6.8 AI
+  evaluation and testing; 10.16 Stakeholder management and communication; 10.17
+  Organizational change management; and 10.18 Open source program office (OSPO)
+  and upstream contribution.
+- Twelve more chapters, taking the book from 111 to 123: 2.17 Concurrency and
+  parallelism; 2.18 Dependency and supply-chain management; 2.19 Refactoring and
+  technical debt; 3.11 Cloud architecture; 3.12 Event-driven architecture and
+  messaging; 3.13 Networking and connectivity; 7.6 Real-time and streaming data;
+  7.7 Data modeling and the semantic layer; 7.8 Data quality and observability;
+  9.6 Chaos engineering and resilience testing; 10.14 Product management and
+  discovery; and 10.15 Estimation and forecasting.
 - Ten new chapters, taking the book from 100 to 111: 1.8 Hiring, interviewing,
   and onboarding; 1.9 Distributed and remote work; 1.10 Engineering
   effectiveness and developer productivity; 2.15 Debugging and troubleshooting;
@@ -42,6 +56,12 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- Renamed every chapter file to a zero-padded, dash-separated, sortable prefix,
+  `PP-CC-slug.md` (for example `01-00-people.md`, `08-01-ci-cd-and-delivery.md`),
+  so a plain lexical sort lists chapters in reading order. Chapter numbers in
+  prose, headings, and cross-references stay in the unpadded dotted form (`8.1`).
+  The convention is recorded in the spec, and the `gen_nav.py` and `validate.py`
+  parsers were updated accordingly.
 - Split the combined OKR/KPI chapter into two: 11.4 Objectives and key results
   (OKRs) and 11.5 Key performance indicators (KPIs), each a standalone chapter.
 - Raised the target chapter length in the spec to roughly 3,000 words, deepening

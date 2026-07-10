@@ -1,0 +1,123 @@
+# 5.9 Service design
+
+## Overview and motivation
+
+[Service design](https://en.wikipedia.org/wiki/Service_design) is the practice of shaping the whole service a person experiences, across every channel and over the full span of time, rather than a single screen or app. When someone renews a passport, opens a bank account, or reports a broken streetlight, they do not experience your product. They experience a service: a phone call, a website, a letter in the post, a queue, an email that never arrives, a caseworker who has to re-key their details into a system that cannot see what the website already knows. Chapter 5.1 covers the craft of designing individual interfaces. Service design zooms out to the whole journey and to everything behind the counter that makes the front of the counter work.
+
+That "behind the counter" distinction is the heart of it. Service design splits the world into the front-stage, meaning everything the user sees and touches, and the back-stage, meaning the people, systems, and processes that deliver the service but stay invisible to the user. Good front-stage experiences fail all the time because the back-stage cannot support them. A slick booking form that dumps into a spreadsheet a clerk checks twice a day is a fast front-stage bolted onto a slow back-stage, and the user feels the mismatch as a three-day silence. Designing the whole service means designing both halves together, and the seams between them.
+
+For large teams this is unavoidably an organizational problem. Services almost always span several teams, departments, and systems, and the boundaries between those owners are exactly where the user's experience falls apart. In enterprise settings a single customer journey can cross sales, provisioning, billing, and support, each with its own tools and targets and none accountable for the whole. In government the stakes are higher still: a person facing a life event like a bereavement or a new baby has to navigate a dozen separate agencies, each asking for the same evidence, because the services are organized around the government's structure instead of the person's need. Service design is how you make the whole thing hang together for the human at the center of it.
+
+## Key principles
+
+- Design the whole service across channels and time, not one screen. The user does not care where your team boundaries are.
+- Front-stage and back-stage are one system. An experience is only as good as the operations behind it can sustain.
+- The org chart shows up in the service. If teams are siloed, the service will feel siloed, so team design and service design must move together.
+- The hand-offs between channels and teams are where services break. Design the seams as deliberately as the steps.
+- Staff-facing tools are part of the service. A frustrated agent with a bad console produces a frustrated customer.
+- Measure the service end to end, from the user's first intent to their real outcome, not one channel's local metric.
+- Organize around the user's goal or life event, not around your internal departments.
+
+## Recommendations
+
+### Map the customer journey across every channel
+
+Start by charting the actual journey a person takes to reach an outcome, as part of the broader [customer experience](https://en.wikipedia.org/wiki/Customer_experience). A journey map lays out the stages the user moves through, from first realizing they have a need to reaching their goal and beyond, and records at each stage what they are trying to do, what they think and feel, and which channel they are in. The value comes from spanning channels: most real journeys hop between a website, a phone line, an email, an app, and a physical location, and the worst pain lives in the gaps between those channels, where context is lost and the user has to start over. Ground the map in research (chapter 5.8) rather than in your assumptions, because the journey you imagine and the journey people actually take are rarely the same. Mark the "moments that matter," the few points where the experience decisively succeeds or fails, and concentrate your effort there rather than spreading it evenly. A journey that looks smooth on any one channel can still be miserable end to end, and only the cross-channel view reveals it.
+
+### Build a service blueprint that links front-stage to back-stage
+
+The core artifact of this discipline is the [service blueprint](https://en.wikipedia.org/wiki/Service_blueprint). Where a journey map takes the user's view, a blueprint adds the layers beneath. A typical blueprint runs in horizontal swimlanes: the customer's actions along the top, then the front-stage [touchpoints](https://en.wikipedia.org/wiki/Touchpoint) they interact with, then a "line of visibility" below which sit the back-stage actions staff take, and finally the support systems and processes that enable everything above. Read a column top to bottom and you can see exactly what has to happen behind the scenes for one front-stage moment to work, and where it will break if a system is slow or a hand-off is fuzzy. Blueprints are where you find the silent failures: the manual re-keying, the overnight batch job, the team that does not know it is a dependency. Draw them with the operational staff who actually run the back-stage, not just with designers, because those staff know where the real work happens. A blueprint that only shows the happy path is decoration; blueprint the failure and recovery paths too.
+
+### Design the back-stage and staff-facing tools as first-class
+
+Treat the tools your staff use as part of the product, because to the customer they are. When a call-center agent, a caseworker, or a warehouse picker fights a slow, ugly, half-broken internal console, that friction is passed straight to the person they are serving, as longer waits, wrong answers, and visible frustration. Internal tools are chronically underfunded precisely because their users are captive and cannot walk away, which is exactly why chapter 5.1 warns that captive-user software gets paid for in errors and lost productivity rather than churn. Give staff-facing systems the same research, design, and quality bar you give customer-facing ones. Pay special attention to the hand-offs, the moments where a case passes from one team, system, or channel to another, because a dropped hand-off is invisible to everyone except the user left waiting. Design what the receiving side sees, what context travels with the case, and what happens when the hand-off fails.
+
+### Align team design with service design
+
+Expect the org chart to show up in the service. This is [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law), the observation that systems come to mirror the communication structures of the organizations that build them, covered in depth in chapter 1.2. If four teams own four steps of a journey and rarely talk, the user will feel four disjointed steps with cracks between them. So service design and team design are the same problem viewed from two angles, and you cannot fix a fragmented experience purely with better screens if the underlying ownership is fragmented. Use your service blueprints and journey maps to ask whether your teams are drawn around the user's journey or around internal convenience, and be willing to reshape teams, or to create a role that explicitly owns an end-to-end journey, so that someone is accountable for the whole and not just their slice. When you cannot redraw teams, at least make the hand-offs between them explicit contracts with agreed context and service levels.
+
+### Measure service quality end to end
+
+Pick metrics that follow the user from first intent to real outcome, not metrics that flatter one channel in isolation. A website team can hit a 98 percent form-completion rate while a third of those completions fail silently in a back-stage queue, and the local metric will never show it. Measure end-to-end completion (did the person actually get what they came for), end-to-end time (how long from intent to outcome, including the invisible back-stage waits), and effort (how hard it was, across all the channels they had to use). Combine operational data with a direct read on how it felt, whether through a transactional survey, a [Net Promoter Score](https://en.wikipedia.org/wiki/Net_promoter_score) style question, or ongoing research. Watch the channel-to-channel drop-offs especially, because those seams are where measured quality and felt quality diverge most. Tie these service metrics into product management's outcome tracking (chapter 10.14) so the numbers drive prioritization rather than sitting in a dashboard nobody acts on.
+
+## Trade-offs: pros and cons
+
+| Approach | Pros | Cons |
+| --- | --- | --- |
+| End-to-end service ownership (one team owns a journey) | Clear accountability, coherent experience, seams get designed | Cuts across existing org structure, hard to staff and fund, can bottleneck |
+| Per-channel or per-step ownership | Fits existing teams, clear local scope, easy to staff | Nobody owns the whole; gaps between channels; local optimization |
+| Full service blueprinting up front | Surfaces back-stage failures before they ship, shared understanding | Time-consuming, can go stale, risks analysis before action |
+| Lightweight journey mapping only | Fast, cheap, good enough to spot the worst gaps | Misses back-stage and system failures a blueprint would catch |
+| [Omnichannel](https://en.wikipedia.org/wiki/Omnichannel) consistency (unified across channels) | Seamless hand-offs, context carries across channels | Expensive integration, demands shared data and aligned teams |
+
+The central tension is between the service the user needs, which flows across your boundaries, and the organization you actually have, which is drawn along them. Resolve it proportionally rather than dogmatically. You do not need to reorganize the whole company to design one service well, but you do need at least one person or team accountable for the end-to-end outcome, armed with a blueprint that makes the back-stage visible and a mandate to fix the seams. Spend your heaviest blueprinting on the journeys that are high-volume, high-stakes, or high-failure, and use lighter journey maps for the rest. The goal is not a perfect artifact; it is a service that works for the person at the center of it.
+
+## Questions to discuss with your team
+
+1. **Who owns the whole service end to end, from the user's first intent to their real outcome, and what power do they actually have?** In most large organizations the honest answer is "nobody," because ownership is split by channel and by department, and each owner is measured on their own slice. That gap is where services fail, since the seams between owners belong to no one and get no attention. Decide whether you will create an explicit end-to-end owner, a service owner or journey owner, and be clear about whether that person can actually change the back-stage systems and team boundaries or is merely responsible for a metric they cannot move. Bring your current org chart and your top journey's blueprint and lay them side by side to see who touches the journey and who is accountable for it. If the two do not match, you have found the source of your worst hand-off failures. The answer should change how you fund and staff the work, not just who attends the standup.
+
+2. **Are our teams drawn around the user's journey or around our internal convenience, and are we willing to change that?** Conway's law (chapter 1.2) means your service will mirror your communication structure whether you intend it to or not, so a journey split across four uncommunicative teams will feel like four disjointed steps. The comfortable move is to fix the screens and leave the org chart alone, but that treats a symptom while the cause keeps regenerating it. Look honestly at whether your team boundaries create the exact hand-off gaps your users complain about, and weigh the real cost of reshaping teams against the ongoing cost of a fragmented experience. Bring the pain points from your journey map and check how many of them sit precisely on a team boundary. If most of them do, better UI will not save you, and the conversation has to be about team design. What you decide here determines whether your service improvements stick or quietly erode.
+
+3. **How well do our staff-facing tools serve the people who use them, and how does that show up for the customer?** Internal tools are the most reliably neglected software in any large organization, because their users are captive and their budgets are afterthoughts, yet a caseworker or agent fighting a broken console passes that friction directly to the customer as delays and errors. Ask when you last did research on your own staff-facing systems, or whether you assume that because staff are paid to cope, the tools are fine. Consider that the back-stage is where most silent service failures actually happen, in the manual re-keying and the lost context at hand-offs, none of which the front-stage metrics can see. Bring a real staff member into the room and watch them complete a common task, then trace how their struggle reaches the customer. If you have never funded internal tools like a product, this is likely your cheapest large improvement to end-to-end service quality.
+
+## Examples
+
+**Startup.** A ten-person startup selling a home-insurance product thought of itself as an app company, and its app was genuinely good. But churn was high and support was drowning, so the founders blueprinted the actual claims journey. They found the real service was the moment a customer had a burst pipe at midnight: the app handed off to an email queue, which handed off to a third-party assessor the customer could not see, who called back during working hours from an unknown number that went to voicemail. The polished front-stage sat on top of a slow, opaque back-stage, and the "moment that matters," a stressful claim, was exactly where it failed. Fixing the hand-offs, giving the customer visibility into the assessor step, and treating the claims workflow as part of the product did more for retention than any new app feature.
+
+**Enterprise.** A telecommunications company sold business internet with a two-minute online order and a two-week delivery nightmare. Sales, provisioning, field engineering, and billing each owned a stretch of the journey and each hit its own targets, while the customer experienced repeated requests for the same information, missed appointment windows, and a first bill that did not match the quote. Service blueprinting across all four departments exposed the seams: context died at every hand-off because no shared record of the order followed the customer through. The company appointed an end-to-end order-to-activation owner, built a shared case record that traveled with the order, and rewired team incentives around the joined-up outcome. Local metrics barely changed; the end-to-end activation time and the complaint rate both dropped sharply.
+
+**Government.** A national government redesigned its "death of a family member" service, one of the hardest life events a citizen faces. Previously the bereaved had to separately notify the tax authority, the pension service, the vehicle agency, the passport office, and local government, each with its own form and each demanding the same death certificate. Organizing the service around the life event rather than around the agencies, the team built a single "tell us once" journey that took the information a person entered and distributed it to every relevant department behind the line of visibility. Aligning to the public sector's service standard, they researched with recently bereaved people, blueprinted the cross-agency back-stage, and measured the whole journey rather than each agency's part. Completion rose, duplicated contact fell, and citizens no longer had to relive a bereavement a dozen times.
+
+## Business case: motivations, ROI, and TCO
+
+The return on service design comes from closing the gaps between channels and teams, because that is where value leaks out. End-to-end failures are expensive in ways that per-channel dashboards hide: a journey that completes online but fails in the back-stage generates a support contact, a re-do, and often a lost customer, and none of those costs land on the channel that looks successful. When you measure and fix the whole service, you reduce duplicated effort (the same data captured five times), failure demand (contacts caused purely by the service failing the first time), and churn from experiences that felt broken even when each part technically worked. In enterprise the payoff shows up as shorter order-to-cash cycles and fewer escalations; in government it shows up as lower cost to serve and higher successful completion of services people cannot get anywhere else.
+
+Total cost of ownership has to weigh the cost of doing service design against the far larger cost of the fragmentation you already carry. The visible costs are the research, the blueprinting, the coordination across teams, and sometimes the investment in shared systems and staff tools. The hidden costs of not doing it are spread across support budgets, operations, and reputational damage, which is exactly why leadership underestimates them: no single team's budget shows the full price of a broken hand-off. To make the case, put a number on failure demand and duplicated work in one high-volume journey, blueprint it, and show leadership how much of the cost sits in the seams between their existing teams. Then run a bounded pilot on that journey, measure end to end before and after, and use the result to argue for the harder structural changes. Framing service design as the removal of costs already being paid, just invisibly, tends to move finance and governance stakeholders more than any appeal to elegance.
+
+## Anti-patterns and pitfalls
+
+- **Channel islands.** Each channel is designed and measured on its own, so the journey looks fine everywhere and works nowhere end to end.
+- **Front-stage lipstick.** A polished UI bolted onto a slow or manual back-stage, so the experience breaks the moment the user needs the back-stage to respond.
+- **Org chart as service.** Services structured around your departments instead of the user's goal, forcing the user to navigate your internal boundaries.
+- **Blueprint theater.** Elaborate blueprints drawn once, admired, and never used to change how the service actually runs.
+- **Happy-path-only mapping.** Journeys and blueprints that ignore failure and recovery, which is where real services actually hurt.
+- **Neglected staff tools.** Treating internal, staff-facing systems as second class, so their friction leaks straight through to the customer.
+- **Hand-off amnesia.** Context lost at every transfer between team, system, or channel, so the user re-explains their situation again and again.
+- **Metrics that flatter.** Local, per-channel targets that stay green while the end-to-end outcome fails silently.
+
+## Maturity model
+
+- **Level 1, Initial:** Each channel and team is designed and run in isolation. No one owns the end-to-end service. Users routinely repeat themselves across channels, and back-stage failures are invisible until they become complaints.
+- **Level 2, Managed:** Some journeys are mapped and the worst cross-channel gaps are known. Journey maps exist but rarely reach the back-stage, ownership is still per-channel, and staff-facing tools are an afterthought.
+- **Level 3, Defined:** Key journeys are blueprinted front-stage to back-stage with operational staff. Named service owners are accountable end to end, hand-offs are explicit, staff tools are designed deliberately, and service quality is measured across the whole journey.
+- **Level 4, Optimizing:** Team design and service design are aligned so ownership follows the journey. Services are organized around user goals and life events, end-to-end metrics drive prioritization, and the organization continuously blueprints, measures, and reshapes both experience and operations together.
+
+## Ideas for discussion
+
+1. When a journey crosses several teams, is it better to appoint one end-to-end owner or to redraw the teams around the journey, and what determines the choice?
+2. How much of your service quality can be fixed with better front-stage design, and how much requires changing the back-stage or the org chart?
+3. Where in your service do users most often have to repeat themselves, and what would a "tell us once" version cost to build?
+4. How do you fund and prioritize staff-facing tools when their users are captive and cannot vote with their feet?
+5. Should services be organized around life events or user goals even when that cuts directly against your funding and reporting lines?
+6. What single end-to-end metric would best tell you whether your whole service is working, and why do you not track it today?
+
+## Key takeaways
+
+- Design the whole service across channels and over time, not one screen, and remember the user does not care where your team boundaries fall.
+- Front-stage and back-stage are one system; a great experience is only as good as the operations behind it can sustain.
+- The service blueprint is your core artifact: it links front-stage touchpoints to the back-stage people, systems, and hand-offs that deliver them.
+- The org chart shows up in the service (Conway's law), so service design and team design have to move together.
+- Treat staff-facing tools and the hand-offs between teams as first-class parts of the service, because their friction reaches the customer.
+- Measure the service end to end, from first intent to real outcome, and organize around the user's goal or life event rather than your departments.
+
+## References and further reading
+
+- Marc Stickdorn and Jakob Schneider, *This Is Service Design Thinking*
+- Marc Stickdorn, Markus Edgar Hormess, Adam Lawrence, and Jakob Schneider, *This Is Service Design Doing*
+- Andy Polaine, Lavrans Lovlie, and Ben Reason, *Service Design: From Insight to Implementation*
+- Lynn Shostack, "Designing Services That Deliver," *Harvard Business Review*
+- Matthew Skelton and Manuel Pais, *Team Topologies*
+- Melvin Conway, "How Do Committees Invent?", *Datamation*
+- UK Government Digital Service, *Service Manual* and the *Service Standard*
+- U.S. General Services Administration, *18F Methods* and the U.S. Digital Service *Playbook*
+- Nielsen Norman Group, articles on service blueprinting and customer journey mapping

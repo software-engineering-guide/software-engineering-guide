@@ -42,7 +42,7 @@ Everything under `docs/` is published:
 
 - `docs/index.md` : the home page (generated).
 - `docs/front-matter/` : the opening essay, introduction, and contents page.
-- `docs/chapters/` : the 100 chapters, named `N.M-slug.md`.
+- `docs/chapters/` : the chapters, named `PP-CC-slug.md` (zero-padded, sortable).
 - `docs/examples/` : worked examples.
 - `docs/contributing/` : contributor guides and shared snippets.
 - `docs/project/` : project documentation and the changelog.

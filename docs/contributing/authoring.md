@@ -12,7 +12,7 @@
 1. Pick the part and the next free decimal number in that part. Numbering is
    contiguous, so a new chapter usually takes the next number after the last one
    in its part.
-2. Create `docs/chapters/N.M-slug.md` from the
+2. Create `docs/chapters/PP-CC-slug.md` (zero-padded, dash-separated prefix, for example `08-01-...`) from the
    [chapter template](chapter-template.md).
 3. Write to the template. Every content chapter needs all of its sections:
    overview, key principles, recommendations, trade-offs (with a table),

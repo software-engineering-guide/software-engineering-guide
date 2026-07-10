@@ -1,8 +1,8 @@
 # ADR 0007: Use PostgreSQL for the ledger service
 
 A worked example of an architecture decision record (ADR). See
-[chapter 1.6, Decision records](../chapters/1.6-decision-records.md) for the
-practice, and [chapter 12.3, Templates](../chapters/12.3-templates.md) for blank
+[chapter 1.6, Decision records](../chapters/01-06-decision-records.md) for the
+practice, and [chapter 12.3, Templates](../chapters/12-03-templates.md) for blank
 templates.
 
 - **Status:** Accepted

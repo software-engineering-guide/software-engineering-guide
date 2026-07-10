@@ -13,7 +13,7 @@ PART_TITLES={1:"People",2:"Software Programming",3:"Systems",4:"Security",5:"UI/
 11:"Flow: Discovery and Delivery Pipelines",12:"Appendices"}
 
 def dec(fp):
-    m=re.match(r'(\d+)\.(\d+)-', os.path.basename(fp)); return (int(m.group(1)),int(m.group(2)))
+    m=re.match(r'(\d+)-(\d+)-', os.path.basename(fp)); return (int(m.group(1)),int(m.group(2)))
 def h1title(fp):
     for ln in read(fp).splitlines():
         if ln.startswith("# "): return ln[2:].strip()
@@ -178,7 +178,7 @@ assert BEGIN in zt and END in zt, "zensical.toml is missing the generated-nav ma
 zt=zt[:zt.index(BEGIN)+len(BEGIN)]+"\n"+nav_block()+"\n"+zt[zt.index(END):]
 write(zt_path, zt)
 
-# ---- docs/chapters/12.7-index.md (subject index) ----
+# ---- docs/chapters/12-07-index.md (subject index) ----
 idxchap=[f for f in files if dec(f)[1]>=1 and dec(f)[0]<=11]  # substantive chapters, parts 1-11
 terms=["accessibility","agile","API","architecture decision record","A/B testing","blameless","blue-green",
  "bounded context","canary","capacity planning","chaos engineering","CI/CD","circuit breaker","code review",
@@ -206,7 +206,7 @@ for term in sorted(entries,key=lambda s:s.lower()):
 def chlink(num): return f"[{num}]({os.path.basename(bynum[num])})"
 for L in sorted(byl):
     out+=[f"## {L}",""]+[f"- **{t}**: {', '.join(chlink(n) for n in entries[t])}" for t in byl[L]]+[""]
-write(f"{CH}/12.7-index.md","\n".join(out))
+write(f"{CH}/12-07-index.md","\n".join(out))
 
 # The specification lives at the repository root in spec/ (hand-authored source of
 # truth, not published to the site), so it is not part of the generated nav.

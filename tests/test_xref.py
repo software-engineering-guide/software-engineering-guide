@@ -70,7 +70,7 @@ CASES = [
     ("bold non-title", "chapters/x.md", "- **2.0 Simplified**: a book.", 0),
 ]
 
-CH_HREF = re.compile(r'href="([^"]*\d+\.\d+-[a-z0-9-]+\.md)"')
+CH_HREF = re.compile(r'href="([^"]*\d+-\d+-[a-z0-9-]+\.md)"')
 
 failures = []
 for name, page, src, want in CASES:
@@ -86,13 +86,13 @@ for name, page, src, want in CASES:
 # links are relative to the page's directory
 html = markdown.markdown("see chapter 11.4 for OKRs.",
                          extensions=[GuideXrefExtension(page_path="project/changelog.md")])
-ok = 'href="../chapters/11.4-objectives-and-key-results.md"' in html
+ok = 'href="../chapters/11-04-objectives-and-key-results.md"' in html
 print(f"[{'PASS' if ok else 'FAIL'}] relative href from project/  {'' if ok else html}")
 if not ok:
     failures.append("relative href")
 
 # authored links are left alone (no nested or duplicate links)
-html = markdown.markdown("see [chapter 1.2](1.2-team-topologies.md).",
+html = markdown.markdown("see [chapter 1.2](01-02-team-topologies.md).",
                          extensions=[GuideXrefExtension(page_path="chapters/x.md")])
 ok = html.count("<a ") == 1
 print(f"[{'PASS' if ok else 'FAIL'}] authored links untouched  {'' if ok else html}")

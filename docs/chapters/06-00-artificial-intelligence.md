@@ -17,6 +17,8 @@ Enterprise and government contexts add sharper constraints, and they run through
 
 - **6.7 AI agents and agentic systems**: Building software that uses a language model in a loop with tools, memory, and a goal to take actions, and doing it safely through bounded autonomy, least-privilege tool access, human-in-the-loop approvals, guardrails against prompt injection, and rigorous evaluation of non-deterministic behavior.
 
+- **6.8 AI evaluation and testing**: Making AI trustworthy through eval-driven development, representative eval sets and task-fit metrics, calibrated LLM-as-judge and human review, red-teaming, regression gates in continuous integration, and monitoring quality and drift in production.
+
 ## How these chapters interrelate
 
 Together these chapters form a lifecycle that runs from intent to operation. Chapter 6.1 sets strategy and readiness, framing which problems justify AI at all and what foundations you need first. Chapter 6.2 supplies the engineering backbone for classical machine learning, while chapter 6.3 covers the distinct patterns of generative models, where behavior is shaped by prompts and retrieved context rather than a training step. Chapter 6.4 turns AI on the craft of software development itself, and chapter 6.6 provides the compute, storage, and serving substrate that every other chapter depends on. Chapter 6.5 is deliberately not the last word but a constant companion: responsible-AI obligations shape strategy, constrain model choice, gate deployment, and inform infrastructure decisions throughout.

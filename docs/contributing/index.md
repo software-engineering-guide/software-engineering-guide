@@ -53,7 +53,7 @@ just stats   # chapter and word counts
 ## What to avoid
 
 - Do not edit the generated files by hand (`README.md`, `docs/index.md`,
-  `docs/front-matter/table-of-contents.md`, `docs/chapters/12.7-index.md`, and
+  `docs/front-matter/table-of-contents.md`, `docs/chapters/12-07-index.md`, and
   the `nav` block in `zensical.toml`). Change the chapters and run `just nav`
   instead.
 - Do not add a chapter without also updating `spec/structure.md`.

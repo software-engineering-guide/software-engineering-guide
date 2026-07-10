@@ -44,7 +44,7 @@ def check(name, ok, detail=""):
 
 def read(p): return open(p, encoding="utf-8").read()
 def dec(f):
-    m = re.match(r"(\d+)\.(\d+)-", os.path.basename(f))
+    m = re.match(r"(\d+)-(\d+)-", os.path.basename(f))
     return (int(m.group(1)), int(m.group(2)))
 
 chapters = sorted(glob.glob(os.path.join(CH, "*.md")), key=dec)
@@ -58,7 +58,7 @@ for dirpath, dirnames, filenames in os.walk(ROOT):
 disk = set(f"{dec(f)[0]}.{dec(f)[1]}" for f in chapters)
 
 # 1. Exactly 100 chapters.
-check("exactly 111 chapters", len(chapters) == 111, f"found {len(chapters)}")
+check("exactly 133 chapters", len(chapters) == 133, f"found {len(chapters)}")
 
 # 2. Per-part numbering is contiguous starting at N.0.
 byp = {}
@@ -127,7 +127,7 @@ else:
 # 10. README, the site home page, and the contents page link every chapter file.
 for navrel in ["README.md", "docs/index.md", "docs/front-matter/table-of-contents.md"]:
     nav = read(os.path.join(ROOT, navrel))
-    linked = set(re.findall(r"chapters/(\d+\.\d+)-", nav))
+    linked = set(f"{int(a)}.{int(b)}" for a, b in re.findall(r"chapters/(\d+)-(\d+)-", nav))
     check(f"{navrel} links every chapter", not (disk - linked), f"missing {sorted(disk - linked)[:8]}")
 
 # 11. The zensical.toml navigation lists every page under docs/, so every page

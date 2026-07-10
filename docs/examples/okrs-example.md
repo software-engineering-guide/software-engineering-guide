@@ -1,7 +1,7 @@
 # Example: quarterly OKRs for an onboarding team
 
 A worked set of objectives and key results (OKRs), following
-[chapter 11.4, Objectives and key results (OKRs)](../chapters/11.4-objectives-and-key-results.md).
+[chapter 11.4, Objectives and key results (OKRs)](../chapters/11-04-objectives-and-key-results.md).
 The point is the shape: an inspiring objective, and a few measurable, outcome-based
 key results that prove it. Key results are outcomes, not tasks.
 
