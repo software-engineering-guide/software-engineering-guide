@@ -86,7 +86,7 @@ for name, page, src, want in CASES:
 # links are relative to the page's directory
 html = markdown.markdown("see chapter 11.4 for OKRs.",
                          extensions=[GuideXrefExtension(page_path="project/changelog.md")])
-ok = 'href="../chapters/11.4-okrs-and-kpis.md"' in html
+ok = 'href="../chapters/11.4-objectives-and-key-results.md"' in html
 print(f"[{'PASS' if ok else 'FAIL'}] relative href from project/  {'' if ok else html}")
 if not ok:
     failures.append("relative href")

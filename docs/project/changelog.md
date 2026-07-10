@@ -7,6 +7,13 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Ten new chapters, taking the book from 100 to 111: 1.8 Hiring, interviewing,
+  and onboarding; 1.9 Distributed and remote work; 1.10 Engineering
+  effectiveness and developer productivity; 2.15 Debugging and troubleshooting;
+  2.16 Performance engineering; 4.7 Identity and access management; 4.8
+  Cryptography and key management; 6.7 AI agents and agentic systems; 8.6 Release
+  management and progressive delivery; and 9.5 Disaster recovery and business
+  continuity. Each follows the full chapter template.
 - A "Questions to discuss with your team" section to every content chapter,
   placed before the examples, with three chapter-specific questions each backed
   by a comprehensive paragraph of context (81 chapters). The section is now part
@@ -35,6 +42,10 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- Split the combined OKR/KPI chapter into two: 11.4 Objectives and key results
+  (OKRs) and 11.5 Key performance indicators (KPIs), each a standalone chapter.
+- Raised the target chapter length in the spec to roughly 3,000 words, deepening
+  recommendations, examples, and trade-offs rather than padding.
 - Moved the specification out of `docs/spec/` to the repository root at `spec/`,
   making it the standalone source of truth for the book (chapters as Markdown)
   rather than a published site section. Added `spec/mkdocs-zensical/index.md` as

@@ -33,6 +33,9 @@ nav = [
     { "1.5 Decision-making and governance" = "chapters/1.5-decision-making-and-governance.md" },
     { "1.6 Decision records" = "chapters/1.6-decision-records.md" },
     { "1.7 Engineering standards and exceptions" = "chapters/1.7-engineering-standards-and-exceptions.md" },
+    { "1.8 Hiring, interviewing, and onboarding" = "chapters/1.8-hiring-interviewing-onboarding.md" },
+    { "1.9 Distributed and remote work" = "chapters/1.9-distributed-and-remote-work.md" },
+    { "1.10 Engineering effectiveness and developer productivity" = "chapters/1.10-engineering-effectiveness-and-developer-productivity.md" },
   ] },
   { "Part 2: Software Programming" = [
     { "2.0 Introduction" = "chapters/2.0-software-programming.md" },
@@ -50,6 +53,8 @@ nav = [
     { "2.12 Software models and methods" = "chapters/2.12-software-models-and-methods.md" },
     { "2.13 Computing, mathematical, and engineering foundations" = "chapters/2.13-computing-mathematical-engineering-foundations.md" },
     { "2.14 Project and repository structure" = "chapters/2.14-project-and-repository-structure.md" },
+    { "2.15 Debugging and troubleshooting" = "chapters/2.15-debugging-and-troubleshooting.md" },
+    { "2.16 Performance engineering" = "chapters/2.16-performance-engineering.md" },
   ] },
   { "Part 3: Systems" = [
     { "3.0 Introduction" = "chapters/3.0-systems.md" },
@@ -72,6 +77,8 @@ nav = [
     { "4.4 Security operations" = "chapters/4.4-security-operations.md" },
     { "4.5 Privacy and data protection" = "chapters/4.5-privacy-and-data-protection.md" },
     { "4.6 Compliance and governance" = "chapters/4.6-compliance-and-governance.md" },
+    { "4.7 Identity and access management" = "chapters/4.7-identity-and-access-management.md" },
+    { "4.8 Cryptography and key management" = "chapters/4.8-cryptography-and-key-management.md" },
   ] },
   { "Part 5: UI/UX Design" = [
     { "5.0 Introduction" = "chapters/5.0-ui-ux-design.md" },
@@ -91,6 +98,7 @@ nav = [
     { "6.4 AI-assisted software development" = "chapters/6.4-ai-assisted-software-development.md" },
     { "6.5 Responsible and trustworthy AI" = "chapters/6.5-responsible-and-trustworthy-ai.md" },
     { "6.6 AI infrastructure and operations" = "chapters/6.6-ai-infrastructure-and-operations.md" },
+    { "6.7 AI agents and agentic systems" = "chapters/6.7-ai-agents-and-agentic-systems.md" },
   ] },
   { "Part 7: Data, Analytics, and Insight" = [
     { "7.0 Introduction" = "chapters/7.0-data-and-analytics.md" },
@@ -107,6 +115,7 @@ nav = [
     { "8.3 Containers, orchestration, and cloud-native" = "chapters/8.3-containers-orchestration-cloud-native.md" },
     { "8.4 Platform engineering and developer experience" = "chapters/8.4-platform-engineering-and-devex.md" },
     { "8.5 Test and process automation" = "chapters/8.5-test-and-process-automation.md" },
+    { "8.6 Release management and progressive delivery" = "chapters/8.6-release-management-and-progressive-delivery.md" },
   ] },
   { "Part 9: Operations, Reliability, and Observability" = [
     { "9.0 Introduction" = "chapters/9.0-operations-and-reliability.md" },
@@ -114,6 +123,7 @@ nav = [
     { "9.2 Observability and telemetry" = "chapters/9.2-observability-and-telemetry.md" },
     { "9.3 Incident management" = "chapters/9.3-incident-management.md" },
     { "9.4 Cost, sustainability, and green software" = "chapters/9.4-cost-sustainability-green-software.md" },
+    { "9.5 Disaster recovery and business continuity" = "chapters/9.5-disaster-recovery-and-business-continuity.md" },
   ] },
   { "Part 10: Project/Product/Program Management" = [
     { "10.0 Introduction" = "chapters/10.0-project-product-program-management.md" },
@@ -136,7 +146,8 @@ nav = [
     { "11.1 The discovery pipeline" = "chapters/11.1-discovery-pipeline.md" },
     { "11.2 The delivery pipeline" = "chapters/11.2-delivery-pipeline.md" },
     { "11.3 Queueing theory" = "chapters/11.3-queueing-theory.md" },
-    { "11.4 Objectives, key results, and key performance indicators" = "chapters/11.4-okrs-and-kpis.md" },
+    { "11.4 Objectives and key results (OKRs)" = "chapters/11.4-objectives-and-key-results.md" },
+    { "11.5 Key performance indicators (KPIs)" = "chapters/11.5-key-performance-indicators.md" },
   ] },
   { "Part 12: Appendices" = [
     { "12.0 Appendices" = "chapters/12.0-appendices.md" },

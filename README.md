@@ -22,6 +22,9 @@ The guide is published as a website at
 - [1.5 Decision-making and governance](docs/chapters/1.5-decision-making-and-governance.md)
 - [1.6 Decision records](docs/chapters/1.6-decision-records.md)
 - [1.7 Engineering standards and exceptions](docs/chapters/1.7-engineering-standards-and-exceptions.md)
+- [1.8 Hiring, interviewing, and onboarding](docs/chapters/1.8-hiring-interviewing-onboarding.md)
+- [1.9 Distributed and remote work](docs/chapters/1.9-distributed-and-remote-work.md)
+- [1.10 Engineering effectiveness and developer productivity](docs/chapters/1.10-engineering-effectiveness-and-developer-productivity.md)
 
 ### Part 2: Software Programming
 - [2.0 Introduction](docs/chapters/2.0-software-programming.md)
@@ -39,6 +42,8 @@ The guide is published as a website at
 - [2.12 Software models and methods](docs/chapters/2.12-software-models-and-methods.md)
 - [2.13 Computing, mathematical, and engineering foundations](docs/chapters/2.13-computing-mathematical-engineering-foundations.md)
 - [2.14 Project and repository structure](docs/chapters/2.14-project-and-repository-structure.md)
+- [2.15 Debugging and troubleshooting](docs/chapters/2.15-debugging-and-troubleshooting.md)
+- [2.16 Performance engineering](docs/chapters/2.16-performance-engineering.md)
 
 ### Part 3: Systems
 - [3.0 Introduction](docs/chapters/3.0-systems.md)
@@ -61,6 +66,8 @@ The guide is published as a website at
 - [4.4 Security operations](docs/chapters/4.4-security-operations.md)
 - [4.5 Privacy and data protection](docs/chapters/4.5-privacy-and-data-protection.md)
 - [4.6 Compliance and governance](docs/chapters/4.6-compliance-and-governance.md)
+- [4.7 Identity and access management](docs/chapters/4.7-identity-and-access-management.md)
+- [4.8 Cryptography and key management](docs/chapters/4.8-cryptography-and-key-management.md)
 
 ### Part 5: UI/UX Design
 - [5.0 Introduction](docs/chapters/5.0-ui-ux-design.md)
@@ -80,6 +87,7 @@ The guide is published as a website at
 - [6.4 AI-assisted software development](docs/chapters/6.4-ai-assisted-software-development.md)
 - [6.5 Responsible and trustworthy AI](docs/chapters/6.5-responsible-and-trustworthy-ai.md)
 - [6.6 AI infrastructure and operations](docs/chapters/6.6-ai-infrastructure-and-operations.md)
+- [6.7 AI agents and agentic systems](docs/chapters/6.7-ai-agents-and-agentic-systems.md)
 
 ### Part 7: Data, Analytics, and Insight
 - [7.0 Introduction](docs/chapters/7.0-data-and-analytics.md)
@@ -96,6 +104,7 @@ The guide is published as a website at
 - [8.3 Containers, orchestration, and cloud-native](docs/chapters/8.3-containers-orchestration-cloud-native.md)
 - [8.4 Platform engineering and developer experience](docs/chapters/8.4-platform-engineering-and-devex.md)
 - [8.5 Test and process automation](docs/chapters/8.5-test-and-process-automation.md)
+- [8.6 Release management and progressive delivery](docs/chapters/8.6-release-management-and-progressive-delivery.md)
 
 ### Part 9: Operations, Reliability, and Observability
 - [9.0 Introduction](docs/chapters/9.0-operations-and-reliability.md)
@@ -103,6 +112,7 @@ The guide is published as a website at
 - [9.2 Observability and telemetry](docs/chapters/9.2-observability-and-telemetry.md)
 - [9.3 Incident management](docs/chapters/9.3-incident-management.md)
 - [9.4 Cost, sustainability, and green software](docs/chapters/9.4-cost-sustainability-green-software.md)
+- [9.5 Disaster recovery and business continuity](docs/chapters/9.5-disaster-recovery-and-business-continuity.md)
 
 ### Part 10: Project/Product/Program Management
 - [10.0 Introduction](docs/chapters/10.0-project-product-program-management.md)
@@ -125,7 +135,8 @@ The guide is published as a website at
 - [11.1 The discovery pipeline](docs/chapters/11.1-discovery-pipeline.md)
 - [11.2 The delivery pipeline](docs/chapters/11.2-delivery-pipeline.md)
 - [11.3 Queueing theory](docs/chapters/11.3-queueing-theory.md)
-- [11.4 Objectives, key results, and key performance indicators](docs/chapters/11.4-okrs-and-kpis.md)
+- [11.4 Objectives and key results (OKRs)](docs/chapters/11.4-objectives-and-key-results.md)
+- [11.5 Key performance indicators (KPIs)](docs/chapters/11.5-key-performance-indicators.md)
 
 ### Part 12: Appendices
 - [12.0 Appendices](docs/chapters/12.0-appendices.md)

@@ -9,7 +9,7 @@ illustrative, not exhaustive. The full templates live in the appendices
 - **[adr-example.md](adr-example.md)** : a filled-in architecture decision record,
   the kind described in [chapter 1.6](../chapters/1.6-decision-records.md).
 - **[okrs-example.md](okrs-example.md)** : a worked set of objectives and key
-  results, following [chapter 11.4](../chapters/11.4-okrs-and-kpis.md).
+  results, following [chapter 11.4](../chapters/11.4-objectives-and-key-results.md).
 - **Chapter skeleton** : to start a new chapter, copy the
   [chapter template](../contributing/chapter-template.md).
 

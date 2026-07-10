@@ -49,8 +49,10 @@ template.
 - Be opinionated and practical. Give guidance, not a survey. Lead with the point.
 - Stay vendor-neutral. Name products only as factual examples, never as
   endorsements.
-- Keep chapters roughly 1,300 to 2,000 words unless the topic genuinely needs
-  more.
+- Aim for roughly 3,000 words per content chapter (about 2,500 to 3,500),
+  deepening the recommendations, examples, and trade-offs with real substance
+  rather than padding. Go shorter only when the topic is genuinely lighter, and
+  longer only when it genuinely needs it.
 
 ## Hard rules
 

@@ -58,7 +58,7 @@ for dirpath, dirnames, filenames in os.walk(ROOT):
 disk = set(f"{dec(f)[0]}.{dec(f)[1]}" for f in chapters)
 
 # 1. Exactly 100 chapters.
-check("exactly 100 chapters", len(chapters) == 100, f"found {len(chapters)}")
+check("exactly 111 chapters", len(chapters) == 111, f"found {len(chapters)}")
 
 # 2. Per-part numbering is contiguous starting at N.0.
 byp = {}

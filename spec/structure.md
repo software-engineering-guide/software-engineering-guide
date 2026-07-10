@@ -7,7 +7,7 @@ and the navigation generator (`tools/gen_nav.py`) derives the table of contents,
 index, and specification outline from the same files. Change the structure here
 and in the chapter files together; the tests will catch any drift.
 
-Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction).
+Totals: **12 parts**, **111 chapters** (each part opens with an N.0 introduction).
 
 ## Part 1: People
 
@@ -21,6 +21,9 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 1.5 | Decision-making and governance | [`1.5-decision-making-and-governance.md`](../docs/chapters/1.5-decision-making-and-governance.md) |
 | 1.6 | Decision records | [`1.6-decision-records.md`](../docs/chapters/1.6-decision-records.md) |
 | 1.7 | Engineering standards and exceptions | [`1.7-engineering-standards-and-exceptions.md`](../docs/chapters/1.7-engineering-standards-and-exceptions.md) |
+| 1.8 | Hiring, interviewing, and onboarding | [`1.8-hiring-interviewing-onboarding.md`](../docs/chapters/1.8-hiring-interviewing-onboarding.md) |
+| 1.9 | Distributed and remote work | [`1.9-distributed-and-remote-work.md`](../docs/chapters/1.9-distributed-and-remote-work.md) |
+| 1.10 | Engineering effectiveness and developer productivity | [`1.10-engineering-effectiveness-and-developer-productivity.md`](../docs/chapters/1.10-engineering-effectiveness-and-developer-productivity.md) |
 
 ## Part 2: Software Programming
 
@@ -41,6 +44,8 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 2.12 | Software models and methods | [`2.12-software-models-and-methods.md`](../docs/chapters/2.12-software-models-and-methods.md) |
 | 2.13 | Computing, mathematical, and engineering foundations | [`2.13-computing-mathematical-engineering-foundations.md`](../docs/chapters/2.13-computing-mathematical-engineering-foundations.md) |
 | 2.14 | Project and repository structure | [`2.14-project-and-repository-structure.md`](../docs/chapters/2.14-project-and-repository-structure.md) |
+| 2.15 | Debugging and troubleshooting | [`2.15-debugging-and-troubleshooting.md`](../docs/chapters/2.15-debugging-and-troubleshooting.md) |
+| 2.16 | Performance engineering | [`2.16-performance-engineering.md`](../docs/chapters/2.16-performance-engineering.md) |
 
 ## Part 3: Systems
 
@@ -69,6 +74,8 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 4.4 | Security operations | [`4.4-security-operations.md`](../docs/chapters/4.4-security-operations.md) |
 | 4.5 | Privacy and data protection | [`4.5-privacy-and-data-protection.md`](../docs/chapters/4.5-privacy-and-data-protection.md) |
 | 4.6 | Compliance and governance | [`4.6-compliance-and-governance.md`](../docs/chapters/4.6-compliance-and-governance.md) |
+| 4.7 | Identity and access management | [`4.7-identity-and-access-management.md`](../docs/chapters/4.7-identity-and-access-management.md) |
+| 4.8 | Cryptography and key management | [`4.8-cryptography-and-key-management.md`](../docs/chapters/4.8-cryptography-and-key-management.md) |
 
 ## Part 5: UI/UX Design
 
@@ -94,6 +101,7 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 6.4 | AI-assisted software development | [`6.4-ai-assisted-software-development.md`](../docs/chapters/6.4-ai-assisted-software-development.md) |
 | 6.5 | Responsible and trustworthy AI | [`6.5-responsible-and-trustworthy-ai.md`](../docs/chapters/6.5-responsible-and-trustworthy-ai.md) |
 | 6.6 | AI infrastructure and operations | [`6.6-ai-infrastructure-and-operations.md`](../docs/chapters/6.6-ai-infrastructure-and-operations.md) |
+| 6.7 | AI agents and agentic systems | [`6.7-ai-agents-and-agentic-systems.md`](../docs/chapters/6.7-ai-agents-and-agentic-systems.md) |
 
 ## Part 7: Data, Analytics, and Insight
 
@@ -116,6 +124,7 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 8.3 | Containers, orchestration, and cloud-native | [`8.3-containers-orchestration-cloud-native.md`](../docs/chapters/8.3-containers-orchestration-cloud-native.md) |
 | 8.4 | Platform engineering and developer experience | [`8.4-platform-engineering-and-devex.md`](../docs/chapters/8.4-platform-engineering-and-devex.md) |
 | 8.5 | Test and process automation | [`8.5-test-and-process-automation.md`](../docs/chapters/8.5-test-and-process-automation.md) |
+| 8.6 | Release management and progressive delivery | [`8.6-release-management-and-progressive-delivery.md`](../docs/chapters/8.6-release-management-and-progressive-delivery.md) |
 
 ## Part 9: Operations, Reliability, and Observability
 
@@ -126,6 +135,7 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 9.2 | Observability and telemetry | [`9.2-observability-and-telemetry.md`](../docs/chapters/9.2-observability-and-telemetry.md) |
 | 9.3 | Incident management | [`9.3-incident-management.md`](../docs/chapters/9.3-incident-management.md) |
 | 9.4 | Cost, sustainability, and green software | [`9.4-cost-sustainability-green-software.md`](../docs/chapters/9.4-cost-sustainability-green-software.md) |
+| 9.5 | Disaster recovery and business continuity | [`9.5-disaster-recovery-and-business-continuity.md`](../docs/chapters/9.5-disaster-recovery-and-business-continuity.md) |
 
 ## Part 10: Project/Product/Program Management
 
@@ -154,7 +164,8 @@ Totals: **12 parts**, **100 chapters** (each part opens with an N.0 introduction
 | 11.1 | The discovery pipeline | [`11.1-discovery-pipeline.md`](../docs/chapters/11.1-discovery-pipeline.md) |
 | 11.2 | The delivery pipeline | [`11.2-delivery-pipeline.md`](../docs/chapters/11.2-delivery-pipeline.md) |
 | 11.3 | Queueing theory | [`11.3-queueing-theory.md`](../docs/chapters/11.3-queueing-theory.md) |
-| 11.4 | Objectives, key results, and key performance indicators | [`11.4-okrs-and-kpis.md`](../docs/chapters/11.4-okrs-and-kpis.md) |
+| 11.4 | Objectives and key results (OKRs) | [`11.4-objectives-and-key-results.md`](../docs/chapters/11.4-objectives-and-key-results.md) |
+| 11.5 | Key performance indicators (KPIs) | [`11.5-key-performance-indicators.md`](../docs/chapters/11.5-key-performance-indicators.md) |
 
 ## Part 12: Appendices
 
