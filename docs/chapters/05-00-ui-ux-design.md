@@ -18,6 +18,7 @@ Enterprise and government raise the stakes further. Enterprise software often ha
 
 - **5.8 Design research and usability testing**: Reducing the risk of building the wrong thing through generative and evaluative research, the right method for each question, usability testing done well, representative recruiting, and synthesis that actually changes decisions.
 - **5.9 Service design**: Designing the whole service a person experiences across channels and over time, front-stage and back-stage, using service blueprints and journey maps and aligning the organization behind the service, not just a single screen.
+- **5.10 Data visualization design**: Choosing the right chart for the question and encoding data honestly, applying graphical excellence, accessible and color-blind-safe palettes, and clear annotation, so a chart informs a decision instead of misleading it.
 
 ## How these chapters interrelate
 

@@ -24,6 +24,9 @@ This part starts with the durable fundamentals, moves through concrete structura
 - **3.13 Networking and connectivity**. The networking an application engineer actually deals with: DNS, TCP and the evolution of HTTP, TLS termination, load balancing and reverse proxies, content delivery and edge, service discovery and service mesh, and the timeouts, retries, and circuit breakers that make the network's unreliability survivable.
 
 - **3.14 Multi-tenancy and SaaS architecture**. Serving many customers from one software instance without letting them see or starve each other: the isolation-versus-efficiency spectrum, data partitioning, per-tenant quotas against noisy neighbors, tenant lifecycle, and cost attribution.
+- **3.15 Caching and content delivery**. Trading a little staleness for large gains in latency, load, and cost across the cache hierarchy (client, edge and CDN, reverse proxy, application, and data store), while treating cache invalidation and stampede protection as first-class design.
+- **3.16 API gateways and service mesh**. Handling north-south traffic at an API gateway (routing, authentication, rate limiting, composition) and east-west traffic through a service mesh (mutual TLS, traffic shifting, retries, observability), and deciding when a mesh earns its complexity.
+- **3.17 Search and information retrieval**. Treating search as a first-class system, from the inverted index and relevance ranking to query understanding, faceting, and vector and hybrid retrieval, with real relevance evaluation rather than guesswork.
 
 ## How these chapters interrelate
 

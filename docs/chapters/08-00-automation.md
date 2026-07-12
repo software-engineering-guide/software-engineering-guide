@@ -15,6 +15,7 @@ Part 8 follows the delivery machinery end to end: from the pipeline that integra
 - **8.5 Test and process automation:** Replace repetitive manual testing and operational work with reliable machine-executed workflows, from continuous test suites to runbooks, remediation, and compliance-evidence collection, so quality and control scale and skilled engineers are freed for judgment-intensive problems.
 
 - **8.6 Release management and progressive delivery:** Decoupling deploy from release so shipping code is separate from exposing a feature, and rolling changes out gradually with feature flags, canary and blue-green deployments, automated health checks and rollback, and error-budget-gated releases that shrink the blast radius of any change.
+- **8.7 Build systems and artifact management:** Making the build reproducible, fast, and cacheable, and treating artifacts as immutable, versioned, and signed, built once and promoted across environments with provenance and supply-chain integrity.
 
 ## How these chapters interrelate
 

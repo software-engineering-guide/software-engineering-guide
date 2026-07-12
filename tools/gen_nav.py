@@ -192,7 +192,11 @@ terms=["accessibility","agile","API","architecture decision record","A/B testing
  "reliability","requirements","retrospective","reuse","RFC","risk register","RTO","SBOM","Scrum",
  "secrets management","service level objective","shift-left","SLSA","SMART","SOLID","STRIDE","supply chain",
  "technical debt","test automation","threat modeling","toil","total cost of ownership","traceability",
- "trunk-based development","UML","utilization","value stream","vector database","velocity","WCAG","zero-trust"]
+ "trunk-based development","UML","utilization","value stream","vector database","velocity","WCAG","zero-trust",
+ "API gateway","autoscaling","BM25","build cache","cache","CDN","content delivery","cost of delay",
+ "data visualization","embedding","gradual typing","inverted index","master data management","mutual TLS",
+ "on-call","penetration testing","prompt injection","red team","reference data","reverse proxy","search",
+ "semantic search","service mesh","sidecar","static analysis","type inference","type system","vector search","WSJF"]
 entries={}
 for term in terms:
     pat=re.compile(r'(?i)(?<![A-Za-z])'+re.escape(term)+r'(?![A-Za-z])')

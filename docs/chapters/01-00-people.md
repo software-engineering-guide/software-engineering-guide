@@ -22,6 +22,7 @@ Enterprise and government organizations feel each of these pressures at full str
 
 - **1.11 Engineering management:** The craft of managing engineers rather than the career ladder itself: the one-on-one, feedback, and coaching loop, delegation, humane performance management, and being measured as a multiplier of the team rather than by your own output.
 - **1.12 Diversity, equity, inclusion, and belonging:** Building a team where difference is present, treated fairly, actively included, and made to feel it belongs, because inclusive teams build better software and because it is right, with honest measurement and no tokenism.
+- **1.13 Mentoring, coaching, and knowledge sharing:** Growing people and spreading expertise on purpose through mentoring, coaching, and sponsorship, communities of practice, internal talks, pairing, and documentation-as-teaching, so knowledge outlives any individual and bus-factor risk stays low.
 
 ## How these chapters interrelate
 

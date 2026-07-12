@@ -17,6 +17,7 @@ Part 7 follows the full journey of data as it becomes value. It starts with how 
 - **7.6 Real-time and streaming data:** Processing unbounded data as it arrives when latency genuinely matters, handling event time and late or out-of-order data with windows and watermarks, choosing processing guarantees and idempotent sinks, and streaming from operational databases with change data capture.
 - **7.7 Data modeling and the semantic layer:** Deciding what data means before deciding where it lives, through conceptual, logical, and physical models, dimensional modeling for analytics, and a governed semantic layer so every business metric has one definition everywhere.
 - **7.8 Data quality and observability:** Treating data as a product with guarantees by defining the dimensions of quality, validating pipelines and enforcing data contracts, and monitoring freshness, volume, schema, and lineage so data incidents are caught and resolved like production incidents.
+- **7.9 Master data and reference data management:** Creating a single trustworthy golden record for core entities such as customer, product, and supplier through matching, survivorship, and stewardship, and governing shared reference data as a controlled, versioned vocabulary.
 
 ## How these chapters interrelate
 

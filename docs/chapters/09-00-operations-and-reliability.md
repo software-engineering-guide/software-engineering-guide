@@ -16,6 +16,8 @@ Enterprise and government contexts raise every stake. Regulated industries carry
 - **9.5 Disaster recovery and business continuity:** Preparing to survive the bad day by setting recovery time and recovery point objectives from a business impact analysis, keeping tested and immutable backups, choosing a recovery strategy across the cost-and-speed spectrum, and rehearsing failover so recovery is proven rather than hoped for.
 
 - **9.6 Chaos engineering and resilience testing:** Building confidence that a system withstands turbulent conditions by defining steady state, forming hypotheses, and injecting realistic faults with a contained blast radius, growing from game days to continuous, automated resilience verification.
+- **9.7 Capacity planning and demand forecasting:** Matching supply of compute, storage, and network to forecast demand with deliberate headroom, using load testing and queueing-theory reasoning so latency does not explode near saturation, and balancing cost against reliability.
+- **9.8 On-call and operational readiness:** Designing humane, sustainable on-call with actionable alerts, clear escalation, and production-readiness reviews and runbooks, so the people who run a service are set up to succeed rather than burn out.
 
 ## How these chapters interrelate
 

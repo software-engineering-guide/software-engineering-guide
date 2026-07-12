@@ -17,6 +17,7 @@ part). See also the [Introduction](introduction.md).
 - [1.10 Engineering effectiveness and developer productivity](../chapters/01-10-engineering-effectiveness-and-developer-productivity.md)
 - [1.11 Engineering management](../chapters/01-11-engineering-management.md)
 - [1.12 Diversity, equity, inclusion, and belonging](../chapters/01-12-diversity-equity-inclusion-belonging.md)
+- [1.13 Mentoring, coaching, and knowledge sharing](../chapters/01-13-mentoring-coaching-knowledge-sharing.md)
 
 ### Part 2: Software Programming
 - [2.0 Introduction](../chapters/02-00-software-programming.md)
@@ -40,6 +41,7 @@ part). See also the [Introduction](introduction.md).
 - [2.18 Dependency and supply-chain management](../chapters/02-18-dependency-and-supply-chain-management.md)
 - [2.19 Refactoring and technical debt](../chapters/02-19-refactoring-and-technical-debt.md)
 - [2.20 Error handling and resilience patterns](../chapters/02-20-error-handling-and-resilience-patterns.md)
+- [2.21 Type systems and static analysis](../chapters/02-21-type-systems-and-static-analysis.md)
 
 ### Part 3: Systems
 - [3.0 Introduction](../chapters/03-00-systems.md)
@@ -57,6 +59,9 @@ part). See also the [Introduction](introduction.md).
 - [3.12 Event-driven architecture and messaging](../chapters/03-12-event-driven-architecture-and-messaging.md)
 - [3.13 Networking and connectivity](../chapters/03-13-networking-and-connectivity.md)
 - [3.14 Multi-tenancy and SaaS architecture](../chapters/03-14-multi-tenancy-and-saas-architecture.md)
+- [3.15 Caching and content delivery](../chapters/03-15-caching-and-content-delivery.md)
+- [3.16 API gateways and service mesh](../chapters/03-16-api-gateways-and-service-mesh.md)
+- [3.17 Search and information retrieval](../chapters/03-17-search-and-information-retrieval.md)
 
 ### Part 4: Security
 - [4.0 Introduction](../chapters/04-00-security.md)
@@ -68,6 +73,8 @@ part). See also the [Introduction](introduction.md).
 - [4.6 Compliance and governance](../chapters/04-06-compliance-and-governance.md)
 - [4.7 Identity and access management](../chapters/04-07-identity-and-access-management.md)
 - [4.8 Cryptography and key management](../chapters/04-08-cryptography-and-key-management.md)
+- [4.9 Secure software development lifecycle](../chapters/04-09-secure-software-development-lifecycle.md)
+- [4.10 Penetration testing and red teaming](../chapters/04-10-penetration-testing-and-red-teaming.md)
 
 ### Part 5: UI/UX Design
 - [5.0 Introduction](../chapters/05-00-ui-ux-design.md)
@@ -80,6 +87,7 @@ part). See also the [Introduction](introduction.md).
 - [5.7 Mobile application development](../chapters/05-07-mobile-application-development.md)
 - [5.8 Design research and usability testing](../chapters/05-08-design-research-and-usability-testing.md)
 - [5.9 Service design](../chapters/05-09-service-design.md)
+- [5.10 Data visualization design](../chapters/05-10-data-visualization-design.md)
 
 ### Part 6: Artificial Intelligence
 - [6.0 Introduction](../chapters/06-00-artificial-intelligence.md)
@@ -91,6 +99,7 @@ part). See also the [Introduction](introduction.md).
 - [6.6 AI infrastructure and operations](../chapters/06-06-ai-infrastructure-and-operations.md)
 - [6.7 AI agents and agentic systems](../chapters/06-07-ai-agents-and-agentic-systems.md)
 - [6.8 AI evaluation and testing](../chapters/06-08-ai-evaluation-and-testing.md)
+- [6.9 Prompt engineering and context design](../chapters/06-09-prompt-engineering-and-context-design.md)
 
 ### Part 7: Data, Analytics, and Insight
 - [7.0 Introduction](../chapters/07-00-data-and-analytics.md)
@@ -102,6 +111,7 @@ part). See also the [Introduction](introduction.md).
 - [7.6 Real-time and streaming data](../chapters/07-06-real-time-and-streaming-data.md)
 - [7.7 Data modeling and the semantic layer](../chapters/07-07-data-modeling-and-semantic-layer.md)
 - [7.8 Data quality and observability](../chapters/07-08-data-quality-and-observability.md)
+- [7.9 Master data and reference data management](../chapters/07-09-master-data-and-reference-data-management.md)
 
 ### Part 8: Automation
 - [8.0 Introduction](../chapters/08-00-automation.md)
@@ -111,6 +121,7 @@ part). See also the [Introduction](introduction.md).
 - [8.4 Platform engineering and developer experience](../chapters/08-04-platform-engineering-and-devex.md)
 - [8.5 Test and process automation](../chapters/08-05-test-and-process-automation.md)
 - [8.6 Release management and progressive delivery](../chapters/08-06-release-management-and-progressive-delivery.md)
+- [8.7 Build systems and artifact management](../chapters/08-07-build-systems-and-artifact-management.md)
 
 ### Part 9: Operations, Reliability, and Observability
 - [9.0 Introduction](../chapters/09-00-operations-and-reliability.md)
@@ -120,6 +131,8 @@ part). See also the [Introduction](introduction.md).
 - [9.4 Cost, sustainability, and green software](../chapters/09-04-cost-sustainability-green-software.md)
 - [9.5 Disaster recovery and business continuity](../chapters/09-05-disaster-recovery-and-business-continuity.md)
 - [9.6 Chaos engineering and resilience testing](../chapters/09-06-chaos-engineering-and-resilience-testing.md)
+- [9.7 Capacity planning and demand forecasting](../chapters/09-07-capacity-planning-and-demand-forecasting.md)
+- [9.8 On-call and operational readiness](../chapters/09-08-on-call-and-operational-readiness.md)
 
 ### Part 10: Project/Product/Program Management
 - [10.0 Introduction](../chapters/10-00-project-product-program-management.md)
@@ -149,6 +162,7 @@ part). See also the [Introduction](introduction.md).
 - [11.3 Queueing theory](../chapters/11-03-queueing-theory.md)
 - [11.4 Objectives and key results (OKRs)](../chapters/11-04-objectives-and-key-results.md)
 - [11.5 Key performance indicators (KPIs)](../chapters/11-05-key-performance-indicators.md)
+- [11.6 Value stream mapping and cost of delay](../chapters/11-06-value-stream-mapping-and-cost-of-delay.md)
 
 ### Part 12: Appendices
 - [12.0 Appendices](../chapters/12-00-appendices.md)

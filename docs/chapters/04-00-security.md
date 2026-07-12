@@ -17,6 +17,8 @@ This part treats security as an engineering discipline that spans culture, code,
 
 - **4.7 Identity and access management.** Establishes who may do what: authentication versus authorization, the joiner-mover-leaver lifecycle, single sign-on and modern federation (OAuth 2.0, OIDC, SAML), phishing-resistant multi-factor authentication and passkeys, role- and attribute-based access control, least privilege, and machine identity as the control plane for zero trust.
 - **4.8 Cryptography and key management.** Covers using cryptography correctly without inventing it: confidentiality, integrity, and authenticity from vetted primitives, encryption in transit and at rest, and the genuinely hard part, the key lifecycle, with key management services and hardware security modules, PKI and certificate automation, cryptographic agility, and the post-quantum transition.
+- **4.9 Secure software development lifecycle.** Building security into every phase rather than testing it in at the end: security requirements and abuse cases, threat-modeling and secure-design gates, secure coding, the pipeline security tooling (SAST, DAST, SCA, secret and IaC scanning), security champions, and remediation SLAs, guided by frameworks such as the NIST SSDF and OWASP SAMM.
+- **4.10 Penetration testing and red teaming.** Finding weaknesses the way an attacker would, across the spectrum from vulnerability scanning through penetration testing, red teaming, and purple teaming, with clear scope and rules of engagement, and feeding every finding back into detection and defense.
 
 ## How these chapters interrelate
 

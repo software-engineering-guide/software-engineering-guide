@@ -27,9 +27,13 @@ for fuller treatment.
 
 **ASVS (Application Security Verification Standard)**: An OWASP standard that provides a graded checklist of security requirements and tests for designing, building, and verifying secure applications.
 
+**[Autoscaling](https://en.wikipedia.org/wiki/Autoscaling)**: The automatic adjustment of the number of running compute instances (or their size) in response to load, so capacity tracks demand without manual intervention. It complements, but does not replace, deliberate capacity planning.
+
 **[Availability](https://en.wikipedia.org/wiki/Availability)**: The proportion of time a system is operational and able to serve requests, often expressed in "nines" (for example, 99.9%). It is a core reliability target codified in SLOs and SLAs.
 
 ## B
+
+**Backpressure**: A flow-control mechanism in which a component under load signals upstream producers to slow down, preventing unbounded queues and cascading failure. It is central to reliable streaming and message-driven systems.
 
 **[BDD (Behavior-Driven Development)](https://en.wikipedia.org/wiki/Behavior-driven_development)**: A collaborative practice that expresses requirements as concrete, human-readable examples of behavior (often in Given/When/Then form) that double as automated acceptance tests.
 
@@ -41,11 +45,21 @@ for fuller treatment.
 
 **[Blue-green deployment](https://en.wikipedia.org/wiki/Blue-green_deployment)**: A release strategy that runs two identical production environments ("blue" and "green"), routing traffic to one while the other is updated, enabling near-instant cutover and rollback.
 
+**[BM25](https://en.wikipedia.org/wiki/Okapi_BM25)**: A widely used ranking function for full-text search that scores how well a document matches a query using term frequency, inverse document frequency, and document length. It is the lexical-ranking default in many search engines.
+
 **Bounded context**: In Domain-Driven Design, an explicit boundary within which a particular domain model and its ubiquitous language apply consistently. It prevents concepts from being conflated across different parts of a large system.
+
+**Build cache**: A store of previously computed build outputs, keyed by the inputs that produced them, so unchanged work is reused rather than rebuilt. A shared remote build cache lets a whole team and its CI reuse each other's results.
 
 **[Bus factor](https://en.wikipedia.org/wiki/Bus_factor)**: The number of people who would need to be lost (metaphorically "hit by a bus") before a project stalls for lack of essential knowledge. A low bus factor signals concentrated, undocumented expertise and organizational risk.
 
 ## C
+
+**[Cache eviction policy](https://en.wikipedia.org/wiki/Cache_replacement_policies)**: The rule a cache uses to decide which entry to remove when it is full, such as least recently used (LRU) or least frequently used (LFU). The policy shapes hit rate and, with it, the cache's value.
+
+**[Cache invalidation](https://en.wikipedia.org/wiki/Cache_invalidation)**: The problem of removing or updating cached data once the underlying source changes, so readers do not see stale values. It is famously one of the hardest problems in computing.
+
+**[Cache stampede](https://en.wikipedia.org/wiki/Cache_stampede)**: A failure mode in which many clients miss the cache for the same key at once and all hit the origin together, overwhelming it. Request coalescing and staggered expiry prevent it. Also called a thundering herd.
 
 **Canary release**: A deployment technique that exposes a new version to a small subset of users or traffic first, monitors for problems, and then progressively expands the rollout if metrics stay healthy.
 
@@ -55,6 +69,10 @@ for fuller treatment.
 
 **[CD (Continuous Delivery / Continuous Deployment)](https://en.wikipedia.org/wiki/Continuous_delivery)**: Continuous Delivery keeps software in a releasable state so it can be deployed at any time with a manual approval; Continuous Deployment automatically releases every change that passes the pipeline.
 
+**[CDN (Content Delivery Network)](https://en.wikipedia.org/wiki/Content_delivery_network)**: A geographically distributed network of edge servers that cache and serve content close to users, cutting latency and offloading origin infrastructure.
+
+**Chain-of-thought prompting**: A prompting technique that asks a language model to work through intermediate reasoning steps before giving a final answer, improving performance on multi-step problems at the cost of longer, slower output.
+
 **[CI (Continuous Integration)](https://en.wikipedia.org/wiki/Continuous_integration)**: The practice of frequently merging developers' changes into a shared mainline, each merge validated by an automated build and test suite to detect integration problems early.
 
 **[CI/CD](https://en.wikipedia.org/wiki/CI/CD)**: The combined pipeline of Continuous Integration and Continuous Delivery/Deployment that automates building, testing, and releasing software.
@@ -63,9 +81,13 @@ for fuller treatment.
 
 **[Cohesion](https://en.wikipedia.org/wiki/Cohesion_(computer_science))**: The degree to which the elements inside a module belong together and serve a single, well-defined purpose. High cohesion, paired with low coupling, is a hallmark of maintainable design.
 
+**Context window**: The maximum amount of text, measured in tokens, that a language model can consider at once, spanning its input and output. It is a scarce budget that prompt and context design must manage deliberately.
+
 **[Conway's Law](https://en.wikipedia.org/wiki/Conway's_law)**: The observation that the structure of a system tends to mirror the communication structure of the organization that builds it. The "inverse Conway maneuver" deliberately shapes teams to produce a desired architecture.
 
 **Core Web Vitals**: A set of user-centric web performance metrics defined by Google (such as Largest Contentful Paint, Interaction to Next Paint, and Cumulative Layout Shift) that measure loading, interactivity, and visual stability.
+
+**[Cost of delay](https://en.wikipedia.org/wiki/Cost_of_delay)**: The economic cost of not having something finished yet, expressed as value lost per unit of time. Making it explicit turns prioritization from opinion into arithmetic, and underpins sequencing rules such as weighted shortest job first.
 
 **[Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming))**: The degree of interdependence between modules or services. Loose coupling limits the ripple effect of change and is a central goal of good architecture.
 
@@ -79,7 +101,11 @@ for fuller treatment.
 
 **[DAST (Dynamic Application Security Testing)](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)**: Security testing that probes a running application from the outside, without access to source code, to find vulnerabilities that appear at runtime.
 
+**Data-ink ratio**: A principle from Edward Tufte holding that a chart should spend most of its ink on the data itself and little on decoration, removing gridlines, borders, and chartjunk that do not inform.
+
 **[Data mesh](https://en.wikipedia.org/wiki/Data_mesh)**: A decentralized data architecture and operating model that treats data as a product owned by domain teams, supported by self-serve platform infrastructure and federated governance.
+
+**[Data visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)**: The practice of encoding data in visual form (position, length, color, and the like) so patterns, comparisons, and trends become perceptible and decisions become better informed.
 
 **[DDD (Domain-Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)**: An approach to software design that centers the model on the business domain, using a shared ubiquitous language, bounded contexts, and building blocks such as entities, value objects, and aggregates.
 
@@ -103,9 +129,15 @@ for fuller treatment.
 
 ## E
 
+**East-west traffic**: Network traffic between services inside a system or data center, as opposed to north-south traffic between the system and external clients. A service mesh typically governs east-west traffic.
+
+**[Edge computing](https://en.wikipedia.org/wiki/Edge_computing)**: Running computation and storage close to where data is produced or consumed rather than in a central location, to cut latency and bandwidth. Content delivery networks are an early, widespread form.
+
 **[Elasticity](https://en.wikipedia.org/wiki/Elasticity_(cloud_computing))**: The ability of a system to automatically acquire and release resources in response to changing demand, so capacity tracks load closely.
 
 **[ELT (Extract, Load, Transform)](https://en.wikipedia.org/wiki/Extract,_load,_transform)**: A data integration pattern that loads raw data into a target store first and transforms it there, exploiting the scale of modern warehouses and lakehouses.
+
+**[Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of text, images, or other data as a dense numeric vector, positioned so that similar items sit close together. Embeddings power semantic and vector search and retrieval-augmented generation.
 
 **[EN 301 549](https://en.wikipedia.org/wiki/EN_301_549)**: The European standard specifying accessibility requirements for ICT products and services, referenced by public-sector procurement across the EU and aligned with WCAG.
 
@@ -125,9 +157,13 @@ for fuller treatment.
 
 **[FedRAMP (Federal Risk and Authorization Management Program)](https://en.wikipedia.org/wiki/FedRAMP)**: A US government program that standardizes security assessment, authorization, and continuous monitoring for cloud services used by federal agencies.
 
+**Few-shot prompting**: Supplying a language model with a handful of worked examples in the prompt to demonstrate the desired task and output format, as opposed to zero-shot prompting, which gives instructions with no examples.
+
 **FinOps**: A discipline and cultural practice that brings financial accountability to variable cloud spending, giving engineering, finance, and business teams shared ownership of cost and value.
 
 **[FISMA (Federal Information Security Modernization Act)](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act)**: US legislation requiring federal agencies to implement, document, and monitor information security programs, operationalized largely through NIST guidance.
+
+**Flow efficiency**: The proportion of total lead time that a work item spends being actively worked rather than waiting, calculated as value-add time divided by total lead time. Most systems are surprisingly low, often under 15 percent.
 
 **Four-eyes principle**: A control requiring that a significant action be reviewed or approved by at least two people, reducing the chance of error or malfeasance.
 
@@ -141,11 +177,17 @@ for fuller treatment.
 
 **Golden path / paved road**: A well-supported, opinionated default way to build and ship software within an organization, designed to make the secure, compliant, reliable choice the easiest one.
 
+**Golden record**: In master data management, the single, reconciled, authoritative version of a business entity (such as a customer) assembled from multiple source systems through matching and survivorship rules.
+
+**[Gradual typing](https://en.wikipedia.org/wiki/Gradual_typing)**: A type-system approach that lets static and dynamic typing coexist in one codebase, so types can be added incrementally to a dynamically typed program. Type hints and optional type checkers are common examples.
+
 **[GraphQL](https://en.wikipedia.org/wiki/GraphQL)**: A query language and runtime for APIs that lets clients request exactly the data they need in a single call, using a strongly typed schema.
 
 **[gRPC](https://en.wikipedia.org/wiki/gRPC)**: A high-performance, contract-first remote procedure call framework that uses HTTP/2 and, typically, Protocol Buffers for efficient service-to-service communication.
 
 ## H
+
+**Hermetic build**: A build that depends only on explicitly declared inputs and is isolated from the host environment, so it produces the same output anywhere. Hermeticity is the foundation of reproducible builds and reliable caching.
 
 **[HSM (Hardware Security Module)](https://en.wikipedia.org/wiki/Hardware_security_module)**: A tamper-resistant hardware device that generates, stores, and uses cryptographic keys, providing stronger key protection than software-only approaches.
 
@@ -165,9 +207,13 @@ for fuller treatment.
 
 **[i18n (Internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)**: Designing and building software so it can be adapted to different languages, regions, and cultural conventions without engineering changes. The numeronym abbreviates the 18 letters between "i" and "n."
 
+**Immutable artifact**: A build output that, once produced and versioned, is never modified; any change yields a new version. Immutability makes releases reproducible and lets you build once and promote the same artifact across environments.
+
 **InnerSource**: The application of open-source development practices (transparency, shared repositories, and cross-team contribution) inside a single organization.
 
 **IaC drift**: See Drift (configuration).
+
+**[Inverted index](https://en.wikipedia.org/wiki/Inverted_index)**: The core data structure of a search engine, mapping each term to the list of documents that contain it, so queries can be answered without scanning every document.
 
 **[ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)**: An international standard specifying requirements for an Information Security Management System (ISMS), providing a certifiable framework for managing information security risk.
 
@@ -195,6 +241,8 @@ for fuller treatment.
 
 **[Least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)**: A security principle granting each user, process, or system only the minimum access required to perform its function, limiting the damage from compromise or error.
 
+**[Little's Law](https://en.wikipedia.org/wiki/Little's_law)**: A result from queueing theory stating that the average number of items in a stable system equals the average arrival rate multiplied by the average time each item spends in the system. It links work in progress, throughput, and lead time.
+
 **[LLM (Large Language Model)](https://en.wikipedia.org/wiki/Large_language_model)**: A machine-learning model trained on very large text corpora to predict and generate language, capable of tasks such as summarization, translation, and code generation.
 
 **[l10n (Localization)](https://en.wikipedia.org/wiki/Language_localisation)**: Adapting internationalized software to a specific locale, including translation, formatting, and cultural conventions. The numeronym abbreviates the 10 letters between "l" and "n."
@@ -202,6 +250,8 @@ for fuller treatment.
 ## M
 
 **[MDM (Master Data Management)](https://en.wikipedia.org/wiki/Master_data_management)**: The discipline and tooling for creating and maintaining a single, authoritative, consistent view of core business entities (such as customers or products) across systems.
+
+**MITRE ATT&CK**: A curated, public knowledge base of real-world adversary tactics and techniques, widely used to plan red-team exercises, guide detection engineering, and describe threats in a shared vocabulary.
 
 **Mean Time to Recovery (MTTR)**: The average time taken to restore service after a failure; a common reliability and incident-management metric.
 
@@ -211,9 +261,13 @@ for fuller treatment.
 
 **[Monorepo](https://en.wikipedia.org/wiki/Monorepo)**: A single version-control repository holding the code for many projects or the whole organization, enabling shared tooling and atomic cross-project changes at the cost of specialized scaling tooling.
 
+**mTLS (mutual TLS)**: A configuration of Transport Layer Security in which both parties present and verify certificates, so each authenticates the other. It is a default for service-to-service traffic in a service mesh and zero-trust networks. See also [mutual authentication](https://en.wikipedia.org/wiki/Mutual_authentication).
+
 **[Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)**: A technique that deliberately introduces small faults ("mutants") into code to check whether the test suite detects them, measuring the suite's real effectiveness.
 
 ## N
+
+**[NDCG (Normalized Discounted Cumulative Gain)](https://en.wikipedia.org/wiki/Discounted_cumulative_gain)**: A ranking-quality metric that rewards placing highly relevant results near the top of a result list, normalized so scores are comparable across queries. It is a staple of search relevance evaluation.
 
 **[NIST (National Institute of Standards and Technology)](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology)**: A US federal agency whose Special Publications and frameworks are widely referenced standards for cybersecurity, privacy, and AI.
 
@@ -224,6 +278,8 @@ for fuller treatment.
 **NIST SP 800-171**: A NIST publication specifying requirements for protecting controlled unclassified information (CUI) in non-federal systems, central to defense-contractor compliance.
 
 **[NFR (Non-Functional Requirement)](https://en.wikipedia.org/wiki/Non-functional_requirement)**: A requirement describing how a system should behave (its qualities such as performance, security, reliability, or usability) rather than what functions it performs.
+
+**North-south traffic**: Network traffic between a system and its external clients (in and out of the data center or cluster), as opposed to east-west traffic between internal services. An API gateway typically governs north-south traffic.
 
 ## O
 
@@ -245,15 +301,25 @@ for fuller treatment.
 
 **[PCI DSS (Payment Card Industry Data Security Standard)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)**: A security standard maintained by the payment card industry that specifies requirements for organizations that store, process, or transmit cardholder data.
 
+**[Penetration testing](https://en.wikipedia.org/wiki/Penetration_test)**: An authorized, simulated attack on a system by skilled testers to find and demonstrate exploitable vulnerabilities before real attackers do, delivered as prioritized, actionable findings.
+
 **[PII (Personally Identifiable Information)](https://en.wikipedia.org/wiki/Personal_data)**: Information that can identify a specific individual, either alone or combined with other data; its handling is governed by privacy laws and internal policy.
 
 **Platform engineering**: The discipline of building and operating internal self-service platforms and golden paths that reduce cognitive load and accelerate product teams.
 
 **POUR**: The four guiding principles of the Web Content Accessibility Guidelines: content must be Perceivable, Operable, Understandable, and Robust.
 
+**Production readiness review**: A structured check, run before a service goes live or takes on-call ownership, that confirms it meets standards for observability, reliability, security, runbooks, and operational support.
+
+**[Prompt engineering](https://en.wikipedia.org/wiki/Prompt_engineering)**: The practice of designing and refining the instructions, context, and examples given to a language model to get reliable, high-quality output, treated as a versioned, tested engineering discipline rather than trial and error.
+
+**[Prompt injection](https://en.wikipedia.org/wiki/Prompt_injection)**: An attack in which crafted input causes a language model to ignore its intended instructions and follow the attacker's instead, the AI-era analogue of injection flaws. It is a central security risk of LLM applications.
+
 **Property-based testing**: A testing technique that checks that stated properties hold across many automatically generated inputs, rather than relying only on hand-picked examples.
 
 **Pull request (PR) / merge request (MR)**: A proposed set of changes submitted for review and discussion before being merged into a shared branch, the primary unit of code review in most workflows.
+
+**Purple team**: A collaborative exercise in which offensive (red) and defensive (blue) security teams work together in real time, so that attacks and the detections meant to catch them are tuned against each other.
 
 ## Q
 
@@ -269,9 +335,15 @@ for fuller treatment.
 
 **[RBAC (Role-Based Access Control)](https://en.wikipedia.org/wiki/Role-based_access_control)**: An authorization model that assigns permissions to roles and roles to users, simplifying administration by managing access at the role level.
 
+**[Red team](https://en.wikipedia.org/wiki/Red_team)**: A group that emulates a realistic adversary, often against a full organization and without warning defenders, to test detection and response rather than merely enumerate vulnerabilities. Contrast with a blue (defensive) team.
+
+**[Reference data](https://en.wikipedia.org/wiki/Reference_data)**: Controlled, slowly changing code lists and classifications used to categorize other data, such as country codes, currencies, and status values. Governing it as a shared, versioned vocabulary keeps systems consistent.
+
 **Rego**: The declarative policy language used by Open Policy Agent to express rules for authorization and configuration decisions.
 
 **[REST (Representational State Transfer)](https://en.wikipedia.org/wiki/REST)**: An architectural style for networked applications that uses stateless operations over HTTP on addressable resources, valued for simplicity and broad tooling.
+
+**[Reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)**: A server that sits in front of one or more backend services and forwards client requests to them, commonly providing TLS termination, load balancing, caching, and a single entry point.
 
 **[RFC (Request for Comments)](https://en.wikipedia.org/wiki/Request_for_Comments)**: A written proposal circulated for feedback before a significant technical decision or change, fostering transparency and shared ownership. (The term also names the Internet-standards document series.)
 
@@ -299,6 +371,12 @@ for fuller treatment.
 
 **[Section 508](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)**: A US law requiring federal agencies to make their electronic and information technology accessible to people with disabilities, in practice aligned with WCAG.
 
+**Semantic search**: Search that matches on meaning rather than exact keywords, typically by comparing embeddings of the query and documents. It is often combined with lexical search in a hybrid approach.
+
+**[Service mesh](https://en.wikipedia.org/wiki/Service_mesh)**: A dedicated infrastructure layer, usually implemented with sidecar proxies, that handles service-to-service communication concerns such as mutual TLS, retries, timeouts, traffic shifting, and observability, keeping them out of application code.
+
+**Sidecar**: A helper process or container deployed alongside a main application instance to provide supporting capabilities (such as a service-mesh proxy) without changing the application itself.
+
 **[SIEM (Security Information and Event Management)](https://en.wikipedia.org/wiki/Security_information_and_event_management)**: A system that aggregates and correlates security logs and events across an environment to enable detection, alerting, and investigation.
 
 **[SLA (Service Level Agreement)](https://en.wikipedia.org/wiki/Service-level_agreement)**: A formal commitment between a service provider and its customers specifying expected service levels and the consequences of missing them.
@@ -321,6 +399,10 @@ for fuller treatment.
 
 **[SRE (Site Reliability Engineering)](https://en.wikipedia.org/wiki/Site_reliability_engineering)**: A discipline that applies software-engineering approaches to operations, using SLOs, error budgets, and automation to run reliable systems at scale.
 
+**SSDF (Secure Software Development Framework)**: NIST's framework (SP 800-218) of high-level secure-development practices, spanning preparing the organization, protecting software, producing well-secured software, and responding to vulnerabilities.
+
+**[Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)**: Examining source code, bytecode, or binaries without executing them to find defects, style violations, and security flaws, typically through linters, type checkers, and dedicated analyzers wired into the editor and pipeline.
+
 **[STRIDE](https://en.wikipedia.org/wiki/STRIDE_model)**: A threat-modeling taxonomy categorizing threats as Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege.
 
 ## T
@@ -331,11 +413,19 @@ for fuller treatment.
 
 **[Technical debt](https://en.wikipedia.org/wiki/Technical_debt)**: The implied future cost of choosing an expedient solution now over a better one that would take longer, which must be managed deliberately rather than accrued unconsciously.
 
+**TF-IDF (Term Frequency-Inverse Document Frequency)**: A classic weighting scheme that scores a term's importance to a document by how often it appears there, offset by how common it is across the whole corpus. It underlies much of lexical search ranking.
+
+**[Theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)**: A management approach holding that a system's throughput is limited by a single bottleneck at any time, so improvement efforts should focus on that constraint until it moves elsewhere.
+
 **[Threat modeling](https://en.wikipedia.org/wiki/Threat_model)**: A structured practice of identifying, enumerating, and prioritizing potential threats to a system so that defenses can be designed in early.
 
 **Toil**: In SRE, manual, repetitive, automatable operational work that scales linearly with a service and provides no lasting value; reducing it frees capacity for engineering.
 
 **Trunk-based development**: A source-control practice in which developers integrate small changes frequently into a single shared branch, minimizing long-lived branches and merge pain.
+
+**[Type inference](https://en.wikipedia.org/wiki/Type_inference)**: A language feature that deduces the types of expressions automatically, giving much of the safety of static typing without requiring every type to be written out by hand.
+
+**[Type system](https://en.wikipedia.org/wiki/Type_system)**: The set of rules a language uses to assign and check types, catching whole classes of error before the program runs and documenting intent. Type systems range from dynamic to static and from weak to strong.
 
 ## U
 
@@ -349,15 +439,25 @@ for fuller treatment.
 
 **[Value object](https://en.wikipedia.org/wiki/Value_object)**: In Domain-Driven Design, an immutable object defined entirely by its attributes rather than a distinct identity, such as a money amount or a date range.
 
+**[Value stream mapping](https://en.wikipedia.org/wiki/Value-stream_mapping)**: A technique for drawing every step from idea to delivered value, distinguishing value-add time from wait time, so bottlenecks, handoffs, and rework loops become visible and improvable.
+
+**[Vector database](https://en.wikipedia.org/wiki/Vector_database)**: A data store optimized for indexing and searching high-dimensional embedding vectors by similarity, a common backbone of semantic search and retrieval-augmented generation.
+
 **Vertical scaling**: Increasing capacity by making a single node more powerful ("scaling up"), which is simple but ultimately bounded by the largest available machine.
 
 **[VCS (Version Control System)](https://en.wikipedia.org/wiki/Version_control)**: A tool, such as Git, that records changes to files over time so that history can be reviewed, branches can be maintained, and work can be coordinated.
+
+**[Vulnerability scanning](https://en.wikipedia.org/wiki/Vulnerability_scanner)**: Automated inspection of systems, containers, or code against databases of known weaknesses and misconfigurations. It is broad and cheap, and complements the depth of manual penetration testing.
 
 ## W
 
 **[WCAG (Web Content Accessibility Guidelines)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)**: A W3C set of internationally recognized guidelines, organized around the POUR principles and conformance levels A, AA, and AAA, for making web content accessible.
 
 **Wardley map**: A visual strategy technique that positions capabilities by their value to users and their evolutionary maturity, to inform build/buy and investment decisions.
+
+**Work in progress (WIP) limit**: A cap on how many items may be in a given stage of a workflow at once, a core Kanban practice that improves flow by exposing bottlenecks and curbing the overhead of too much parallel work.
+
+**WSJF (Weighted Shortest Job First)**: A prioritization method that sequences work by dividing its cost of delay by its estimated duration, so the shortest, most time-sensitive, highest-value items are done first.
 
 ## X
 

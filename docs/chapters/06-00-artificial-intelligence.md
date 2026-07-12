@@ -18,6 +18,7 @@ Enterprise and government contexts add sharper constraints, and they run through
 - **6.7 AI agents and agentic systems**: Building software that uses a language model in a loop with tools, memory, and a goal to take actions, and doing it safely through bounded autonomy, least-privilege tool access, human-in-the-loop approvals, guardrails against prompt injection, and rigorous evaluation of non-deterministic behavior.
 
 - **6.8 AI evaluation and testing**: Making AI trustworthy through eval-driven development, representative eval sets and task-fit metrics, calibrated LLM-as-judge and human review, red-teaming, regression gates in continuous integration, and monitoring quality and drift in production.
+- **6.9 Prompt engineering and context design**: Treating prompting as engineering, with structured prompts, few-shot and chain-of-thought techniques, disciplined context budgeting and retrieval, structured output and tool calling, and prompts versioned, reviewed, and evaluated like code.
 
 ## How these chapters interrelate
 

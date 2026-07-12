@@ -31,6 +31,7 @@ In enterprise and government settings the stakes rise further. Systems routinely
 - **2.19 Refactoring and technical debt:** Improving the internal design of working code behind a trustworthy test suite, recognizing code smells and applying small named refactorings, using the strangler fig for larger change, and managing technical debt as a visible, financed portfolio rather than a moral failing.
 
 - **2.20 Error handling and resilience patterns:** Deciding deliberately how code fails and recovers, through clear error contracts, fail-fast versus fail-safe choices, retries with backoff and idempotence, circuit breakers and graceful degradation, and never silently swallowing an error.
+- **2.21 Type systems and static analysis:** Catching whole classes of defect before the code runs, through static and gradual typing that makes illegal states unrepresentable, and linters, type checkers, and analyzers wired into the editor and the pipeline.
 
 ## How these chapters interrelate
 
