@@ -43,7 +43,7 @@ And they do all of this *together*, which is why culture, teams, and ways of wor
 
 Calling it "engineering" is a claim that this work can be done deliberately, measured, improved, and taught, not left to heroics and luck. The profession has slowly built up a shared body of knowledge (the IEEE's [SWEBOK](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge) is one attempt to map it), a set of ethical responsibilities, and hard-won lessons about what tends to work and what tends to hurt. This book stands on that tradition and extends it into the modern world of [cloud](https://en.wikipedia.org/wiki/Cloud_computing), data, [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), and public-interest technology.
 
-But the "engineering" label comes with humility, too. Software is younger and more malleable than bridge-building, our materials change every few years, and our best practices are strong tendencies, not physical laws. So treat everything here as well-earned guidance to apply with judgment, not rules to follow off a cliff.
+But the "engineering" label comes with humility, too. Software is younger and more malleable than bridge-building, our materials change every few years, and our best practices are strong tendencies, not physical laws. So treat everything here as well-earned guidance to apply with judgement, not rules to follow off a cliff.
 
 ## Why the "large team" framing matters
 

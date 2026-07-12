@@ -33,11 +33,11 @@ Adopt an [incident command system](https://en.wikipedia.org/wiki/Incident_Comman
 
 ### Communicate during incidents, internally and publicly
 
-Set up a single coordination channel as the source of truth, and post updates on a fixed cadence, even when the update is only "still investigating." Internally, keep leadership and affected teams informed through the communications lead, so responders are not interrupted. Externally, use a status page and, for significant incidents, customer or public notifications that are honest about impact and expected resolution without over-promising. For regulated and government services, know your mandatory reporting obligations and deadlines in advance, and have templates ready. The goal is that stakeholders always hear more from you than from rumor.
+Set up a single coordination channel as the source of truth, and post updates on a fixed cadence, even when the update is only "still investigating." Internally, keep leadership and affected teams informed through the communications lead, so responders are not interrupted. Externally, use a status page and, for significant incidents, customer or public notifications that are honest about impact and expected resolution without over-promising. For regulated and government services, know your mandatory reporting obligations and deadlines in advance, and have templates ready. The goal is that stakeholders always hear more from you than from rumour.
 
 ### Hold blameless postmortems and drive corrective actions
 
-After any significant incident, write a **blameless postmortem**: a factual timeline, the impact, the contributing factors, what went well, what went poorly, and where you got lucky. Blameless means it focuses on how the system and process allowed the failure, not on who to punish, because [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is what produces honest accounts and real learning. Every postmortem yields **corrective actions** with owners and due dates, prioritized by their effect on future risk. Track these to completion in the normal engineering backlog. A postmortem whose actions are never done is just theater.
+After any significant incident, write a **blameless postmortem**: a factual timeline, the impact, the contributing factors, what went well, what went poorly, and where you got lucky. Blameless means it focuses on how the system and process allowed the failure, not on who to punish, because [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is what produces honest accounts and real learning. Every postmortem yields **corrective actions** with owners and due dates, prioritized by their effect on future risk. Track these to completion in the normal engineering backlog. A postmortem whose actions are never done is just theatre.
 
 ### Learn from incidents and build organizational memory
 
@@ -49,7 +49,7 @@ Individual postmortems are necessary, but they are not enough on their own. Revi
 |---|---|---|
 | Formal incident command | Coordinated, scalable response | Overhead for small incidents |
 | Low bar to declare | Catches problems early | Occasional false alarms |
-| Public status transparency | Builds trust, reduces rumor | Exposes failures, invites scrutiny |
+| Public status transparency | Builds trust, reduces rumour | Exposes failures, invites scrutiny |
 | Blameless postmortems | Honest learning, safety | Can feel like no accountability if misused |
 | Large on-call rotations | Sustainable, less burnout | Needs more trained staff, dilutes context |
 
@@ -63,13 +63,29 @@ The central trade-off is between process overhead and coordination benefit. A he
 
 3. **When did you last rehearse a major incident with a game day, and what gap did it expose?** Game days and chaos exercises rehearse the response and surface gaps before a real incident does, and the mature end state in this chapter is smooth, well-rehearsed response, not response invented under pressure. A plan that has never been exercised hides broken assumptions: stale runbooks, missing access, an escalation path that dead-ends, a status page nobody can update. Bring the last exercise's findings, or if there was none, treat that as the finding. For enterprise and government systems where outages are publicly scrutinized, rehearsal is how you show competence rather than improvising in front of citizens and regulators. The answer should set a cadence for game days and feed every exposed gap into runbooks, access reviews, and production-readiness bars.
 
+4. **What is the real alert load on your busiest rotation, and would you be willing to carry that pager yourself?** A noisy, sleep-destroying rotation is a bug, not a badge of honour, and alert fatigue is where responders miss or slowly acknowledge the real emergency, so the humane question and the reliability question are the same question. The competing pressure is that cutting pages feels like lowering vigilance, when in practice a flood of false pages lowers it far more. Bring the numbers: pages per shift, how many fired outside working hours, how many were actionable, and the acknowledgment times for the ones that mattered. Set an explicit ceiling on pages per shift and treat any rotation over it as work to fix by tuning or deleting alerts. For a large or government organization, sustainable on-call is a duty of care and a retention lever, because the experienced engineers who carry irreplaceable system knowledge are exactly the ones a brutal rotation drives out, and rebuilding that knowledge costs far more than staffing the rotation humanely.
+
+5. **What fraction of last quarter's corrective actions are actually finished, and who is accountable when they are not?** A postmortem whose actions are never completed produces the same incident again, so the discipline that separates real learning from theatre is whether the fixes ship, not whether the writeups read well. The tension is that corrective actions compete with feature work in the same backlog, and without a named owner, a due date, and a review cadence they quietly lose every prioritization fight. Bring the ledger: every action from recent postmortems, its owner, its due date, and its status, plus the count of incidents that recurred because a fix stalled. Track these in the normal engineering backlog and review completion as a metric against a baseline, so aging or dropped actions surface rather than disappear. In enterprise and government settings, an unfinished corrective action after a reported outage is the kind of finding an auditor or oversight body seizes on, so completion is both an engineering safeguard and a matter of demonstrable accountability.
+
+6. **Does everyone feel safe declaring an incident early and speaking honestly in the postmortem, or does fear of blame slow them down?** Blameless culture is what produces the honest accounts that reveal systemic causes, and a low bar to declare is what catches problems while they are small, so both depend on people not fearing that raising a hand will be held against them. The competing worry is that blamelessness reads as a lack of accountability, but the accountability it demands is collective: the team owns fixing the conditions that allowed the failure rather than scapegoating whoever touched it last. Bring evidence you can actually observe: how quickly incidents get declared versus how long problems simmer first, whether junior engineers ever declare, and whether postmortems name contributing conditions or quietly name a person. For a large or public organization, psychological safety is fragile and easily undone by one blame-driven review or one leader who punishes a messenger, so watch for the signal that people are routing around the process, and treat honest early declaration as a behaviour to protect rather than a risk to manage.
+
+## Sector lens
+
+**Startup.** With a handful of engineers and no spare runway, keep the process to one page: whoever notices declares, one person coordinates, one person investigates, one person tells customers, and nobody else touches production. Skip formal severity tiers and dedicated roles you cannot staff, but do write the blameless one-page writeup, because at your size a single recurring failure can sink you. Lean on a hosted status page and paging tool rather than building coordination tooling.
+
+**Small business.** You have no dedicated reliability specialist and a tight budget, so buy incident tooling embedded in the monitoring and paging services you already pay for rather than building your own. Treat on-call as a shared duty with clear, humane limits so it does not burn out the one or two people who understand the system. Write short postmortems and actually complete the fixes, since with a small team a repeat outage costs you customers you cannot easily replace.
+
+**Enterprise.** The challenge is coordinating many teams under pressure, so standardize an incident command system, shared severity criteria, and a single source of truth so a SEV1 spanning services does not fragment. Invest in trained commanders across every time zone, aggregate postmortems into a searchable organizational memory, and govern corrective actions to completion with owners and audit trails. Manage on-call load as a fleet-wide metric so no rotation quietly becomes inhumane.
+
+**Government.** Procurement rules, transparency, and public accountability shape the response. Know your mandatory outage-reporting deadlines and thresholds in advance, keep filing templates and a named authorized owner ready, and publish honest status updates and call-centre scripts so citizens are never left guessing. Share postmortems across the agency, feed them into resilience planning for peak periods, and treat the record of past incidents as evidence you can show oversight bodies that failures produced durable fixes.
+
 ## Examples
 
 **Startup.** A six-person startup wakes to its API returning errors and everyone piling into the same chat thread at once. Burned by the chaos, they write one page of incident basics: whoever notices declares the incident and becomes coordinator, one person investigates, one person posts a plain update to customers, and nobody else touches production. The next outage runs calmly and resolves in forty minutes. A short blameless writeup finds a migration that ran without a backup step, and they add that check to their deploy script the same day.
 
 **Enterprise.** A large software-as-a-service provider hits a partial outage during business hours. The on-call engineer declares a SEV1, and an incident commander takes over coordination while the technical lead investigates and the communications lead posts updates to the public status page every twenty minutes. Executives follow a leadership channel instead of interrupting responders. Service comes back in ninety minutes. A blameless postmortem the next week finds a missing safeguard in a deployment pipeline and produces three corrective actions with owners. Aggregate review later shows this was the third deploy-related incident that quarter, which triggers a structural investment in safer rollouts.
 
-**Government.** A benefits agency's payment system fails on a high-volume day, blocking citizens from receiving support. The agency's incident process mobilizes a commander, technical responders, and a communications lead who coordinates public messaging and meets a regulatory requirement to report major outages within a fixed window. A status page and call-center scripts keep citizens and staff informed. The blameless postmortem, shared across the agency, feeds lessons into runbooks and a production-readiness review, and the body of past incidents informs the following year's capacity and resilience planning for peak periods.
+**Government.** A benefits agency's payment system fails on a high-volume day, blocking citizens from receiving support. The agency's incident process mobilizes a commander, technical responders, and a communications lead who coordinates public messaging and meets a regulatory requirement to report major outages within a fixed window. A status page and call-centre scripts keep citizens and staff informed. The blameless postmortem, shared across the agency, feeds lessons into runbooks and a production-readiness review, and the body of past incidents informs the following year's capacity and resilience planning for peak periods.
 
 ## Business case: motivations, ROI, and TCO
 
@@ -81,21 +97,23 @@ The adoption costs are modest next to the benefit: training in incident command,
 
 - **Hero culture.** Depending on one or two people to save every incident is fragile and guarantees their burnout.
 - **No clear commander.** Without someone owning coordination, responders duplicate work, conflict, and lose the timeline.
-- **Going silent.** Withholding updates during an outage breeds rumor, panic, and lasting distrust.
+- **Going silent.** Withholding updates during an outage breeds rumour, panic, and lasting distrust.
 - **Blame games.** Punishing individuals drives honesty underground and hides the systemic causes you need to fix.
-- **Postmortem theater.** Writing postmortems whose corrective actions are never completed produces the same incident again.
+- **Postmortem theatre.** Writing postmortems whose corrective actions are never completed produces the same incident again.
 - **Alert-fatigued on-call.** Noisy rotations exhaust responders so they miss or slowly acknowledge the real emergency.
 - **Severity confusion.** Undefined or inconsistently applied severity levels cause under-response to serious incidents and over-response to trivial ones.
 
 ## Maturity model
 
-**Level 1, Initial.** Incidents are handled ad hoc by whoever notices. No defined roles, severity levels, or postmortems. On-call, if it exists, is informal and stressful. The same failures recur.
+**Level 1, Initiate.** Incidents are handled ad hoc by whoever notices, and the response is reactive and improvised. No defined roles, severity levels, or postmortems exist. On-call, if it exists at all, is informal and stressful, and the same failures recur because nothing durable is learned.
 
-**Level 2, Repeatable.** Basic on-call rotations and severity definitions exist. Some incidents get postmortems, but roles are unclear during response and corrective actions are inconsistently tracked.
+**Level 2, Develop.** Basic on-call rotations and severity definitions exist, and some incidents get postmortems, but practice is inconsistent across teams. Roles are unclear during the response, one team may run a disciplined incident while the next descends into chaos, and corrective actions are tracked haphazardly if at all.
 
-**Level 3, Defined.** A formal incident command system with clear roles and severity criteria is used consistently. Blameless postmortems are standard, corrective actions are tracked to completion, and on-call is compensated and monitored for load.
+**Level 3, Standardize.** A formal incident command system with clear roles and severity criteria is documented and used consistently across the organization. Blameless postmortems are the standard for significant incidents, corrective actions are logged with owners and due dates, on-call is compensated, and a single coordination channel and status-page practice are enforced org-wide rather than left to each team.
 
-**Level 4, Optimizing.** Incident response is smooth and well-rehearsed through game days. On-call is sustainable and quiet. Aggregate incident analysis drives structural investment, postmortems form a searchable organizational memory, and the incident rate and impact trend down over time.
+**Level 4, Manage.** The incident programme is measured and controlled against baselines. You track time to detect, time to acknowledge, time to resolve, pages per shift, corrective-action completion rate, and repeat-incident rate, and you review these metrics on a cadence to catch regressions. Severity levels are applied consistently enough that the data is trustworthy, alert load is held under an explicit ceiling, and go or no-go decisions during and after incidents are driven by evidence rather than instinct.
+
+**Level 5, Orchestrate.** Incident management is continuously improved and integrated across the organization. Response is smooth and well-rehearsed through regular game days, aggregate analysis drives structural investment that removes whole classes of failure, and postmortems form a searchable organizational memory that feeds runbooks, training, architecture reviews, and capacity planning. The system adapts as it grows, and the incident rate and impact trend down over time.
 
 ## Ideas for discussion
 

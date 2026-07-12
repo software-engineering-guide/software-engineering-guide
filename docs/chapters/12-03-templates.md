@@ -91,7 +91,7 @@ A few conventions used below:
 ## Impact and risks
 
 - Security and privacy: [implications and mitigations]
-- Performance and scale: [expected load and behavior]
+- Performance and scale: [expected load and behaviour]
 - Operability: [monitoring, failure modes, rollout, rollback]
 - Cost: [infrastructure or licensing impact]
 - Backward compatibility: [migration and deprecation]
@@ -267,7 +267,7 @@ A few conventions used below:
 <!-- Dashboards, related runbooks, architecture docs. -->
 ```
 
-## Service README / service catalog entry
+## Service README / service catalogue entry
 
 ```markdown
 # [Service name]

@@ -35,14 +35,15 @@ checked. (enforced)
 3. `## Key principles` (a short bulleted list)
 4. `## Recommendations` (the core, under `###` subheadings)
 5. `## Trade-offs: pros and cons` (at least one Markdown table plus prose)
-6. `## Questions to discuss with your team` (exactly three questions, each with a comprehensive paragraph of supporting context)
-7. `## Examples` (at least one enterprise and one government example)
-8. `## Business case: motivations, ROI, and TCO`
-9. `## Anti-patterns and pitfalls`
-10. `## Maturity model` (four levels: 1 Initial, 2 Managed, 3 Defined, 4 Optimizing)
-11. `## Ideas for discussion` (four to six questions)
-12. `## Key takeaways`
-13. `## References and further reading`
+6. `## Questions to discuss with your team` (exactly six questions, each with a comprehensive paragraph of supporting context)
+7. `## Sector lens` (how the topic shifts across four sectors, each with a short paragraph: **Startup**, **Small business**, **Enterprise**, **Government**)
+8. `## Examples` (at least one enterprise and one government example)
+9. `## Business case: motivations, ROI, and TCO`
+10. `## Anti-patterns and pitfalls`
+11. `## Maturity model` (five levels: 1 Initiate, 2 Develop, 3 Standardize, 4 Manage, 5 Orchestrate)
+12. `## Ideas for discussion` (four to six questions)
+13. `## Key takeaways`
+14. `## References and further reading`
 
 Part introductions (N.0) use a lighter shape: two or three framing paragraphs, a
 `## Chapters in this part` list, and a `## How these chapters interrelate`
@@ -81,6 +82,12 @@ template.
   is enforced)
 - **Real references only.** The references section lists real books, papers, and
   standards by author and title. Do not fabricate works or invent URLs.
+- **Oxford spelling.** Write in Oxford spelling: British English, but `-ize` and
+  `-ization` for Greek-root verbs (organize, standardize, prioritize), while
+  keeping British forms elsewhere (colour, behaviour, centre, licence as a noun,
+  travelled, catalogue). See [`spec/oxford-spelling.md`](oxford-spelling.md) for
+  the full rules. Never change the spelling inside a URL, inside code, or inside
+  the title of a cited work or a proper noun.
 
 ## Cross-references
 
@@ -91,7 +98,7 @@ On the published site these references become links automatically: the
 `guide_xref` Markdown extension (at the repository root) recognizes the
 reference formats at build time and links the decimal numbers to the matching
 chapter pages. It never touches version numbers or quantities (WCAG 2.2,
-Apache 2.0, an OKR graded 1.0), and `tests/test_xref.py` locks that behavior
+Apache 2.0, an OKR graded 1.0), and `tests/test_xref.py` locks that behaviour
 in. Keep writing plain decimal references; the build does the rest.
 
 ## Changing the structure

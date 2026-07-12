@@ -16,13 +16,13 @@ PART_TITLES = {
     1: "People", 2: "Software Programming", 3: "Systems", 4: "Security",
     5: "UI/UX Design", 6: "Artificial Intelligence", 7: "Data, Analytics, and Insight",
     8: "Automation", 9: "Operations, Reliability, and Observability",
-    10: "Project/Product/Program Management", 11: "Flow: Discovery and Delivery Pipelines",
+    10: "Project/Product/Programme Management", 11: "Flow: Discovery and Delivery Pipelines",
     12: "Appendices",
 }
 REQUIRED_SECTIONS = [
     "## Overview and motivation", "## Key principles", "## Recommendations",
     "## Trade-offs: pros and cons", "## Questions to discuss with your team",
-    "## Examples", "## Business case",
+    "## Sector lens", "## Examples", "## Business case",
     "## Anti-patterns", "## Maturity model", "## Ideas for discussion",
     "## Key takeaways", "## References and further reading",
 ]

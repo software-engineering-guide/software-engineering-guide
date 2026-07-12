@@ -90,7 +90,7 @@ it as a paved road to the next cohort of teams.
 Goal: make the paved road the default for most new work and begin retiring the
 worst legacy practices.
 
-- [ ] Expand the platform team's remit; publish a service catalog and scorecards.
+- [ ] Expand the platform team's remit; publish a service catalogue and scorecards.
 - [ ] Set organization-wide baselines: SLOs for tier-1 services, security
       controls in every pipeline, accessibility checks in front-end builds.
 - [ ] Track adoption rates by team and make the data visible.
@@ -103,10 +103,10 @@ worst legacy practices.
 
 ### 2+ years: Sustain and improve continuously
 
-Goal: the practices are "how we work," not a program, and the organization
+Goal: the practices are "how we work," not a programme, and the organization
 improves them without central push.
 
-- [ ] Retire the transformation program as a named initiative; embed its work in
+- [ ] Retire the transformation programme as a named initiative; embed its work in
       normal governance and platform operations.
 - [ ] Treat the paved road as a product with its own roadmap, users, and
       satisfaction metrics (developer experience surveys).
@@ -261,16 +261,16 @@ guard against improving one by sacrificing another.
 
 | Failure mode | What it looks like | How to avoid it |
 |---|---|---|
-| **Big-bang rollout** | Changing everything for everyone at once; program collapses under its own weight. | Sequence by pain and readiness; pilot, prove, then scale. |
+| **Big-bang rollout** | Changing everything for everyone at once; programme collapses under its own weight. | Sequence by pain and readiness; pilot, prove, then scale. |
 | **Mandate without a paved road** | Policy requires the new way, but the new way is slower; teams comply on paper and work around it. | Build the easier, better path *first*; earn adoption on merit. |
 | **Cargo-culting a framework** | Copying SAFe, the Spotify model, or another org's structure without their context. | Start from your own pain and principles; adapt, don't transplant. |
 | **Measuring activity, not outcomes** | Celebrating training completed and boxes ticked while delivery and reliability don't move. | Instrument outcomes (DORA, incidents, user value) from the start. |
 | **Tool-first transformation** | Buying a platform and expecting culture to follow. | Lead with practices and paved roads; tools serve them, not vice versa. |
-| **Losing sponsorship** | The executive champion leaves or disengages; the program stalls. | Institutionalize the change in normal governance; build a coalition, not a single point of failure. |
+| **Losing sponsorship** | The executive champion leaves or disengages; the programme stalls. | Institutionalize the change in normal governance; build a coalition, not a single point of failure. |
 | **Vanity metrics and gaming** | Coverage or velocity numbers rise while quality falls. | Use metrics as signals with balancing measures; never as sole targets. |
 | **Boiling the ocean on legacy** | Trying to modernize everything, delivering nothing. | Rank by risk and value; strangle the critical few, freeze the rest. |
-| **Transformation fatigue** | Endless change with no visible payoff; teams disengage. | Ship early wins; protect sustainable pace; let the program end and become normal work. |
-| **Ignoring the org chart** | New architecture fights the existing team structure. | Apply the inverse Conway maneuver: shape teams to the architecture you want. |
+| **Transformation fatigue** | Endless change with no visible payoff; teams disengage. | Ship early wins; protect sustainable pace; let the programme end and become normal work. |
+| **Ignoring the org chart** | New architecture fights the existing team structure. | Apply the inverse Conway manoeuvre: shape teams to the architecture you want. |
 
 ## The shortest possible version
 

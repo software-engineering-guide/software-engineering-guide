@@ -59,6 +59,9 @@ lives in three companion files.
 - **[conventions.md](conventions.md)** is the writing and format specification:
   the numbering scheme, the chapter template, the house style, and the hard rules
   the tests enforce.
+- **[oxford-spelling.md](oxford-spelling.md)** is the spelling standard: Oxford
+  spelling (British English with `-ize` endings), with the word lists and the
+  rules for the spelling sweep.
 - **[roadmap.md](roadmap.md)** is the authoring backlog and the adoption
   checklists organizations can use to put the guidance into practice.
 

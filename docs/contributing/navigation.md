@@ -1,6 +1,6 @@
 # Navigation: how the generated files work
 
-Five navigation artifacts are generated from the chapters, not written by hand:
+Five navigation artefacts are generated from the chapters, not written by hand:
 
 - `README.md` (the table of contents on the repository home page)
 - `docs/index.md` (the home page of the published site)

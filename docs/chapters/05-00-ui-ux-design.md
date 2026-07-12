@@ -8,7 +8,7 @@ Enterprise and government raise the stakes further. Enterprise software often ha
 
 ## Chapters in this part
 
-- **5.1 UX foundations**: The research, user modeling, and design-thinking practices that let an organization make evidence-based product decisions instead of guessing, and give every team the same map of the user.
+- **5.1 UX foundations**: The research, user modelling, and design-thinking practices that let an organization make evidence-based product decisions instead of guessing, and give every team the same map of the user.
 - **5.2 UI design and design systems**: The craft of shaping what people see and touch, and the shared, governed system of tokens, components, and patterns that keeps thousands of screens across many teams coherent.
 - **5.3 Accessibility**: Building software that people with disabilities can perceive, operate, understand, and use, treated simultaneously as a legal duty, an ethical duty, and simply good design.
 - **5.4 Content and communication design**: Shaping the words, messages, and communications a product uses to help people act, in plain language and a consistent voice, because words are interface.
@@ -18,7 +18,7 @@ Enterprise and government raise the stakes further. Enterprise software often ha
 
 - **5.8 Design research and usability testing**: Reducing the risk of building the wrong thing through generative and evaluative research, the right method for each question, usability testing done well, representative recruiting, and synthesis that actually changes decisions.
 - **5.9 Service design**: Designing the whole service a person experiences across channels and over time, front-stage and back-stage, using service blueprints and journey maps and aligning the organization behind the service, not just a single screen.
-- **5.10 Data visualization design**: Choosing the right chart for the question and encoding data honestly, applying graphical excellence, accessible and color-blind-safe palettes, and clear annotation, so a chart informs a decision instead of misleading it.
+- **5.10 Data visualization design**: Choosing the right chart for the question and encoding data honestly, applying graphical excellence, accessible and colour-blind-safe palettes, and clear annotation, so a chart informs a decision instead of misleading it.
 
 ## How these chapters interrelate
 

@@ -17,7 +17,7 @@ For the reviewer examining someone else's change.
 - [ ] The scope is focused on a single logical concern; unrelated changes are split out.
 - [ ] The design fits the existing architecture and does not introduce a simpler-to-avoid coupling.
 - [ ] Edge cases, error paths, and failure modes are handled, not just the happy path.
-- [ ] Tests exist, are meaningful, and would fail if the behavior regressed.
+- [ ] Tests exist, are meaningful, and would fail if the behaviour regressed.
 - [ ] Naming, structure, and comments make the code understandable to a future reader.
 - [ ] No secrets, credentials, tokens, or personal data are committed.
 - [ ] Security-sensitive input is validated, encoded, or parameterized appropriately.
@@ -34,8 +34,8 @@ For the author before requesting review.
 - [ ] The description states what changed, why, and how it was verified.
 - [ ] The linked ticket, issue, or design doc gives reviewers the necessary context.
 - [ ] All automated checks pass locally or in CI (build, lint, format, tests, scans).
-- [ ] New and changed behavior is covered by tests.
-- [ ] Mechanical refactors are separated from behavior changes.
+- [ ] New and changed behaviour is covered by tests.
+- [ ] Mechanical refactors are separated from behaviour changes.
 - [ ] Self-review is complete: you have read your own diff line by line.
 - [ ] No debug code, commented-out blocks, secrets, or stray files remain.
 - [ ] Database migrations, feature flags, and config changes are documented and reversible.
@@ -120,14 +120,14 @@ For user-facing interfaces, aligned to WCAG principles.
 
 - [ ] All content is reachable and operable using only a keyboard.
 - [ ] Focus order is logical and a visible focus indicator is present.
-- [ ] Text color contrast meets the target ratio (typically 4.5:1 for body text).
+- [ ] Text colour contrast meets the target ratio (typically 4.5:1 for body text).
 - [ ] Images and non-text content have meaningful alternative text.
 - [ ] Form fields have associated labels and clear error messages.
 - [ ] Headings, landmarks, and structure are marked up semantically.
 - [ ] Interactive components expose correct name, role, and state to assistive tech.
 - [ ] Content reflows and remains usable at 200% zoom and on small screens.
 - [ ] Time limits are adjustable, and motion or auto-playing content can be paused.
-- [ ] Color is not the only means of conveying information.
+- [ ] Colour is not the only means of conveying information.
 - [ ] Media has captions and, where needed, transcripts or audio description.
 - [ ] The interface is tested with a screen reader and automated accessibility tooling.
 
@@ -143,7 +143,7 @@ Before publishing or changing an API.
 - [ ] Authentication and authorization are specified for every operation.
 - [ ] Input validation and size limits are defined and enforced.
 - [ ] Idempotency is defined for operations where retries are expected.
-- [ ] Rate limits, quotas, and throttling behavior are documented.
+- [ ] Rate limits, quotas, and throttling behaviour are documented.
 - [ ] Timeouts, retries, and failure semantics are clear to clients.
 - [ ] Sensitive data exposure in responses is minimized and justified.
 - [ ] Documentation includes examples for each operation and error case.
@@ -190,8 +190,8 @@ For the retrospective review after an incident.
 - [ ] The review is blameless and focuses on systems and contributing factors.
 - [ ] A factual, timestamped timeline of the incident is documented.
 - [ ] Customer and business impact is quantified (duration, scope, cost).
-- [ ] Detection is analyzed: how and when the issue was noticed.
-- [ ] Response is analyzed: what helped and what slowed recovery.
+- [ ] Detection is analysed: how and when the issue was noticed.
+- [ ] Response is analysed: what helped and what slowed recovery.
 - [ ] Contributing causes are identified, not just a single root cause.
 - [ ] What went well is recorded, as well as what went wrong.
 - [ ] Action items are specific, assigned to owners, and have due dates.
@@ -243,7 +243,7 @@ For a continuous integration and delivery pipeline.
 - [ ] Linting, formatting, and static analysis run automatically.
 - [ ] Unit, integration, and relevant end-to-end tests run in the pipeline.
 - [ ] Security and dependency scanning run on every build.
-- [ ] Build artifacts are versioned, immutable, and stored in a registry.
+- [ ] Build artefacts are versioned, immutable, and stored in a registry.
 - [ ] Secrets are injected securely and never printed in logs.
 - [ ] Deployments are automated and repeatable across environments.
 - [ ] Deployment strategy (canary, blue-green, rolling) is defined and used.
@@ -280,7 +280,7 @@ Before releasing a machine learning model to production.
 - [ ] Performance is evaluated on representative, held-out test data.
 - [ ] Fairness and bias are assessed across relevant subgroups.
 - [ ] The model is evaluated against the incumbent or a baseline.
-- [ ] Failure modes, edge cases, and out-of-distribution behavior are understood.
+- [ ] Failure modes, edge cases, and out-of-distribution behaviour are understood.
 - [ ] Safety, misuse, and harmful-output risks are assessed and mitigated.
 - [ ] Monitoring for drift, data quality, and performance degradation is in place.
 - [ ] A rollback or fallback to a previous model or rule-based path exists.

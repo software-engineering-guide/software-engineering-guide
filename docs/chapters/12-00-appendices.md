@@ -3,7 +3,7 @@
 Part 12 collects the guidebook's reference apparatus and practical toolkit: the
 material you reach for while *doing* the work rather than reading straight
 through. Where Parts 1–11 explain principles and recommendations, the
-appendices give you the definitions, ready-to-use artifacts, self-assessment,
+appendices give you the definitions, ready-to-use artefacts, self-assessment,
 sources, and navigation that support them. Each is written to stand alone, so
 you can link a team directly to a single appendix.
 
@@ -25,7 +25,7 @@ practice, the corresponding appendix helps you act on it: chapter 1.6
 chapters (4.1–4.6) pair with the [threat-model](https://en.wikipedia.org/wiki/Threat_model) and security-review checklists in
 chapter 12.2; and the maturity section of every chapter feeds the consolidated
 self-assessment in chapter 12.4. Start from a chapter's recommendations, then
-use these appendices to turn them into artifacts, assessments, and a rollout
+use these appendices to turn them into artefacts, assessments, and a rollout
 plan (chapter 12.6). Terms in any chapter are defined in the glossary (chapter
 12.1), and the index (chapter 12.7) helps you find where a concept is treated
 in depth.

@@ -43,6 +43,22 @@ why it matters in enterprise and government settings. Warm, direct, plain.]
 
 3. **[A third question?]** [Comprehensive supporting information.]
 
+4. **[A fourth question?]** [Comprehensive supporting information.]
+
+5. **[A fifth question?]** [Comprehensive supporting information.]
+
+6. **[A sixth question?]** [Comprehensive supporting information.]
+
+## Sector lens
+
+**Startup.** [How the topic plays out with a tiny team, little runway, and speed over process.]
+
+**Small business.** [How it plays out with no dedicated specialist and a tight budget; what to buy rather than build.]
+
+**Enterprise.** [How it plays out at scale, across many teams, with governance and audit.]
+
+**Government.** [How it plays out under procurement rules, transparency, and public accountability.]
+
 ## Examples
 
 **Enterprise.** [A concrete, realistic enterprise scenario.]
@@ -60,10 +76,11 @@ How to make the case to leadership.]
 
 ## Maturity model
 
-- **Level 1, Initial:** [what this looks like]
-- **Level 2, Managed:** [what this looks like]
-- **Level 3, Defined:** [what this looks like]
-- **Level 4, Optimizing:** [what this looks like]
+- **Level 1, Initiate:** [ad hoc, reactive, personality-driven]
+- **Level 2, Develop:** [basic practices exist but are inconsistent across teams]
+- **Level 3, Standardize:** [practices documented and enforced org-wide]
+- **Level 4, Manage:** [practices measured and controlled with data against baselines]
+- **Level 5, Orchestrate:** [continuously improved, integrated across the org, adaptive]
 
 ## Ideas for discussion
 

@@ -13,9 +13,9 @@ This chapter covers the practices that keep applications resilient: knowing and 
 ## Key principles
 
 - **Never trust input.** Treat all data crossing a trust boundary as hostile until validated.
-- **Secure defaults.** The safe path should be the easy path; insecure behavior should require deliberate, visible effort.
+- **Secure defaults.** The safe path should be the easy path; insecure behaviour should require deliberate, visible effort.
 - **Fail closed.** When a security check cannot complete, deny access rather than allow it.
-- **Defense in depth at the app layer.** Combine validation, encoding, parameterization, and framework protections; do not rely on one.
+- **Defence in depth at the app layer.** Combine validation, encoding, parameterization, and framework protections; do not rely on one.
 - **Least privilege for identities and tokens.** Scope credentials narrowly and expire them quickly.
 - **Your dependencies are your code.** You are responsible for the security of everything you ship, including third-party and open-source components.
 - **Standards over improvisation.** Use vetted frameworks such as the [OWASP](https://en.wikipedia.org/wiki/OWASP) (Open Worldwide Application Security Project) ASVS rather than inventing your own security controls.
@@ -66,8 +66,8 @@ Modern applications are mostly assembled from third-party components, which make
 - Maintain a **[Software Bill of Materials](https://en.wikipedia.org/wiki/Software_bill_of_materials) (SBOM)** for every application so you know exactly what you ship and can respond fast when a new vulnerability lands.
 - Continuously scan dependencies (Software Composition Analysis, or SCA) and remediate known-vulnerable components promptly.
 - Pin and verify dependency versions; use lockfiles and trusted registries.
-- Adopt **SLSA** (Supply-chain Levels for Software Artifacts) to raise build integrity, and generate **provenance** attestations describing how artifacts were built.
-- **Sign artifacts** and verify signatures before deployment so you can trust that what runs is what you built.
+- Adopt **SLSA** (Supply-chain Levels for Software Artifacts) to raise build integrity, and generate **provenance** attestations describing how artefacts were built.
+- **Sign artefacts** and verify signatures before deployment so you can trust that what runs is what you built.
 - Secure the build system itself; a compromised CI pipeline can inject malicious code into every downstream consumer.
 
 ## Trade-offs: pros and cons
@@ -89,7 +89,23 @@ The recurring trade-off is upfront rigor versus ongoing exposure. Building custo
 
 2. **How will you find and fix broken object-level authorization across every API, not just the new ones?** Accessing another user's record by changing an ID is one of the most common and severe API flaws, and it hides in older endpoints that predate your current standards. Server-side authorization on every request and every object is the rule, but the hard part is verifying it holds across a sprawling, years-old codebase written by many hands. Decide whether you will centralize authorization logic, add automated tests that attempt cross-tenant access, or run targeted testing against your highest-risk APIs first. Bring your inventory of endpoints that expose object identifiers and rank them by the sensitivity of what they return. Without a deliberate sweep, you will keep shipping this flaw and discover it only when a researcher or an attacker does.
 
-3. **What is your plan for the next widespread dependency vulnerability: how fast can you find and patch every affected service?** When a critical flaw lands in a popular library, the companies with an accurate SBOM identify affected services in hours while others spend weeks searching, and that speed gap decides how much damage you take. Decide now whether you produce a Software Bill of Materials for every artifact, whether dependency scanning runs in every pipeline, and who owns the emergency patch decision. For regulated and government buyers, SBOMs and signed provenance are increasingly a condition of doing business, so this readiness also protects revenue. Bring the honest answer to a drill: pick a library you use widely and time how long it takes to list every service that ships it. If the answer is measured in days, invest in inventory and signing before the next incident forces you to.
+3. **What is your plan for the next widespread dependency vulnerability: how fast can you find and patch every affected service?** When a critical flaw lands in a popular library, the companies with an accurate SBOM identify affected services in hours while others spend weeks searching, and that speed gap decides how much damage you take. Decide now whether you produce a Software Bill of Materials for every artefact, whether dependency scanning runs in every pipeline, and who owns the emergency patch decision. For regulated and government buyers, SBOMs and signed provenance are increasingly a condition of doing business, so this readiness also protects revenue. Bring the honest answer to a drill: pick a library you use widely and time how long it takes to list every service that ships it. If the answer is measured in days, invest in inventory and signing before the next incident forces you to.
+
+4. **How will you move from long-lived static secrets to short-lived, automatically issued credentials, and which systems block that today?** Hardcoded and long-lived secrets are a perennial breach cause, and the fix, short-lived credentials issued on demand, depends on issuance infrastructure that older systems often cannot use. For a large team the danger is uneven adoption: a modern platform rotates keys hourly while a legacy service still ships a static database password in a config file. Decide which workloads can consume a secrets manager or workload-identity system now, which need investment first, and who owns the rotation runbook the moment a key is suspected leaked. Bring an inventory of every credential in use, its lifetime, its blast radius if exposed, and whether commit scanning would catch it before merge. In enterprise and government settings, tie this to audit: examiners increasingly expect evidence of rotation, scoped access, and access logging for every secret, and a static credential you cannot rotate without downtime is a finding waiting to be written up.
+
+5. **Where do you still run homegrown or inconsistent authentication, and what is the plan to consolidate on vetted protocols?** Building authentication is one of the easiest ways to introduce subtle, exploitable flaws, yet most large estates carry at least one legacy login flow that predates the decision to standardize on OAuth 2.0 and OIDC. The competing pressures are real: migrating an old flow risks breaking existing users and integrations, while leaving it in place keeps a high-value target under-defended. Decide whether you consolidate on a single identity provider, enforce MFA uniformly, and set a deadline to retire each bespoke flow, or accept documented exceptions with compensating controls. Bring a map of every authentication path in the fleet, which enforce MFA, which store passwords with a modern memory-hard hash, and which are custom. For enterprise and government portfolios, add the compliance angle: standards such as NIST SP 800-63 set concrete expectations for identity assurance, and a homegrown flow that cannot demonstrate them will not survive an audit or an authority-to-operate review.
+
+6. **How do you verify that these controls actually hold in production, and can you prove it with evidence rather than assertion?** Writing a secure default is not the same as knowing every service still honours it, and controls quietly rot as code changes, exceptions pile up, and new endpoints ship. For a large team the question is coverage: which services run static analysis, dependency scanning, and dynamic or penetration testing, and how do you know the ones that skip them are not your highest-risk applications? Decide what verification is mandatory in the pipeline versus periodic, who triages the findings, and what evidence you retain to show a control was tested and passing on a given date. Bring your current coverage map, your mean time to remediate by severity, and the list of applications with no recent test. In regulated and government contexts, this evidence is not optional: auditors, authorizing officials, and breach investigators all ask for proof that controls were verified, and a policy with no test records rarely satisfies them.
+
+## Sector lens
+
+**Startup.** With two or three engineers and no security specialist, your leverage is to inherit security rather than build it: adopt a managed OIDC identity provider, lean on a framework whose ORM parameterizes queries by default, and keep secrets in your platform's secret manager rather than `.env` files a teammate might commit by accident. Turn on automated dependency scanning that opens patch pull requests, and treat that as enough for now. Do not build custom auth or crypto, because a single injected query or one leaked key can end the company before it has customers.
+
+**Small business.** You likely have no application-security specialist and a tight budget, so buy controls embedded in the tools and platforms you already pay for rather than staffing a dedicated function. Choose a hosted identity provider with MFA included, a managed database that steers you toward parameterized access, and a repository host that scans commits for leaked secrets out of the box. Concentrate your scarce attention on the OWASP Top 10 basics that cause most real-world breaches, and prefer vendors who ship secure defaults you cannot casually switch off.
+
+**Enterprise.** Across many teams the challenge is consistency: bake ASVS controls into paved-road frameworks so every new service inherits parameterized queries, output encoding, secure sessions, and server-side authorization for free. Run accurate SBOMs and fleet-wide dependency scanning so the next widespread library vulnerability is a matter of hours, not weeks, and centralize authorization policy so cross-tenant access becomes testable. Standardize on one identity provider with enforced MFA, and manage application security as a governed portfolio with risk-tiered ASVS levels and audited evidence.
+
+**Government.** Procurement rules, transparency, and public accountability shape the controls you must demonstrate, not merely implement. Verify citizen-facing services against OWASP ASVS at a level matched to data sensitivity, sign every deployed artefact and attest its provenance per SLSA to satisfy supply-chain mandates, and issue short-lived credentials from a central vault with full access logging. Expect to show auditors and authorizing officials a documented chain of custody from source to production, and align identity assurance to published standards such as NIST SP 800-63.
 
 ## Examples
 
@@ -97,7 +113,7 @@ The recurring trade-off is upfront rigor versus ongoing exposure. Building custo
 
 **Enterprise.** A retail platform serving tens of millions of shoppers standardizes authentication on OIDC through a single identity provider, enforcing MFA for staff and step-up authentication for high-value account changes. All database access goes through an ORM configured to parameterize queries, and a Content Security Policy backs up output encoding. After a widely publicized vulnerability in a popular logging library, the company's SBOM lets it identify every affected service within hours and patch them in two days, while competitors without inventories spent weeks searching.
 
-**Government.** A federal benefits agency builds citizen-facing services verified against OWASP ASVS Level 2, with Level 3 for the components handling the most sensitive records. Secrets live in a central vault issuing short-lived credentials; commit scanning blocks any leaked key. Every deployed artifact is signed and its provenance attested per SLSA, satisfying a federal mandate for verifiable software supply chains and giving auditors a clear chain of custody from source to production.
+**Government.** A federal benefits agency builds citizen-facing services verified against OWASP ASVS Level 2, with Level 3 for the components handling the most sensitive records. Secrets live in a central vault issuing short-lived credentials; commit scanning blocks any leaked key. Every deployed artefact is signed and its provenance attested per SLSA, satisfying a federal mandate for verifiable software supply chains and giving auditors a clear chain of custody from source to production.
 
 ## Business case: motivations, ROI, and TCO
 
@@ -118,13 +134,15 @@ The ROI is strongest when controls are automated and reused. A single well-confi
 
 ## Maturity model
 
-**Level 1: Initial.** Security depends on individual developer knowledge. No standard controls. Secrets in code. Dependencies rarely updated. Custom, ad hoc authentication.
+**Level 1: Initiate.** Application security depends on individual developer knowledge and reacts only after incidents. No standard controls. Secrets sit in source. Dependencies are rarely updated. Authentication is custom and ad hoc, and injection or broken-access-control flaws are found by luck rather than by process.
 
-**Level 2: Repeatable.** OWASP Top 10 awareness. Some framework-level protections. A secrets manager exists but is unevenly used. Occasional dependency scanning. Standard auth for new systems.
+**Level 2: Develop.** Basic practices appear but vary team to team. OWASP Top 10 awareness spreads, some framework-level protections are in place, and a secrets manager exists but is used unevenly. Dependency scanning runs occasionally. New systems adopt a standard identity provider, while older services keep their homegrown login flows untouched.
 
-**Level 3: Defined.** ASVS-based requirements per risk tier. Parameterized queries and output encoding are the norm. Central identity with MFA. Secrets managed and scanned automatically. SBOMs produced; dependency scanning in the pipeline.
+**Level 3: Standardize.** Controls are documented and enforced across the organization. ASVS-based requirements are set per risk tier, parameterized queries and output encoding are the norm, and a central identity provider with MFA is required. Secrets are managed and scanned automatically, SBOMs are produced, and dependency scanning runs in every pipeline.
 
-**Level 4: Optimizing.** Secure defaults built into paved-road frameworks so the safe path is automatic. Short-lived credentials everywhere. Full supply-chain assurance with signing and provenance (SLSA). Continuous verification and rapid, measured response to new vulnerabilities.
+**Level 4: Manage.** The practice is measured and controlled against baselines. Scan and test coverage, mean time to remediate by severity, the share of services inheriting paved-road defaults, credential and secret rotation age, and ASVS conformance are all tracked on dashboards. Exceptions are logged with expiry dates, drift from the baseline triggers action, and releases are gated on defined security thresholds rather than judgement calls.
+
+**Level 5: Orchestrate.** Security is continuously improved and integrated across the organization. Secure defaults are built into paved-road frameworks so the safe path is automatic, short-lived credentials are used everywhere, and full supply-chain assurance with signing and provenance (SLSA) is standard. Verification is continuous, response to new vulnerabilities is rapid and measured, and each incident feeds back into the shared templates so a single fix hardens the whole fleet.
 
 ## Ideas for discussion
 
@@ -132,7 +150,7 @@ The ROI is strongest when controls are automated and reused. A single well-confi
 2. How aggressively should you update dependencies given the trade-off between exposure and churn?
 3. What ASVS level is appropriate for each class of application in your portfolio?
 4. How do you eliminate long-lived secrets without creating fragile issuance infrastructure?
-5. What would it take for your organization to produce and consume SBOMs and provenance for every artifact?
+5. What would it take for your organization to produce and consume SBOMs and provenance for every artefact?
 6. How do you keep secure defaults from being disabled under delivery pressure?
 
 ## Key takeaways

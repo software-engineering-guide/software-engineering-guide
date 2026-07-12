@@ -72,13 +72,13 @@ and titles are given only where they are well established; no URLs are included.
 | ISO/IEC 27002 | ISO / IEC | Guidance and control set supporting ISO/IEC 27001. | 4.1–4.4 Security |
 | ISO/IEC 27017 / 27018 | ISO / IEC | Cloud-specific security controls (27017) and protection of PII in the cloud (27018). | 4.3 Infrastructure and cloud security; 4.5 Privacy |
 | NIST Cybersecurity Framework (CSF) | National Institute of Standards and Technology | Voluntary framework organized around Govern, Identify, Protect, Detect, Respond, Recover. | 4.1, 4.4 Security foundations and operations |
-| NIST SP 800-53 | National Institute of Standards and Technology | Catalog of security and privacy controls for information systems. | 4.3, 4.6 Cloud security and compliance |
+| NIST SP 800-53 | National Institute of Standards and Technology | Catalogue of security and privacy controls for information systems. | 4.3, 4.6 Cloud security and compliance |
 | NIST SP 800-63 | National Institute of Standards and Technology | Digital identity and authentication assurance guidelines. | 4.2, 4.3 Application and infrastructure security |
 | OWASP Top Ten | Open Worldwide Application Security Project | The most critical web application security risks, updated periodically. | 4.2 Application security |
 | OWASP ASVS | Open Worldwide Application Security Project | Graded requirements and tests for verifying application security. | 2.4, 4.2 Testing and application security |
-| OWASP SAMM | Open Worldwide Application Security Project | Maturity model for building and assessing a software-security program. | 4.1 Security foundations and culture |
-| STRIDE | Originated at Microsoft | Threat-modeling taxonomy for classifying threats. | 4.2 Application security |
-| MITRE ATT&CK | MITRE | Knowledge base of adversary tactics and techniques for detection and defense. | 4.4 Security operations |
+| OWASP SAMM | Open Worldwide Application Security Project | Maturity model for building and assessing a software-security programme. | 4.1 Security foundations and culture |
+| STRIDE | Originated at Microsoft | Threat-modelling taxonomy for classifying threats. | 4.2 Application security |
+| MITRE ATT&CK | MITRE | Knowledge base of adversary tactics and techniques for detection and defence. | 4.4 Security operations |
 | SLSA | Open Source Security Foundation (OpenSSF) | Graduated framework for software supply-chain integrity and provenance. | 4.2, 8.1, 10.3 Supply chain and delivery |
 | SBOM (SPDX / CycloneDX) | Linux Foundation (SPDX); OWASP (CycloneDX) | Standard formats for software bills of materials. | 4.2, 10.3 Application security and licensing |
 | PCI DSS | PCI Security Standards Council | Security requirements for handling payment card data. | 4.2, 4.5, 4.6 Security, privacy, compliance |
@@ -91,10 +91,10 @@ and titles are given only where they are well established; no URLs are included.
 | --- | --- | --- | --- |
 | HIPAA | US Dept. of Health and Human Services | Safeguards for protected health information (PHI). | 4.5, 4.6 Privacy and compliance |
 | SOX (Sarbanes-Oxley Act) | US Congress / SEC | Financial reporting and internal-control requirements for public companies. | 4.6, 10.2 Compliance and audit |
-| FISMA | US Congress | Information security program requirements for federal agencies. | 4.3, 4.6 Cloud security and compliance |
+| FISMA | US Congress | Information security programme requirements for federal agencies. | 4.3, 4.6 Cloud security and compliance |
 | FedRAMP | US General Services Administration / FedRAMP PMO | Standardized security authorization for cloud services used by federal agencies. | 4.3, 4.6 Cloud security and compliance |
-| NIST SP 800-171 | National Institute of Standards and Technology | Protection of controlled unclassified information (CUI) in non-federal systems. | 4.6 Compliance (defense supply chain) |
-| CMMC | US Department of Defense | Certification of defense-contractor cybersecurity maturity. | 4.6 Compliance (defense) |
+| NIST SP 800-171 | National Institute of Standards and Technology | Protection of controlled unclassified information (CUI) in non-federal systems. | 4.6 Compliance (defence supply chain) |
+| CMMC | US Department of Defense | Certification of defence-contractor cybersecurity maturity. | 4.6 Compliance (defence) |
 | FIPS 140-3 | National Institute of Standards and Technology | Security requirements for cryptographic modules. | 4.3 Infrastructure and cloud security |
 | CCPA / CPRA | State of California | Consumer privacy rights and business obligations in California. | 4.5 Privacy and data protection |
 
@@ -135,9 +135,9 @@ and titles are given only where they are well established; no URLs are included.
 | Standard / framework | Issuing body | Scope (one line) | Primary chapters / domains |
 | --- | --- | --- | --- |
 | ISO/IEC 25010 | ISO / IEC | Software product quality model (functional suitability, reliability, security, etc.). | 2.2, 2.4 Design and testing |
-| ISO/IEC/IEEE 12207 | ISO / IEC / IEEE | Software life-cycle processes. | 1.4, 10.1 Ways of working and program management |
+| ISO/IEC/IEEE 12207 | ISO / IEC / IEEE | Software life-cycle processes. | 1.4, 10.1 Ways of working and programme management |
 | ISO 9001 | ISO | Requirements for a general Quality Management System. | 10.2 Risk, audit, and assurance |
-| CMMI | ISACA / CMMI Institute | Maturity model for process capability and improvement. | 10.1, 10.2 Program management and assurance |
+| CMMI | ISACA / CMMI Institute | Maturity model for process capability and improvement. | 10.1, 10.2 Programme management and assurance |
 | DORA metrics | DevOps Research and Assessment (Google Cloud) | Four key delivery-performance metrics for software teams. | 8.1, 8.4, 9.1 Delivery, platform, reliability |
 | SPACE framework | Microsoft / GitHub researchers | Multidimensional model for measuring developer productivity. | 1.3, 8.4 Growth and developer experience |
 | ITIL | AXELOS / PeopleCert | Framework of IT service-management practices. | 9.1, 9.3 Reliability and incident management |
@@ -177,7 +177,7 @@ and titles are given only where they are well established; no URLs are included.
 ## Notes on scope and change
 
 Standards and regulations evolve. Version numbers (for example, WCAG 2.1 versus
-2.2, or ISO revision years) and control catalogs change over time, and new laws
+2.2, or ISO revision years) and control catalogues change over time, and new laws
 (such as sector-specific AI and resilience regulations) continue to emerge. Treat
 this appendix as a starting map: confirm the current version, jurisdiction, and
 applicability before relying on any entry for a compliance or procurement
@@ -190,7 +190,7 @@ authoritative source document always governs.
 # Recommended reading
 
 This appendix is a curated, annotated reading list spanning every domain of the
-guidebook. It favors works that have shaped practice at scale: acknowledged
+guidebook. It favours works that have shaped practice at scale: acknowledged
 classics, rigorous references, and the standards and reports that large,
 enterprise, and government teams are measured against.
 
@@ -201,13 +201,13 @@ Where a work spans domains, it is placed where it is most useful; many belong
 in several parts.
 
 A note on standards: bodies such as NIST, OWASP, W3C/WCAG, ISO, and the DORA
-program publish living documents that are periodically revised. Cite and read
+programme publish living documents that are periodically revised. Cite and read
 the current version; the annotations below describe their enduring purpose.
 
 ## Foundations: Culture, People, and Process
 
 - **Accelerate: The Science of Lean Software and DevOps**. Nicole Forsgren, Jez Humble, Gene Kim. The research foundation showing that delivery performance predicts organizational performance, and defining the metrics (now called DORA) to measure it.
-- **The Phoenix Project**. Gene Kim, Kevin Behr, George Spafford. A business novel that makes flow, work-in-progress, and the "Three Ways" of DevOps intuitive for leaders and skeptics alike.
+- **The Phoenix Project**. Gene Kim, Kevin Behr, George Spafford. A business novel that makes flow, work-in-progress, and the "Three Ways" of DevOps intuitive for leaders and sceptics alike.
 - **Team Topologies: Organizing Business and Technology Teams for Fast Flow**. Matthew Skelton and Manuel Pais. A practical vocabulary (stream-aligned, platform, enabling, and complicated-subsystem teams) for designing organizations that produce good software.
 - **An Elegant Puzzle: Systems of Engineering Management**. Will Larson. Field-tested frameworks for sizing teams, managing organizational growth, and making the recurring decisions of engineering leadership.
 - **Staff Engineer: Leadership Beyond the Management Track**. Will Larson. Defines the staff-plus archetypes and the technical-leadership path for those who want impact without becoming managers.
@@ -220,8 +220,8 @@ the current version; the annotations below describe their enduring purpose.
 
 ## Programming Craft and Code Quality
 
-- **The Pragmatic Programmer: Your Journey to Mastery**. Andrew Hunt and David Thomas. The foundational catalog of professional habits (DRY, orthogonality, tracer bullets) that defines what craftsmanship means.
-- **Refactoring: Improving the Design of Existing Code**. Martin Fowler. The canonical catalog of behavior-preserving transformations and the discipline of continuous, test-backed code improvement.
+- **The Pragmatic Programmer: Your Journey to Mastery**. Andrew Hunt and David Thomas. The foundational catalogue of professional habits (DRY, orthogonality, tracer bullets) that defines what craftsmanship means.
+- **Refactoring: Improving the Design of Existing Code**. Martin Fowler. The canonical catalogue of behaviour-preserving transformations and the discipline of continuous, test-backed code improvement.
 - **Clean Code: A Handbook of Agile Software Craftsmanship**. Robert C. Martin. A widely used (and debated) standard for naming, functions, and readability that shapes many teams' review expectations.
 - **Code Complete**. Steve McConnell. A comprehensive, evidence-referenced handbook of construction practices that remains a thorough baseline for programming quality.
 - **Test-Driven Development: By Example**. Kent Beck. The original, hands-on introduction to the red-green-refactor cycle and test-first design.
@@ -237,15 +237,15 @@ the current version; the annotations below describe their enduring purpose.
 - **Building Evolutionary Architectures**. Neal Ford, Rebecca Parsons, Patrick Kua. Introduces fitness functions and architecture that is designed to change safely over time.
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software**. Eric Evans. The origin of bounded contexts, ubiquitous language, and aggregates: the vocabulary of modern service design.
 - **Building Microservices: Designing Fine-Grained Systems**. Sam Newman. The reference for decomposition, service boundaries, deployment, and the organizational implications of microservices.
-- **Monolith to Microservices**. Sam Newman. A pattern catalog for incremental decomposition, such as strangler fig and branch by abstraction, without a risky big-bang rewrite.
+- **Monolith to Microservices**. Sam Newman. A pattern catalogue for incremental decomposition, such as strangler fig and branch by abstraction, without a risky big-bang rewrite.
 - **Patterns of Enterprise Application Architecture**. Martin Fowler. The named-pattern reference (repository, unit of work, and more) that gave a shared language to enterprise systems.
-- **Enterprise Integration Patterns**. Gregor Hohpe and Bobby Woolf. The definitive catalog of messaging patterns underpinning event-driven and asynchronous architectures.
+- **Enterprise Integration Patterns**. Gregor Hohpe and Bobby Woolf. The definitive catalogue of messaging patterns underpinning event-driven and asynchronous architectures.
 - **Release It! Design and Deploy Production-Ready Software**. Michael T. Nygard. The source of the circuit breaker, bulkhead, and other stability patterns for systems that survive real production.
-- **Design Patterns: Elements of Reusable Object-Oriented Software**. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ("Gang of Four"). The historically decisive catalog of object-oriented patterns and a shared design vocabulary.
+- **Design Patterns: Elements of Reusable Object-Oriented Software**. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ("Gang of Four"). The historically decisive catalogue of object-oriented patterns and a shared design vocabulary.
 
 ## Security, Privacy, and Trust
 
-- **Threat Modeling: Designing for Security**. Adam Shostack. The practical, comprehensive guide to STRIDE and structured threat modeling as a routine engineering practice.
+- **Threat Modeling: Designing for Security**. Adam Shostack. The practical, comprehensive guide to STRIDE and structured threat modelling as a routine engineering practice.
 - **Security Engineering: A Guide to Building Dependable Distributed Systems**. Ross Anderson. The encyclopedic reference on how real systems fail and how to build ones that resist attack.
 - **The Tangled Web: A Guide to Securing Modern Web Applications**. Michal Zalewski. A rigorous tour of the browser security model and the subtle ways web platforms betray naive assumptions.
 - **Cryptography Engineering**. Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. A practitioner's guide to using cryptography correctly and avoiding the common, dangerous mistakes.
@@ -253,13 +253,13 @@ the current version; the annotations below describe their enduring purpose.
 - **Zero Trust Networks**. Evan Gilman and Doug Barth. A clear treatment of the principles and mechanics of never-trust, always-verify network architecture.
 - **OWASP Top 10**. OWASP Foundation. The consensus baseline of the most critical web application security risks, referenced by policy and audit worldwide.
 - **OWASP Application Security Verification Standard (ASVS)**. OWASP Foundation. A tiered, testable checklist of security requirements suitable for contracts and acceptance criteria.
-- **NIST SP 800-53: Security and Privacy Controls for Information Systems and Organizations**. NIST. The control catalog at the heart of U.S. federal security and the basis for FedRAMP and FISMA authorization.
-- **NIST Cybersecurity Framework (CSF)**. NIST. The widely adopted identify-protect-detect-respond-recover structure for organizing a security program.
-- **NIST SP 800-207: Zero Trust Architecture**. NIST. The reference definition and reference architectures that anchor most enterprise and government zero-trust programs.
+- **NIST SP 800-53: Security and Privacy Controls for Information Systems and Organizations**. NIST. The control catalogue at the heart of U.S. federal security and the basis for FedRAMP and FISMA authorization.
+- **NIST Cybersecurity Framework (CSF)**. NIST. The widely adopted identify-protect-detect-respond-recover structure for organizing a security programme.
+- **NIST SP 800-207: Zero Trust Architecture**. NIST. The reference definition and reference architectures that anchor most enterprise and government zero-trust programmes.
 
 ## UX, UI, and Product Design
 
-- **The Design of Everyday Things**. Don Norman. The foundational text on affordances, signifiers, feedback, and human-centered design that applies far beyond physical objects.
+- **The Design of Everyday Things**. Don Norman. The foundational text on affordances, signifiers, feedback, and human-centred design that applies far beyond physical objects.
 - **Don't Make Me Think, Revisited**. Steve Krug. The concise, enduring argument for self-evident usability and the value of cheap, frequent usability testing.
 - **About Face: The Essentials of Interaction Design**. Alan Cooper, Robert Reimann, David Cronin. The comprehensive reference on interaction design, personas, and goal-directed design.
 - **Design Systems: A Practical Guide**. Alla Kholmatova. A grounded account of building consistent, reusable component systems and the shared language behind them.
@@ -282,13 +282,13 @@ the current version; the annotations below describe their enduring purpose.
 
 ## Data, Analytics, and Insight
 
-- **The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling**. Ralph Kimball and Margy Ross. The canonical reference on star schemas and dimensional modeling for analytics.
+- **The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling**. Ralph Kimball and Margy Ross. The canonical reference on star schemas and dimensional modelling for analytics.
 - **Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing**. Ron Kohavi, Diane Tang, Ya Xu. The authoritative guide to running experiments that yield reliable, actionable results at scale.
 - **Fundamentals of Data Engineering**. Joe Reis and Matt Housley. A vendor-neutral map of the modern data lifecycle and the engineering practices behind it.
 - **Data Mesh: Delivering Data-Driven Value at Scale**. Zhamak Dehghani. The founding text of the domain-oriented, product-centric approach to organizing data at scale.
 - **Storytelling with Data**. Cole Nussbaumer Knaflic. A practical guide to honest, clear data visualization and communicating insight to decision-makers.
 - **The Visual Display of Quantitative Information**. Edward R. Tufte. The foundational work on graphical integrity, data-ink, and the ethics of showing data honestly.
-- **DAMA-DMBOK: Data Management Body of Knowledge**. DAMA International. The comprehensive reference framework for data governance, stewardship, quality, and cataloging.
+- **DAMA-DMBOK: Data Management Body of Knowledge**. DAMA International. The comprehensive reference framework for data governance, stewardship, quality, and cataloguing.
 - **The Book of Why**. Judea Pearl and Dana Mackenzie. A readable introduction to causal inference, vital for moving from correlation to defensible decisions.
 
 ## Automation, DevOps, and Platform Engineering
@@ -297,10 +297,10 @@ the current version; the annotations below describe their enduring purpose.
 - **Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation**. Jez Humble and David Farley. The foundational text on deployment pipelines, automation, and releasing software safely and often.
 - **Infrastructure as Code: Managing Servers in the Cloud**. Kief Morris. The reference on treating infrastructure as software: modules, testing, immutability, and drift.
 - **Team Topologies**. Matthew Skelton and Manuel Pais. (See Foundations.) Also essential here for shaping platform teams and the developer experience they provide.
-- **Kubernetes Patterns**. Bilgin Ibryam and Roland Huß. A catalog of reusable patterns for designing cloud-native applications on Kubernetes.
+- **Kubernetes Patterns**. Bilgin Ibryam and Roland Huß. A catalogue of reusable patterns for designing cloud-native applications on Kubernetes.
 - **Software Engineering at Google**. Titus Winters, Tom Manshreck, Hyrum Wright. How engineering practices such as testing, review, tooling, and dependency management scale to tens of thousands of engineers over decades.
 - **The Twelve-Factor App**. Adam Wiggins (Heroku). The concise, influential manifesto for building portable, scalable, cloud-native services.
-- **DORA State of DevOps Report**. DORA / Google Cloud (annual). The ongoing research program behind the four key delivery metrics and the capabilities that drive performance.
+- **DORA State of DevOps Report**. DORA / Google Cloud (annual). The ongoing research programme behind the four key delivery metrics and the capabilities that drive performance.
 
 ## Operations, Reliability, and Observability
 
@@ -319,8 +319,8 @@ the current version; the annotations below describe their enduring purpose.
 - **Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better**. Jennifer Pahlka. A clear-eyed account of why public-sector technology fails and how delivery-focused reform can fix it.
 - **Digital Transformation at Scale: Why the Strategy Is Delivery**. Andrew Greenway et al. Lessons from the UK Government Digital Service on transforming public services by delivering, not planning.
 - **Project to Product**. Mik Kersten. The Flow Framework for shifting large enterprises from project-based funding to durable product value streams.
-- **Escaping the Build Trap**. Melissa Perri. How organizations mistake output for outcome, and how product management fixes it, with direct relevance to portfolio and program governance.
-- **U.S. Digital Services Playbook**. U.S. Digital Service. A concise set of plays for delivering effective, user-centered government digital services.
+- **Escaping the Build Trap**. Melissa Perri. How organizations mistake output for outcome, and how product management fixes it, with direct relevance to portfolio and programme governance.
+- **U.S. Digital Services Playbook**. U.S. Digital Service. A concise set of plays for delivering effective, user-centred government digital services.
 - **GOV.UK Service Manual and Service Standard**. UK Government Digital Service. A working, published standard for building good public services, widely emulated by other governments.
 - **NIST SP 800-37: Risk Management Framework**. NIST. The process framework behind authorization to operate (ATO) and continuous monitoring in U.S. federal systems.
 - **The FinOps Foundation Framework**. FinOps Foundation. The reference model for cloud cost visibility, optimization, and accountability across finance and engineering.
