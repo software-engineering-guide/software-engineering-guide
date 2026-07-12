@@ -2,11 +2,11 @@
 
 ## Overview and motivation
 
-Coding standards are the shared conventions that let many people write code as if one careful author wrote it. They cover naming, formatting, file layout, idioms, error handling, and the paradigms a team favors. On a small team, individual taste can carry the day. On a large team (hundreds or thousands of engineers, many contractors, high turnover), inconsistency becomes a tax you pay on every read, every review, and every onboarding. Standards turn countless small stylistic arguments into a one-time decision that a machine then enforces for you.
+Coding standards are the shared conventions that let many people write code as if one careful author wrote it. They cover naming, formatting, file layout, idioms, error handling, and the paradigms a team favours. On a small team, individual taste can carry the day. On a large team (hundreds or thousands of engineers, many contractors, high turnover), inconsistency becomes a tax you pay on every read, every review, and every onboarding. Standards turn countless small stylistic arguments into a one-time decision that a machine then enforces for you.
 
-For large organizations the stakes are concrete. Code is read far more often than it is written. In enterprise and government settings, a line of code may be read by auditors, security reviewers, and maintainers years after its author has left. Consistent style lowers the mental cost of that reading, shrinks the surface area for bugs, and makes automated analysis reliable across [linters](https://en.wikipedia.org/wiki/Lint_(software)) (tools that automatically flag likely bugs and style violations), security scanners, and [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) tools. Where regulation applies, as in financial services, healthcare, defense, and public-sector systems, standards also form part of the evidence that a codebase is maintainable and controlled.
+For large organizations the stakes are concrete. Code is read far more often than it is written. In enterprise and government settings, a line of code may be read by auditors, security reviewers, and maintainers years after its author has left. Consistent style lowers the mental cost of that reading, shrinks the surface area for bugs, and makes automated analysis reliable across [linters](https://en.wikipedia.org/wiki/Lint_(software)) (tools that automatically flag likely bugs and style violations), security scanners, and [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) tools. Where regulation applies, as in financial services, healthcare, defence, and public-sector systems, standards also form part of the evidence that a codebase is maintainable and controlled.
 
-The modern approach is to treat style as a solved, automated concern rather than a matter of ongoing human judgment. Formatters and linters run in the editor, in pre-commit hooks, and in [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) (CI), the automated build-and-test process that runs on every change. Machines enforce the style, so you can spend your review attention on design and correctness. The goal is not uniformity for its own sake. It is the removal of friction: you should be able to move between services and teams without relearning the basics.
+The modern approach is to treat style as a solved, automated concern rather than a matter of ongoing human judgement. Formatters and linters run in the editor, in pre-commit hooks, and in [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) (CI), the automated build-and-test process that runs on every change. Machines enforce the style, so you can spend your review attention on design and correctness. The goal is not uniformity for its own sake. It is the removal of friction: you should be able to move between services and teams without relearning the basics.
 
 ## Key principles
 
@@ -30,7 +30,7 @@ Use an opinionated automatic formatter for every language that has one, with a s
 
 ### Run linters as enforced gates, not advice
 
-Configure linters with an agreed rule set, fail the build on violations, and keep the rule set in [version control](https://en.wikipedia.org/wiki/Version_control) so changes go through review. Separate auto-fixable rules (apply them automatically) from rules that need human judgment (flag and block). Introduce new rules in "warn" mode, clear the backlog, then promote them to "error."
+Configure linters with an agreed rule set, fail the build on violations, and keep the rule set in [version control](https://en.wikipedia.org/wiki/Version_control) so changes go through review. Separate auto-fixable rules (apply them automatically) from rules that need human judgement (flag and block). Introduce new rules in "warn" mode, clear the backlog, then promote them to "error."
 
 ### Enforce at multiple layers
 
@@ -46,7 +46,7 @@ In a codebase that spans several languages, aim for consistent concepts (error h
 
 ### Codify idioms and paradigms
 
-Go beyond formatting. Write down your preferred idioms, such as how to handle errors, how to structure modules, and when to use exceptions versus result types, along with the paradigms your teams favor. This is where real readability and maintainability live.
+Go beyond formatting. Write down your preferred idioms, such as how to handle errors, how to structure modules, and when to use exceptions versus result types, along with the paradigms your teams favour. This is where real readability and maintainability live.
 
 ## Trade-offs: pros and cons
 
@@ -62,11 +62,27 @@ Enforced defaults trade a little individual autonomy for large collective gains:
 
 ## Questions to discuss with your team
 
-1. **Which linter rules should fail the build, and how do you promote a rule from warning to error without halting everyone?** This chapter argues every rule needs an enforcement mechanism, and that new rules should land in warn mode, get their backlog cleared, then flip to error. On a large team, flipping a rule to error against a dirty codebase blocks hundreds of unrelated changes overnight. Bring hard evidence to the meeting: the current violation count for each candidate rule, and whether it is auto-fixable or needs human judgment. In enterprise and government settings the pass/fail line also feeds audit gates, so an ambiguous rule set weakens your compliance story. Decide a staged rollout: auto-fix what you can, budget the cleanup, then gate.
+1. **Which linter rules should fail the build, and how do you promote a rule from warning to error without halting everyone?** This chapter argues every rule needs an enforcement mechanism, and that new rules should land in warn mode, get their backlog cleared, then flip to error. On a large team, flipping a rule to error against a dirty codebase blocks hundreds of unrelated changes overnight. Bring hard evidence to the meeting: the current violation count for each candidate rule, and whether it is auto-fixable or needs human judgement. In enterprise and government settings the pass/fail line also feeds audit gates, so an ambiguous rule set weakens your compliance story. Decide a staged rollout: auto-fix what you can, budget the cleanup, then gate.
 
 2. **When you first apply a formatter to your legacy code, how will you keep that reformat from wrecking git blame and drowning reviews?** The trade-off table warns of a large initial diff, and the anti-patterns section calls out mixing reformat commits with logic changes. A single sweeping reformat rewrites thousands of lines and makes blame point at the reformat instead of the real author, which hurts anyone debugging years later. Do the reformat as one isolated, clearly labeled commit, and register it in a blame-ignore file so history stays useful. For auditors who trace who changed what, that isolation is the difference between clean evidence and noise. Agree the sequencing before you touch the code, not after.
 
 3. **Who owns your naming glossary and domain vocabulary, and how does a new term get added?** The chapter calls naming the highest-leverage readability decision and asks you to write the domain vocabulary into a shared glossary. Without a named owner, the same concept picks up three different names across teams, and static-analysis and search tools lose reliability. Bring examples of concepts that already have conflicting names in your codebase as the concrete signal. Assign one owner and a lightweight proposal path, so adding or renaming a term is a small, reviewed change rather than an argument in every pull request. The answer changes onboarding: a new hire reads one glossary instead of reverse-engineering intent from inconsistent code.
+
+4. **For each language, do you adopt a recognized community or vendor style guide wholesale, and where are house deltas actually justified?** This chapter argues you should take an existing standard as the baseline and document only the deltas your organization needs, because a bespoke standard is expensive to write and unfamiliar to hires. The competing pull is real: an internal constraint (a security rule, a legacy framework, an accessibility mandate) sometimes genuinely conflicts with the community default, and every delta you keep is a rule you now own and maintain forever. Bring the proposed delta list to the meeting, each with the concrete constraint that motivates it, and be ready to cut any delta that is only taste. In enterprise and government settings, a baseline that matches the wider language community also means contractors and new vendors arrive already fluent, which shortens onboarding and strengthens the maintainability evidence auditors look for.
+
+5. **In a polyglot codebase, which conventions are truly universal and which stay language-local, and how do you stop per-repo configs from drifting?** The chapter asks for consistent concepts (error handling, logging structure, project layout) across languages even where syntax differs, and for per-language configs served from a central repository so new services inherit standards automatically. The tension is that forcing one language's idioms onto another produces awkward, non-idiomatic code, while leaving every team to fork its own config ends with "the standard" meaning nothing. Bring an inventory of your current per-repo linter and formatter configs and a diff showing how far they have already drifted apart, as the concrete signal. For a large organization running dozens of services, decide the distribution mechanism (templates, scaffolding, a shared config package) so a rule change propagates once rather than being hand-copied into every repository.
+
+6. **When is disabling a rule legitimate, who reviews the suppression, and how do you keep blanket disables from hollowing out the standard?** The anti-patterns section flags widespread inline suppressions as a sign that a rule is wrong or a team has given up, yet a rigid no-exceptions policy pushes people to write worse code just to satisfy the linter. Agree a lightweight path: a suppression must carry a reason, sit at the narrowest possible scope, and be visible in review rather than buried in a global ignore file. Bring the current count of suppressions per rule and per repository, because a rule suppressed hundreds of times is telling you something about the rule, not the code. In regulated and public-sector work, unexplained blanket suppressions weaken the audit story directly, since the pipeline can no longer show that merged code genuinely passed the agreed gates.
+
+## Sector lens
+
+**Startup.** Speed wins, so adopt the community formatter and linter defaults for your one language on day one and wire them into a pre-commit hook and CI before the second engineer arrives. Do not write a house style you have no time to maintain: the configuration shipped in the repo is the whole standard. When you add a second language, reach for that language's canonical guide rather than inventing conventions from scratch.
+
+**Small business.** With no dedicated tooling specialist and a tight budget, lean entirely on the free, opinionated formatter that ships with or alongside your language, and accept its defaults rather than tuning them. This is a clear buy-over-build case: maintaining a custom rule set costs time you do not have, while an off-the-shelf formatter costs nothing and ends style debate immediately. Keep the config in the repository so the one contractor you hire next year inherits it without a conversation.
+
+**Enterprise.** At scale the job is governance across many teams: a central engineering-standards repository holding the shared formatter and linter configs per language, new services generated from templates that pull those configs, and CI gates that block non-compliant merges. Version the rule set like code and route changes through a periodic review so standards evolve deliberately rather than drifting. The payoff is engineers moving between teams into familiar code, and automated tooling that produces reliable signal because every repository is consistent.
+
+**Government.** Procurement and accountability shape the choice: mandate a specific style and security rule set as part of authority-to-operate requirements, and have the pipeline emit a report showing every merged change passed the agreed gates as audit evidence. Because a formatter is applied automatically, code from multiple vendors and contractors looks consistent, which protects the public maintenance job long after the contracts end. Favour recognized community baselines over bespoke rules so the standard is transparent and any future supplier can adopt it without proprietary lock-in.
 
 ## Examples
 
@@ -94,14 +110,15 @@ The return shows up as reduced review latency, fewer style-related review commen
 
 ## Maturity model
 
-- **Level 1, Initial:** Style is per-author; no shared configs; formatting argued in review.
-- **Level 2, Repeatable:** Each team has a formatter and linter, but configs and rules vary across teams.
-- **Level 3, Defined:** Central shared configs per language; CI enforcement; new repos inherit standards via templates.
-- **Level 4, Optimizing:** Standards are versioned and governed, measured for impact, and continuously refined; polyglot idioms are documented and enforcement is near-frictionless.
+- **Level 1, Initiate:** Style is per-author and reactive; no shared configs; formatting is argued in review and settled by whoever cares most that day.
+- **Level 2, Develop:** Individual teams adopt a formatter and linter, but configs and rule sets vary from team to team and repo to repo, so consistency stops at each team's boundary.
+- **Level 3, Standardize:** Central shared configs per language are documented and enforced org-wide; CI blocks non-compliant merges; new repositories inherit the standards automatically through templates or scaffolding.
+- **Level 4, Manage:** The standard is measured and controlled with data: violation rates, suppression counts, style-related review comments, and onboarding time are tracked against baselines, and rule changes are promoted or retired on that evidence rather than opinion.
+- **Level 5, Orchestrate:** Standards are continuously improved and integrated across the organization; polyglot idioms and domain vocabulary are documented and enforced, enforcement is near-frictionless, and the rule set adapts as languages, tooling, and org needs shift.
 
 ## Ideas for discussion
 
-- Where is the line between an enforced rule and a documented guideline that trusts engineer judgment?
+- Where is the line between an enforced rule and a documented guideline that trusts engineer judgement?
 - How should the organization handle a beloved community rule that conflicts with a genuine internal constraint?
 - Who owns the standards, and how do rule changes get proposed, debated, and rolled out without disruption?
 - In a polyglot codebase, which conventions should be truly universal and which should stay language-local?

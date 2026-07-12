@@ -6,7 +6,7 @@
 
 For large teams, scale and inertia raise the stakes. A poorly framed initiative can burn budgets, distract talented engineers, and erode trust with regulators and citizens when it fails in public. A well-chosen one can automate drudgery, surface insight from data you could never reach before, and free skilled people for higher-value work. The difference is rarely the model itself. It comes down to how well you frame the problem, how ready your data and talent are, and how honest your business case is.
 
-Government and regulated contexts add more constraints. Public bodies must justify spending, guarantee transparency, avoid unlawful discrimination, and stay accountable to elected officials and the public. Procurement rules may forbid sole-source lock-in, demand explainability, and require that vendors expose model behavior. Here, treat compliance, auditability, and exit options as first-class requirements, not afterthoughts.
+Government and regulated contexts add more constraints. Public bodies must justify spending, guarantee transparency, avoid unlawful discrimination, and stay accountable to elected officials and the public. Procurement rules may forbid sole-source lock-in, demand explainability, and require that vendors expose model behaviour. Here, treat compliance, auditability, and exit options as first-class requirements, not afterthoughts.
 
 ## Key principles
 
@@ -14,7 +14,7 @@ Government and regulated contexts add more constraints. Public bodies must justi
 - Prefer the simplest approach that meets the need; AI is one option among many, and often not the best.
 - Treat data readiness, talent, and platform maturity as prerequisites, not parallel work streams to sort out later.
 - Make build-versus-buy decisions explicitly and revisit them as the market and your capabilities change.
-- Quantify the total cost of ownership, including operation, monitoring, and eventual replacement, not just the license or the pilot.
+- Quantify the total cost of ownership, including operation, monitoring, and eventual replacement, not just the licence or the pilot.
 - Design for exit from day one: avoid architectures that make switching vendors or models prohibitively expensive.
 - In regulated and public settings, treat transparency, procurement compliance, and accountability as design constraints.
 - Measure the cost of *not* acting alongside the cost of acting.
@@ -37,7 +37,7 @@ Move from cheapest and fastest to most expensive and most controlled:
 
 ### Establish data, talent, and platform prerequisites
 
-Audit your data for availability, quality, labeling, lineage, and legal basis for use. Confirm you actually have the right to use it for AI, including any personal or third-party data. Assess talent honestly: you need data scientists, and also ML engineers, data engineers, product managers who understand probabilistic systems, and reviewers who can evaluate outputs. Before you scale, stand up a platform baseline: experiment tracking, a model registry (the system of record for trained model versions and their approval status), monitoring, and secure serving, so each new use case does not reinvent operations.
+Audit your data for availability, quality, labelling, lineage, and legal basis for use. Confirm you actually have the right to use it for AI, including any personal or third-party data. Assess talent honestly: you need data scientists, and also ML engineers, data engineers, product managers who understand probabilistic systems, and reviewers who can evaluate outputs. Before you scale, stand up a platform baseline: experiment tracking, a model registry (the system of record for trained model versions and their approval status), monitoring, and secure serving, so each new use case does not reinvent operations.
 
 ### Handle regulated and government contexts deliberately
 
@@ -65,26 +65,42 @@ The dominant trade-off is control versus cost and speed. Prompting gives you the
 
 2. **What is our concrete exit plan for the vendor or model we depend on most, and have we actually tested it?** Lock-in is cheap to accept and expensive to unwind, and in government you may carry multi-year exit obligations you cannot meet if you never rehearsed. Bring the list of proprietary features you rely on, whether prompts and evaluation datasets are portable, and how the model sits behind an internal interface (or does not). The signal to watch is whether anyone has ever run your evaluation suite against a second provider; if not, your exit plan is a hope, not a plan. If the honest answer is that switching would take months and rewrite core code, treat that as a design defect to fix now, not a bridge to cross later.
 
-3. **What does an honest readiness scorecard say about our data rights, and which use cases does it disqualify today?** Skipping data readiness is the failure that sinks pilots quietly: the model works, but you never had the legal basis to use the data, or it is unlabeled and unlineaged. For a large organization, personal and third-party data raise consent and contractual limits that vary by jurisdiction and by dataset. Bring an audit of availability, quality, labeling, lineage, and legal basis for each candidate, and be willing to mark some use cases as blocked until data foundations exist. In regulated and public settings, an unusable legal basis is not a delay, it is a hard stop, and funding the readiness work should be an explicit line in the plan rather than an afterthought.
+3. **What does an honest readiness scorecard say about our data rights, and which use cases does it disqualify today?** Skipping data readiness is the failure that sinks pilots quietly: the model works, but you never had the legal basis to use the data, or it is unlabelled and unlineaged. For a large organization, personal and third-party data raise consent and contractual limits that vary by jurisdiction and by dataset. Bring an audit of availability, quality, labelling, lineage, and legal basis for each candidate, and be willing to mark some use cases as blocked until data foundations exist. In regulated and public settings, an unusable legal basis is not a delay, it is a hard stop, and funding the readiness work should be an explicit line in the plan rather than an afterthought.
+
+4. **How will we know a live AI use case is actually working, and what evidence would make us kill it?** Most AI portfolios accumulate zombies: pilots that shipped, impressed someone, and now run forever without anyone checking whether they still earn their cost. Agree the baseline and the success metric before launch, then set an explicit kill threshold, so the decision to stop is made in advance rather than defended in the moment. Bring the current metric, the human-oversight cost per outcome, and the drift you have seen since launch. For enterprise and government portfolios, name who reviews each system on a fixed cadence and who holds authority to retire it; a use case nobody is accountable for reviewing is one nobody will ever switch off.
+
+5. **Where does a human stay in the loop, what does that oversight cost, and have we actually budgeted it?** The cheapest-looking AI use cases are the ones that quietly assume full automation, then leak cost through the review, correction, and escalation that reality forces back in. Decide deliberately which decisions a person must confirm, which the model may take alone, and which it may never take, then price the human time that implies. Bring the volume of low-confidence cases, the cost of a wrong answer, and the current escalation path. In regulated and public settings, tie each automated decision to an accountable officer and a route of appeal, because oversight you cannot describe is oversight you do not have.
+
+6. **Do we have the talent and platform to run what we are proposing, or are we quietly assuming capacity we lack?** Ambitious AI plans fail less on the model than on the unglamorous foundations: nobody to maintain the pipeline, no one who can evaluate outputs, no platform to deploy on. Match each candidate use case to the skills and infrastructure it actually needs, and be honest where the gap is a hire, a partner, or a reason not to build. Bring an inventory of who can own each system in production, what platform it will run on, and which capabilities you would have to buy. For a large or public organization, add the procurement and hiring lead times, since a plan that depends on talent you cannot recruit in the relevant window is a plan to under-deliver.
+
+## Sector lens
+
+**Startup.** Speed and survival dominate. Pick one narrow use case that touches your core value, ship it on a hosted model behind a thin interface, and cap spend hard. Avoid building infrastructure or training models: your scarcest resource is engineering attention, and a fine-tuned pipeline you cannot maintain is a liability, not a moat. Keep switching cheap so you can follow a fast-moving market.
+
+**Small business.** You likely have no data scientists and a tight budget, so treat AI as something you buy embedded in tools you already use, not a programme you staff. Frame readiness as a data-hygiene and privacy question rather than a machine-learning project: know what customer data you hold, what you are allowed to do with it, and where a wrong automated answer would cost you a customer. Prefer vendors who make the AI optional, transparent, and easy to turn off.
+
+**Enterprise.** The problem is portfolio governance across many teams: a shared build-versus-buy ladder, consistent readiness assessments, and lock-in and total-cost analysis so groups stop reinventing expensive pipelines. Budget the MLOps and human-oversight burden explicitly, standardize the interface layer so providers stay swappable, and manage AI use cases as a portfolio with clear metrics and kill criteria rather than a scatter of pilots.
+
+**Government.** Transparency, procurement rules, and accountability shape every choice. Favour systems that cite official sources rather than generate policy, keep a human accountable for consequential decisions, and demand data portability and disclosure of model limitations in contracts. Publish a plain-language description and an appeals route, honour any multi-year exit obligations you sign, and keep AI out of final assessment decisions that must rest with an accountable officer.
 
 ## Examples
 
 **Startup.** A five-person scheduling startup wanted to add a natural-language "book me a meeting" feature without pulling its two engineers off the core product. It picked the smallest problem that mattered, parsing a request into a proposed time, and shipped it with a hosted model behind a thin internal API so it could switch providers later. The team set a hard monthly spend cap, tracked whether users accepted the suggested times, and agreed to revisit a fine-tuned model only if volume ever justified the extra work.
 
-**Enterprise.** A multinational insurer wanted to speed up claims triage. Instead of training a bespoke model, it framed the problem narrowly (route and summarize incoming claims), prototyped with a hosted model plus retrieval over its policy documents, and measured against human handling time and accuracy. Only after proving value did it fine-tune a smaller model for the highest-volume claim type to cut per-call cost. It kept the model behind an internal API so it could swap providers, and it modeled a three-year TCO that included human review of low-confidence cases.
+**Enterprise.** A multinational insurer wanted to speed up claims triage. Instead of training a bespoke model, it framed the problem narrowly (route and summarize incoming claims), prototyped with a hosted model plus retrieval over its policy documents, and measured against human handling time and accuracy. Only after proving value did it fine-tune a smaller model for the highest-volume claim type to cut per-call cost. It kept the model behind an internal API so it could swap providers, and it modelled a three-year TCO that included human review of low-confidence cases.
 
 **Government.** A national tax authority considered an AI assistant to help staff answer citizen queries. Because those answers touched legal obligations, the agency insisted on transparency: the system could only surface official guidance with citations, never invent policy, and a human reviewed every automated suggestion before it went out. Procurement required the vendor to disclose model limitations and grant data portability, and the agency published a plain-language description of the system and an appeals route. It kept AI out of final assessment decisions entirely, reserving those for accountable officers.
 
 ## Business case: motivations, ROI, and TCO
 
-AI strategy exists to help you avoid two mirror-image failures: over-investing in AI that never pays off, and under-investing while competitors or peer agencies pull ahead. ROI comes from labor saved, cycle time reduced, error rates lowered, and new capabilities enabled. Measure these against a genuine baseline, and discount for the real cost of human oversight, which rarely disappears.
+AI strategy exists to help you avoid two mirror-image failures: over-investing in AI that never pays off, and under-investing while competitors or peer agencies pull ahead. ROI comes from labour saved, cycle time reduced, error rates lowered, and new capabilities enabled. Measure these against a genuine baseline, and discount for the real cost of human oversight, which rarely disappears.
 
 TCO has to include the unglamorous line items: data pipelines, monitoring, retraining as the world drifts, security review, and eventual decommissioning. A pilot that looks cheap can turn expensive once it runs at scale for years. Present the cost of *not* adopting too: slower service, higher manual cost, and strategic drift. Make the case to leadership with a portfolio view: a few high-confidence bets, clear success metrics, kill criteria for failures, and a readiness assessment showing that data and talent foundations exist. Ask leaders to fund readiness explicitly; skip it, and you guarantee expensive rework.
 
 ## Anti-patterns and pitfalls
 
 - **Solution in search of a problem.** Buying AI because peers did, then hunting for a use case.
-- **Skipping data readiness.** Launching models on data that is unavailable, unlabeled, or legally unusable.
+- **Skipping data readiness.** Launching models on data that is unavailable, unlabelled, or legally unusable.
 - **Demo-driven decisions.** Committing based on a polished demo without a production-quality evaluation.
 - **Ignoring the human loop.** Assuming full automation and under-budgeting review, which is where most cost hides.
 - **Silent lock-in.** Building deeply on one vendor's proprietary features with no exit plan.
@@ -93,10 +109,11 @@ TCO has to include the unglamorous line items: data pipelines, monitoring, retra
 
 ## Maturity model
 
-1. **Initial.** Ad hoc experiments, no shared strategy, decisions driven by hype and individual enthusiasm.
-2. **Developing.** Problem framing exists for some projects; a first platform baseline appears; build-versus-buy is discussed but inconsistent.
-3. **Defined.** A portfolio of AI use cases with clear metrics, a documented decision tree, readiness assessments, and lock-in and TCO analysis for each.
-4. **Optimizing.** AI strategy is integrated with business and risk planning; readiness is continuously maintained; the organization routinely retires, replaces, and re-scopes AI systems based on evidence.
+1. **Initiate.** Ad hoc experiments, no shared strategy, decisions driven by hype and individual enthusiasm.
+2. **Develop.** Problem framing exists for some projects; a first platform baseline appears; build-versus-buy is discussed but inconsistent.
+3. **Standardize.** A portfolio of AI use cases with clear metrics, a documented decision tree, readiness assessments, and lock-in and TCO analysis, applied consistently across teams.
+4. **Manage.** The portfolio is measured: readiness, ROI, TCO, and human-oversight cost are tracked against baselines; kill criteria are enforced on evidence; delivery and quality impact drive each go or no-go decision.
+5. **Orchestrate.** AI strategy is integrated with business and risk planning; readiness is continuously maintained; the organization routinely retires, replaces, and re-scopes AI systems based on evidence, rebalancing the portfolio as the market and the risk picture shift.
 
 ## Ideas for discussion
 

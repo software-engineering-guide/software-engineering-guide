@@ -11,7 +11,7 @@ Enterprise and government adopters gain portability, resilience, and a path away
 ## Key principles
 
 - Package applications as small, single-purpose, immutable container images.
-- Practice image hygiene: minimal base images, pinned versions, scanned for vulnerabilities, and signed.
+- Practise image hygiene: minimal base images, pinned versions, scanned for vulnerabilities, and signed.
 - Design applications to be stateless and horizontally scalable where possible, externalizing state.
 - Treat the orchestration platform's desired-state model as the source of truth and let it self-heal.
 - Enforce isolation and least privilege between tenants, workloads, and namespaces.
@@ -21,7 +21,7 @@ Enterprise and government adopters gain portability, resilience, and a path away
 
 ## Recommendations
 
-### Practice rigorous image hygiene
+### Practise rigorous image hygiene
 
 The container image is your fundamental unit of trust and deployment, so treat it that way. Start from minimal, trusted base images to shrink the attack surface. Pin dependency and base-image versions for reproducibility. Scan every image for known vulnerabilities in the build pipeline, and block the ones with critical findings. Sign images and verify signatures at deploy time, so only approved, unmodified images run. Keep a curated internal registry of hardened base images that teams build from. That spreads good security defaults automatically.
 
@@ -39,7 +39,7 @@ The twelve-factor methodology, with its explicit dependencies, configuration in 
 
 ### Plan multi-cloud, hybrid, and sovereign strategies pragmatically
 
-Portability is valuable, but pursue it with clear eyes. Standardize on portable abstractions such as containers, Kubernetes, and open APIs, so workloads can move if needed. But avoid the trap of refusing every managed service, which trades real productivity for hypothetical portability. For hybrid and sovereign requirements, design so the same workloads and pipelines can run in a chosen region, a private data center, or a sovereign cloud that meets jurisdictional and data-residency rules. Make the sovereignty and residency boundaries explicit in architecture and policy.
+Portability is valuable, but pursue it with clear eyes. Standardize on portable abstractions such as containers, Kubernetes, and open APIs, so workloads can move if needed. But avoid the trap of refusing every managed service, which trades real productivity for hypothetical portability. For hybrid and sovereign requirements, design so the same workloads and pipelines can run in a chosen region, a private data centre, or a sovereign cloud that meets jurisdictional and data-residency rules. Make the sovereignty and residency boundaries explicit in architecture and policy.
 
 ### Make cost visible with FinOps
 
@@ -60,11 +60,27 @@ The overarching trade-off is capability versus complexity. Kubernetes and cloud-
 
 ## Questions to discuss with your team
 
-1. **Do you sign images and verify signatures at deploy time, and does a critical vulnerability actually block the build?** The image is your unit of trust, so the supply chain around it deserves hard gates, not warnings. Decide whether only signed, verified images can run, whether scanning blocks critical findings or merely logs them, and who maintains the curated registry of hardened base images teams build from. For enterprise and government workloads this is frequently a compliance requirement, and it is also your best defense against a poisoned dependency reaching production. Bring the current state: what fraction of running images come from your hardened base, how many carry unpatched critical CVEs, and whether any unsigned image can currently be scheduled. If a critical finding does not stop a deploy, your scanner is decoration.
+1. **Do you sign images and verify signatures at deploy time, and does a critical vulnerability actually block the build?** The image is your unit of trust, so the supply chain around it deserves hard gates, not warnings. Decide whether only signed, verified images can run, whether scanning blocks critical findings or merely logs them, and who maintains the curated registry of hardened base images teams build from. For enterprise and government workloads this is frequently a compliance requirement, and it is also your best defence against a poisoned dependency reaching production. Bring the current state: what fraction of running images come from your hardened base, how many carry unpatched critical CVEs, and whether any unsigned image can currently be scheduled. If a critical finding does not stop a deploy, your scanner is decoration.
 
-2. **How do resource requests, limits, and quotas prevent one workload from starving its neighbors, without leaving expensive capacity idle?** On a shared cluster, a workload with no limits can crash or throttle everything around it, and quotas set too generously waste the utilization gains that justify the platform. Decide sensible defaults, who tunes them, and how you catch workloads with no requests set at all. At scale this is both a reliability control and a cost control, because right-sizing is where much of the FinOps saving lives. Bring data: current cluster utilization, how often workloads get evicted or throttled, and which namespaces have no quotas. The goal is dense, safe bin-packing, so treat missing limits as a defect the platform rejects.
+2. **How do resource requests, limits, and quotas prevent one workload from starving its neighbours, without leaving expensive capacity idle?** On a shared cluster, a workload with no limits can crash or throttle everything around it, and quotas set too generously waste the utilization gains that justify the platform. Decide sensible defaults, who tunes them, and how you catch workloads with no requests set at all. At scale this is both a reliability control and a cost control, because right-sizing is where much of the FinOps saving lives. Bring data: current cluster utilization, how often workloads get evicted or throttled, and which namespaces have no quotas. The goal is dense, safe bin-packing, so treat missing limits as a defect the platform rejects.
 
 3. **What state is allowed to live inside a container, and where does everything else go?** Cloud-native resilience depends on disposable instances the platform can reschedule at will, and that only holds if important state lives in managed data services rather than on the container's local disk. Decide the rule explicitly, because state stored in a container by accident becomes data loss on the next reschedule. For teams migrating older applications this is often the hardest part, since legacy services assume a stable local filesystem. Bring an inventory: which services write local state, which rely on sticky sessions or node affinity, and what it would take to externalize each. Until state is external, you have containers that look elastic but cannot actually be moved.
+
+4. **When many teams share a cluster, is your isolation model deliberately chosen as soft or hard multi-tenancy, and do the controls match that choice?** Namespaces separate trusted internal teams, but they do not contain a workload that is actively hostile or compromised, and treating soft tenancy as if it were hard is a security incident waiting to happen. Decide per workload whether tenants merely need fair sharing or must be assumed to distrust each other, then match the controls: namespaces, quotas, network policies, and RBAC for the soft case, separate clusters or stronger sandboxing for the hard case. For a large organization this decision drives cost directly, because a cluster per tenant is far more expensive than shared namespaces, so you want to spend the isolation budget only where the threat model demands it. Bring the tenant inventory: which workloads share a cluster today, which handle regulated or externally facing traffic, and where network policy is still default-allow. In enterprise and government settings, mixing distrusting workloads under soft tenancy is exactly the finding an auditor will flag, so name the boundary before they do.
+
+5. **How much are you paying for multi-cloud portability, and will you ever actually use it?** Standardizing on containers, Kubernetes, and open APIs keeps workloads movable, but refusing every managed service to preserve that option trades real, daily productivity for portability the organization may never exercise. Decide where portability is a genuine requirement, such as a sovereignty or exit obligation you have signed, versus where it is a comfort blanket that slows every team down. The competing consideration is speed: deep managed services ship features faster, and lowest-common-denominator architecture is a standing tax on every team. Bring the evidence: which managed services you have avoided and what that cost in engineering time, whether you have ever moved a workload between providers, and what your contracts actually oblige. For government and regulated adopters, data-residency and sovereign-cloud rules can make portability non-negotiable, so design so the same manifests and pipelines run in a sovereign region and a private enclave, but be honest that this is a compliance cost rather than free insurance.
+
+6. **Can each team see what it spends, and does anyone own the bill before it becomes a surprise?** In an elastic platform, cost is a direct output of engineering decisions, yet without cost-allocation tags and visible dashboards spend accrues to a shared pool that nobody feels responsible for until finance escalates. Decide how you attribute cost to teams and services, who reviews it, and whether engineers see cost next to performance metrics or only hear about it once a quarter. The tension is between accountability and friction: push cost too hard and every decision becomes a budget negotiation, ignore it and idle, oversized workloads quietly compound. Bring the numbers: current spend by team, how much capacity sits idle or oversized, and how quickly a runaway workload would be noticed. For enterprise and government budgets, unattributed cloud spend is both a governance failing and a real financial risk, so stand up a FinOps practice that puts engineering, finance, and product in the same conversation rather than reconciling after the fact.
+
+## Sector lens
+
+**Startup.** Reach for a managed container service rather than a self-hosted Kubernetes cluster: with a couple of services and no platform engineer, control planes are a distraction you cannot afford. Package small images from a minimal base, pin versions, add one vulnerability scan to the build, and push all state into a managed database so instances stay disposable. Skip namespaces, operators, and multi-cloud portability until you actually have the services and the people to justify them.
+
+**Small business.** With no dedicated platform specialist and a tight budget, lean hard on managed services and let the provider run the orchestration you would otherwise have to staff. Treat container basics as your security floor: minimal images, version pinning, and a scan in the pipeline give most of the protection for little effort. Favour buying a supported platform over building one, and keep enough portability, standard containers and open APIs, that you are not trapped if pricing or terms change.
+
+**Enterprise.** The task is platform governance across many teams: a central platform team supplying hardened base images, signing and scanning gates, namespace tenancy with quotas, network policy, and RBAC, plus cost-allocation tags and a FinOps dashboard. Standardize the deployment contract so hundreds of services operate the same way, and manage security, multi-tenancy, and cost centrally while teams self-serve deployment. Fund the platform team properly, because an under-resourced platform becomes the bottleneck the whole organization waits on.
+
+**Government.** Sovereignty, data residency, and public accountability shape the architecture. Run workloads on standard containers and Kubernetes so the same pipelines run in a sovereign region and an accredited on-premises enclave, and encode residency and access boundaries as policy rather than convention. Draw images from an internal hardened registry, apply hard multi-tenancy to the most sensitive data, and keep the portability that gives you resilience and negotiating leverage, since procurement rules often forbid single-vendor lock-in.
 
 ## Examples
 
@@ -84,21 +100,23 @@ The TCO analysis must be honest about the operational burden. Adoption costs inc
 
 - **Fat, unscanned images.** Bloated images built from untrusted bases carry unnecessary vulnerabilities and slow everything down.
 - **Kubernetes for everything.** Adopting a complex orchestrator for a handful of simple services buys complexity with no payoff.
-- **Ignoring resource limits.** Without requests and limits, one workload can starve or crash its neighbors.
+- **Ignoring resource limits.** Without requests and limits, one workload can starve or crash its neighbours.
 - **Soft tenancy for hostile workloads.** Relying on namespaces alone to isolate distrusting tenants is a security incident waiting to happen.
 - **Stateful containers by accident.** Storing important state inside disposable containers leads to data loss on reschedule.
 - **Cost blindness.** Treating cloud spend as fixed overhead rather than an engineering output leads to runaway bills.
-- **Portability theater.** Refusing all managed services to preserve portability that the organization will never actually use.
+- **Portability theatre.** Refusing all managed services to preserve portability that the organization will never actually use.
 
 ## Maturity model
 
-**Level 1: Initial.** Containers are used ad hoc, if at all. Images are hand-built and unscanned, deployment is manual, and there is no shared platform or isolation model.
+**Level 1: Initiate.** Containers are used ad hoc, if at all. Images are hand-built and unscanned, deployment is manual and reactive, and there is no shared platform, cost visibility, or isolation model.
 
-**Level 2: Managed.** Teams containerize applications and use an orchestrator, but practices vary. Image scanning and resource limits are inconsistent, and cost and multi-tenancy are not systematically governed.
+**Level 2: Develop.** Teams containerize applications and adopt an orchestrator, but practices vary between groups. Image scanning, resource limits, and signing are inconsistent, and cost and multi-tenancy are not systematically governed.
 
-**Level 3: Defined.** A standardized platform provides hardened images, signing and scanning gates, namespace-based tenancy with quotas and network policy, and cost allocation. Cloud-native patterns are the norm.
+**Level 3: Standardize.** A standardized platform is documented and enforced across the organization: hardened base images, signing and scanning gates, namespace-based tenancy with quotas and network policy, RBAC, and cost allocation. Cloud-native and twelve-factor patterns are the expected norm rather than a local choice.
 
-**Level 4: Optimizing.** The platform is self-service and self-healing, with strong multi-tenancy, automated cost optimization via FinOps, and portable architecture supporting hybrid and sovereign requirements. The platform continuously improves from measured usage.
+**Level 4: Manage.** The platform is measured and controlled against baselines. You track cluster utilization, the share of running images built from the hardened base, unpatched critical vulnerabilities, deployment frequency and change-failure rate, eviction and throttling rates, and cost per team and service against budget. Gates are enforced on this evidence: missing resource limits and unsigned images are rejected automatically, and drift from the standard triggers action rather than a warning.
+
+**Level 5: Orchestrate.** The platform is self-service and self-healing, integrated across the organization and adaptive. FinOps continuously right-sizes and reclaims capacity, portable architecture supports hybrid and sovereign requirements, and the platform improves continuously from measured usage, retiring and replacing components as workloads, cost, and the risk picture shift.
 
 ## Ideas for discussion
 

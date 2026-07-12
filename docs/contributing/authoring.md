@@ -17,7 +17,7 @@
 3. Write to the template. Every content chapter needs all of its sections:
    overview, key principles, recommendations, trade-offs (with a table),
    examples (one enterprise and one government), business case, anti-patterns, a
-   four-level maturity model, discussion ideas, key takeaways, and references.
+   five-level maturity model, discussion ideas, key takeaways, and references.
 4. Define terms on first use. Add Wikipedia links to key concepts on first
    mention, in prose only.
 5. Cross-reference related chapters by decimal, for example "(chapter 8.1)."

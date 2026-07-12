@@ -109,7 +109,7 @@ part). See also the [Introduction](introduction.md).
 - [7.4 Product analytics and experimentation](../chapters/07-04-product-analytics-and-experimentation.md)
 - [7.5 Decision science and data-informed culture](../chapters/07-05-decision-science-and-data-culture.md)
 - [7.6 Real-time and streaming data](../chapters/07-06-real-time-and-streaming-data.md)
-- [7.7 Data modeling and the semantic layer](../chapters/07-07-data-modeling-and-semantic-layer.md)
+- [7.7 Data modelling and the semantic layer](../chapters/07-07-data-modelling-and-semantic-layer.md)
 - [7.8 Data quality and observability](../chapters/07-08-data-quality-and-observability.md)
 - [7.9 Master data and reference data management](../chapters/07-09-master-data-and-reference-data-management.md)
 
@@ -134,9 +134,9 @@ part). See also the [Introduction](introduction.md).
 - [9.7 Capacity planning and demand forecasting](../chapters/09-07-capacity-planning-and-demand-forecasting.md)
 - [9.8 On-call and operational readiness](../chapters/09-08-on-call-and-operational-readiness.md)
 
-### Part 10: Project/Product/Program Management
-- [10.0 Introduction](../chapters/10-00-project-product-program-management.md)
-- [10.1 Portfolio and program management](../chapters/10-01-portfolio-and-program-management.md)
+### Part 10: Project/Product/Programme Management
+- [10.0 Introduction](../chapters/10-00-project-product-programme-management.md)
+- [10.1 Portfolio and programme management](../chapters/10-01-portfolio-and-programme-management.md)
 - [10.2 Risk, audit, and assurance](../chapters/10-02-risk-audit-and-assurance.md)
 - [10.3 Procurement, open source, and licensing](../chapters/10-03-procurement-open-source-and-licensing.md)
 - [10.4 Sustaining large and long-lived systems](../chapters/10-04-sustaining-large-and-long-lived-systems.md)

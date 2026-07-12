@@ -2,20 +2,20 @@
 
 ## Overview and motivation
 
-A [testing](https://en.wikipedia.org/wiki/Software_testing) strategy is the deliberate set of choices about what to test, at what level, how automatically, and to what confidence, so that your team can change code quickly without breaking it. Tests are what let a large organization deploy often and safely. They encode expected behavior, catch regressions, and give engineers the confidence to [refactor](https://en.wikipedia.org/wiki/Code_refactoring). Without a coherent strategy, testing tends to go one of two bad ways: absent (fear-driven, slow-moving development) or bloated (thousands of slow, flaky tests nobody trusts).
+A [testing](https://en.wikipedia.org/wiki/Software_testing) strategy is the deliberate set of choices about what to test, at what level, how automatically, and to what confidence, so that your team can change code quickly without breaking it. Tests are what let a large organization deploy often and safely. They encode expected behaviour, catch regressions, and give engineers the confidence to [refactor](https://en.wikipedia.org/wiki/Code_refactoring). Without a coherent strategy, testing tends to go one of two bad ways: absent (fear-driven, slow-moving development) or bloated (thousands of slow, flaky tests nobody trusts).
 
-For a large team, the strategy matters more than any single test. Hundreds of engineers working in a shared codebase need a fast, reliable safety net. Without one, every change is risky and every release turns into a manual ordeal. Tests also work as executable documentation of intended behavior, which is priceless once the original authors have moved on. The strategy decides whether your test suite is an asset that speeds delivery up or a liability that drags it down.
+For a large team, the strategy matters more than any single test. Hundreds of engineers working in a shared codebase need a fast, reliable safety net. Without one, every change is risky and every release turns into a manual ordeal. Tests also work as executable documentation of intended behaviour, which is priceless once the original authors have moved on. The strategy decides whether your test suite is an asset that speeds delivery up or a liability that drags it down.
 
 In enterprise and government contexts, testing carries extra weight. Regulations may require documented test coverage and evidence. Safety-critical and citizen-facing systems demand high assurance. Accessibility and security testing may be legally required. So the strategy has to balance speed, confidence, cost, and compliance, and it has to treat coverage as a signal, not a target to be gamed.
 
 ## Key principles
 
 - Test to gain the confidence to change, not to hit a number.
-- Favor fast, reliable, isolated tests. Slow or flaky tests erode the trust that makes a suite useful.
+- Favour fast, reliable, isolated tests. Slow or flaky tests erode the trust that makes a suite useful.
 - Push tests to the lowest level that gives real confidence, and save slow, broad tests for genuine integration risk.
 - A flaky test is a broken test. Treat flakiness as a first-class defect.
 - Coverage is a signal, not a goal. High coverage of trivial code proves little.
-- Test behavior and contracts, not implementation details, so your tests survive refactoring.
+- Test behaviour and contracts, not implementation details, so your tests survive refactoring.
 - Make non-functional testing (accessibility, performance, security) part of the strategy, not an afterthought.
 
 ## Recommendations
@@ -26,7 +26,7 @@ Default to many fast [unit tests](https://en.wikipedia.org/wiki/Unit_testing), f
 
 ### Adopt TDD, BDD, and specification-driven development where they help
 
-Use [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) to drive design and guarantee testability, especially for complex logic. It is a design discipline as much as a testing one. Use [behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development) (BDD) to express tests in domain language you share with stakeholders, which is valuable for acceptance criteria in regulated or requirements-heavy environments. Specification-driven development goes one step further: it treats an executable specification (the agreed behavior, expressed as examples) as the single source of truth that both guides the implementation and verifies it. This shines where requirements must be traceable to acceptance evidence, as in government and regulated programs. Related to all three is **[shift-left testing](https://en.wikipedia.org/wiki/Shift-left_testing)**: moving verification as early as possible in the lifecycle, writing tests alongside or before the code and running them continuously, so you catch defects when they are cheapest to fix, rather than in late test phases or in production. None of these is mandatory everywhere. Apply them where they add clarity.
+Use [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) to drive design and guarantee testability, especially for complex logic. It is a design discipline as much as a testing one. Use [behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development) (BDD) to express tests in domain language you share with stakeholders, which is valuable for acceptance criteria in regulated or requirements-heavy environments. Specification-driven development goes one step further: it treats an executable specification (the agreed behaviour, expressed as examples) as the single source of truth that both guides the implementation and verifies it. This shines where requirements must be traceable to acceptance evidence, as in government and regulated programmes. Related to all three is **[shift-left testing](https://en.wikipedia.org/wiki/Shift-left_testing)**: moving verification as early as possible in the lifecycle, writing tests alongside or before the code and running them continuously, so you catch defects when they are cheapest to fix, rather than in late test phases or in production. None of these is mandatory everywhere. Apply them where they add clarity.
 
 ### Employ advanced techniques for high-value code
 
@@ -50,7 +50,7 @@ Measure coverage to find untested areas, but do not turn it into a hard target t
 |---|---|---|
 | Unit tests | Fast, precise, cheap, stable | Miss integration and system-level bugs |
 | Integration tests | Catch interface and wiring defects | Slower; more setup; more brittle |
-| End-to-end tests | Highest confidence in real behavior | Slow, flaky, expensive to maintain |
+| End-to-end tests | Highest confidence in real behaviour | Slow, flaky, expensive to maintain |
 | TDD | Better design, guaranteed testability | Learning curve; feels slow initially |
 | Property-based testing | Finds edge cases, encodes invariants | Requires thinking in properties; harder to write |
 | Mutation testing | True measure of test effectiveness | Computationally expensive; slow to run |
@@ -65,6 +65,22 @@ The central trade-off is confidence versus speed and cost. Broader tests give mo
 2. **Do you set a hard coverage percentage as a gate, and if so, what stops engineers from gaming it with assertion-free tests?** The chapter is firm that coverage is a signal, not a goal, that high coverage of trivial code proves little, and that a hard target invites gaming. A single number imposed across a large org reliably produces tests that execute code without asserting anything, which raises the metric and lowers real confidence. Bring a better signal to the discussion: a mutation-testing score on your highest-value modules, which measures whether tests actually detect injected faults. Use coverage to find untested areas and mutation testing for depth, and resist turning either into a target that leadership tracks in isolation. Decide where the number genuinely helps and where it only invites theater.
 
 3. **What is your policy when the test suite grows too slow for engineers to wait on it?** The central trade-off in this chapter is confidence versus speed and cost, and it names over-testing as a real failure mode where a bloated, redundant, slow suite costs more than the bugs it prevents. On a large team, suite runtime is a shared tax paid on every change, and a suite people learn to bypass loses all its value. Bring the evidence: CI wall-clock time, the slowest tests, and how much redundant end-to-end coverage duplicates cheaper unit tests. Push tests to the lowest level that gives real confidence, parallelize, and delete redundant slow tests on a deadline. Optimizing confidence per second of feedback, not raw test count, is the goal.
+
+4. **When a test goes flaky, who owns it, how fast must it be fixed or deleted, and what enforces that deadline?** This chapter treats a flaky test as a broken test, a first-class defect, because a suite that fails at random trains a large team to ignore red builds and quietly destroys the safety net everyone depends on. The competing pressure is real: quarantining a flaky test unblocks delivery today but risks masking a genuine intermittent bug, while blocking on it stalls hundreds of engineers over a failure that may be pure noise. Bring the evidence that settles it: your current flakiness rate, how long tests sit quarantined before anyone touches them, and how many quarantined tests turned out to hide a real defect. Assign an owner to every quarantined test, set a hard deadline to fix or delete, and track reliability as an explicit metric for the suite itself. In enterprise and government settings where a green build is part of release evidence, an unmanaged quarantine pile is also an audit liability, because you are shipping on a signal you have privately agreed to distrust.
+
+5. **Are you allowed to use production data in test environments, and if not, how will you generate synthetic data faithful enough to catch real defects?** The chapter is direct that privacy rules often forbid real personal data in test, and that synthetic data has to mirror production characteristics or your tests give false confidence. For a large organization the tension is between fidelity and compliance: production data catches the messy edge cases synthetic data misses, but every copy of it multiplies your exposure and your obligations. Bring the specifics: which datasets carry personal or regulated data, what your privacy and data-residency rules actually require, and how well your current fixtures reproduce the distributions and edge cases seen in production. Standardize factories or builders so each test constructs exactly the data it needs, and invest in synthetic generation that matches real demographic and volume distributions. In government and regulated programmes, using citizen data in a test environment is not a shortcut, it is a reportable breach, so the data strategy has to be settled before the first environment is stood up.
+
+6. **Where should TDD, BDD, or specification-driven development be expected rather than optional, and who decides?** This chapter presents these as disciplines to apply where they add clarity, not mandates for every line of code, yet a large team benefits from a shared default so practice does not fragment team by team. The trade-off is between the design and traceability benefits (executable specifications that policy experts can review, tests that survive refactoring) and the genuine learning curve and up-front slowness that make a blanket mandate backfire. Bring evidence to scope it: which modules carry complex logic or high change-failure rates, where acceptance criteria must be traceable to requirements, and how teams already practising these report on speed and defect rates. Reserve the expectation for complex logic and requirements-heavy areas, and let simpler code choose for itself. In regulated and government programmes where software must be traceable to the law it implements, specification-driven development with executable acceptance evidence is less a preference than a route to your authority-to-operate, so name explicitly where it is required.
+
+## Sector lens
+
+**Startup.** A tiny team cannot staff QA, so make the suite earn its keep: fast unit tests on every commit plus a couple of end-to-end tests over the one path that pays the bills, and nothing you will not maintain. Skip coverage targets and test the logic you are most afraid to break, so you can ship several times a day without a manual regression pass. Fix a flaky test the same day, because at this stage a suite the team learns to ignore is worse than no suite at all.
+
+**Small business.** With no dedicated test engineer and a tight budget, lean on the testing built into the frameworks and tools you already run rather than a bespoke harness you cannot support. Prioritize the handful of checks that protect revenue and customer trust, and use hosted CI so you are not maintaining build infrastructure yourself. Prefer buying accessibility and security scanning as a service over building it, since a single missed defect can cost more than a year of the tool.
+
+**Enterprise.** Across many teams the strategy problem is consistency: a shared pyramid default, automatic flaky-test quarantine, and non-functional gates that mean the same thing everywhere, so a green build is trustworthy no matter who produced it. Budget suite runtime as a shared tax and parallelize aggressively, because CI wall-clock time is paid on every change by every engineer. Manage coverage and mutation scores as portfolio signals with clear ownership, not numbers leadership tracks in isolation.
+
+**Government.** Procurement and oversight make testing evidence, not just engineering hygiene. Express eligibility and policy rules as executable specifications reviewed by domain experts, so you can trace the software to the law it implements, and make accessibility and security testing blocking because they are legally required and part of authority-to-operate evidence. Use synthetic data generated to match real distributions, since citizen data in a test environment is a reportable breach, and keep the test artefacts auditable so an external reviewer can confirm exactly what was verified.
 
 ## Examples
 
@@ -93,10 +109,11 @@ The adoption cost is real: you write and maintain tests, and build [continuous i
 
 ## Maturity model
 
-- **Level 1, Initial:** Testing is manual and ad hoc; automated coverage is minimal; regressions are frequent.
-- **Level 2, Repeatable:** Automated unit and some integration tests exist, but the suite is slow or flaky and trust is low.
-- **Level 3, Defined:** A balanced, fast, reliable suite gates every change; flakiness is managed; non-functional testing is integrated.
-- **Level 4, Optimizing:** Advanced techniques (property-based, mutation, fuzz) target high-value code; coverage is one of several signals; testing metrics drive continuous improvement.
+- **Level 1, Initiate:** Testing is manual and reactive; automated coverage is minimal; regressions are frequent and caught late, often by users rather than the suite.
+- **Level 2, Develop:** Automated unit and some integration tests exist, but the suite is slow or flaky, trust is low, and practice varies widely from one team to the next.
+- **Level 3, Standardize:** A balanced, fast, reliable suite gates every change; a documented pyramid default, a flaky-test policy, and non-functional testing (accessibility, performance, security) are enforced consistently across teams.
+- **Level 4, Manage:** Suite health is measured and controlled against baselines; flakiness rate, CI wall-clock time, mutation score on high-value modules, and escaped-defect rate are tracked and reviewed; coverage is one signal among several, and gates trigger on evidence rather than opinion.
+- **Level 5, Orchestrate:** Advanced techniques (property-based, mutation, fuzz) target high-value code; testing is integrated with delivery metrics such as deployment frequency, change-failure rate, and mean time to recovery; the organization continuously reshapes the suite to its architecture and risk, retiring redundant tests and investing where evidence shows defects still escape.
 
 ## Ideas for discussion
 

@@ -33,7 +33,7 @@ Legend: `[ ]` todo · `[~]` in progress · `[x]` done · **(P)** parallelizable 
 ## Phase 1: Research and evidence base **(P)**
 
 - [ ] Survey canonical sources per domain (books, standards, papers, industry reports)
-- [ ] Catalog relevant standards and frameworks (ISO, NIST, OWASP, WCAG, etc.)
+- [ ] Catalogue relevant standards and frameworks (ISO, NIST, OWASP, WCAG, etc.)
 - [ ] Collect enterprise case studies and post-incident learnings
 - [ ] Collect government/public-sector references (FedRAMP, GDS, USDS, 18F, gov.uk)
 - [ ] Gather industry benchmarks (DORA, SPACE, State of DevOps, security reports)
@@ -119,9 +119,9 @@ Legend: `[ ]` todo · `[~]` in progress · `[x]` done · **(P)** parallelizable 
 - [ ] Ch. 49 Incident management
 - [ ] Ch. 50 Cost, sustainability, and green software
 
-## Phase 11: Author Part X: Program Delivery, Risk, Enterprise/Gov **(P)**
+## Phase 11: Author Part X: Programme Delivery, Risk, Enterprise/Gov **(P)**
 
-- [ ] Ch. 51 Portfolio and program management
+- [ ] Ch. 51 Portfolio and programme management
 - [ ] Ch. 52 Risk, audit, and assurance
 - [ ] Ch. 53 Procurement, open source, and licensing
 - [ ] Ch. 54 Sustaining large and long-lived systems
@@ -188,7 +188,7 @@ out the practices. Treat as a maturity journey, not a one-time audit.
 - [ ] Legacy-modernization plan for critical systems
 
 ### Security and privacy
-- [ ] Threat modeling routine in the SDLC
+- [ ] Threat modelling routine in the SDLC
 - [ ] Automated SAST/DAST/SCA/IaC scanning in pipelines
 - [ ] Secrets management and key rotation enforced
 - [ ] SBOM and supply-chain provenance in place
@@ -211,7 +211,7 @@ out the practices. Treat as a maturity journey, not a one-time audit.
 - [ ] Responsible-AI governance mapped (NIST AI RMF / EU AI Act / ISO 42001)
 
 ### Data and analytics
-- [ ] Data governance, catalog, and ownership established
+- [ ] Data governance, catalogue, and ownership established
 - [ ] Data-quality monitoring and observability in place
 - [ ] Metrics/semantic layer with governed definitions
 - [ ] Experimentation platform with statistical rigor
@@ -234,7 +234,7 @@ out the practices. Treat as a maturity journey, not a one-time audit.
 ### Enterprise and government
 - [ ] Portfolio aligned to strategy/OKRs with managed dependencies
 - [ ] Third-party and supply-chain risk assessed
-- [ ] Open source policy, OSPO, and license compliance
+- [ ] Open source policy, OSPO, and licence compliance
 - [ ] Long-lived-system stewardship and bus-factor mitigation
 - [ ] Ethics, accountability, and public-transparency obligations met
 

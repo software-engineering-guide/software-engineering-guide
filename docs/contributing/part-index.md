@@ -15,7 +15,7 @@ for agents and contributors; the authoritative per-chapter manifest is
 | 7 | Data, Analytics, and Insight | 9 |
 | 8 | Automation | 7 |
 | 9 | Operations, Reliability, and Observability | 7 |
-| 10 | Project/Product/Program Management | 19 |
+| 10 | Project/Product/Programme Management | 19 |
 | 11 | Flow: Discovery and Delivery Pipelines | 6 |
 | 12 | Appendices | 8 |
 

@@ -35,11 +35,11 @@ for fuller treatment.
 
 **Backpressure**: A flow-control mechanism in which a component under load signals upstream producers to slow down, preventing unbounded queues and cascading failure. It is central to reliable streaming and message-driven systems.
 
-**[BDD (Behavior-Driven Development)](https://en.wikipedia.org/wiki/Behavior-driven_development)**: A collaborative practice that expresses requirements as concrete, human-readable examples of behavior (often in Given/When/Then form) that double as automated acceptance tests.
+**[BDD (Behavior-Driven Development)](https://en.wikipedia.org/wiki/Behavior-driven_development)**: A collaborative practice that expresses requirements as concrete, human-readable examples of behaviour (often in Given/When/Then form) that double as automated acceptance tests.
 
 **BFF (Backend for Frontend)**: An architectural pattern in which a dedicated backend service is built for a specific frontend or client type, tailoring data shaping and aggregation to that client's needs.
 
-**[BI (Business Intelligence)](https://en.wikipedia.org/wiki/Business_intelligence)**: The tools, processes, and practices for collecting, integrating, and analyzing business data to support reporting, dashboards, and decision-making.
+**[BI (Business Intelligence)](https://en.wikipedia.org/wiki/Business_intelligence)**: The tools, processes, and practices for collecting, integrating, and analysing business data to support reporting, dashboards, and decision-making.
 
 **Blameless postmortem**: An incident review that focuses on systemic causes and learning rather than individual fault, on the premise that people act reasonably given the information and incentives they had.
 
@@ -77,13 +77,13 @@ for fuller treatment.
 
 **[CI/CD](https://en.wikipedia.org/wiki/CI/CD)**: The combined pipeline of Continuous Integration and Continuous Delivery/Deployment that automates building, testing, and releasing software.
 
-**CMMC (Cybersecurity Maturity Model Certification)**: A US Department of Defense program that certifies the cybersecurity maturity of contractors handling federal contract information and controlled unclassified information.
+**CMMC (Cybersecurity Maturity Model Certification)**: A US Department of Defense programme that certifies the cybersecurity maturity of contractors handling federal contract information and controlled unclassified information.
 
 **[Cohesion](https://en.wikipedia.org/wiki/Cohesion_(computer_science))**: The degree to which the elements inside a module belong together and serve a single, well-defined purpose. High cohesion, paired with low coupling, is a hallmark of maintainable design.
 
 **Context window**: The maximum amount of text, measured in tokens, that a language model can consider at once, spanning its input and output. It is a scarce budget that prompt and context design must manage deliberately.
 
-**[Conway's Law](https://en.wikipedia.org/wiki/Conway's_law)**: The observation that the structure of a system tends to mirror the communication structure of the organization that builds it. The "inverse Conway maneuver" deliberately shapes teams to produce a desired architecture.
+**[Conway's Law](https://en.wikipedia.org/wiki/Conway's_law)**: The observation that the structure of a system tends to mirror the communication structure of the organization that builds it. The "inverse Conway manoeuvre" deliberately shapes teams to produce a desired architecture.
 
 **Core Web Vitals**: A set of user-centric web performance metrics defined by Google (such as Largest Contentful Paint, Interaction to Next Paint, and Cumulative Layout Shift) that measure loading, interactivity, and visual stability.
 
@@ -93,7 +93,7 @@ for fuller treatment.
 
 **CQRS (Command Query Responsibility Segregation)**: A pattern that separates the model used to change state (commands) from the model used to read state (queries), allowing each to be optimized and scaled independently.
 
-**[CVE (Common Vulnerabilities and Exposures)](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)**: A public catalog of disclosed security vulnerabilities, each assigned a unique identifier so that tools and teams can reference the same flaw unambiguously.
+**[CVE (Common Vulnerabilities and Exposures)](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)**: A public catalogue of disclosed security vulnerabilities, each assigned a unique identifier so that tools and teams can reference the same flaw unambiguously.
 
 **CWV**: See Core Web Vitals.
 
@@ -105,23 +105,23 @@ for fuller treatment.
 
 **[Data mesh](https://en.wikipedia.org/wiki/Data_mesh)**: A decentralized data architecture and operating model that treats data as a product owned by domain teams, supported by self-serve platform infrastructure and federated governance.
 
-**[Data visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)**: The practice of encoding data in visual form (position, length, color, and the like) so patterns, comparisons, and trends become perceptible and decisions become better informed.
+**[Data visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)**: The practice of encoding data in visual form (position, length, colour, and the like) so patterns, comparisons, and trends become perceptible and decisions become better informed.
 
-**[DDD (Domain-Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)**: An approach to software design that centers the model on the business domain, using a shared ubiquitous language, bounded contexts, and building blocks such as entities, value objects, and aggregates.
+**[DDD (Domain-Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)**: An approach to software design that centres the model on the business domain, using a shared ubiquitous language, bounded contexts, and building blocks such as entities, value objects, and aggregates.
 
-**Design tokens**: Named, platform-agnostic values (colors, spacing, typography, and the like) that encode design decisions so they can be shared consistently across a design system and multiple products.
+**Design tokens**: Named, platform-agnostic values (colours, spacing, typography, and the like) that encode design decisions so they can be shared consistently across a design system and multiple products.
 
 **DevEx / DevX (Developer Experience)**: The overall quality of a developer's day-to-day interaction with tools, platforms, and processes, encompassing friction, feedback speed, and cognitive load.
 
 **[DevOps](https://en.wikipedia.org/wiki/DevOps)**: A culture and set of practices that unite software development and operations to shorten delivery cycles, increase deployment frequency, and improve reliability through automation and shared ownership.
 
-**DORA (DevOps Research and Assessment)**: A research program and its four widely used delivery metrics (deployment frequency, lead time for changes, change failure rate, and time to restore service) used to benchmark software delivery performance.
+**DORA (DevOps Research and Assessment)**: A research programme and its four widely used delivery metrics (deployment frequency, lead time for changes, change failure rate, and time to restore service) used to benchmark software delivery performance.
 
 **DPIA (Data Protection Impact Assessment)**: A structured assessment, required under GDPR for high-risk processing, that identifies and mitigates privacy risks before a project proceeds.
 
 **Drift (configuration)**: The gradual divergence of a system's actual state from its declared or intended state, commonly caused by manual changes; Infrastructure as Code and GitOps aim to detect and correct it.
 
-**Drift (model)**: In machine learning, the degradation of model performance over time as the statistical properties of input data (data drift) or the relationship being modeled (concept drift) change.
+**Drift (model)**: In machine learning, the degradation of model performance over time as the statistical properties of input data (data drift) or the relationship being modelled (concept drift) change.
 
 **[DR (Disaster Recovery)](https://en.wikipedia.org/wiki/Disaster_recovery)**: The strategy, procedures, and infrastructure for restoring service and data after a major disruptive event, typically governed by RTO and RPO targets.
 
@@ -129,7 +129,7 @@ for fuller treatment.
 
 ## E
 
-**East-west traffic**: Network traffic between services inside a system or data center, as opposed to north-south traffic between the system and external clients. A service mesh typically governs east-west traffic.
+**East-west traffic**: Network traffic between services inside a system or data centre, as opposed to north-south traffic between the system and external clients. A service mesh typically governs east-west traffic.
 
 **[Edge computing](https://en.wikipedia.org/wiki/Edge_computing)**: Running computation and storage close to where data is produced or consumed rather than in a central location, to cut latency and bandwidth. Content delivery networks are an early, widespread form.
 
@@ -155,13 +155,13 @@ for fuller treatment.
 
 **Feature store**: A centralized system for defining, storing, and serving curated machine-learning features consistently for both training and inference, reducing duplication and training/serving skew.
 
-**[FedRAMP (Federal Risk and Authorization Management Program)](https://en.wikipedia.org/wiki/FedRAMP)**: A US government program that standardizes security assessment, authorization, and continuous monitoring for cloud services used by federal agencies.
+**[FedRAMP (Federal Risk and Authorization Management Program)](https://en.wikipedia.org/wiki/FedRAMP)**: A US government programme that standardizes security assessment, authorization, and continuous monitoring for cloud services used by federal agencies.
 
 **Few-shot prompting**: Supplying a language model with a handful of worked examples in the prompt to demonstrate the desired task and output format, as opposed to zero-shot prompting, which gives instructions with no examples.
 
 **FinOps**: A discipline and cultural practice that brings financial accountability to variable cloud spending, giving engineering, finance, and business teams shared ownership of cost and value.
 
-**[FISMA (Federal Information Security Modernization Act)](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act)**: US legislation requiring federal agencies to implement, document, and monitor information security programs, operationalized largely through NIST guidance.
+**[FISMA (Federal Information Security Modernization Act)](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act)**: US legislation requiring federal agencies to implement, document, and monitor information security programmes, operationalized largely through NIST guidance.
 
 **Flow efficiency**: The proportion of total lead time that a work item spends being actively worked rather than waiting, calculated as value-add time divided by total lead time. Most systems are surprisingly low, often under 15 percent.
 
@@ -207,7 +207,7 @@ for fuller treatment.
 
 **[i18n (Internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)**: Designing and building software so it can be adapted to different languages, regions, and cultural conventions without engineering changes. The numeronym abbreviates the 18 letters between "i" and "n."
 
-**Immutable artifact**: A build output that, once produced and versioned, is never modified; any change yields a new version. Immutability makes releases reproducible and lets you build once and promote the same artifact across environments.
+**Immutable artefact**: A build output that, once produced and versioned, is never modified; any change yields a new version. Immutability makes releases reproducible and lets you build once and promote the same artefact across environments.
 
 **InnerSource**: The application of open-source development practices (transparency, shared repositories, and cross-team contribution) inside a single organization.
 
@@ -227,7 +227,7 @@ for fuller treatment.
 
 **[Kanban](https://en.wikipedia.org/wiki/Kanban_(development))**: A lean workflow method that visualizes work on a board, limits work in progress, and manages flow to improve throughput and predictability.
 
-**[KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle)**: A design principle favoring the simplest solution that meets the need, on the grounds that unnecessary complexity increases cost and risk.
+**[KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle)**: A design principle favouring the simplest solution that meets the need, on the grounds that unnecessary complexity increases cost and risk.
 
 **KMS (Key Management Service)**: A system for creating, storing, rotating, and controlling access to cryptographic keys, often backed by hardware security modules.
 
@@ -273,13 +273,13 @@ for fuller treatment.
 
 **NIST AI RMF (AI Risk Management Framework)**: A voluntary NIST framework for identifying, assessing, and managing risks associated with AI systems across their lifecycle, organized around the functions Govern, Map, Measure, and Manage.
 
-**[NIST SP 800-53](https://en.wikipedia.org/wiki/NIST_Special_Publication_800-53)**: A NIST catalog of security and privacy controls for federal information systems, widely used as a baseline well beyond government.
+**[NIST SP 800-53](https://en.wikipedia.org/wiki/NIST_Special_Publication_800-53)**: A NIST catalogue of security and privacy controls for federal information systems, widely used as a baseline well beyond government.
 
-**NIST SP 800-171**: A NIST publication specifying requirements for protecting controlled unclassified information (CUI) in non-federal systems, central to defense-contractor compliance.
+**NIST SP 800-171**: A NIST publication specifying requirements for protecting controlled unclassified information (CUI) in non-federal systems, central to defence-contractor compliance.
 
 **[NFR (Non-Functional Requirement)](https://en.wikipedia.org/wiki/Non-functional_requirement)**: A requirement describing how a system should behave (its qualities such as performance, security, reliability, or usability) rather than what functions it performs.
 
-**North-south traffic**: Network traffic between a system and its external clients (in and out of the data center or cluster), as opposed to east-west traffic between internal services. An API gateway typically governs north-south traffic.
+**North-south traffic**: Network traffic between a system and its external clients (in and out of the data centre or cluster), as opposed to east-west traffic between internal services. An API gateway typically governs north-south traffic.
 
 ## O
 
@@ -361,13 +361,13 @@ for fuller treatment.
 
 **[SAFe (Scaled Agile Framework)](https://en.wikipedia.org/wiki/Scaled_agile_framework)**: A framework for applying agile and lean practices across large enterprises, coordinating many teams; valued for structure and criticized for potential heaviness.
 
-**[SAST (Static Application Security Testing)](https://en.wikipedia.org/wiki/Static_application_security_testing)**: Security testing that analyzes source code, bytecode, or binaries without executing them to find vulnerabilities early in development.
+**[SAST (Static Application Security Testing)](https://en.wikipedia.org/wiki/Static_application_security_testing)**: Security testing that analyses source code, bytecode, or binaries without executing them to find vulnerabilities early in development.
 
 **SBOM (Software Bill of Materials)**: A formal, machine-readable inventory of the components and dependencies in a piece of software, used to manage supply-chain and vulnerability risk.
 
 **SCA (Software Composition Analysis)**: Tooling that identifies open-source and third-party components in a codebase and flags known vulnerabilities and license risks.
 
-**[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))**: An agile framework that organizes work into fixed-length iterations (sprints) with defined roles, events, and artifacts to deliver increments of value.
+**[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))**: An agile framework that organizes work into fixed-length iterations (sprints) with defined roles, events, and artefacts to deliver increments of value.
 
 **[Section 508](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)**: A US law requiring federal agencies to make their electronic and information technology accessible to people with disabilities, in practice aligned with WCAG.
 
@@ -385,7 +385,7 @@ for fuller treatment.
 
 **SLO (Service Level Objective)**: A target value or range for an SLI that defines the desired level of reliability, forming the basis of error budgets.
 
-**SLSA (Supply-chain Levels for Software Artifacts)**: A framework of graduated security requirements for improving the integrity and provenance of software artifacts through the build and release process.
+**SLSA (Supply-chain Levels for Software Artifacts)**: A framework of graduated security requirements for improving the integrity and provenance of software artefacts through the build and release process.
 
 **SOAR (Security Orchestration, Automation, and Response)**: Tools and practices that automate and coordinate security operations, such as triage and response playbooks, to improve speed and consistency.
 
@@ -401,9 +401,9 @@ for fuller treatment.
 
 **SSDF (Secure Software Development Framework)**: NIST's framework (SP 800-218) of high-level secure-development practices, spanning preparing the organization, protecting software, producing well-secured software, and responding to vulnerabilities.
 
-**[Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)**: Examining source code, bytecode, or binaries without executing them to find defects, style violations, and security flaws, typically through linters, type checkers, and dedicated analyzers wired into the editor and pipeline.
+**[Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)**: Examining source code, bytecode, or binaries without executing them to find defects, style violations, and security flaws, typically through linters, type checkers, and dedicated analysers wired into the editor and pipeline.
 
-**[STRIDE](https://en.wikipedia.org/wiki/STRIDE_model)**: A threat-modeling taxonomy categorizing threats as Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege.
+**[STRIDE](https://en.wikipedia.org/wiki/STRIDE_model)**: A threat-modelling taxonomy categorizing threats as Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege.
 
 ## T
 
@@ -417,7 +417,7 @@ for fuller treatment.
 
 **[Theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)**: A management approach holding that a system's throughput is limited by a single bottleneck at any time, so improvement efforts should focus on that constraint until it moves elsewhere.
 
-**[Threat modeling](https://en.wikipedia.org/wiki/Threat_model)**: A structured practice of identifying, enumerating, and prioritizing potential threats to a system so that defenses can be designed in early.
+**[Threat modelling](https://en.wikipedia.org/wiki/Threat_model)**: A structured practice of identifying, enumerating, and prioritizing potential threats to a system so that defences can be designed in early.
 
 **Toil**: In SRE, manual, repetitive, automatable operational work that scales linearly with a service and provides no lasting value; reducing it frees capacity for engineering.
 

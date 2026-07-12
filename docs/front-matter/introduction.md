@@ -12,7 +12,7 @@ kind: coordination, consistency, risk, compliance, longevity, and trust.
 
 The primary audience is the people who set direction and standards: engineering
 leaders, staff and principal engineers, architects, platform and security
-teams, and program managers. The secondary audience is any engineer who wants
+teams, and programme managers. The secondary audience is any engineer who wants
 to understand the *why* behind an organization's standards. You do not need to
 read it cover to cover. Each chapter stands on its own, states its principles
 first, and ends with practical takeaways, a maturity model, and references.
@@ -32,7 +32,7 @@ chapters **N.1, N.2, …** cover the topics in depth.
 - **Part 7, Data, Analytics, and Insight:** data governance, engineering, business intelligence, experimentation, and decision culture.
 - **Part 8, Automation:** CI/CD, infrastructure as code, cloud-native, platform engineering, and process automation.
 - **Part 9, Operations, Reliability, and Observability:** SRE, observability, incident management, and cost and sustainability.
-- **Part 10, Project/Product/Program Management:** portfolio and program management, risk and assurance, procurement and open source, sustaining systems, ethics, project management, agile, maturity models, innovation partnership, and software engineering economics.
+- **Part 10, Project/Product/Programme Management:** portfolio and programme management, risk and assurance, procurement and open source, sustaining systems, ethics, project management, agile, maturity models, innovation partnership, and software engineering economics.
 - **Part 11, Flow:** the discovery and delivery pipelines, the queueing theory beneath them, and objectives and key results (OKRs) with key performance indicators (KPIs).
 - **Part 12, Appendices:** glossary, checklists, templates, maturity self-assessment, references, adoption roadmap, and index.
 
@@ -51,7 +51,7 @@ Ten principles form the spine of the book:
 3. **Prefer boring, proven technology;** reserve novelty budget for differentiators.
 4. **Everything as code:** infrastructure, policy, pipelines, docs, and configuration.
 5. **Shift left, and shift everywhere:** quality, security, and accessibility early and continuous.
-6. **Automate toil;** reserve human judgment for design, risk, and ethics.
+6. **Automate toil;** reserve human judgement for design, risk, and ethics.
 7. **Measure outcomes, not activity:** instrument, learn, and iterate.
 8. **Design for failure, change, and audit:** assume incidents, turnover, and scrutiny.
 9. **Least privilege and least surprise:** in security and in APIs alike.

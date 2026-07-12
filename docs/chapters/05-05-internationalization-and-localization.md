@@ -17,13 +17,13 @@ Enterprise and government relevance is direct. Multinational enterprises must se
 - Plan for text expansion, right-to-left scripts, and complex plural and gender rules.
 - Format dates, numbers, currencies, and names according to locale, not code.
 - Separate translatable content from code so translators never touch source.
-- Localization is cultural, not just linguistic: colors, imagery, and examples matter.
+- Localization is cultural, not just linguistic: colours, imagery, and examples matter.
 
 ## Recommendations
 
 ### Build a sound internationalization architecture
 
-Store and process all text as Unicode (UTF-8) end to end (database, APIs, and UI) so any script is representable. Externalize every user-facing string into resource files or a message catalog keyed by identifier, never embedded in code or markup. Represent a locale as language plus region (and script where needed) so you can distinguish, for example, one language's variants across countries. Keep formatting logic in a well-tested internationalization library rather than hand-rolling date, number, and currency formatting. Store data in neutral, unambiguous forms (UTC timestamps, ISO country and currency codes, base units) and format only at the presentation layer.
+Store and process all text as Unicode (UTF-8) end to end (database, APIs, and UI) so any script is representable. Externalize every user-facing string into resource files or a message catalogue keyed by identifier, never embedded in code or markup. Represent a locale as language plus region (and script where needed) so you can distinguish, for example, one language's variants across countries. Keep formatting logic in a well-tested internationalization library rather than hand-rolling date, number, and currency formatting. Store data in neutral, unambiguous forms (UTC timestamps, ISO country and currency codes, base units) and format only at the presentation layer.
 
 ### Handle language complexity correctly
 
@@ -35,7 +35,7 @@ Treat localization as a continuous pipeline, not a pre-launch batch. Extract str
 
 ### Localize formats, culture, and content, not just words
 
-Format dates, times, numbers, currencies, addresses, phone numbers, and names per locale, respecting local conventions (date order, decimal and grouping separators, currency placement, name order). Adapt imagery, icons, colors, examples, and metaphors to local cultural meaning, since symbols and colors carry different connotations across cultures. Account for local legal and regulatory content differences. Distinguish global consistency (brand, core functionality) from regional adaptation (content, examples, compliance) and decide explicitly which elements are fixed and which flex.
+Format dates, times, numbers, currencies, addresses, phone numbers, and names per locale, respecting local conventions (date order, decimal and grouping separators, currency placement, name order). Adapt imagery, icons, colours, examples, and metaphors to local cultural meaning, since symbols and colours carry different connotations across cultures. Account for local legal and regulatory content differences. Distinguish global consistency (brand, core functionality) from regional adaptation (content, examples, compliance) and decide explicitly which elements are fixed and which flex.
 
 ### Govern i18n as shared infrastructure
 
@@ -62,9 +62,25 @@ The pivotal trade-off is when to invest in internationalization. Retrofitting i1
 
 3. **Where exactly is machine translation acceptable, and how is our localization pipeline kept continuous rather than batch?** Machine translation is fast and cheap for low-risk, high-volume content but unsuitable for legal, medical, safety, or brand-critical text where a mistranslation causes real harm, so the boundary needs to be an explicit policy, not a per-team guess. Equally, treating localization as a pre-launch batch guarantees a translation crunch, whereas extracting strings automatically and syncing through a translation management system keeps every locale current. Decide who owns the pipeline, the glossaries, and the human-review gate for high-stakes strings. Bring a recent release and ask how long its new strings took to appear in every language. If locales drift out of sync between releases, your pipeline is batch in disguise.
 
+4. **Do we test a right-to-left locale and a long-text pseudo-locale automatically, or are we quietly assuming Latin scripts and English-length layouts?** Bidirectional (right-to-left) support and text expansion are the assumptions that break most visibly in a new market: mirrored interfaces that never got mirrored, and buttons that truncate once German or Finnish runs forty per cent longer than English. The competing pull is speed, since building on logical rather than physical layout properties and wiring an accented pseudo-locale into continuous integration (CI) costs effort before any real customer needs it. Bring a screenshot of your busiest screens rendered in a right-to-left locale and in a lengthened pseudo-locale, and count the overlaps, clipped labels, and stuck arrows. For a multinational enterprise or a government legally required to serve a right-to-left or minority language, a layout that cannot mirror is not a cosmetic defect, it is a market or a statutory obligation you cannot meet without a rebuild.
+
+5. **Which parts of the product are globally fixed and which flex by region, and who has the authority to decide?** Localization is cultural, not merely linguistic, so colours, imagery, examples, honorifics, and even which features are offered can differ by market, yet every regional variant you allow is another artefact to build, translate, review, and maintain forever. The tension is between local fit, which builds trust and conversion, and consistency, which keeps the brand coherent and the maintenance burden bounded. Bring a concrete list of what a proposed new locale would change beyond translated strings, and price the ongoing upkeep of each variant, not just its first build. In a large enterprise this decision needs a named owner so regional teams cannot fork the product ad hoc, and in government it must respect legal and accessibility content rules that vary by jurisdiction and are not optional.
+
+6. **Which locales do we actually commit to, how do we keep terminology consistent across them, and what evidence drives that list?** Adding a language is easy to promise and expensive to sustain, because each one needs a glossary, a style guide, human review for high-stakes strings, and correct plural and gender handling that naive singular-or-plural logic gets wrong in most languages. The competing considerations are reach against cost: a market or population served badly can be worse than one not served at all. Bring the population or revenue behind each candidate locale, the plural-rule and formatting coverage your library provides for it, and who owns its glossary. For a multinational enterprise the driver is addressable market and support cost per language, while for government it is legal language-access obligation and equity, quantified by the number of residents who can only transact in that language.
+
+## Sector lens
+
+**Startup.** Make the cheap architectural choices on day one and stop there: UTF-8 end to end, every user-facing string in a message catalogue, and dates, numbers, and currencies formatted through a locale-aware library. These cost almost nothing while you ship in one language and save a rewrite when your first big customer wants a second. Do not stand up a translation pipeline or support locales nobody is paying for yet; keep the door open, not the whole house furnished.
+
+**Small business.** With no internationalization specialist and a tight budget, lean on the i18n features already in your framework and a hosted translation management service rather than building pipelines yourself. Use machine translation for low-risk, high-volume content and pay for human translation only where a mistake would cost you a customer or breach a rule, such as legal, safety, or billing text. Commit to a locale only when a specific market clearly justifies the ongoing translation and review cost.
+
+**Enterprise.** The problem is governance across many teams: a shared i18n library, lint rules that reject hard-coded strings, a continuous localization pipeline with translation memory and per-language glossaries, and multi-locale CI that includes a right-to-left and a long-text pseudo-locale. Run localization as shared infrastructure with a clear owner so groups stop reinventing the plumbing or drifting out of sync. Measure language coverage, localization quality, and time to launch a new locale, and manage the locale portfolio against those numbers rather than launching markets ad hoc.
+
+**Government.** Language access is often a legal obligation, covering official languages, right-to-left scripts, and indigenous or minority languages, so transparency and equity shape every choice. Build a shared i18n framework and translation workflow across agencies, require human review for legal and safety terminology, and publish glossaries so terms stay consistent between services. Procurement should demand locale, right-to-left, and accessibility support in contracts, and the population served in each language is the metric that justifies the spend to the public.
+
 ## Examples
 
-**Startup.** A small startup shipping only in English still made a few cheap architectural choices on day one: UTF-8 everywhere, every user-facing string pulled into a message catalog instead of hard-coded, and dates and currencies formatted through a locale-aware library. It cost them almost nothing while they had one language. A year later, when their biggest prospect asked for a French and German version, adding those locales was mostly a translation exercise handed to a contractor, not a rewrite, and they closed the deal in weeks rather than deferring it for a quarter of engineering work.
+**Startup.** A small startup shipping only in English still made a few cheap architectural choices on day one: UTF-8 everywhere, every user-facing string pulled into a message catalogue instead of hard-coded, and dates and currencies formatted through a locale-aware library. It cost them almost nothing while they had one language. A year later, when their biggest prospect asked for a French and German version, adding those locales was mostly a translation exercise handed to a contractor, not a rewrite, and they closed the deal in weeks rather than deferring it for a quarter of engineering work.
 
 **Enterprise.** A global e-commerce company internationalized its platform early: UTF-8 throughout, externalized strings, a locale-aware formatting library, and a continuous localization pipeline with translation memory and per-language glossaries. Entering a new market became largely a content exercise (translate, review, adjust imagery) rather than an engineering project, letting the company launch in new locales in weeks. Right-to-left support built on logical layout properties meant Arabic and Hebrew markets required little new UI work.
 
@@ -89,17 +105,19 @@ To make the case to leadership, frame internationalization as an option on futur
 - **Locale-blind formatting**: hard-coded date, number, and currency formats.
 - **Translating without context**: translators guessing meaning, producing errors.
 - **Batch, last-minute localization**: a pre-launch crunch instead of a continuous pipeline.
-- **Cultural tone-deafness**: imagery, colors, or examples that offend or confuse locally.
+- **Cultural tone-deafness**: imagery, colours, or examples that offend or confuse locally.
 
 ## Maturity model
 
-**Level 1: Initial.** Single language, hard-coded strings, non-Unicode assumptions, concatenated text. Any new locale requires code changes.
+**Level 1: Initiate.** Single language, hard-coded strings, non-Unicode assumptions, and text built by concatenation. Internationalization is reactive: any new locale means changing code, and encoding and layout bugs are found by accident in production.
 
-**Level 2: Repeatable.** Strings are externalized and Unicode is used, but localization is a manual, batch, pre-launch effort. Formatting and plural handling are inconsistent.
+**Level 2: Develop.** Some strings are externalized and Unicode is used in places, but practice is inconsistent across teams. Localization is a manual, batch, pre-launch effort, and formatting, plural handling, and right-to-left support are handled differently (or not at all) from one team to the next.
 
-**Level 3: Defined.** A shared i18n architecture and locale-aware formatting library are standard. A translation management system and continuous pipeline are in place, with glossaries and translation memory. Pseudo-localization and multi-locale testing run in CI.
+**Level 3: Standardize.** A shared i18n architecture and locale-aware formatting library are the documented, enforced standard org-wide. String externalization is checked by lint rules, a translation management system and continuous pipeline are in place with glossaries and translation memory, and pseudo-localization plus multi-locale testing (including a right-to-left and a long-text locale) run in CI.
 
-**Level 4: Optimizing.** Internationalization is enforced by tooling and lint rules across all teams. Localization is continuous and integrated, machine and human translation are used deliberately, cultural adaptation is systematic, and new locales launch rapidly with high quality. Language coverage and localization quality are measured.
+**Level 4: Manage.** The localization programme is measured and controlled against baselines. Teams track language coverage, localization quality and defect rates, string-sync latency from commit to translated release, truncation and right-to-left rendering defects caught per release, translation cost per locale, and time to launch a new locale, and these metrics gate releases and drive where to invest human review versus machine translation.
+
+**Level 5: Orchestrate.** Internationalization and localization are continuously improved and integrated across the organization. Localization is continuous, machine and human translation are chosen deliberately per content class, and cultural adaptation is systematic. The organization adds, retires, and re-scopes locales in response to market and equity evidence, and new locales launch rapidly at high quality without a retrofit.
 
 ## Ideas for discussion
 
