@@ -175,7 +175,7 @@ A simple worksheet per part:
 
 | Part | Chapters scored | Average (mean) | Lowest chapter | Notes / priority |
 | --- | --- | --- | --- | --- |
-| I–X | count | mean | min level | ... |
+| I-X | count | mean | min level | ... |
 
 ### Prioritizing what to improve
 

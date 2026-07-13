@@ -1,0 +1,19 @@
+extends: existence
+message: "'%s' reads as stock LLM wording; say the thing plainly instead."
+link: https://software-engineering-guide.github.io/software-engineering-guide/contributing/style-rules/
+level: warning
+ignorecase: true
+tokens:
+  - important to note
+  - crucial to consider
+  - in today's fast[- ]paced world
+  - it appears that
+  - one could argue
+  - it's not just
+  - delve into
+  - ever[- ]evolving
+  - game[- ]chang(?:er|ing)
+  - rich tapestry
+  - plays a vital role
+  - in the realm of
+  - seamlessly integrat

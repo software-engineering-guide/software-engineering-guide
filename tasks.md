@@ -24,52 +24,52 @@ Ground rules for every task (from [`AGENTS.md`](AGENTS.md)):
 
 ## Phase 1: Tooling and enforcement gates
 
-- [ ] 1.1 Add a PR validation workflow at `.github/workflows/test.yml`: on
+- [x] 1.1 Add a PR validation workflow at `.github/workflows/test.yml`: on
       `pull_request` (and pushes to non-main branches), run `uv sync --locked`,
       `uv run python tests/validate.py`, `uv run python tests/test_xref.py`,
       and `uv run zensical build --clean`. Do not deploy. Keep the existing
       `docs.yml` deploy workflow unchanged.
-- [ ] 1.2 **(P)** Extend `tests/validate.py`: enforce that the required `##`
+- [x] 1.2 **(P)** Extend `tests/validate.py`: enforce that the required `##`
       sections in substantive chapters appear in exactly the template order
       (compare the sequence, not just membership). Fix any chapters that fail.
-- [ ] 1.3 **(P)** Extend `tests/validate.py`: minimum word count of 2,000 for
+- [x] 1.3 **(P)** Extend `tests/validate.py`: minimum word count of 2,000 for
       substantive chapters (parts 1 through 11, chapter number >= 1), with an
       explicit allowlist for intentional exceptions. Emit the offending counts.
       (Bringing thin chapters up to depth is task 5.1; the allowlist may start
       large and shrink.)
-- [ ] 1.4 **(P)** Extend `tests/validate.py`: chapter H1 titles must match the
+- [x] 1.4 **(P)** Extend `tests/validate.py`: chapter H1 titles must match the
       titles declared in `spec/structure.md`, character for character, not
       just the leading decimal. Fix mismatches on either side.
-- [ ] 1.5 **(P)** Extend `tests/validate.py`: detect dangling prose
+- [x] 1.5 **(P)** Extend `tests/validate.py`: detect dangling prose
       cross-references. Reuse the reference pattern from
       `guide_xref/__init__.py` to find strings like "chapter 13.4" in all
       docs Markdown, and fail if the referenced chapter is not on disk. Add a
       matching test to `tests/test_xref.py` for the unknown-chapter case if
       one is not already there.
-- [ ] 1.6 **(P)** Extend `tests/validate.py`: en-dash policy check. An
+- [x] 1.6 **(P)** Extend `tests/validate.py`: en-dash policy check. An
       en-dash (U+2013) may appear only between digits (numeric ranges).
       Fix violations.
-- [ ] 1.7 **(P)** Add codespell: a `[tool.codespell]` section in
+- [x] 1.7 **(P)** Add codespell: a `[tool.codespell]` section in
       `pyproject.toml` with an ignore list, a `just spell` target, and a run
       in the PR workflow. Fix every real misspelling it finds.
-- [ ] 1.8 **(P)** Add a Vale configuration (`.vale.ini` plus a
+- [x] 1.8 **(P)** Add a Vale configuration (`.vale.ini` plus a
       `styles/Guide/` rule set) encoding the house style: the banned-phrase
       list from `docs/contributing/style-rules.md`, the em-dash ban, and
       warnings for common filler phrases and stock LLM wording. Add `just lint`.
       Run it in the PR workflow at error severity only, so warnings inform
       but do not block.
-- [ ] 1.9 **(P)** Add `.pre-commit-config.yaml` running the validator,
+- [x] 1.9 **(P)** Add `.pre-commit-config.yaml` running the validator,
       codespell, and the em-dash grep on changed files. Document setup in
       `CONTRIBUTING.md`.
-- [ ] 1.10 **(P)** Add a scheduled weekly workflow
+- [x] 1.10 **(P)** Add a scheduled weekly workflow
       `.github/workflows/links.yml` running lychee over `docs/` and `spec/`
       with a committed `.lycheeignore`, opening or updating a single issue on
       failure. External links stay out of the PR path.
-- [ ] 1.11 **(P)** Extend `just stats` into `tools/stats.py`: per-chapter word
+- [x] 1.11 **(P)** Extend `just stats` into `tools/stats.py`: per-chapter word
       counts sorted ascending, chapters below target depth, Wikipedia links
       per chapter, reference-section entry counts, and totals. Output
       Markdown so reports can be pasted into issues.
-- [ ] 1.12 Update `AGENTS.md`, `CONTRIBUTING.md`, and
+- [x] 1.12 Update `AGENTS.md`, `CONTRIBUTING.md`, and
       `docs/contributing/testing.md` to describe the new targets and checks
       added in this phase.
 

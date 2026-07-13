@@ -1,0 +1,11 @@
+# URLs the weekly link check (.github/workflows/links.yml) skips.
+# One regex per line. Keep entries commented with a reason.
+
+# Placeholder domains used in examples; they resolve but are not real targets.
+https://example\.com.*
+https://example\.org.*
+
+# Sites that block automated clients and return 403/429 to link checkers.
+https://www\.linkedin\.com.*
+https://twitter\.com.*
+https://x\.com.*

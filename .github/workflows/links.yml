@@ -1,0 +1,48 @@
+name: Links
+
+# Weekly external link check. External links stay out of the PR path on
+# purpose: they break on the internet's schedule, not ours. On failure the
+# report goes into a single "Link checker report" issue, updated in place.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --cache
+            --max-cache-age 1d
+            'docs/**/*.md'
+            'spec/**/*.md'
+          fail: false
+
+      - name: Find the open report issue, if any
+        if: steps.lychee.outputs.exit_code != 0
+        id: last-issue
+        uses: micalevisk/last-issue-action@v2
+        with:
+          state: open
+          labels: link-checker
+
+      - name: Create or update the report issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link checker report
+          issue-number: ${{ steps.last-issue.outputs.issue-number }}
+          content-filepath: ./lychee/out.md
+          labels: link-checker

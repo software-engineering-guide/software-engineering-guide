@@ -53,7 +53,7 @@ Whether writing a key result, an acceptance criterion, or a quality target, appl
 Structure discovery as a repeatable pipeline, not a one-off phase:
 
 1. **Sense.** Gather signals: user research, support data, analytics, market and compliance inputs.
-2. **Frame.** Map opportunities (an *opportunity–solution tree* connects a desired outcome to the user needs and candidate solutions that could move it).
+2. **Frame.** Map opportunities (an *opportunity-solution tree* connects a desired outcome to the user needs and candidate solutions that could move it).
 3. **Hypothesize.** State assumptions as falsifiable claims: "We believe [change] will cause [outcome] for [segment], and we'll know if [measure] moves."
 4. **Experiment.** Validate the riskiest assumptions with the cheapest test: interviews, prototypes, fake-door tests (advertising a not-yet-built feature to measure real demand), [A/B experiments](https://en.wikipedia.org/wiki/A/B_testing) (randomized comparisons of two variants, chapter 7.4).
 5. **Decide.** Persevere, pivot, or drop, and feed the survivors into the delivery backlog with their SMART success criteria attached.
@@ -155,10 +155,10 @@ To make the case to leadership, shift the conversation from "how much are we shi
 
 - *Measure What Matters*, by John Doerr (on OKRs).
 - *Radical Focus*, by Christina Wodtke (on OKRs in practice).
-- *Continuous Discovery Habits*, by Teresa Torres (opportunity–solution trees, dual-track discovery).
+- *Continuous Discovery Habits*, by Teresa Torres (opportunity-solution trees, dual-track discovery).
 - *Inspired* and *Empowered*, by Marty Cagan (product discovery and outcome teams).
 - *Lean Analytics*, by Alistair Croll and Benjamin Yoskovitz (leading indicators, vanity metrics).
-- *The Lean Startup*, by Eric Ries (build–measure–learn, validated learning).
+- *The Lean Startup*, by Eric Ries (build-measure-learn, validated learning).
 - *Escaping the Build Trap*, by Melissa Perri (outcomes over outputs).
 - *Outcomes Over Output*, by Joshua Seiden.
 - *Software Architecture in Practice*, by Bass, Clements, Kazman (quality attributes).

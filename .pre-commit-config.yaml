@@ -1,0 +1,34 @@
+# Pre-commit hooks: the validation suite, codespell, and an em-dash grep on
+# changed files. One-time setup (see CONTRIBUTING.md):
+#
+#   uv sync && uv run pre-commit install
+#
+# Claude Code sessions run that automatically via the SessionStart hook in
+# .claude/hooks/session-start.sh. Every hook is local (codespell comes from
+# the uv-managed dev dependencies, pinned in uv.lock), so installing and
+# running them needs no network access.
+repos:
+  - repo: local
+    hooks:
+      - id: no-em-dash
+        name: no em-dashes (U+2014)
+        language: pygrep
+        entry: "—"
+        types: [markdown]
+        # files that document the style rules quote the banned character;
+        # keep in sync with STYLE_EXEMPT in tests/validate.py
+        exclude: ^(AGENTS\.md|docs/contributing/(testing|style-rules|index)\.md|spec/(conventions|index|README)\.md)$
+
+      - id: codespell
+        name: codespell
+        entry: uv run codespell
+        language: system
+        pass_filenames: false
+        types_or: [markdown, python, toml, yaml]
+
+      - id: validate
+        name: validation suite (tests/validate.py)
+        entry: python3 tests/validate.py
+        language: system
+        pass_filenames: false
+        types_or: [markdown, python, toml]

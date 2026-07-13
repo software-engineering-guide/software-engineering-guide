@@ -28,6 +28,20 @@ REQUIRED_SECTIONS = [
 ]
 FORBIDDEN = [r"\bnot only\b", r"\bbut also\b", r"\bload.bearing\b"]
 
+# Minimum word count for substantive chapters (parts 1-11, chapter >= 1).
+# Chapters listed in the allowlist are intentionally below the floor; shrink
+# the list as thin chapters are brought up to depth (see tasks.md, task 5.1).
+WORD_FLOOR = 2000
+WORD_FLOOR_ALLOWLIST: set[str] = set()
+
+# The prose cross-reference pattern, kept in sync with guide_xref/__init__.py
+# (validate.py stays dependency-free, so the regexes are duplicated here
+# rather than imported; guide_xref imports the markdown package).
+_REF = r"\d{1,2}\.\d{1,2}"
+_DESC = r"(?:\s*\([^()]*\))?"
+_CONN = r"(?:[,;]?\s+(?:and\s+|or\s+|to\s+|through\s+)?|[,;]\s*|\s*[–-]\s*)"
+XREF_CHAIN = re.compile(rf"(?i)\bchapters?[,:]?\s+(?:{_REF}{_DESC}{_CONN}?)+")
+
 # These files document the style rules, so they are allowed to quote the very
 # tokens the rules forbid (the em-dash character and the banned phrases). Every
 # other file, including all chapters and examples, must stay clean.
@@ -85,10 +99,55 @@ for f in chapters:
         if miss: missing[os.path.basename(f)] = miss
 check("substantive chapters have all required sections", not missing, f"{missing}")
 
+# 4b. The required sections appear in exactly the template order (the sequence
+# of recognized ## headings, not just membership). Extra unrecognized headings
+# are allowed anywhere.
+disorder = {}
+for f in chapters:
+    p, c = dec(f)
+    if p <= 11 and c >= 1:
+        seq = []
+        for ln in read(f).splitlines():
+            if ln.startswith("## "):
+                for s in REQUIRED_SECTIONS:
+                    if ln.startswith(s):
+                        seq.append(s)
+                        break
+        if seq != REQUIRED_SECTIONS:
+            disorder[os.path.basename(f)] = seq
+check("required sections in exact template order", not disorder,
+      f"{dict(list(disorder.items())[:2])}")
+
+# 4c. Substantive chapters meet the minimum word count, unless allowlisted.
+thin = {}
+for f in chapters:
+    p, c = dec(f)
+    if p <= 11 and c >= 1 and f"{p}.{c}" not in WORD_FLOOR_ALLOWLIST:
+        words = len(read(f).split())
+        if words < WORD_FLOOR:
+            thin[f"{p}.{c}"] = words
+check(f"substantive chapters have at least {WORD_FLOOR} words", not thin,
+      f"offending counts: {dict(sorted(thin.items(), key=lambda kv: kv[1]))}")
+
 # 5. No em-dash anywhere in prose files (style-documentation files exempt).
 em = {os.path.relpath(f, ROOT): read(f).count("—") for f in all_md
       if os.path.relpath(f, ROOT) not in STYLE_EXEMPT and read(f).count("—")}
 check("no em-dashes (U+2014)", not em, f"{em}")
+
+# 5b. En-dashes (U+2013) appear only between digits, i.e. in numeric ranges
+# such as 1–9 or 4.1–4.6 (style-documentation files exempt).
+endash = []
+for f in all_md:
+    rel = os.path.relpath(f, ROOT)
+    if rel in STYLE_EXEMPT:
+        continue
+    t = read(f)
+    for m in re.finditer("–", t):
+        prev = t[m.start() - 1] if m.start() else ""
+        nxt = t[m.end()] if m.end() < len(t) else ""
+        if not (prev.isdigit() and nxt.isdigit()):
+            endash.append(f"{rel}:{t.count(chr(10), 0, m.start()) + 1}")
+check("en-dashes (U+2013) only between digits", not endash, f"{endash[:8]}")
 
 # 6. No forbidden LLM phrases (style-documentation files exempt).
 ph = {}
@@ -107,6 +166,22 @@ for f in all_md:
             broken.append(f"{os.path.relpath(f, ROOT)} -> {m.group(1)}")
 check("all internal .md links resolve", not broken, f"{broken[:8]}")
 
+# 7b. Prose cross-references ("chapter 8.1", "chapters 4.1-4.6") in the site
+# sources point at chapters that exist on disk, so guide_xref never leaves a
+# reference unlinked and readers never chase a chapter that is not there.
+dangling = []
+for f in all_md:
+    rel = os.path.relpath(f, ROOT)
+    if not rel.startswith("docs" + os.sep):
+        continue
+    t = read(f)
+    for cm in XREF_CHAIN.finditer(t):
+        for num in re.findall(_REF, cm.group(0)):
+            if num not in disk:
+                dangling.append(f"{rel}: chapter {num}")
+check("prose cross-references point at existing chapters", not dangling,
+      f"{dangling[:8]}")
+
 # 8. Wikipedia links are well-formed.
 badwiki = []
 for f in chapters:
@@ -121,6 +196,17 @@ if os.path.exists(sp):
     spec_ch = set(re.findall(r"^\| (\d+\.\d+) \|", read(sp), re.M))
     check("spec/structure.md matches disk (missing)", not (disk - spec_ch), f"{sorted(disk - spec_ch)[:8]}")
     check("spec/structure.md matches disk (extra)", not (spec_ch - disk), f"{sorted(spec_ch - disk)[:8]}")
+    # 9b. Chapter H1 titles match the titles declared in the spec manifest,
+    # character for character (not just the leading decimal).
+    spec_titles = dict(re.findall(r"^\| (\d+\.\d+) \| (.+?) \| \[", read(sp), re.M))
+    tmm = []
+    for f in chapters:
+        d = f"{dec(f)[0]}.{dec(f)[1]}"
+        h1 = next((ln[2:].strip() for ln in read(f).splitlines() if ln.startswith("# ")), "")
+        want = f"{d} {spec_titles.get(d, '')}"
+        if h1 != want:
+            tmm.append(f"{os.path.basename(f)}: {h1!r} != {want!r}")
+    check("chapter H1 titles match spec/structure.md", not tmm, f"{tmm[:4]}")
 else:
     check("spec/structure.md exists", False, "file missing")
 
