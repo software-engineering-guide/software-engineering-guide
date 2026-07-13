@@ -1,0 +1,9 @@
+extends: existence
+message: "'%s' is banned by the house style; reword the sentence."
+link: https://software-engineering-guide.github.io/software-engineering-guide/contributing/style-rules/
+level: error
+ignorecase: true
+tokens:
+  - not only
+  - but also
+  - load[- ]bearing

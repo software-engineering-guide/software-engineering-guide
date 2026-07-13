@@ -1,0 +1,8 @@
+extends: existence
+message: "Remove the em-dash (U+2014): use a comma, colon, parentheses, or two sentences."
+link: https://software-engineering-guide.github.io/software-engineering-guide/contributing/style-rules/
+level: error
+scope: raw
+nonword: true
+tokens:
+  - '\x{2014}'

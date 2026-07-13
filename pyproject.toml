@@ -9,6 +9,21 @@ dependencies = [
     "zensical>=0.0.47",
 ]
 
+# Spell checking (`just spell`, and the PR workflow). The ignore list holds
+# false positives only: Oxford/British spellings the house style keeps
+# (fulfilment), proper nouns (Skelton, Marz, Synopsys, ROUGE), real words the
+# dictionary confuses (covert, bloc, wither, accreting, infarction,
+# consequentially, SME), the bolded-first-letter SPACE expansion (erformance),
+# and one deliberate typo used as an example of typo tolerance (reciept).
+[tool.codespell]
+skip = "./site,./.venv,./node_modules,./uv.lock,./styles"
+ignore-words-list = "fulfilment,skelton,erformance,accreting,infarction,reciept,synopsys,covert,consequentially,rouge,marz,bloc,wither,sme"
+
+[dependency-groups]
+dev = [
+    "codespell[toml]>=2.4",
+]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"

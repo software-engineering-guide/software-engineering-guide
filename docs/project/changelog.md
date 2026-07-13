@@ -7,6 +7,16 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Tooling and enforcement gates (Phase 1 of `tasks.md`): a PR validation
+  workflow (`test.yml`) that runs the full check suite and site build without
+  deploying; five new validator checks (template section order, a 2,000-word
+  minimum for content chapters, H1 titles matched against `spec/structure.md`,
+  dangling prose cross-references, and an en-dash-only-in-numeric-ranges
+  policy); codespell with `just spell`; Vale with a `styles/Guide/` rule set
+  and `just lint` (errors block CI, warnings inform); a pre-commit
+  configuration; a weekly external link check (`links.yml`, lychee) that
+  reports into a single issue; and `tools/stats.py`, a Markdown stats report
+  behind `just stats`.
 - Ten more chapters, taking the book from 123 to 133: 1.11 Engineering
   management; 1.12 Diversity, equity, inclusion, and belonging; 2.20 Error
   handling and resilience patterns; 3.14 Multi-tenancy and SaaS architecture;

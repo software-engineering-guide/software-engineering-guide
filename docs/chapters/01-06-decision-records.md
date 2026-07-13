@@ -62,7 +62,7 @@ A decision record *documents* a decision; a **fitness function** *assures* it: a
 | Choice | Pros | Cons |
 |---|---|---|
 | **Lightweight ADRs (Nygard/MADR)** | Fast to write, actually get written; low ceremony | Less rigour for high-stakes, contested decisions |
-| **Heavyweight templates (Tyree–Akerman)** | Weighted alternatives; strong for big, costly choices | Slower; can deter routine recording |
+| **Heavyweight templates (Tyree-Akerman)** | Weighted alternatives; strong for big, costly choices | Slower; can deter routine recording |
 | **Immutable + supersede** | Clean audit trail; history preserved | More records; readers must trace chains |
 | **Living document (dated amendments)** | Single current source of truth; easy to maintain | Weaker audit story; risk of quiet edits |
 | **In-repo Markdown** | Versioned, reviewable, next to code | Less friendly to non-developers |

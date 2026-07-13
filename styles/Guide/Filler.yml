@@ -1,0 +1,16 @@
+extends: existence
+message: "'%s' is filler; tighten the sentence or delete it."
+link: https://software-engineering-guide.github.io/software-engineering-guide/contributing/style-rules/
+level: warning
+ignorecase: true
+tokens:
+  - in order to
+  - it is worth noting
+  - it's worth noting
+  - needless to say
+  - at the end of the day
+  - as a matter of fact
+  - due to the fact that
+  - the fact of the matter
+  - first and foremost
+  - each and every

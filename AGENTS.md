@@ -47,12 +47,18 @@ The full, enforceable version of rules 1 through 5 is
   hand-authored and not published to the site; the book is what it governs.
 - `tools/` : `gen_nav.py`, which generates the README TOC, the site home page,
   the contents page, the subject index, the `nav` block in `zensical.toml`,
-  and the chapter map in `guide_xref/chapters.py`.
+  and the chapter map in `guide_xref/chapters.py`; and `stats.py`, the
+  Markdown stats report behind `just stats`.
 - `guide_xref/` : the Markdown extension that auto-links plain-text chapter
   cross-references ("chapter 8.1") when the site is built.
-- `tests/` : `validate.py`, the enforcement suite.
+- `tests/` : `validate.py`, the enforcement suite, and `test_xref.py`, the
+  linking tests.
+- `styles/`, `.vale.ini` : the Vale prose linter rules (`just lint`).
+- `.github/workflows/` : `test.yml` (PR checks), `docs.yml` (deploy on main),
+  `links.yml` (weekly external link check).
 - `zensical.toml`, `justfile`, `pyproject.toml`, `SITE.md` : site configuration,
-  task runner, dependencies, and the site build guide.
+  task runner, dependencies (including the codespell config), and the site
+  build guide.
 
 ## Task guides
 
@@ -72,7 +78,8 @@ The full, enforceable version of rules 1 through 5 is
 2. Make the smallest change that satisfies the request.
 3. If you changed the set of chapters, update `spec/structure.md` and run
    `just nav`.
-4. Run `just test`. Fix anything it reports.
+4. Run `just test`. Fix anything it reports. `just spell` and `just lint`
+   catch spelling and style issues the suite does not; CI runs both.
 5. Update `docs/project/changelog.md` with a one-line summary of what changed.
 
 Every file in `docs/contributing/` is kept small (well under 40 KB) so it loads

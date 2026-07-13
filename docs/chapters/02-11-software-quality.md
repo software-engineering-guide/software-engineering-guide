@@ -129,7 +129,7 @@ For leadership, the argument isn't "spend more on quality." It's "spend earlier 
 ## Ideas for discussion
 
 - Which ISO/IEC 25010 quality characteristics matter most for your systems, and what is "good enough" for each?
-- Where does your organization sit on the prevention–appraisal–failure spending mix, and should it shift?
+- Where does your organization sit on the prevention-appraisal-failure spending mix, and should it shift?
 - Do you distinguish verification from validation in practice, or collapse both into "testing"?
 - Is quality owned by the teams that build software, or delegated to a separate group, and what would change if you moved it?
 - What is your true cost of poor quality, and could you measure it well enough to make the business case?

@@ -29,8 +29,16 @@ serve:
 emdash:
     @grep -rn '—' --include='*.md' --exclude-dir=site --exclude-dir=.venv . || echo "no em-dashes found"
 
-# Print chapter and word counts.
+# Spell-check the repository (configured in pyproject.toml).
+spell:
+    uv run codespell
+
+# Lint prose against the house style with Vale (see .vale.ini). Warnings
+# inform; only errors fail. Requires the vale binary on PATH.
+lint:
+    vale docs spec *.md
+
+# Print the Markdown stats report (per-chapter word counts, thin chapters,
+# Wikipedia links, reference entries, totals).
 stats:
-    @echo "chapters: $(ls docs/chapters/*.md | wc -l | tr -d ' ')"
-    @echo "words:    $(cat docs/chapters/*.md | wc -w | tr -d ' ')"
-    @echo "wiki links: $(grep -rho 'en.wikipedia.org/wiki' docs/chapters/*.md | wc -l | tr -d ' ')"
+    @python3 tools/stats.py

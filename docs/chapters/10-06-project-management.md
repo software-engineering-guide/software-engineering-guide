@@ -131,7 +131,7 @@ On **total cost of ownership**, lightweight, adaptive management lowers cost acr
 
 ## Key takeaways
 
-- Project management turns intent into delivered outcomes under the scope–schedule–cost–quality constraint.
+- Project management turns intent into delivered outcomes under the scope-schedule-cost-quality constraint.
 - **Match the method to the work:** predictive, adaptive, or hybrid, and prefer hybrid governance in enterprise/government.
 - Treat **estimates as ranges**, re-forecast from **empirical flow metrics**, and don't let single-number dates become lies.
 - **Dependencies and risk** are the dominant failure modes at scale: map and manage both continuously.
