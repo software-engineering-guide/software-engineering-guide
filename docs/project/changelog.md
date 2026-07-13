@@ -7,6 +7,11 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- A Claude Code SessionStart hook (`.claude/hooks/session-start.sh`) that
+  syncs dependencies and installs the pre-commit hooks when a session opens,
+  in the web sandbox and the CLI alike. The codespell pre-commit hook now
+  runs from the uv-managed dev dependencies instead of cloning GitHub, so
+  hook install and execution need no network access.
 - Tooling and enforcement gates (Phase 1 of `tasks.md`): a PR validation
   workflow (`test.yml`) that runs the full check suite and site build without
   deploying; five new validator checks (template section order, a 2,000-word

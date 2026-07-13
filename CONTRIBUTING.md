@@ -23,12 +23,18 @@ The short version:
 ## Pre-commit hooks (optional, recommended)
 
 The repository ships a [pre-commit](https://pre-commit.com) configuration that
-runs the validation suite, codespell, and an em-dash check before each commit:
+runs the validation suite, codespell, and an em-dash check before each commit.
+pre-commit and codespell are dev dependencies, so setup is:
 
 ```sh
-uv tool install pre-commit   # or: pip install pre-commit
-pre-commit install
+uv sync
+uv run pre-commit install
 ```
 
-After that, every `git commit` runs the checks against the staged files. Run
-`pre-commit run --all-files` for a one-off pass over everything.
+After that, every `git commit` runs the checks. Run
+`uv run pre-commit run --all-files` for a one-off pass over everything.
+
+Claude Code sessions (web and CLI) do this automatically: the SessionStart
+hook in `.claude/hooks/session-start.sh` syncs the dependencies and installs
+the git hooks when a session opens. All the pre-commit hooks are local, so
+they work offline and inside the Claude Code web sandbox.
