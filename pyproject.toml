@@ -1,13 +1,16 @@
 [project]
 name = "software-engineering-guide"
 version = "1.0.0"
-description = "Software Engineering Guide: good practices for software developer teams, published with Zensical."
+description = "Software Engineering Guide: good practices for software developer teams."
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = [
-    "markdown>=3.7",
-    "zensical>=0.0.47",
-]
+dependencies = []
+
+# No site build lives in this repository (rendering moved to the separate
+# software-engineering-guide.github.io repository), so there is nothing to
+# package or install here beyond the dev tooling below.
+[tool.uv]
+package = false
 
 # Spell checking (`just spell`, and the PR workflow). The ignore list holds
 # false positives only: Oxford/British spellings the house style keeps
@@ -24,12 +27,3 @@ dev = [
     "codespell[toml]>=2.4",
     "pre-commit>=4",
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-# The guide_xref package is the Markdown extension that auto-links plain-text
-# chapter cross-references ("chapter 8.1") when the site is built.
-[tool.hatch.build.targets.wheel]
-packages = ["guide_xref"]

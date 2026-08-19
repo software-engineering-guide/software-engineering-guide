@@ -4,7 +4,7 @@ A map of everything in this repository. For the book itself, start with the
 [table of contents](README.md) or the opening chapter,
 [What is software engineering?](docs/front-matter/what-is-software-engineering.md).
 The book is published as a website at
-<https://software-engineering-guide.github.io/software-engineering-guide/>.
+<https://software-engineering-guide.github.io/>.
 
 ## The book (everything under `docs/` is published)
 
@@ -27,14 +27,15 @@ The book is published as a website at
 
 ## Specification (source of truth)
 
-The book is the source of truth; the website is a rendering of it. The spec lives
-at the repository root, not under `docs/`, and is not published to the site.
+The book is the source of truth; the published website is a rendering of it,
+built by the separate `software-engineering-guide.github.io` repository. The
+spec lives at the repository root, not under `docs/`, and is not published to
+the site.
 
 - **[spec/index.md](spec/index.md)** : how the spec drives the book.
 - **[spec/structure.md](spec/structure.md)** : the canonical chapter manifest.
 - **[spec/conventions.md](spec/conventions.md)** : the writing and format specification.
 - **[spec/roadmap.md](spec/roadmap.md)** : backlog and adoption checklists.
-- **[spec/mkdocs-zensical/index.md](spec/mkdocs-zensical/index.md)** : the rendering side effects (site build, nav, deploy).
 
 ## Contributing and tooling
 
@@ -44,17 +45,10 @@ at the repository root, not under `docs/`, and is not published to the site.
 - **[docs/project/](docs/project/index.md)** : project documentation.
 - **[docs/examples/](docs/examples/index.md)** : small illustrative examples.
 - **[tools/gen_nav.py](tools/gen_nav.py)** : navigation generator (`just nav`).
-- **[guide_xref/](guide_xref/__init__.py)** : build-time auto-linking of chapter cross-references.
 - **[tests/validate.py](tests/validate.py)** : validation suite (`just test`).
 - **[docs/project/changelog.md](docs/project/changelog.md)** : history of notable changes.
-
-## The published site
-
-- **[zensical.toml](zensical.toml)** : site configuration and navigation (the `nav` block is generated).
-- **[SITE.md](SITE.md)** : how the site is built and deployed.
 - **[justfile](justfile)** : the task runner (`just` lists all tasks).
-- **[.github/workflows/docs.yml](.github/workflows/docs.yml)** : builds and deploys the site to GitHub Pages.
-- **[.devcontainer/](.devcontainer/devcontainer.json)** : dev container with uv and just preinstalled.
+- **[.devcontainer/](.devcontainer/devcontainer.json)** : dev container with git-lfs and just preinstalled.
 
 ## Quick start
 
@@ -62,7 +56,5 @@ at the repository root, not under `docs/`, and is not published to the site.
 just         # list available tasks
 just test    # validate the whole repository
 just nav     # regenerate the generated navigation files
-just build   # build the documentation site into site/
-just serve   # serve the site locally with live reload
 just stats   # chapter and word counts
 ```

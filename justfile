@@ -1,29 +1,22 @@
-# Software Engineering Guide: build and check tasks.
-# The validation suite needs only Python 3; the site build uses uv + Zensical.
+# Software Engineering Guide: content and check tasks.
+# This repository holds the book's content and specification; it is rendered
+# into a website by the separate software-engineering-guide.github.io repository.
+# The validation suite needs only Python 3.
 
 # List available tasks.
 default:
     @just --list --unsorted
 
-# Run the validation suite and the cross-reference linking tests.
+# Run the validation suite.
 test:
     python3 tests/validate.py
-    uv run python tests/test_xref.py
 
-# Regenerate the TOC, contents page, subject index, and zensical.toml nav.
+# Regenerate the TOC, contents page, and subject index.
 nav:
     python3 tools/gen_nav.py
 
 # Regenerate navigation, then validate.
 check: nav test
-
-# Build the documentation site into site/.
-build:
-    uv run zensical build --clean
-
-# Build and serve the documentation site locally with live reload.
-serve:
-    uv run zensical serve
 
 # List any em-dashes left in the repository (should be none).
 emdash:

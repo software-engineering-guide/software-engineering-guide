@@ -9,7 +9,7 @@ management, and the full breadth of the software engineering body of
 knowledge.
 
 The guide is published as a website at
-<https://software-engineering-guide.github.io/software-engineering-guide/>.
+<https://software-engineering-guide.github.io/>.
 
 ## Table of contents
 
@@ -194,6 +194,7 @@ government constraints are treated as design inputs, not afterthoughts.
 
 ## The documentation site
 
-The book is built into a static website with [Zensical](https://zensical.org/)
-and deployed to GitHub Pages on every push to `main`. See [SITE.md](SITE.md)
-for how the site is built, served locally, and deployed.
+This repository holds the book's content and specification. It is rendered
+into a website by the separate
+[`software-engineering-guide.github.io`](https://github.com/software-engineering-guide/software-engineering-guide.github.io)
+repository.

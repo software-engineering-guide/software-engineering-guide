@@ -24,8 +24,6 @@ jobs:
         run: uv sync --locked
       - name: Validate the repository
         run: uv run python tests/validate.py
-      - name: Test cross-reference linking
-        run: uv run python tests/test_xref.py
       - name: Spell check
         run: uv run codespell
       - name: Install Vale
@@ -36,5 +34,3 @@ jobs:
             | sudo tar -xz -C /usr/local/bin vale
       - name: Lint style (errors block, warnings inform)
         run: vale --minAlertLevel=error docs spec *.md
-      - name: Build the site
-        run: uv run zensical build --clean

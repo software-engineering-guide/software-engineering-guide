@@ -5,6 +5,14 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ## [Unreleased]
 
+### Removed
+
+- The Zensical build tooling (`zensical.toml`, `pyproject.toml`, `uv.lock`,
+  `guide_xref/`, `SITE.md`, `.github/workflows/docs.yml`,
+  `spec/mkdocs-zensical/`, and `tests/test_xref.py`). This repository is now
+  the content and specification source of truth; rendering moved to the
+  separate `software-engineering-guide.github.io` repository.
+
 ### Added
 
 - A Claude Code SessionStart hook (`.claude/hooks/session-start.sh`) that

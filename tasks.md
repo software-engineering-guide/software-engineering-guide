@@ -16,8 +16,9 @@ Ground rules for every task (from [`AGENTS.md`](AGENTS.md)):
 - Adding or removing chapters requires updating the chapter-count constant in
   [`tests/validate.py`](tests/validate.py), the spec, and `just nav` output in
   the same change.
-- New pages under `docs/` must be reachable from the Zensical nav (extend
-  [`tools/gen_nav.py`](tools/gen_nav.py) when adding new document types).
+- New pages under `docs/` must be reachable from the generated navigation
+  (extend [`tools/gen_nav.py`](tools/gen_nav.py) when adding new document
+  types).
 - Real references only; never fabricate a work or URL.
 
 ---
@@ -26,9 +27,10 @@ Ground rules for every task (from [`AGENTS.md`](AGENTS.md)):
 
 - [x] 1.1 Add a PR validation workflow at `.github/workflows/test.yml`: on
       `pull_request` (and pushes to non-main branches), run `uv sync --locked`,
-      `uv run python tests/validate.py`, `uv run python tests/test_xref.py`,
-      and `uv run zensical build --clean`. Do not deploy. Keep the existing
-      `docs.yml` deploy workflow unchanged.
+      `uv run python tests/validate.py`, codespell, and Vale. This repository
+      no longer builds or deploys a site; rendering happens in the separate
+      `software-engineering-guide.github.io` repository, so the workflow does
+      not run a Zensical build or the (removed) `tests/test_xref.py`.
 - [x] 1.2 **(P)** Extend `tests/validate.py`: enforce that the required `##`
       sections in substantive chapters appear in exactly the template order
       (compare the sequence, not just membership). Fix any chapters that fail.
@@ -116,9 +118,9 @@ realistic artifact, links back to the chapter and to the template in chapter
 - [ ] 2.13 Create the tutorials scaffold: `docs/tutorials/index.md`, a
       tutorial template at `docs/contributing/tutorial-template.md` (goal,
       audience, prerequisites, numbered steps, verification, where to go
-      next), a spec section registering the document type, nav-generator and
-      `zensical.toml` support, and a validator check that tutorials follow
-      the template sections. This task blocks 2.14 through 2.21.
+      next), a spec section registering the document type, nav-generator
+      support, and a validator check that tutorials follow the template
+      sections. This task blocks 2.14 through 2.21.
 - [ ] 2.14 **(P)** Tutorial: write your first architecture decision record.
 - [ ] 2.15 **(P)** Tutorial: run a blameless postmortem.
 - [ ] 2.16 **(P)** Tutorial: define SLOs and an error budget for one service.
@@ -176,9 +178,10 @@ realistic artifact, links back to the chapter and to the template in chapter
       support, and links from the appendix chapters. Keep the appendix
       chapters as annotated guides to the standalone files rather than
       duplicating full content.
-- [ ] 3.6 Site polish: site description and social-card metadata in
-      `zensical.toml` (as supported), a 404 page, and a home-page section
-      linking the changelog, the EPUB/PDF downloads, and the reading paths.
+- [ ] 3.6 Site polish (in the `software-engineering-guide.github.io`
+      repository): site description and social-card metadata, a 404 page, and
+      a home-page section linking the changelog, the EPUB/PDF downloads, and
+      the reading paths.
 
 ## Phase 4: Content quality and release
 

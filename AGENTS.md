@@ -8,8 +8,9 @@ this first. It is short on purpose; the details live in the linked files.
 An open guidebook of software engineering best practices for large developer
 teams, including enterprise and government. It is 100 chapters across 12 parts,
 plus front matter and appendices. The writing is deliberately warm, plain, and
-opinionated, and it follows a strict house style. The book is published as a
-static site built with Zensical (see `SITE.md`).
+opinionated, and it follows a strict house style. This repository holds the
+book's content and specification; it is rendered into a website by the
+separate `software-engineering-guide.github.io` repository.
 
 ## Golden rules (do not break these)
 
@@ -36,29 +37,24 @@ The full, enforceable version of rules 1 through 5 is
 
 ## Repository layout
 
-- `docs/` : everything the published site contains (built with Zensical).
+- `docs/` : everything the published site contains, rendered elsewhere.
   - `docs/chapters/` : the chapter files, named `PP-CC-slug.md` with a zero-padded, dash-separated, sortable prefix (the chapter number in the text stays dotted, e.g. `8.1`).
   - `docs/front-matter/` : the opening essay, introduction, and table of contents.
   - `docs/examples/` : small illustrative examples (a chapter skeleton, OKRs, an ADR).
   - `docs/contributing/` : contributor and agent guides, plus shared snippets.
   - `docs/project/` : project documentation and the changelog.
 - `spec/` : the specification-driven source of truth (structure, conventions,
-  roadmap), plus `spec/mkdocs-zensical/` for the rendering side effects. It is
-  hand-authored and not published to the site; the book is what it governs.
+  roadmap). It is hand-authored and not published to the site; the book is
+  what it governs.
 - `tools/` : `gen_nav.py`, which generates the README TOC, the site home page,
-  the contents page, the subject index, the `nav` block in `zensical.toml`,
-  and the chapter map in `guide_xref/chapters.py`; and `stats.py`, the
-  Markdown stats report behind `just stats`.
-- `guide_xref/` : the Markdown extension that auto-links plain-text chapter
-  cross-references ("chapter 8.1") when the site is built.
-- `tests/` : `validate.py`, the enforcement suite, and `test_xref.py`, the
-  linking tests.
+  the contents page, and the subject index; and `stats.py`, the Markdown
+  stats report behind `just stats`.
+- `tests/` : `validate.py`, the enforcement suite.
 - `styles/`, `.vale.ini` : the Vale prose linter rules (`just lint`).
-- `.github/workflows/` : `test.yml` (PR checks), `docs.yml` (deploy on main),
-  `links.yml` (weekly external link check).
-- `zensical.toml`, `justfile`, `pyproject.toml`, `SITE.md` : site configuration,
-  task runner, dependencies (including the codespell config), and the site
-  build guide.
+- `.github/workflows/` : `test.yml` (PR checks), `links.yml` (weekly external
+  link check).
+- `justfile`, `pyproject.toml` : the task runner and the Python dev-tooling
+  dependencies (codespell, pre-commit; see `just spell`).
 
 ## Task guides
 

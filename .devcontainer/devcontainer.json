@@ -6,13 +6,7 @@
     "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {},
     "ghcr.io/guiyomh/features/just:0": {}
   },
-  "postCreateCommand": "uv sync --locked",
-  "forwardPorts": [8000],
-  "portsAttributes": {
-    "8000": {
-      "label": "Zensical site (just serve)"
-    }
-  },
+  "postCreateCommand": "uv sync --locked && uv run pre-commit install",
   "customizations": {
     "vscode": {
       "extensions": [

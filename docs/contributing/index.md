@@ -19,16 +19,14 @@ tests enforce the mechanical parts.
 
 ## Setup
 
-You need Python 3, [uv](https://docs.astral.sh/uv/), and
-[just](https://github.com/casey/just). See [`SITE.md`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/SITE.md)
-for how the published site is built.
+You need Python 3 and [just](https://github.com/casey/just). This repository
+holds the book's content and specification; it is rendered into a website by
+the separate `software-engineering-guide.github.io` repository.
 
 ```sh
 just         # list tasks
 just test    # run the validation suite
 just nav     # regenerate the generated navigation files
-just build   # build the documentation site
-just serve   # serve the site locally with live reload
 just stats   # chapter and word counts
 ```
 
@@ -53,9 +51,8 @@ just stats   # chapter and word counts
 ## What to avoid
 
 - Do not edit the generated files by hand (`README.md`, `docs/index.md`,
-  `docs/front-matter/table-of-contents.md`, `docs/chapters/12-07-index.md`, and
-  the `nav` block in `zensical.toml`). Change the chapters and run `just nav`
-  instead.
+  `docs/front-matter/table-of-contents.md`, and `docs/chapters/12-07-index.md`).
+  Change the chapters and run `just nav` instead.
 - Do not add a chapter without also updating `spec/structure.md`.
 - Do not introduce em-dashes or the forbidden phrases; the tests will fail.
 

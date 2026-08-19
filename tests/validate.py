@@ -216,29 +216,6 @@ for navrel in ["README.md", "docs/index.md", "docs/front-matter/table-of-content
     linked = set(f"{int(a)}.{int(b)}" for a, b in re.findall(r"chapters/(\d+)-(\d+)-", nav))
     check(f"{navrel} links every chapter", not (disk - linked), f"missing {sorted(disk - linked)[:8]}")
 
-# 11. The zensical.toml navigation lists every page under docs/, so every page
-# is reachable from the published site's navigation.
-zt_path = os.path.join(ROOT, "zensical.toml")
-if os.path.exists(zt_path):
-    zt = read(zt_path)
-    docs_pages = [os.path.relpath(f, os.path.join(ROOT, "docs")).replace(os.sep, "/")
-                  for f in all_md if f.startswith(os.path.join(ROOT, "docs") + os.sep)]
-    unlisted = [p for p in sorted(docs_pages) if f'"{p}"' not in zt]
-    check("zensical.toml nav lists every docs page", not unlisted, f"{unlisted[:8]}")
-else:
-    check("zensical.toml exists", False, "file missing")
-
-# 12. The generated chapter map used by the guide_xref auto-linking extension
-# matches the chapters on disk.
-xr_path = os.path.join(ROOT, "guide_xref", "chapters.py")
-if os.path.exists(xr_path):
-    xr = dict(re.findall(r"^    \"(\d+\.\d+)\": \('([^']+)'", read(xr_path), re.M))
-    want = {f"{dec(f)[0]}.{dec(f)[1]}": os.path.basename(f) for f in chapters}
-    check("guide_xref/chapters.py matches disk", xr == want,
-          f"stale entries: {sorted(set(xr.items()) ^ set(want.items()))[:6]}")
-else:
-    check("guide_xref/chapters.py exists", False, "file missing (run `just nav`)")
-
 print()
 if failures:
     print(f"RESULT: {len(failures)} check(s) FAILED")

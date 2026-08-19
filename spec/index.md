@@ -16,14 +16,13 @@ prose, not the thing itself.
 
 - The **source of truth** is the Markdown in `docs/chapters/`, the front matter,
   the appendices, and this specification.
-- The **website is a side effect.** It is generated from the same Markdown by a
-  static site generator. How that works, what it produces, and how it deploys is
-  a separate concern, specified in
-  [mkdocs-zensical/index.md](mkdocs-zensical/index.md). Nothing in that layer
-  decides what the book says.
-- If the site and the book ever disagree, the **book wins.** You could delete the
-  site generator, the theme, and the entire toolchain, and still have the whole
-  book intact in plain text. That is the test of what is authoritative here.
+- The **website is a side effect.** It is rendered from the same Markdown by
+  the separate `software-engineering-guide.github.io` repository. How that
+  works, what it produces, and how it deploys is that repository's concern.
+  Nothing in that layer decides what the book says.
+- If the site and the book ever disagree, the **book wins.** You could delete
+  the rendering repository entirely and still have the whole book intact in
+  plain text. That is the test of what is authoritative here.
 
 So write for a reader holding a book, chapter by chapter. Do not write for a
 navigation sidebar, a search box, or a theme. Those are downstream.
@@ -65,11 +64,11 @@ lives in three companion files.
 - **[roadmap.md](roadmap.md)** is the authoring backlog and the adoption
   checklists organizations can use to put the guidance into practice.
 
-The **rendering** side effects (the MkDocs and Zensical website, the generated
-navigation, and the deployment) are specified separately in
-[mkdocs-zensical/index.md](mkdocs-zensical/index.md). Keep the two apart on
-purpose: this file and its companions govern the book; that file governs the
-machine that renders it.
+The **rendering** side effects (the published website, its navigation, and its
+deployment) are the concern of the separate
+`software-engineering-guide.github.io` repository. Keep the two apart on
+purpose: this file and its companions govern the book; that repository governs
+the machine that renders it.
 
 ## The shape of the book
 
@@ -143,9 +142,8 @@ version is in [conventions.md](conventions.md).
    conventions.
 3. Edit or write the chapters to match, following the template and the house
    style.
-4. If the set of chapters changed, regenerate the rendering artifacts as
-   described in [mkdocs-zensical/index.md](mkdocs-zensical/index.md) (`just nav`).
-   That regeneration is downstream bookkeeping; the book is already correct
-   before it runs.
+4. If the set of chapters changed, regenerate the navigation artifacts with
+   `just nav`. That regeneration is downstream bookkeeping; the book is
+   already correct before it runs.
 5. Run `just test`. Fix anything it reports.
 6. Record the change in `docs/project/changelog.md`.

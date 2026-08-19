@@ -12,10 +12,10 @@ phased checklist sized for agent-driven execution.
 The book is substantially complete: 133 chapters across 12 parts, roughly
 368,000 words, a strict house style, a spec-driven structure
 ([`spec/structure.md`](spec/structure.md)), a validation suite
-([`tests/validate.py`](tests/validate.py)), a navigation generator
-([`tools/gen_nav.py`](tools/gen_nav.py)), an auto-linking cross-reference
-extension ([`guide_xref/`](guide_xref/__init__.py)), and a Zensical static
-site deployed by GitHub Actions.
+([`tests/validate.py`](tests/validate.py)), and a navigation generator
+([`tools/gen_nav.py`](tools/gen_nav.py)). This repository holds the content
+and specification; it is rendered into a website by the separate
+`software-engineering-guide.github.io` repository.
 
 The main gaps, in order of leverage:
 
@@ -189,6 +189,6 @@ Phase 4: content quality passes and the v1.0 release.
   removing chapters means updating that constant, the spec, and the generated
   navigation in the same change.
 - New document types (tutorials, standalone examples) must be added to the
-  nav generator and the Zensical nav, or check 11 (every docs page reachable)
-  fails.
+  nav generator so the README, site home page, and contents page link them
+  (check 10).
 - `just test` must pass before any change is considered done.

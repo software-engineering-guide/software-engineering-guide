@@ -30,13 +30,10 @@ it works in CI and as a pre-commit hook.
 - **All internal `.md` links resolve.**
 - **Prose cross-references point at real chapters**: a reference to a chapter
   number with no matching file on disk fails, using the same reference
-  pattern `guide_xref` links at build time.
+  pattern the published site's chapter-link auto-linking uses.
 - **Wikipedia links are well-formed** (`https://en.wikipedia.org/wiki/...`).
 - **`spec/structure.md` matches the files on disk**, in both directions.
-- **README, the home page, and the contents page link every chapter**, and the
-  `zensical.toml` nav lists every docs page.
-- **`guide_xref/chapters.py` matches the chapters on disk** (run `just nav`
-  after structure changes).
+- **README, the home page, and the contents page link every chapter.**
 
 ## When a check fails
 
@@ -67,10 +64,9 @@ The failing line names the file and the problem. Common fixes:
 ## Continuous integration
 
 - `.github/workflows/test.yml` runs on every pull request and on pushes to
-  non-main branches: the validation suite, the xref tests, codespell, Vale at
-  error severity, and a full site build. It never deploys.
-- `.github/workflows/docs.yml` validates, builds, and deploys the site on
-  pushes to main.
+  non-main branches: the validation suite, codespell, and Vale at error
+  severity. This repository does not build or deploy a site; rendering
+  happens in the separate `software-engineering-guide.github.io` repository.
 - `.github/workflows/links.yml` checks external links weekly with
   [lychee](https://github.com/lycheeverse/lychee) (ignore patterns in
   `.lycheeignore`) and keeps the results in a single "Link checker report"
