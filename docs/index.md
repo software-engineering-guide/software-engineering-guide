@@ -208,3 +208,4 @@ government constraints are treated as design inputs, not afterthoughts.
 - **[Examples](examples/index.md):** small, concrete examples of the book's ideas in use.
 - **[About this project](project/index.md):** how the book is built, checked, and published.
 - **[Contributing](contributing/index.md):** how to help, and the house style rules.
+- **[Claude Code skills](https://github.com/software-engineering-guide/software-engineering-guide/tree/main/skills):** consult or maintain the guide from inside Claude Code.

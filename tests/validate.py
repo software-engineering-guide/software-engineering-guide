@@ -48,6 +48,7 @@ XREF_CHAIN = re.compile(rf"(?i)\bchapters?[,:]?\s+(?:{_REF}{_DESC}{_CONN}?)+")
 STYLE_EXEMPT = {
     "AGENTS.md", "docs/contributing/testing.md", "docs/contributing/style-rules.md",
     "spec/conventions.md", "spec/index.md", "spec/README.md", "docs/contributing/index.md",
+    "skills/software-engineering-guide-maintainer-skill/SKILL.md",
 }
 
 failures = []
