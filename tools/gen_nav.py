@@ -66,6 +66,18 @@ feedback loops turn practices into learning systems. Documentation and
 knowledge continuity protect against turnover and scale. Regulatory and
 government constraints are treated as design inputs, not afterthoughts."""
 
+SKILLS_README="""## Claude Code skills
+
+Two [Claude Code](https://claude.com/claude-code) skills ship in
+[`skills/`](skills/), so an agent can put the guide to work directly:
+[`software-engineering-guide-skill`](skills/software-engineering-guide-skill/SKILL.md)
+for consulting and applying its practices, and
+[`software-engineering-guide-maintainer-skill`](skills/software-engineering-guide-maintainer-skill/SKILL.md)
+for maintaining this repository and the companion
+`software-engineering-guide.github.io` site. Copy either folder into a
+project's `.claude/skills/` (or a personal `~/.claude/skills/`) to install
+it."""
+
 # ---- README (repository home page) ----
 readme=f"""# Software Engineering Guide
 
@@ -78,6 +90,8 @@ The guide is published as a website at
 
 {toc_body("docs/chapters/")}
 {THEMES}
+
+{SKILLS_README}
 
 ## The documentation site
 
@@ -109,6 +123,7 @@ home=f"""# Software Engineering Guide
 - **[Examples](examples/index.md):** small, concrete examples of the book's ideas in use.
 - **[About this project](project/index.md):** how the book is built, checked, and published.
 - **[Contributing](contributing/index.md):** how to help, and the house style rules.
+- **[Claude Code skills](https://github.com/software-engineering-guide/software-engineering-guide/tree/main/skills):** consult or maintain the guide from inside Claude Code.
 """
 write(f"{DOCS}/index.md", home)
 

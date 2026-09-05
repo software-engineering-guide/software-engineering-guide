@@ -192,6 +192,18 @@ feedback loops turn practices into learning systems. Documentation and
 knowledge continuity protect against turnover and scale. Regulatory and
 government constraints are treated as design inputs, not afterthoughts.
 
+## Claude Code skills
+
+Two [Claude Code](https://claude.com/claude-code) skills ship in
+[`skills/`](skills/), so an agent can put the guide to work directly:
+[`software-engineering-guide-skill`](skills/software-engineering-guide-skill/SKILL.md)
+for consulting and applying its practices, and
+[`software-engineering-guide-maintainer-skill`](skills/software-engineering-guide-maintainer-skill/SKILL.md)
+for maintaining this repository and the companion
+`software-engineering-guide.github.io` site. Copy either folder into a
+project's `.claude/skills/` (or a personal `~/.claude/skills/`) to install
+it.
+
 ## The documentation site
 
 This repository holds the book's content and specification. It is rendered

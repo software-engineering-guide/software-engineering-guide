@@ -15,6 +15,12 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Two Claude Code skills under `skills/`: `software-engineering-guide-skill`
+  for readers who want guidance grounded in the book, and
+  `software-engineering-guide-maintainer-skill` for maintainers of this
+  repository and the companion `software-engineering-guide.github.io` site.
+  Promoted from the README, the site's project page, and the site's own
+  README and home page.
 - A Claude Code SessionStart hook (`.claude/hooks/session-start.sh`) that
   syncs dependencies and installs the pre-commit hooks when a session opens,
   in the web sandbox and the CLI alike. The codespell pre-commit hook now

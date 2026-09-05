@@ -17,6 +17,12 @@ check it, and where the source of truth lives. For the book itself, see the
   [`AGENTS.md`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/AGENTS.md)
   at the repository root, and the guides in the
   [contributing section](../contributing/index.md).
+- **Claude Code skills:**
+  [`skills/`](https://github.com/software-engineering-guide/software-engineering-guide/tree/main/skills)
+  at the repository root packages the guide for use with
+  [Claude Code](https://claude.com/claude-code): one skill for readers who
+  want practices grounded in the book, one for maintainers of this repository
+  and the companion `software-engineering-guide.github.io` site.
 
 ## Build and check
 
