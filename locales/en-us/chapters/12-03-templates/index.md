@@ -91,7 +91,7 @@ A few conventions used below:
 ## Impact and risks
 
 - Security and privacy: [implications and mitigations]
-- Performance and scale: [expected load and behaviour]
+- Performance and scale: [expected load and behavior]
 - Operability: [monitoring, failure modes, rollout, rollback]
 - Cost: [infrastructure or licensing impact]
 - Backward compatibility: [migration and deprecation]

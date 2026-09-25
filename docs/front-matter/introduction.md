@@ -32,7 +32,7 @@ chapters **N.1, N.2, …** cover the topics in depth.
 - **Part 7, Data, Analytics, and Insight:** data governance, engineering, business intelligence, experimentation, and decision culture.
 - **Part 8, Automation:** CI/CD, infrastructure as code, cloud-native, platform engineering, and process automation.
 - **Part 9, Operations, Reliability, and Observability:** SRE, observability, incident management, and cost and sustainability.
-- **Part 10, Project/Product/Programme Management:** portfolio and programme management, risk and assurance, procurement and open source, sustaining systems, ethics, project management, agile, maturity models, innovation partnership, and software engineering economics.
+- **Part 10, Project/Product/Program Management:** portfolio and program management, risk and assurance, procurement and open source, sustaining systems, ethics, project management, agile, maturity models, innovation partnership, and software engineering economics.
 - **Part 11, Flow:** the discovery and delivery pipelines, the queueing theory beneath them, and objectives and key results (OKRs) with key performance indicators (KPIs).
 - **Part 12, Appendices:** glossary, checklists, templates, maturity self-assessment, references, adoption roadmap, and index.
 

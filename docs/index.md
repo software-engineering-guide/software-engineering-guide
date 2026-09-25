@@ -155,7 +155,7 @@ incrementally; do not big-bang.
 - [9.7 Capacity planning and demand forecasting](../locales/en-us/chapters/09-07-capacity-planning-and-demand-forecasting/index.md)
 - [9.8 On-call and operational readiness](../locales/en-us/chapters/09-08-on-call-and-operational-readiness/index.md)
 
-### Part 10: Project/Product/Programme Management
+### Part 10: Project/Product/Program Management
 - [10.0 Introduction](../locales/en-us/chapters/10-00-project-product-programme-management/index.md)
 - [10.1 Portfolio and program management](../locales/en-us/chapters/10-01-portfolio-and-programme-management/index.md)
 - [10.2 Risk, audit, and assurance](../locales/en-us/chapters/10-02-risk-audit-and-assurance/index.md)

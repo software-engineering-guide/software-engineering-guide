@@ -167,7 +167,7 @@ Totals: **12 parts**, **147 chapters** (each part opens with an N.0 introduction
 | 9.7 | Capacity planning and demand forecasting | [`09-07-capacity-planning-and-demand-forecasting/index.md`](../locales/en-us/chapters/09-07-capacity-planning-and-demand-forecasting/index.md) |
 | 9.8 | On-call and operational readiness | [`09-08-on-call-and-operational-readiness/index.md`](../locales/en-us/chapters/09-08-on-call-and-operational-readiness/index.md) |
 
-## Part 10: Project/Product/Programme Management
+## Part 10: Project/Product/Program Management
 
 | Chapter | Title | File |
 | --- | --- | --- |

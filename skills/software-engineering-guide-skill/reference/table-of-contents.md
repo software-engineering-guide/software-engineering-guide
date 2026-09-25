@@ -135,7 +135,7 @@ published at `https://software-engineering-guide.github.io/chapters/<slug>`.
 - 9.7 Capacity planning and demand forecasting: `09-07-capacity-planning-and-demand-forecasting`
 - 9.8 On-call and operational readiness: `09-08-on-call-and-operational-readiness`
 
-## Part 10: Project/Product/Programme Management
+## Part 10: Project/Product/Program Management
 - 10.0 Introduction: `10-00-project-product-programme-management`
 - 10.1 Portfolio and programme management: `10-01-portfolio-and-programme-management`
 - 10.2 Risk, audit, and assurance: `10-02-risk-audit-and-assurance`
