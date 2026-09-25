@@ -19,7 +19,7 @@ package = false
 # consequentially, SME), the bolded-first-letter SPACE expansion (erformance),
 # and one deliberate typo used as an example of typo tolerance (reciept).
 [tool.codespell]
-skip = "./site,./.venv,./node_modules,./uv.lock,./styles"
+skip = "./site,./.venv,./node_modules,./uv.lock,./styles,./locales/cy-001,./locales/hi-001,./locales/zh-cn,./locales/es-001"
 ignore-words-list = "fulfilment,skelton,erformance,accreting,infarction,reciept,synopsys,covert,consequentially,rouge,marz,bloc,wither,sme"
 
 [dependency-groups]

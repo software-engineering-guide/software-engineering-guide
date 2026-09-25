@@ -15,6 +15,13 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Translated chapter directory slugs for the `cy-001` (Welsh), `hi-001`
+  (Hindi), `zh-cn` (Chinese), and `es-001` (Spanish) locales under `locales/`,
+  replacing the English slugs with native-script/accented ones (numeric
+  prefix kept) per `spec/locales-for-global-sharing-with-svelte/index.md`.
+  Wrote the 11 chapters missing from `hi-001` (now complete at 147/147) and
+  finished one in-progress `es-001` chapter left as `index.md.wip`. `es-001`
+  still has 63 chapters awaiting translation; renamed only the 84 that exist.
 - Two Claude Code skills under `skills/`: `software-engineering-guide-skill`
   for readers who want guidance grounded in the book, and
   `software-engineering-guide-maintainer-skill` for maintainers of this

@@ -1,0 +1,140 @@
+# 9.4 Cost, sustainability, and green software
+
+## Overview and motivation
+
+Software runs on physical infrastructure that consumes money, electricity, water, and materials. For most of computing's history, these costs were someone else's problem: capital budgets hid the hardware, and energy was invisible to engineers. [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) changed that. It made consumption granular, on-demand, and directly attributable, which turned cost, and increasingly carbon, into engineering concerns. This chapter covers two intertwined disciplines: **FinOps**, the practice of bringing financial accountability to variable cloud spend, and **[green software](https://en.wikipedia.org/wiki/Green_computing)**, the practice of building systems that do the same work with less energy and lower carbon emissions. They overlap heavily, because efficient software is usually both cheaper and cleaner.
+
+For large teams, the numbers are enormous. Cloud bills for a big enterprise can reach tens or hundreds of millions per year, and a few points of waste represent real money that could fund headcount or products. The [carbon footprint](https://en.wikipedia.org/wiki/Carbon_footprint) of large digital estates is material too, and organizations face growing pressure from regulators, investors, customers, and their own employees to measure and reduce it. When hundreds of teams each make independent decisions about instance sizes, data retention, and architecture, small inefficiencies compound into large costs and emissions. Governance that makes cost and carbon visible and accountable is essential to keep both in check.
+
+Enterprise and government relevance is direct. Public-sector organizations spend taxpayer money and are increasingly bound by sustainability mandates and net-zero commitments, so demonstrating efficient, low-carbon operation is both a fiscal and a policy obligation. Enterprises face investor scrutiny of environmental performance and competitive pressure on margins. In both settings, cost and sustainability have moved from afterthoughts to board-level concerns. Engineering choices are where those concerns are ultimately realized or missed.
+
+## Key principles
+
+- **Make consumption visible.** You cannot optimize what you cannot see; cost and carbon must be attributed to the teams and services that cause them.
+- **Accountability sits with owners.** The engineers who provision resources should see and own their cost and carbon impact.
+- **Efficiency serves cost and carbon together.** Doing the same work with fewer resources usually saves money and emissions simultaneously.
+- **Rightsize continuously.** Demand changes, so provisioning must be revisited, not set once and forgotten.
+- **Carbon has time and place.** The same computation emits more or less depending on when and where the electricity is generated.
+- **Balance the triad.** Cost, performance, and reliability trade off against each other; optimize deliberately, not blindly.
+- **Design for efficiency early.** Architectural choices dominate long-run cost and carbon far more than late-stage tuning.
+
+## Recommendations
+
+### Establish FinOps visibility, optimization, and accountability
+
+FinOps proceeds in three iterative phases. **Inform**: build visibility through tagging, allocation, and dashboards, so every cost is attributed to a team, service, and business purpose, and shared costs are fairly split. **Optimize**: eliminate waste (idle and orphaned resources), rightsize over-provisioned services, adopt commitment-based discounts such as reservations or savings plans for steady baseload, and use spot or preemptible capacity for interruptible work. **Operate**: embed cost into normal engineering practice with budgets, anomaly alerts, forecasts, and regular reviews. Above all, put cost data in front of the engineers who create it. Make efficiency a shared goal of engineering, finance, and product, not a finance-only concern.
+
+### Build carbon-aware and energy-efficient software
+
+Reducing carbon has three levers. **Energy efficiency**: write and configure software to do the same work with fewer CPU cycles, less memory, and less data movement, through better algorithms, caching, and avoiding needless computation. **Hardware efficiency**: use resources fully via higher utilization, consolidation, and modern efficient hardware, since idle capacity still draws power and embodies manufacturing carbon. **Carbon awareness**: shift flexible workloads in time and space to when and where the grid is cleaner, for example running batch jobs when renewable generation is high, or in regions with low-carbon electricity. Measure using recognized approaches such as the Software Carbon Intensity specification. Prefer providers and regions with strong renewable commitments and transparent reporting.
+
+### Design sustainable architectures and rightsize
+
+Architecture determines the floor for cost and carbon. Favor elastic designs that scale to actual demand and scale to zero when idle, so you never pay to keep unused capacity running. [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) and [autoscaling](https://en.wikipedia.org/wiki/Autoscaling) reduce waste for spiky workloads, and managed services can improve utilization through [multi-tenancy](https://en.wikipedia.org/wiki/Multitenancy). Rightsize compute, storage, and databases against real usage rather than fearful over-provisioning. Set data lifecycle policies so cold data moves to cheaper, lower-energy tiers or is deleted. Reducing data volume and network transfer cuts both storage cost and the energy of moving bits. Treat efficiency as a design requirement, reviewed alongside performance and reliability.
+
+### Balance cost, performance, and reliability deliberately
+
+Cost, performance, and reliability form a triad. Push one hard, and you usually tax the others: more redundancy and lower latency cost more, and often consume more energy. Make these trade-offs explicit and tie them to business value. Use SLOs ([service level objectives](https://en.wikipedia.org/wiki/Service-level_objective)) to define how much reliability and performance the service actually needs, then provision to that target rather than gold-plating everything uniformly. Non-critical and internal workloads can accept cheaper, less redundant, more carbon-flexible configurations. Reserve premium provisioning for what genuinely warrants it.
+
+### Govern without smothering
+
+Provide guardrails, not gates. Central platform teams can offer efficient defaults, tagging enforcement, budget alerts, and self-service dashboards, while leaving day-to-day decisions with the teams that own the workloads. Set organization-wide targets for cost efficiency and carbon reduction, report progress transparently, and celebrate savings. Avoid heavy approval bureaucracy that slows delivery. The aim is to make the efficient choice the easy default.
+
+## Trade-offs: pros and cons
+
+| Decision | Pros | Cons |
+|---|---|---|
+| Commitment discounts | Large savings on baseload | Lock-in, risk if demand shifts |
+| Spot/preemptible capacity | Cheapest compute, uses spare grid | Interruptions, added complexity |
+| Aggressive rightsizing | Lower cost and carbon | Risk of under-provisioning under spikes |
+| Carbon-aware scheduling | Lower emissions | Delayed jobs, engineering effort |
+| Multi-region redundancy | Higher reliability | More cost, energy, and carbon |
+
+The unifying trade-off is that maximum reliability and performance rarely coincide with minimum cost and carbon. Redundant, always-on, low-latency systems are expensive and energy-hungry, so uniform gold-plating wastes both money and emissions on workloads that do not need it. The discipline is to right-size ambition to business value using SLOs, spending premium resources only where they matter. Commitment discounts and spot capacity offer real savings, but they introduce lock-in and interruption risk that you must manage. Carbon-aware scheduling saves emissions, but it only suits workloads tolerant of delay or relocation.
+
+## Questions to discuss with your team
+
+1. **What share of your cloud spend is actually tagged and attributed to a team today?** The inform phase of FinOps is the foundation: you cannot optimize what you cannot see, and untagged, unallocated spend means no one owns the waste. Bring the real coverage number to the discussion, not an aspiration, and the list of the biggest untagged line items. For a large organization where hundreds of teams each provision independently, a low attribution rate means shared inefficiencies compound invisibly into millions. In government and enterprise settings, attribution is also how you defend taxpayer or shareholder spend and how you allocate fair-share costs of shared platforms. The answer sets your first move: if coverage is low, tagging enforcement and allocation come before any rightsizing, because optimization without visibility is guessing.
+
+2. **How much of your baseload is covered by commitment discounts, and what happens to those commitments if demand shifts?** Reservations and savings plans deliver large savings on steady baseload, but they introduce lock-in, so buying too aggressively turns a discount into a liability when a product sunsets or migrates. Bring the numbers: your committed coverage percentage, your baseload trend, and the workloads most likely to change shape in the next year. The discipline is to commit only the floor you are confident persists, cover the variable layer with on-demand or spot, and revisit as demand evolves. For a large enterprise this is a treasury-style decision with real financial exposure, so finance and engineering should own it together rather than either side alone. The answer should separate your durable baseload from your uncertain demand and size commitments to the former.
+
+3. **How much of your fleet sits idle, and are you counting embodied manufacturing carbon or only the energy it burns while running?** Idle capacity still draws power and carries the manufacturing carbon already spent to build the hardware, so focusing only on running energy while over-provisioning misses a real part of the footprint. Bring utilization data: average and peak, the gap between provisioned and used, and where scale-to-zero or consolidation is possible. Higher utilization serves cost and carbon at once, which is the through-line of this chapter, so idle waste is the cleanest win you have. For organizations under a net-zero mandate, an honest carbon measure that includes embodied emissions is what separates real progress from greenwashing that invites regulatory and reputational backlash. The answer should target your lowest-utilization workloads for consolidation, autoscaling, or scale-to-zero, and set a measurement approach that does not quietly ignore manufacturing carbon.
+
+4. **Do your engineers see the cost and carbon of their own services, and does anyone act on what they see?** Visibility only pays off when it reaches the people who provision resources and changes their behavior, so a dashboard that finance reviews monthly but engineers never open is decoration, not accountability. The competing pull is real: platform teams want central control and clean reporting, while delivery teams resent anything that feels like surveillance or another gate on shipping. Bring evidence of who actually looks at cost and carbon data, how often, and whether any rightsizing or cleanup has followed from it in the last quarter. For a large organization where hundreds of teams provision independently, the difference between a signal engineers own and a report they ignore is the difference between compounding savings and compounding waste. In enterprise and government settings, put unit economics (cost and carbon per request, per customer, or per case) in front of the owning team, because an aggregate number defends a budget but a per-unit number changes a design decision.
+
+5. **Which of your workloads are genuinely flexible in time or region, and what would it take to schedule them where the grid is cleaner?** Carbon-aware scheduling shifts flexible work to when and where electricity is low-carbon, but it only suits jobs that tolerate delay or relocation, so the first job is separating truly deferrable batch work from anything user-facing or latency-bound. The trade-off is that moving jobs across regions or off-peak windows adds engineering effort, data-transfer cost, and sometimes data-residency risk that can outweigh the emissions saved. Bring a candidate list of batch and analytics jobs, their latency tolerance, their data-residency constraints, and the carbon intensity of the regions you can legally run them in. For enterprises this is a modest optimization on top of rightsizing, so sequence it after the cost fundamentals rather than before them. In government, data-residency and sovereignty rules may forbid moving citizen data across borders regardless of grid cleanliness, so the region choice is a legal question before it is a carbon one.
+
+6. **What efficiency and sustainability targets have you set, and are they written so that hitting them cannot quietly break reliability?** Targets focus effort, but a crude cost or carbon goal invites the wrong behavior: teams under-provision, strip redundancy, or defer work in ways that trade a small saving for a large incident. The tension is between an ambitious top-down number that leadership can report and a bottom-up target grounded in each service's actual SLOs, so the two have to be reconciled rather than imposed. Bring your current targets, the baseline they are measured against, and the reliability guardrails that stop optimization from cutting into what a service genuinely needs. For a large organization, aggregate targets must decompose fairly to teams whose workloads differ, so a customer-facing payment service and an internal reporting job should not carry the same efficiency expectation. In enterprise and government contexts where sustainability figures appear in public disclosures, tie every reported number to an auditable measurement method, because a target you cannot defend under scrutiny is a liability, not an achievement.
+
+## Sector lens
+
+**Startup.** Cost is runway, so a single afternoon of tagging and one budget alert can buy you another month before you raise again. Skip FinOps process and carbon accounting entirely; just watch the bill, kill idle resources, and pick a managed platform that scales to zero so you pay for load rather than for capacity sitting ready. Your scarcest resource is engineering attention, so automate the obvious waste and move on.
+
+**Small business.** You have no FinOps specialist and a tight budget, so lean on the cost tools your cloud provider already gives you rather than buying a dedicated platform. Set a monthly budget alert, turn on the provider's rightsizing recommendations, and prefer managed and serverless services that fold operational efficiency into the price. Treat sustainability as choosing a low-carbon region and an efficient default, not as a reporting program you have to staff.
+
+**Enterprise.** The problem is governance across many teams: consistent tagging, fair allocation of shared platform costs, commitment-discount strategy owned jointly by finance and engineering, and cost and carbon surfaced as signals every team sees. Standardize efficient defaults and a measurement method so hundreds of independent provisioning decisions do not compound into waste, and manage cloud spend and emissions as a portfolio with targets, anomaly alerts, and transparent reporting rather than a scatter of local optimizations.
+
+**Government.** Procurement rules, transparency, and public accountability shape every choice. You are spending taxpayer money and often bound by a net-zero mandate, so you must show both fiscal prudence and audited emissions progress, which means an honest carbon measure that includes embodied hardware rather than greenwashing. Data-residency and sovereignty rules may constrain which regions you can use regardless of grid cleanliness, and efficiency and emissions metrics may need to be published for public scrutiny, so pick measurement methods you can defend under audit.
+
+## Examples
+
+**Startup.** A seed-stage startup watches its cloud bill double in two months and cannot tell why. A founder spends an afternoon tagging every resource by feature and turns on a simple budget alert. The tags reveal a forgotten staging cluster and an oversized database running around the clock for a nightly job. Shutting down the cluster and moving the job to a scheduled off-peak run on a smaller instance cuts the bill by a third, which buys the team another month of runway.
+
+**Enterprise.** A multinational retailer with a large, sprawling cloud estate stands up a FinOps practice. It enforces tagging, allocates every cost to a product team, and surfaces spend in dashboards engineers see daily. Within a year it removes idle resources, rightsizes over-provisioned services, and buys savings plans for steady baseload, cutting cloud spend by roughly a quarter. It then schedules nightly analytics batch jobs to run in lower-carbon regions and off-peak hours, reducing both cost and emissions, and reports the carbon savings in its annual sustainability disclosure.
+
+**Government.** A government agency operating citizen services under a national net-zero mandate must show both fiscal prudence with taxpayer money and progress toward emissions targets. It rightsizes and consolidates workloads, sets data-retention policies that move rarely accessed records to cold, low-energy storage, and selects cloud regions powered by high shares of renewable electricity. It measures the carbon intensity of its major services and publishes efficiency and emissions metrics for public accountability. Efficient defaults and self-service dashboards let dozens of delivery teams make sustainable choices without central bottlenecks.
+
+## Business case: motivations, ROI, and TCO
+
+The return here is unusually direct. FinOps optimization commonly reduces cloud spend by a fifth to a third with disciplined effort, a saving that flows straight to the bottom line, or to funding new work. Carbon reduction increasingly carries financial value too, through avoided carbon pricing, eligibility for contracts with sustainability requirements, and reduced regulatory and reputational risk. Because efficiency lowers cost and carbon at once, a single investment in visibility and rightsizing pays back on both dimensions.
+
+Total cost of ownership must count the adoption cost: tooling for cost and carbon visibility, the FinOps or platform staff to run the practice, and the engineering time to rightsize and re-architect. These are modest against the savings, and they shrink as efficient defaults become embedded. The cost of not adopting compounds silently: runaway cloud bills that grow faster than the business, waste that never surfaces because no one owns it, and mounting regulatory, investor, and reputational exposure on sustainability. To make the case to leadership, present current spend and its growth trajectory, the estimated waste, and benchmark savings from FinOps adoption. Then pair it with the emissions reduction and compliance value. Frame cost and sustainability as the same efficiency initiative viewed through two lenses, so the business need not choose between saving money and cutting carbon.
+
+## Anti-patterns and pitfalls
+
+- **No cost attribution.** Untagged, unallocated spend means no one owns waste and no one can optimize it.
+- **Set-and-forget provisioning.** Sizing resources once and never revisiting them guarantees drift into over-provisioning.
+- **Finance-only FinOps.** Treating cost as a back-office concern rather than an engineering signal fails, because engineers make the decisions that drive spend.
+- **[Greenwashing](https://en.wikipedia.org/wiki/Greenwashing).** Claiming sustainability without measurement invites regulatory and reputational backlash.
+- **Efficiency at the expense of reliability.** Cutting so aggressively that services fail under load trades a small saving for a large incident.
+- **Ignoring embodied carbon.** Focusing only on running energy while over-provisioning idle hardware misses the manufacturing footprint.
+- **Bureaucratic gates.** Heavy approval processes for spend slow delivery and push teams to work around governance.
+
+## Maturity model
+
+**Level 1, Initiate.** Cloud costs are a surprise on the monthly bill. There is no tagging, allocation, or carbon awareness, and provisioning is generous and rarely revisited. Waste is invisible because no one owns it, and any cleanup that happens is a reaction to a bill shock rather than a practice.
+
+**Level 2, Develop.** Basic cost visibility and tagging exist, and some rightsizing and idle-resource cleanup happen, but coverage and rigor vary widely between teams. A few groups watch their spend and try low-carbon regions; others do neither. Sustainability is acknowledged but not measured, and good habits depend on individual initiative rather than any shared expectation.
+
+**Level 3, Standardize.** A FinOps practice is documented and applied org-wide: tagging is enforced, shared costs are allocated by an agreed method, and budgets, forecasts, and anomaly alerts are standard. Commitment discounts and rightsizing follow a defined playbook, and carbon is measured for major services using a recognized method such as the Software Carbon Intensity specification, with region and scheduling choices considered consistently rather than case by case.
+
+**Level 4, Manage.** Cost and carbon are measured and controlled against baselines. Teams track unit economics (cost and carbon per request, per customer, or per case), utilization including idle and embodied-carbon estimates, commitment coverage against baseload, and forecast accuracy, all reported against organizational targets. Anomalies trigger investigation, efficiency and SLO adherence are reviewed together so optimization never quietly erodes reliability, and go or no-go decisions on provisioning are made on this data rather than on intuition.
+
+**Level 5, Orchestrate.** Cost and carbon are continuous, owned engineering signals wired into daily practice. Efficient defaults, automated rightsizing, and carbon-aware scheduling are the norm, and the organization continuously rebalances its estate as demand, prices, and grid intensity shift. Cost, performance, and reliability are traded off deliberately via SLOs, sustainability metrics feed public and investor reporting with auditable methods, and the practice adapts as the business, the market, and regulation evolve.
+
+## Ideas for discussion
+
+- Who should own cloud cost in your organization: finance, a central FinOps team, or the engineering teams that provision resources?
+- How do you attribute shared platform costs fairly across many consuming teams?
+- Where is the right balance between cost savings and the reliability or performance you might sacrifice to get them?
+- How would you measure the carbon footprint of your services, and how much do you trust the available data?
+- Which of your workloads are flexible enough for carbon-aware scheduling in time or region?
+- How do you set efficiency and sustainability targets that motivate teams without encouraging risky under-provisioning?
+
+## Key takeaways
+
+- Cloud made cost and carbon into engineering concerns; visibility and ownership are the foundation of controlling both.
+- FinOps works in three phases: inform (visibility), optimize (rightsize and discount), and operate (embed in practice).
+- Efficient software usually saves money and carbon together, so treat them as one initiative with two lenses.
+- Reduce carbon through energy efficiency, higher hardware utilization, and carbon-aware scheduling in time and place.
+- Architecture and rightsizing dominate long-run cost and carbon; design for elasticity and scale-to-zero.
+- Balance cost, performance, and reliability deliberately using SLOs, and govern with guardrails rather than gates.
+
+## References and further reading
+
+- J.R. Storment, Mike Fuller, *Cloud FinOps: Collaborative, Real-Time Cloud Financial Management*
+- FinOps Foundation, *FinOps Framework* documentation
+- Green Software Foundation, *Principles of Green Software Engineering* and *Software Carbon Intensity (SCI) Specification*
+- Anne Currie, Sarah Hsu, Sara Bergman, *Building Green Software*
+- Adrian Cockcroft, writings on cloud efficiency and sustainability
+- The Shift Project, *Lean ICT: Towards Digital Sobriety*

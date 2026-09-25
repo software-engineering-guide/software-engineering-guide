@@ -1,0 +1,149 @@
+# 10.4 Cynnal systemau mawr a hirhoedlog
+
+## Trosolwg a chymhelliant
+
+Mae'r rhan fwyaf o ysgrifennu am beirianneg meddalwedd yn ymwneud ag adeiladu pethau newydd. Ond mae'r rhan fwyaf o feddalwedd bwysig y byd yn hen, yn fawr, ac yn dal i redeg: systemau treth, taliadau budd-daliadau, rheoli traffig awyr, bancio craidd, rheolaeth ddiwydiannol, a seilwaith bywyd bob dydd. Mae'r systemau hyn yn arferol yn rhedeg am ddeng mlynedd, ugain mlynedd, neu ddeng mlynedd ar hugain. Mae hynny'n llawer hwy na chyfnod gwasanaeth unrhyw un a'u hadeiladodd, ac yn aml yn hwy na'r cwmnïau a'r ieithoedd a'u cynhyrchodd. Mae cynnal systemau o'r fath yn golygu eu cadw'n ddibynadwy, yn ddiogel, wedi'u deall, ac yn gallu newid, ar draws degawdau ac ar draws cenedlaethau o staff. Mae'n un o'r disgyblaethau anoddaf a lleiaf disglair yn y maes, ac yn un lle mae mentrau mawr a llywodraethau'n cario'r baich trymaf.
+
+Pam mae hyn yn bwysicach i sefydliadau mawr? Parhad rhwymedigaeth. Gall cwmni newydd ailysgrifennu neu adael ei feddalwedd. Ni all llywodraeth genedlaethol stopio talu pensiynau tra ei bod yn ailffactora. Mae mentrau ac asiantaethau'n berchen ar systemau y mae eu methiant yn cael canlyniadau a fesurir mewn bywoliaeth, diogelwch, neu ymddiriedaeth gyhoeddus. Ac maent yn berchen ar lawer ohonynt ar unwaith, wedi'u staffio gan bobl sy'n ymuno ac yn gadael dros ddegawdau. Nid yw'r bygythiadau canolog yn egsotig. Maent yn erydiad araf y bobl sy'n deall y system ([ffactor bws](https://en.wikipedia.org/wiki/Bus_factor), pa mor ychydig o bobl fyddai'n gorfod gadael cyn i wybodaeth am system gael ei cholli), pentyrru gwybodaeth heb ei dogfennu mewn ychydig benaethiaid, dirywiad y stac technoleg tuag at [ddiwedd oes](https://en.wikipedia.org/wiki/End-of-life_(product)), a'r parlys sy'n gafael pan fydd system yn dod yn rhy hanfodol i'w chyffwrdd ac yn rhy wael ei deall i'w newid yn ddiogel.
+
+Mae'r bennod hon yn ymwneud â stiwardiaeth: y gwaith bwriadol, diramant o helpu system i oroesi ei hawduron yn osgeiddig. Mae'n cwmpasu parhad perchnogaeth a lliniaru ffactor bws, [diddymu graddol](https://en.wikipedia.org/wiki/Deprecation) a machludo wedi'u cynllunio, trosglwyddo gwybodaeth, heriau od systemau sy'n para degawdau, a'r ddeddf gydbwyso gyson rhwng arloesi a chadw'r sefydlogrwydd y mae dinasyddion a chwsmeriaid yn dibynnu arno.
+
+## Egwyddorion allweddol
+
+- **Mae angen perchennog ar bob system hanfodol, bob amser.** Mae perchnogaeth yn dasg barhaus, nid cof o bwy a'i hysgrifennodd.
+- **Mae gwybodaeth sy'n byw mewn un pen yn risg, nid yn ased.** Sefydliadwch ddealltwriaeth cyn i'r person adael.
+- **Mae diflastod yn nodwedd.** I systemau hanfodol hirhoedlog, mae sefydlogrwydd a rhagweladwyedd yn aml yn drech na newydd-deb.
+- **Cynlluniwch y diweddglo ar y dechrau.** Bydd pob system yn cael ei hymddeol neu ei disodli; dyluniwch a dogfennwch ar gyfer y diwrnod hwnnw.
+- **Newid yw sut rydych yn aros yn ddiogel.** Mae system sy'n rhy frawychus i'w chyffwrdd eisoes yn methu; mae'r gallu i newid yn nodwedd oroesi.
+- **Mae parhad yn goroesi unigolion.** Dyluniwch dimau, dogfennaeth, a phrosesau fel nad yw unrhyw ymadawiad unigol yn argyfwng.
+- **Ymddiriedaeth yw'r cynnyrch gwirioneddol.** I systemau sy'n wynebu dinasyddion a chwsmeriaid, dibynadwyedd a thegwch a gynhelir dros amser yw'r genhadaeth.
+
+## Argymhellion
+
+### Sefydlu stiwardiaeth a pharhad perchnogaeth
+
+Neilltuwch berchnogaeth benodol, gyfredol ar gyfer pob system sy'n bwysig. Perchenogwch ar lefel y tîm, nid lefel yr unigolyn, fel bod perchnogaeth yn goroesi ymadawiadau. Cynhaliwch [gatalog gwasanaeth](https://en.wikipedia.org/wiki/Service_catalog) sy'n cofnodi, ar gyfer pob system, pwy sy'n berchen arni, beth mae'n ei wneud, beth mae'n dibynnu arno, a pha mor hanfodol ydyw. Adolygwch berchnogaeth yn rheolaidd, a pheidiwch byth â gadael i system fynd yn amddifad. Mae system hanfodol heb berchennog yn argyfwng yn aros i ddigwydd. Pan fydd timau'n ad-drefnu, trosglwyddwch berchnogaeth yn fwriadol, gyda throsglwyddiad, nid drwy dybiaeth. Ar gyfer y systemau hirhoedlog mwyaf hanfodol, sicrhewch fod perchnogaeth yn cynnwys nid yn unig gweithredu ond y gallu i ddeall a newid y system, fel nad yw stiwardiaeth yn dirywio i fod yn ddim ond gwarchod plant.
+
+### Lliniaru ffactor bws a risg unigolion allweddol
+
+Mesurwch a lleihewch grynhoad gwybodaeth yn weithredol. Os mai dim ond un person all ddefnyddio, datrys problemau, neu newid system, mae hynny'n [bwynt methiant sengl](https://en.wikipedia.org/wiki/Single_point_of_failure) mor real ag unrhyw galedwedd. Lleihewch hynny drwy barau a chylchdroi, adolygiad cod gorfodol, dyletswydd ar alwad a rennir, a rheol fwriadol nad oes gan unrhyw dasg hanfodol union un person galluog. Traws-hyfforddwch fel bod o leiaf dau (yn ffafriol tri) o bobl yn gallu cyflawni pob swyddogaeth hanfodol. Trinwch ymadawiad person allweddol fel digwyddiad rhagweladwy rydych yn paratoi ar ei gyfer yn barhaus, nid sioc rydych yn ei amsugno. Mae dogfennaeth yn helpu. Ond mae gwybodaeth waith wedi'i lledaenu ar draws tîm drwy ymarfer gwirioneddol yn llawer mwy parhaol na dogfennau nad oes neb wedi'u hymarfer.
+
+### Sefydliadu trosglwyddo gwybodaeth
+
+Dalgrynnwch y wybodaeth a fyddai fel arall yn gadael gyda phobl. Canolbwyntiwch yn gyntaf ar y wybodaeth sy'n anodd ei hailadeiladu: pam y gwnaed penderfyniadau, pa ddewisiadau amgen a wrthodwyd a pham, ble mae'r ymylon miniog a'r hacio hanfodol y mae gweddill y system yn dawel yn dibynnu arnynt, a sut mae'r system yn ymddwyn dan straen. Defnyddiwch gofnodion penderfyniadau pensaernïaeth i gadw'r rhesymu y tu ôl i ddewisiadau, nid dim ond y dewisiadau. Cadwch [lyfrau rhedeg](https://en.wikipedia.org/wiki/Runbook) a dogfennaeth weithredol yn agos at y system, a'u hymarfer yn rheolaidd fel eu bod yn aros yn gywir. Adeiladwch lwybrau sefydlu sy'n dod â stiwardiaid newydd i gymhwysedd gwirioneddol. Trinwch ymadawiadau fel digwyddiadau trosglwyddo gwybodaeth gydag amser trosglwyddo go iawn. Cofiwch fod [gwybodaeth ymhlyg](https://en.wikipedia.org/wiki/Tacit_knowledge), y teimlad am system, yn trosglwyddo'n bennaf drwy wneud ochr yn ochr â rhywun sydd â hi, felly gorgyffyrddwch stiwardiaid sy'n gadael a rhai sy'n cyrraedd lle gallwch.
+
+### Rheoli diddymu graddol, machludo, a diwedd oes
+
+Cynlluniwch ddiweddglo yn fwriadol. Pan fyddwch yn penderfynu ymddeol neu ddisodli system, triniwch y machludo fel prosiect ynddo'i hun: nodwch bob defnyddiwr a dibyniaeth, darparwch lwybr mudo ac amserlen realistig, cyfathrebwch yn glir ac yn ailadroddus, a chefnogwch ddefnyddwyr drwy'r pontio. Osgowch y trap o redeg yr hen system a'r un newydd ochr yn ochr am byth am na fydd neb yn gwneud y gwaith caled o ddiffodd yr hen un. Neilltuwch atebolrwydd penodol ar gyfer cwblhau'r datgomisiynu. Cadwch ddata, cofnodion, a'r gallu i ateb cwestiynau am y system a ymddeolwyd yn hir ar ôl iddi stopio rhedeg, yn enwedig lle mae rheolau cadw cyfreithiol yn berthnasol. Mae machludo a wneir yn wael yn gadael systemau sombi sydd heb eu cynnal ond y dibynnir arnynt o hyd: y gwaethaf o bob byd.
+
+### Cynnal systemau ar draws degawdau
+
+Ar gyfer systemau sy'n gorfod rhedeg am ugain neu ddeng mlynedd ar hugain, cynlluniwch i oroesi popeth: y tîm gwreiddiol, y gwerthwyr, ecosystem yr iaith, a'r caledwedd. Ffafriwch [safonau agored](https://en.wikipedia.org/wiki/Open_standard) a rhyngwynebau wedi'u dogfennu dros flychau du perchnogol, fel bod gan gynhalwyr y dyfodol siawns. Modiwleiddiwch, fel y gellir disodli rhannau un ar y tro yn hytrach na thrwy [ailysgrifennu](https://en.wikipedia.org/wiki/Rewrite_(programming)) popeth-neu-ddim sy'n rhy beryglus i'w geisio byth. Cadwch y system wedi'i chynnal yn barhaus. Mae system a gedwir yn gyfredol mewn camau bach yn aros yn gynaliadwy. Mae system wedi'i rhewi "am ei bod yn gweithio" yn dawel yn dod yn amhosibl ei chynnal wrth i'w stac heneiddio allan o gefnogaeth. Cadwch y sgiliau i'w gweithredu hefyd: ar gyfer technoleg wirioneddol hen, hyfforddwch olynwyr yn fwriadol yn hytrach na gobeithio na fydd yr arbenigwr olaf byth yn ymddeol.
+
+### Cydbwyso arloesi â sefydlogrwydd ac ymddiriedaeth
+
+Gwahaniaethwch rhwng y rhannau o'ch ystad lle mae newydd-deb yn creu gwerth a'r rhannau lle mae sefydlogrwydd yn werth. Mae systemau craidd y mae dinasyddion a chwsmeriaid yn dibynnu arnynt bob dydd fel arfer yn gwobrwyo dibynadwyedd, cydnawsedd yn ôl-troed, a newid gofalus dros ailysgrifennu cyffrous. Buddsoddwch arloesi ar yr ymylon (sianeli newydd, nodweddion newydd, rhyngwynebau newydd) tra'n cadw'r craidd parhaol yn sefydlog ac wedi'i ddeall yn dda. Newidiwch y craidd, ie, ond mewn cynyddrannau bach, cildroadwy, wedi'u profi'n dda yn hytrach na naidiau arwrol. Y nod yw system sy'n ddibynadwy ac yn gallu esblygu ill dau: byth wedi'i rhewi cymaint fel ei bod yn [pydru](https://en.wikipedia.org/wiki/Software_rot), byth wedi'i throi cymaint fel ei bod yn dod yn annibynadwy.
+
+## Cyfaddawdau: manteision ac anfanteision
+
+| Dull | Manteision | Anfanteision |
+|---|---|---|
+| Cadw a chynnal yr hen system | Yn cadw gwybodaeth sefydliadol; aflonyddwch isel; dibynadwyedd profedig | Stac yn heneiddio; sgiliau prin; risg gynyddol os na chynhelir |
+| Ailysgrifennu mawr-a-sydyn | Stac ffres; yn cael gwared ar sbwriel cronedig | Cyfradd fethiant uchel iawn; yn colli gwybodaeth achosion-ymyl a enillwyd yn galed |
+| Moderneiddio cynyddrannol | Lleihad risg parhaus; yn parhau i redeg | Araf; angen cyllid a disgyblaeth gynaliadwy |
+| Trosglwyddiad trwm ar ddogfennaeth | Cofnod penodol, y gellir chwilio ynddo | Yn dirywio os na chynhelir; yn colli gwybodaeth ymhlyg |
+| Trosglwyddiad seiliedig ar bobl (parau/cylchdroi) | Gwybodaeth waith barhaol; timau gwydn | Yn costio cynhyrchiant cyfredol; angen amserlennu bwriadol |
+| Rhewi'r craidd hanfodol | Sefydlogrwydd mwyaf tymor byr | Mae'r stac yn heneiddio'n amhosibl ei chynnal; yn tyfu'n rhy frawychus i'w chyffwrdd |
+
+Y cyfaddawd diffiniol yw sefydlogrwydd yn erbyn esblygiad, ac mae'r datrysiadau naïf ill dau'n methu. Rhewch system hanfodol i'w hamddiffyn, a byddwch yn gwarantu y bydd yn dod yn amhosibl ei chynnal ac yn anniogel yn y pen draw. Ailysgrifennwch hi'n gyfan gwbl i foderneiddio, a byddwch yn gwahodd y gyfradd fethiant uchel y mae disodliadau mawr-a-sydyn yn enwog amdanynt, ac rydych yn taflu ymaith ddegawdau o wybodaeth achosion-ymyl wedi'i hamgodio nad oes neb yn cofio ei bod yno. Y llwybr parhaol yw newid parhaus, cynyddrannol: cadwch y system yn fyw ac yn symud mewn camau bach, fel na fydd byth yn heneiddio allan o gefnogaeth ac na fydd byth angen naid frawychus. Mae trosglwyddo gwybodaeth yn gyfaddawd tebyg, rhwng hwylustod dogfennau a pharhaustod profiad byw. Yr ateb yw'r ddau: gwybodaeth fyw, wedi'i dal gan y tîm, fel asgwrn cefn, a dogfennau fel cyfeiriadaeth.
+
+## Cwestiynau i'w trafod gyda'ch tîm
+
+1. **Pa rai o'ch systemau hanfodol nad oes ganddynt berchennog tîm cyfredol, wedi'i enwi ar hyn o bryd?** Mae perchnogaeth yn dasg barhaus, nid cof o bwy a ysgrifennodd y cod, ac mae system hanfodol heb berchennog yn argyfwng yn aros i ddigwydd, na sylwir arno ond pan fydd yn torri. Ewch drwy'ch catalog gwasanaeth (neu adeiladwch un) a gwiriwch fod pob system yn cofnodi pwy sy'n berchen arni, beth mae'n dibynnu arno, a pha mor hanfodol ydyw. Dewch â thystiolaeth: dewiswch dair system bwysig a cheisiwch enwi'r tîm atebol a'r tro diwethaf yr adolygwyd perchnogaeth. Lle mae system yn amddifad, neu lle mae ad-drefnu wedi'i gollwng yn dawel, neilltuwch berchnogaeth yn fwriadol gyda throsglwyddiad go iawn yn hytrach na thrwy dybiaeth. Sicrhewch fod perchnogaeth yn cynnwys y gallu i ddeall a newid y system, fel nad yw stiwardiaeth yn dirywio i fod yn ddim ond gwarchod plant.
+
+2. **Pan fyddwch yn disodli system, pwy sy'n atebol am ddiffodd yr hen un mewn gwirionedd?** Mae'r rhediad cyfochrog tragwyddol yn fethiant cyffredin a chostus: mae hen a newydd systemau'n rhedeg ochr yn ochr yn ddiddiwedd am nad oes neb yn berchen ar y cau i lawr, gan eich gadael yn cynnal dwy system a heb gael diogelwch yr un ohonynt. Trinwch bob machludo fel prosiect wedi'i reoli gydag atebolrwydd wedi'i enwi am gwblhau'r datgomisiynu, rhestr wedi'i mapio o ddefnyddwyr, llwybr mudo, ac amserlen realistig. Dewch â thystiolaeth: sawl rhediad cyfochrog "dros dro" neu system wedi'i hanner-ymddeol sy'n dal i dynnu cynhaliaeth yn eich ystad heddiw? Cadwch ddata a chofnodion i fodloni rheolau cadw cyfreithiol yn hir ar ôl i'r system stopio rhedeg, ond peidiwch â gadael i gadw ddod yn esgus dros byth orffen. Mae machludo a wneir yn wael yn gadael systemau sombi sydd heb eu cynnal ond y dibynnir arnynt o hyd, y gwaethaf o bob byd.
+
+3. **Pa sgiliau ar gyfer eich systemau hirhoedlog fydd y farchnad lafur yn stopio eu cyflenwi, a beth yw eich cynllun olyniaeth?** Mae systemau sy'n rhedeg am ugain neu ddeng mlynedd ar hugain yn goroesi eu hecosystemau iaith, eu gwerthwyr, a gyrfaoedd y bobl sy'n deall yr hen stac, ac ni fydd y farchnad yn rhoi disodliadau i chi'n ddibynadwy. Lleihewch ffactor bws yn fwriadol fel nad oes gan unrhyw swyddogaeth hanfodol union un person galluog, a thraws-hyfforddwch fel bod o leiaf dau, yn ffafriol tri, o bobl yn gallu cyflawni pob tasg hanfodol. Dewch â thystiolaeth: ar gyfer pob system hanfodol sy'n heneiddio, cyfrifwch faint o bobl all ei newid yn ddiogel a pha mor agos yw'r rhai mwyaf gwybodus at ymddeol. Dylai'r ateb yrru hyfforddiant bwriadol o olynwyr a gorgyffwrdd go iawn rhwng stiwardiaid sy'n gadael a rhai sy'n cyrraedd, oherwydd mae gwybodaeth ymhlyg (y teimlad am system) yn trosglwyddo'n bennaf drwy wneud ochr yn ochr â rhywun sydd â hi. Dogfennau yw'r cyfeiriadaeth; gwybodaeth fyw, wedi'i dal gan y tîm, yw'r asgwrn cefn.
+
+4. **Pryd wnaethoch chi ddiwethaf newid eich system hirhoedlog fwyaf hanfodol, ac a oes unrhyw un yn dal i feiddio?** Nid yw system nad oes neb wedi'i chyffwrdd ers blwyddyn yn sefydlog, mae'n drifftio tuag at y trap "rhy frawychus i'w chyffwrdd," lle mae ofn pob newid ac felly'r stac yn dawel heneiddio allan o gefnogaeth. I sefydliad mawr mae hyn yn bwysig oherwydd bod parlys yn cronni: po hiraf yw'r rhew, mwyaf y mae gwybodaeth yn pylu a mwyaf peryglus y daw'r newid anochel yn y pen draw. Dewch â thystiolaeth: ar gyfer pob system hanfodol, dyddiad y newid bwriadol diwethaf, maint y newid lleiaf y byddai unrhyw un yn ei geisio heddiw, ac a ellid lansio clwt dibyniaeth neu ddiogelwch rheolaidd yr wythnos hon heb arwriaeth. Mae'r ystyriaeth gystadleuol yn real, oherwydd bod newid hefyd yn cyflwyno risg, felly nid berw yw'r nod ond camau cyson, bach, cildroadwy, wedi'u profi'n dda. Mewn ystadau menter a llywodraeth, lle gall craidd wedi'i rewi eistedd o dan wasanaeth dinesydd am ddegawd, trinwch "nid ydym byth yn ei newid" fel baner goch yn hytrach na sicrwydd, a chyllidwch y cynhaliaeth barhaus sy'n cadw'r opsiwn i newid yn fyw.
+
+5. **Faint o'ch ystad sy'n rhedeg ar dechnoleg sydd wedi cyrraedd neu'n agos at ddiwedd oes, a phwy sy'n tracio'r cloc hwnnw?** Mae amseroedd rhedeg sy'n heneiddio, cronfeydd data heb gefnogaeth, a fframweithiau y tu allan i gynhaliaeth yn fodd methiant araf sy'n troi'n argyfwng sydyn y diwrnod y bydd clwt diogelwch yn stopio cyrraedd. I dîm mawr y perygl yw nad oes neb yn berchen ar y gorwel: mae timau unigol yn clytio beth sy'n torri, ond nid oes neb yn cynnal golwg portffolio o ba stacs sy'n colli cefnogaeth gwerthwr a phryd. Dewch â thystiolaeth: rhestr eiddo o dechnolegau craidd pob system hanfodol, eu dyddiadau diwedd oes neu ddiwedd cefnogaeth cyhoeddedig, a'r bwlch cyfredol rhwng yr hyn rydych yn ei redeg a'r hyn sy'n dal i gael ei gefnogi. Y tyndra yw rhwng cost diweddaru parhaus a risg gohirio, ac fel arfer mae gohirio'n ennill nes iddo golli'n drychinebus. Mewn lleoliadau menter a llywodraeth, lle gall cylchoedd caffael ac achredu gymryd blwyddyn neu fwy, mae dyddiad diwedd oes sy'n edrych yn bell i ffwrdd yn aml eisoes o fewn eich amser arweiniol, felly rhaid i'r gwaith olyniaeth a diweddaru ddechrau ymhell cyn i'r cloc redeg allan.
+
+6. **Ble yn eich ystad mae sefydlogrwydd yn werth a newydd-deb yn atebolrwydd, a sut ydych chi'n cadw'r ffin honno'n onest?** Nid yw pob system yn gwobrwyo'r un driniaeth: mae systemau craidd y mae dinasyddion a chwsmeriaid yn dibynnu arnynt bob dydd fel arfer yn gwobrwyo dibynadwyedd a newid gofalus, tra bo'r ymylon yn gwobrwyo arbrofi, ac mae drysu'r ddau yn gwastraffu arian neu'n gwahodd toriadau. I sefydliad mawr y risg yw bod uchelgais a chymhellion gyrfa'n gwthio ailysgrifennu cyffrous i mewn i union y craidd parhaol a ddylai aros yn ddiflas. Dewch â thystiolaeth: map o'ch ystad yn nodi lle mae dibynadwyedd yn genhadaeth a lle mae newydd-deb yn creu gwerth, ynghyd â newidiadau diweddar a groesodd y llinell honno i'r naill gyfeiriad neu'r llall a beth a gostiodd. Yr ystyriaeth gystadleuol yw bod yn rhaid i graidd sefydlog hyd yn oed esblygu o hyd, felly ni all "sefydlog" ddod yn esgus dros rewi. Mewn cyd-destunau menter a llywodraeth, cysylltwch y ffin hon â haenau hanfodolrwydd penodol ac awdurdod wedi'i enwi a all fetio ailysgrifennu peryglus o system na all y cyhoedd fforddio ei gweld yn methu, fel nad yw'r farn yn drifftio gyda phwy bynnag sy'n uchaf ei gloch y chwarter hwn.
+
+## Lens sector
+
+**Cwmni newydd.** Gyda llond llaw o beirianwyr a fawr o redfa, mae eich risg gynaliadwyedd wedi'i chrynhoi mewn un neu ddau berson a ysgrifennodd y systemau na allwch fforddio eu colli, fel bilio neu ddilysu. Gwariwch bron dim ar broses, ond gwnewch y pethau rhad, gwerth uchel nawr: parwch ail berson drwy bob system hanfodol, ysgrifennwch gofnod penderfyniad pensaernïaeth un dudalen ar gyfer y rhannau annisgwyl, a chadwch lyfr rhedeg rydych yn ei ddefnyddio mewn gwirionedd. Gwrthsefwch yr ysfa i ailysgrifennu rhywbeth dim ond am ei fod yn hen, oherwydd ar eich maint gall ailysgrifennu aflwyddiannus o system graidd ddod â'r cwmni i ben.
+
+**Busnes bach.** Nid oes gennych dîm cynnal a chadw pwrpasol a chyllideb dynn, felly ffafriwch brynu a lletya dros adeiladu unrhyw beth y byddai'n rhaid i chi ei gynnal eich hun. Ffafriwch werthwyr a safonau agored sy'n gadael i chi adael, a chadwch gofnod plaen o ba system allanol sy'n rhedeg pa swyddogaeth hanfodol a phwy i'w ffonio pan fydd yn torri. Lle rydych yn berchen ar god pwrpasol, sicrhewch fod o leiaf dau berson (neu gontractwr ymddiriedol ynghyd ag un cyflogai) yn ei ddeall, fel nad yw un ymadawiad neu gontract cefnogaeth wedi dod i ben yn eich gadael yn sownd.
+
+**Menter.** Eich her yw graddfa portffolio: llawer o systemau hirhoedlog, llawer o dimau, a staff sy'n cylchdroi dros ddegawdau. Safonwch berchnogaeth lefel tîm mewn catalog gwasanaeth, mesurwch ffactor bws ar draws yr ystad, a chyllidwch foderneiddio cynyddrannol parhaus yn hytrach na betio ar ailysgrifennu mawr-a-sydyn. Llywodraethwch orwelion diwedd oes yn ganolog fel nad oes unrhyw stac hanfodol yn dawel heneiddio allan o gefnogaeth, a rhedwch bob machludo fel prosiect wedi'i archwilio gydag atebolrwydd wedi'i enwi am gwblhau'r datgomisiynu.
+
+**Llywodraeth.** Mae parhad rhwymedigaeth yn absoliwt: ni allwch stopio talu budd-daliadau na rhedeg rheolaeth traffig awyr tra rydych yn ailffactora, ac mae methiannau'n gyhoeddus ac yn ganlyniadol. Mae rheolau caffael yn eich gwthio tuag at safonau agored, cludadwyedd data, a rhyngwynebau wedi'u dogfennu fel bod gan gynhalwyr y dyfodol a gwerthwyr y dyfodol siawns. Cyllidwch hyfforddiant olyniaeth bwriadol ar gyfer y technolegau hŷn nad yw'r farchnad lafur bellach yn eu cyflenwi, cadwch gofnodion o systemau wedi'u hymddeol i fodloni cadw statudol, a thriniwch ddibynadwyedd cynaliadwy gwasanaethau dinesydd fel y genhadaeth atebol yn hytrach na thraul uwchben.
+
+## Enghreifftiau
+
+**Cwmni newydd.** Mae gan gwmni newydd pum person eisoes system na all fforddio ei cholli: y gwasanaeth bilio a ysgrifennodd un sylfaenydd yn y mis cyntaf ac sydd bellach yn rhedeg pob tâl cwsmer. Dim ond y sylfaenydd hwnnw sy'n ei ddeall, felly mae'r tîm yn trin y ffactor bws fel risg go iawn yn hytrach na chanmoliaeth. Maent yn paru ail beiriannydd drwy gylch bilio llawn, yn ysgrifennu cofnod penderfyniad pensaernïaeth byr yn esbonio pam mae'r rhesymeg ailgeisio od yn bodoli, ac yn cadw llyfr rhedeg wrth ochr y cod y maent yn ei ymarfer mewn gwirionedd yn ystod digwyddiad. Maent yn gwrthsefyll ei ailysgrifennu dim ond am ei fod yn hen ac yn ddiramant, ac yn lle hynny'n ei wella mewn camau bach cildroadwy, fel bod mwy nag un pen yn deall y gwasanaeth sy'n cadw'r cwmni'n fyw.
+
+**Menter.** Mae yswiriwr mawr yn rhedeg system gweinyddu polisïau a ysgrifennwyd gyntaf ddegawdau'n ôl ac sy'n dal yn ganolog i'w fusnes. Yn hytrach na cheisio ailysgrifennu llwyr peryglus, fe'i modiwleiddiodd y tu ôl i ryngwynebau wedi'u diffinio'n dda ac mae bellach yn disodli un gydran ar y tro, pob newid yn fach ac yn gildroadwy. Mae gan bob swyddogaeth hanfodol o leiaf dri pherson a all ei chyflawni. Mae dyletswydd ar alwad yn cael ei rannu. Mae cofnodion penderfyniadau pensaernïaeth yn dal pam mae'r system yn gweithio fel y mae. Mae cwrs mewnol wedi'i guradu yn dod â pheirianwyr newydd i gymhwysedd ar y stac [etifeddol](https://en.wikipedia.org/wiki/Legacy_system), ac mae arbenigwyr sy'n gadael yn gorgyffwrdd ag olynwyr fel bod gwybodaeth ymhlyg yn trosglwyddo drwy wneud.
+
+**Llywodraeth.** Mae asiantaeth nawdd cymdeithasol genedlaethol yn gweithredu systemau talu budd-daliadau sydd wedi rhedeg am dros ddeng mlynedd ar hugain ac na allant stopio. Mae'n cofnodi perchnogaeth dîm benodol mewn catalog gwasanaeth. Mae'n cyllido cynhaliaeth barhaus yn hytrach na rhewi'r systemau. Mae'n hyfforddi olynwyr yn y technolegau hŷn yn fwriadol, oherwydd ni fydd y farchnad lafur yn eu cyflenwi. Pan fydd yn ymddeol is-system anarferedig, mae'n rhedeg y machludo fel prosiect wedi'i reoli: mapio pob defnyddiwr, darparu cefnogaeth fudo, cadw cofnodion i fodloni rheolau cadw cyfreithiol, a neilltuo atebolrwydd am gwblhau'r datgomisiynu mewn gwirionedd, fel nad oes system sombi'n aros.
+
+## Achos busnes: cymhellion, ROI, a TCO
+
+Daw'r enillion ar gynnal systemau hirhoedlog o osgoi'r ddau fodd methiant trychinebus sy'n dominyddu eu [cyfanswm cost berchnogaeth](https://en.wikipedia.org/wiki/Total_cost_of_ownership). Y cyntaf yw'r argyfwng sydyn: mae person allweddol yn gadael, mae cydran heb gefnogaeth yn cael ei thorri i mewn iddi, neu mae system amddifad yn methu heb neb sy'n ei deall. Yr ail yw'r mega-brosiect aflwyddiannus: ailysgrifennu llwyr ar frys sy'n gorredeg, yn tan-gyflawni, neu'n cwympo. Mae'r ddau'n hynod ddrud, a gellir atal y ddau i raddau helaeth gan stiwardiaeth gyson. Mae cost un methiant ailysgrifennu a osgowyd, neu un toriad estynedig a osgowyd mewn gwasanaeth dinesydd hanfodol, fel arfer yn fwy na blynyddoedd o fuddsoddiad cynhaliaeth gynaliadwy.
+
+Mae cost mabwysiadu'n barhaus ac yn ddiramant: cyllido cynhaliaeth nad yw'n cynhyrchu unrhyw nodweddion newydd, talu am draws-hyfforddiant ac amser dogfennaeth sy'n lleihau allbwn tymor byr, a buddsoddi mewn moderneiddio cynyddrannol nad yw byth yn gwneud penawdau. Mae cost *peidio â* mabwysiadu wedi'i gohirio ac yn fwy: risg gynyddol wrth i'r stac heneiddio, dinoethiad person-allweddol chwyddedig, ac yn y pen draw ddisodliad gorfodol, risg uchel, cost uchel o dan amodau argyfwng. Pan fyddwch yn gwneud yr achos i arweinyddiaeth, ail-fframiwch gynhaliaeth o "ganolfan gost" i "reolaeth risg ar gyfer systemau na all y sefydliad fforddio eu colli." Cyflwynwch gyfanswm cost berchnogaeth ar draws y bywyd amlddegawd llawn (gan gynnwys y cynhaliaeth a'r datgomisiynu terfynol) yn hytrach na dim ond yr adeiladu. A phwysleisiwch hyn: ar gyfer systemau sy'n wynebu dinasyddion a chwsmeriaid, nid traul uwchben yw dibynadwyedd cynaliadwy. Yr ymddiriedaeth yw'r cynnyrch gwirioneddol.
+
+## Gwrth-batrymau a pheryglon
+
+- **Y cynhaliwr arwrol.** Un person na ellir ei ddisodli sy'n deall y system; mae eu hymadawiad yn ddigwyddiad dirfodol.
+- **Rhewi ac anghofio.** Datgan bod system hanfodol "wedi'i gorffen," stopio cynhaliaeth, a gwylio ei stac yn heneiddio'n amhosibl ei chynnal.
+- **Yr ailysgrifennu tynghedig.** Betio'r sefydliad ar ddisodliad llwyr sy'n taflu ymaith wybodaeth wedi'i hamgodio ac sy'n fynych yn gorredeg neu'n methu.
+- **Systemau amddifad.** Meddalwedd hanfodol heb berchennog cyfredol, na sylwir arno ond pan fydd yn torri.
+- **Theatr dogfennaeth.** Cyfrolau o ddogfennau sydd wedi dyddio, heb eu hymarfer, ac na ymddiriedir ynddynt gan neb.
+- **Y rhediad cyfochrog tragwyddol.** Hen a newydd systemau'n rhedeg ochr yn ochr yn ddiddiwedd am nad oes neb yn atebol am y cau i lawr.
+- **Colli gwybodaeth ymhlyg.** Gadael i arbenigwyr adael heb orgyffwrdd, fel bod y teimlad am y system yn anweddu.
+- **Rhy frawychus i'w chyffwrdd.** System a ddeellir mor wael fel bod ofn unrhyw newid, sy'n gwarantu ei bod yn dirywio.
+
+## Model aeddfedrwydd
+
+**Lefel 1: Cychwyn.** Mae cynaliadwyedd yn ad hoc ac yn adweithiol. Mae systemau'n dibynnu ar arwyr unigol, cofir perchnogaeth yn hytrach na'i neilltuo, ac mae gwybodaeth yn byw heb ei dogfennu mewn ychydig benaethiaid. Mae hen systemau'n cael eu rhewi nes eu bod yn torri, mae stacs sy'n heneiddio'n drifftio tuag at ddiwedd oes heb i neb sylwi, a chyhoeddir ymddeoliadau ond ni chânt eu cwblhau byth.
+
+**Lefel 2: Datblygu.** Mae arferion sylfaenol yn ymddangos ond yn amrywio o dîm i dîm. Ysgrifennir perchnogaeth ar gyfer y systemau mawr mwyaf amlwg, mae rhai llyfrau rhedeg a dogfennaeth yn bodoli, ac mae gan ychydig o swyddogaethau hanfodol ail berson galluog. Cyllidir cynhaliaeth ond mae'n adweithiol, mae traws-hyfforddiant yn digwydd pan fydd rhywun yn cofio, ac nid oes ffordd a rennir o wneud unrhyw un o'r rhain ar draws y sefydliad.
+
+**Lefel 3: Safoni.** Mae arferion stiwardiaeth wedi'u dogfennu a'u gorfodi ar draws y sefydliad. Cofnodir perchnogaeth lefel tîm mewn catalog gwasanaeth ac mae'n goroesi ad-drefniadau. Mae lliniaru ffactor bws drwy gylchdroi a thraws-hyfforddiant yn rheol sefydlog, disgwylir cofnodion penderfyniadau pensaernïaeth a llyfrau rhedeg wedi'u hymarfer, mae moderneiddio'n gynyddrannol drwy bolisi, a rhedir pob machludo fel prosiect wedi'i reoli gydag atebolrwydd wedi'i enwi am gwblhau'r datgomisiynu.
+
+**Lefel 4: Rheoli.** Mesurir a rheolir cynaliadwyedd â data yn erbyn llinellau sylfaen. Rydych yn tracio ffactor bws fesul system hanfodol, cyfrif y bobl a all newid pob un yn ddiogel, oedran pob technoleg graidd yn erbyn ei dyddiad diwedd oes, y gyfran o'r ystad o dan gynhaliaeth barhaus yn erbyn gohiriedig, a nifer y rhediadau cyfochrog wedi'u stopio a'r datgomisiynu hanner-orffenedig. Mae'r metrigau hyn yn cario trothwyon sy'n sbarduno gweithred: mae system sy'n cwympo o dan y llawr ffactor bws neu'n croesi gorwel diwedd cefnogaeth yn cael adferiad wedi'i gyllido, ac adroddir iechyd stiwardiaeth i arweinyddiaeth ochr yn ochr â chyflenwi.
+
+**Lefel 5: Cydgysylltu.** Gwellir ac integreiddir stiwardiaeth yn barhaus ar draws y sefydliad. Nid oes unrhyw system hanfodol yn bwynt methiant dynol sengl, mae trosglwyddo gwybodaeth gan gynnwys gwybodaeth ymhlyg drwy orgyffwrdd yn arferiad rheolaidd, ac mae systemau'n esblygu mewn camau bach cildroadwy fel nad oes yr un ohonynt yn heneiddio allan o gefnogaeth. Mae perchnogaeth, tracio diwedd oes, olyniaeth, a chynllunio machludo wedi'u gwau i mewn i gynllunio portffolio a risg, mae'r ystad yn cael ei hail-gydbwyso wrth i dechnolegau a rhwymedigaethau symud, a chynhelir systemau amlddegawd tra'n cadw ymddiriedaeth y bobl sy'n dibynnu arnynt.
+
+## Syniadau ar gyfer trafodaeth
+
+- Sut ydych chi'n mesur ffactor bws mewn ffordd ystyrlon, a pha darged sy'n gywir ar gyfer gwahanol lefelau hanfodolrwydd?
+- Pryd mae moderneiddio cynyddrannol yn wirioneddol anymarferol, gan wneud ailysgrifennu'r risg lai?
+- Sut ydych chi'n cyllido ac yn gwobrwyo gwaith cynhaliaeth fel bod stiwardiaeth yn llwybr gyrfa parchus, nid pen marw?
+- Beth yw'r ffordd gywir o gadw gwybodaeth ymhlyg pan fydd yr arbenigwr olaf ar fin ymddeol a dim gorgyffwrdd yn bosibl?
+- Am ba mor hir ddylech chi gadw'r gallu i ateb cwestiynau am system wedi'i hymddeol, a phwy sy'n talu am hynny?
+- Ble yn eich ystad mae sefydlogrwydd yn werth a newydd-deb yn atebolrwydd, a sut ydych chi'n cadw'r farn honno'n onest dros amser?
+
+## Prif negeseuon
+
+- Mae'r feddalwedd bwysicaf yn hen ac yn hirhoedlog; mae ei chynnal ar draws degawdau a chenedlaethau o staff yn ddisgyblaeth dosbarth cyntaf.
+- Mae angen perchnogaeth gyfredol, lefel tîm ar bob system hanfodol; mae systemau hanfodol amddifad yn argyfyngau cudd.
+- Lleihewch ffactor bws yn fwriadol (ni ddylai gan unrhyw dasg hanfodol union un person galluog) a throsglwyddwch wybodaeth ymhlyg drwy orgyffwrdd, nid dim ond dogfennau.
+- Cadwch systemau hirhoedlog wedi'u cynnal yn barhaus ac yn gynyddrannol; mae eu rhewi a betio ar ailysgrifennu llwyr ill dau'n foddau methiant.
+- Cynlluniwch ddiweddglo fel prosiectau wedi'u rheoli gyda chwblhad atebol, gan gadw data a chofnodion i fodloni rhwymedigaethau.
+- Ar gyfer systemau sy'n wynebu dinasyddion a chwsmeriaid, dibynadwyedd a thegwch cynaliadwy yw'r genhadaeth, a rheolaeth risg yw cynhaliaeth ar gyfer yr hyn na allwch fforddio ei golli.
+
+## Cyfeiriadau a darllen pellach
+
+- Michael Feathers, *Working Effectively with Legacy Code*
+- Titus Winters, Tom Manshreck, and Hyrum Wright, *Software Engineering at Google*
+- Frederick P. Brooks Jr., *The Mythical Man-Month*
+- Nat Pryce and Steve Freeman, *Growing Object-Oriented Software, Guided by Tests*
+- Sam Newman, *Monolith to Microservices*
+- Martin Fowler, *Refactoring* and writings on the Strangler Fig pattern
+- Betsy Beyer et al., *Site Reliability Engineering* and *The Site Reliability Workbook* (Google)
+- Diomidis Spinellis, *Code Reading: The Open Source Perspective*
+- U.S. Government Accountability Office, reports on federal legacy IT modernization

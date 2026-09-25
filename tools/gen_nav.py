@@ -2,7 +2,11 @@
 import os, re, glob
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS=f"{ROOT}/docs"
-CH=f"{DOCS}/chapters"
+# The canonical English chapter content lives under locales/en-us/chapters/
+# (one directory per chapter, each holding index.md), not docs/chapters/,
+# since chapters are now shared per-locale content (see
+# spec/locales-for-global-sharing-with-svelte/index.md).
+CH=f"{ROOT}/locales/en-us/chapters"
 SITE_URL="https://software-engineering-guide.github.io/"
 def read(p): return open(p).read()
 def write(p,t): open(p,"w").write(t)
@@ -15,7 +19,7 @@ PART_TITLES={1:"People",2:"Software Programming",3:"Systems",4:"Security",5:"UI/
 def dec(fp):
     m=re.match(r'(\d+)-(\d+)-', os.path.basename(fp)); return (int(m.group(1)),int(m.group(2)))
 def h1title(fp):
-    for ln in read(fp).splitlines():
+    for ln in read(f"{fp}/index.md").splitlines():
         if ln.startswith("# "): return ln[2:].strip()
     return os.path.basename(fp)
 def label_for(fp):
@@ -24,7 +28,7 @@ def label_for(fp):
     m=re.match(r'(\d+\.0)\s+Introduction', t)
     return f"{m.group(1)} Introduction" if m else t
 
-files=sorted(glob.glob(f"{CH}/*.md"), key=dec)
+files=sorted((d for d in glob.glob(f"{CH}/*") if os.path.isdir(d)), key=dec)
 byp={}
 for f in files: byp.setdefault(dec(f)[0],[]).append(f)
 bynum={f"{dec(f)[0]}.{dec(f)[1]}": f for f in files}
@@ -35,7 +39,7 @@ def toc_body(pathprefix):
     for p in sorted(byp):
         out.append(f"### Part {p}: {PART_TITLES[p]}")
         for f in sorted(byp[p], key=dec):
-            rel=f"{pathprefix}{os.path.basename(f)}"
+            rel=f"{pathprefix}{os.path.basename(f)}/index.md"
             out.append(f"- [{label_for(f)}]({rel})")
         out.append("")
     return "\n".join(out)
@@ -88,7 +92,7 @@ The guide is published as a website at
 
 ## Table of contents
 
-{toc_body("docs/chapters/")}
+{toc_body("locales/en-us/chapters/")}
 {THEMES}
 
 {SKILLS_README}
@@ -115,7 +119,7 @@ home=f"""# Software Engineering Guide
 
 ## Table of contents
 
-{toc_body("chapters/")}
+{toc_body("../locales/en-us/chapters/")}
 {THEMES}
 
 ## Beyond the chapters
@@ -133,10 +137,10 @@ toc=f"""# Table of contents
 Parts are whole numbers; chapters are decimals (chapter **N.0** introduces each
 part). See also the [Introduction](introduction.md).
 
-{toc_body("../chapters/")}"""
+{toc_body("../../locales/en-us/chapters/")}"""
 write(f"{DOCS}/front-matter/table-of-contents.md", toc)
 
-# ---- docs/chapters/12-07-index.md (subject index) ----
+# ---- locales/en-us/chapters/12-07-index/index.md (subject index) ----
 idxchap=[f for f in files if dec(f)[1]>=1 and dec(f)[0]<=11]  # substantive chapters, parts 1-11
 terms=["accessibility","agile","API","architecture decision record","A/B testing","blameless","blue-green",
  "bounded context","canary","capacity planning","chaos engineering","CI/CD","circuit breaker","code review",
@@ -158,17 +162,20 @@ terms=["accessibility","agile","API","architecture decision record","A/B testing
 entries={}
 for term in terms:
     pat=re.compile(r'(?i)(?<![A-Za-z])'+re.escape(term)+r'(?![A-Za-z])')
-    hits=[f"{dec(f)[0]}.{dec(f)[1]}" for f in idxchap if pat.search(read(f))]
+    hits=[f"{dec(f)[0]}.{dec(f)[1]}" for f in idxchap if pat.search(read(f"{f}/index.md"))]
     if hits: entries[term]=hits
 out=["# 12.7 Index","","A subject index of key concepts and the chapters that cover them.",
  "Terms are defined in the Glossary (chapter 12.1).",""]
 byl={}
 for term in sorted(entries,key=lambda s:s.lower()):
     L=term[0].upper() if term[0].isalpha() else "#"; byl.setdefault(L,[]).append(term)
-def chlink(num): return f"[{num}]({os.path.basename(bynum[num])})"
+def chlink(num): return f"[{num}](../{os.path.basename(bynum[num])}/index.md)"
 for L in sorted(byl):
     out+=[f"## {L}",""]+[f"- **{t}**: {', '.join(chlink(n) for n in entries[t])}" for t in byl[L]]+[""]
-write(f"{CH}/12-07-index.md","\n".join(out))
+os.makedirs(f"{CH}/12-07-index", exist_ok=True)
+write(f"{CH}/12-07-index/index.md","\n".join(out))
+if not os.path.exists(f"{CH}/12-07-index/README.md"):
+    os.symlink("index.md", f"{CH}/12-07-index/README.md")
 
 # The specification lives at the repository root in spec/ (hand-authored source
 # of truth for the book's structure and conventions), so it is not part of the

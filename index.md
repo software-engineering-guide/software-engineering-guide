@@ -6,24 +6,25 @@ A map of everything in this repository. For the book itself, start with the
 The book is published as a website at
 <https://software-engineering-guide.github.io/>.
 
-## The book (everything under `docs/` is published)
+## The book (everything under `docs/` and `locales/` is published)
 
-- **[README.md](README.md)** : the full table of contents (12 parts, 100 chapters).
+- **[README.md](README.md)** : the full table of contents (12 parts, 147 chapters).
 - **[docs/index.md](docs/index.md)** : the home page of the published site.
 - **[docs/front-matter/what-is-software-engineering.md](docs/front-matter/what-is-software-engineering.md)** : the opening essay. Start here.
 - **[docs/front-matter/introduction.md](docs/front-matter/introduction.md)** : who the book is for and how it is organized.
 - **[docs/front-matter/table-of-contents.md](docs/front-matter/table-of-contents.md)** : the contents page.
-- **[docs/chapters/](docs/chapters/)** : the 100 chapter files, named `N.M-slug.md`.
+- **[locales/en-us/chapters/](locales/en-us/chapters/)** : the canonical English chapter content, one directory per chapter (`N.M-slug/index.md`).
+- **[locales/](locales/)** : the same chapters translated per locale (`locales/<code>/chapters/<translated-slug>/index.md`), per `spec/locales-for-global-sharing-with-svelte/index.md`.
 
 ## The appendices (Part 12)
 
-- **[Glossary](docs/chapters/12-01-glossary.md)** : definitions of key terms.
-- **[Checklists](docs/chapters/12-02-checklists.md)** : ready-to-use review and launch checklists.
-- **[Templates](docs/chapters/12-03-templates.md)** : ADRs, RFCs, postmortems, threat models, and more.
-- **[Maturity self-assessment](docs/chapters/12-04-maturity-self-assessment.md)** : the four-level model for every domain.
-- **[References](docs/chapters/12-05-references.md)** : the SWEBOK crosswalk, standards index, and bibliography.
-- **[Adoption roadmap](docs/chapters/12-06-adoption-roadmap.md)** : how to roll the practices out.
-- **[Index](docs/chapters/12-07-index.md)** : the subject index.
+- **[Glossary](locales/en-us/chapters/12-01-glossary/index.md)** : definitions of key terms.
+- **[Checklists](locales/en-us/chapters/12-02-checklists/index.md)** : ready-to-use review and launch checklists.
+- **[Templates](locales/en-us/chapters/12-03-templates/index.md)** : ADRs, RFCs, postmortems, threat models, and more.
+- **[Maturity self-assessment](locales/en-us/chapters/12-04-maturity-self-assessment/index.md)** : the four-level model for every domain.
+- **[References](locales/en-us/chapters/12-05-references/index.md)** : the SWEBOK crosswalk, standards index, and bibliography.
+- **[Adoption roadmap](locales/en-us/chapters/12-06-adoption-roadmap/index.md)** : how to roll the practices out.
+- **[Index](locales/en-us/chapters/12-07-index/index.md)** : the subject index.
 
 ## Specification (source of truth)
 
