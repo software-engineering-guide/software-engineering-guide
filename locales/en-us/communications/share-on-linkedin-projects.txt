@@ -4,12 +4,10 @@ Software Engineering Guide
 • Tags: #SoftwareEngineering #BestPractices #OpenSource #Leadership
 • Keywords: software engineering, best practices, developer teams, leadership
 
-I write and maintain the Software Engineering Guide, a free online guidebook of practical engineering practices for developer teams, covering people, architecture, security, data, delivery, and operations. It grew out of years of answering the same questions on different teams, so I wrote the answers down once and put them where anyone can read them, question them, and build on them. It stays practical rather than theoretical, favoring the trade-offs real teams actually face over tidy abstract ideals.
+Summary: Software Engineering Guide is an online guidebook of practical engineering practices for developer teams, covering people, architecture, security, data, delivery, and operations. The project contains years of experience working with many teams. The guidebook stays practical rather than theoretical, favoring the trade-offs real teams actually face over tidy abstract ideals.
 
-A reader gets clear, opinionated guidance on real engineering decisions: how to structure teams, design for security and reliability, manage incidents well, and keep documentation and context alive as people move on and projects change hands. Every term is defined where it first appears, so a newcomer to a topic can follow along without prior background or a stack of other tabs open.
+Benefits: This guide gathers settled, widely accepted practice into one place, written in plain language, so a team lead preparing a proposal or a new engineer ramping up has a single reference worth trusting and pointing others to.
 
-Most engineering advice lives scattered across blog posts, conference talks, and internal wikis that never quite match your organization or your scale. This guide gathers settled, widely accepted practice into one place, written in plain language, so a team lead preparing a proposal or a new engineer ramping up has a single reference worth trusting and pointing others to.
+Please share: Please send this along to teams considering improvements, to a new engineers building their mental model of the field, and to colleagues who say someone should really write this down. A message to the right person, or a link dropped in a team channel, both help it reach the people who would actually use it.
 
-Please pass this along to a team lead weighing a process change, a new engineer building their mental model of the field, or a colleague who keeps saying someone should really write this down. A message to the right person, or a link dropped in a team channel, both help it reach the people who would actually use it.
-
-I would welcome a critical read from anyone with deep experience in an area this guide covers. Tell me what is wrong, what is missing, or what reads as too idealistic for how your team actually works. Message me directly with corrections, disagreements, or a chapter you think should exist and does not yet.
+Advice welcome: Help me improve this by sending your suggestions, feedback, ideas for improvements, and new concepts. Your help with this in turn helps many more people using this project.
