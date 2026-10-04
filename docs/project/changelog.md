@@ -13,6 +13,23 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   the content and specification source of truth; rendering moved to the
   separate `software-engineering-guide.github.io` repository.
 
+### Changed
+
+- Contents spec: new `spec/contents-for-global-sharing-with-svelte/index.md` declares
+  the "Contents" label and `/contents/` route, and a nested list of parts and chapters
+  (no tiles, tables, columns, flexbox, or grid).
+
+- Locale routes: a two-letter language code is an alias of its world locale (`/en/`
+  renders `/en-001/`), with a canonical link to the `-001` URL.
+
+- Search spec: `/?<target>` stays on `/`; `/` redirects to the default locale on the
+  client only when there is no query, with a `<noscript>` meta refresh fallback.
+
+- Locale routes in the spec drop the `/locales/` path segment: a locale is served at
+  `/<code>/` (for example `/en-us/`), per `spec/locales-for-global-sharing-with-svelte/index.md`. `/about/` and
+  `/contents/` are localized too (`/<code>/about/`, `/<code>/contents/`); the
+  bare paths are removed.
+
 ### Added
 
 - Translated chapter directory slugs for the `cy-001` (Welsh), `hi-001`

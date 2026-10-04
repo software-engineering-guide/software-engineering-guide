@@ -15,6 +15,57 @@ Locale code priority order:
 - sp
 - ar
 
+## Routes
+
+A locale's pages live directly under its code. There is no `/locale/` or
+`/locales/` path segment in any URL.
+
+| URL | Meaning |
+|---|---|
+| `/` | no query: redirects to the default locale, e.g. `/en-us/`. With a query (`/?foo`): site search, no redirect. See [`spec/search`](../search/index.md) |
+| `/en-us/` | home page in English (United States) |
+| `/en-us/contents/` | contents page in English (United States) |
+| `/en-us/chapters/<chapter-slug>/` | a chapter in English (United States) |
+| `/en-us/about/` | about page in English (United States) |
+
+Example: `https://software-engineering-guide.github.io/en-us/` serves English
+(United States).
+
+- SvelteKit route directory is `src/routes/[locale]/`, not
+  `src/routes/locales/[locale]/`.
+- `[locale]` uses a param matcher (`src/params/locale.js`) that accepts only
+  codes listed in `locales.tsv`, so it never captures `about`, `contents`,
+  `contributing`, `project`, `examples`, or `front-matter`.
+- Reserved root route names must never be used as locale codes.
+- The default locale is `en-us`: `/` redirects there and search indexes it.
+- Sections with no translations yet (`/front-matter/`, `/examples/`,
+  `/contributing/`, `/project/`) stay English-only at the root, with no locale
+  prefix. Their nav labels and breadcrumbs still use the default locale's
+  `/<code>/` routes. When a section is translated it moves under `/<code>/`.
+- Language aliases: a bare two-letter language code is an alias of that
+  language's world locale, `<lang>-001`. `/en/` renders the content of
+  `/en-001/`, `/es/` renders `/es-001/`, and so on, for every language that has
+  a `-001` locale (`ar`, `cy`, `en`, `es`, `fr`, `hi`, `zh`). The alias renders
+  in place (no redirect), and each aliased page sets
+  `<link rel="canonical" href="/<lang>-001/...">` so search engines index one
+  URL. Aliases apply to every sub-route (`/en/contents/`, `/en/about/`,
+  `/en/<chapter-slug>/`). A language with no `-001` locale has no alias.
+  The param matcher accepts both full codes and these aliases, and the alias
+  codes are reserved like the other locale codes.
+- Home, `contents`, and `chapters` are localized: each exists once per locale
+  under `/<code>/`, with its text and UI chrome from
+  `ui(locale)` and `locales/<code>/`. The only locale-agnostic page is `/`, a small page that
+  hosts search and the redirect below. There are no bare `/about/` or
+  `/contents/` routes; they return 404.
+- `/` must not redirect on the server: a server-side redirect drops the query
+  string and breaks search at `/?<target>`. Instead `/` is a prerendered page
+  whose client script redirects (`location.replace`) to the default locale only
+  when `location.search` is empty. With JavaScript off, a `<noscript>`
+  `<meta http-equiv="refresh">` in the head redirects to the default locale
+  (no query is available without JavaScript to search anyway).
+- Old `/locales/<code>/...` URLs redirect to `/<code>/...`.
+- The book-side content directory stays `locales/<code>/`; only the URL changes.
+
 ## .locale-peer.id file
 
 `.locale-peer-id` file is a byte-identical 32-character hexadecimal lowercase
@@ -123,7 +174,7 @@ and `+layout.svelte`.
 Bug: wordmark came only from the root (locale-agnostic) `+layout.server.js`,
 which deliberately never picks a locale.
 
-Fix: have `locales/[locale]/+layout.server.js` supply this locale's own title,
+Fix: have `[locale]/+layout.server.js` supply this locale's own title,
 which overrides the root layout's canonical one via SvelteKit's merged
-`page.data` on any route under `/locales/<locale>/`. The root picker and
-`/about/` (no locale in the URL) correctly keep the canonical English title.
+`page.data` on any route under `/<locale>/`. The root
+page `/` (no locale in the URL) correctly keeps the canonical English title.
