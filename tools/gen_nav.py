@@ -2,11 +2,11 @@
 import os, re, glob
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS=f"{ROOT}/docs"
-# The canonical English chapter content lives under locales/en-us/chapters/
+# The canonical English chapter content lives under locales/en-us/topics/
 # (one directory per chapter, each holding index.md), not docs/chapters/,
 # since chapters are now shared per-locale content (see
 # spec/locales-for-global-sharing-with-svelte/index.md).
-CH=f"{ROOT}/locales/en-us/chapters"
+CH=f"{ROOT}/locales/en-us/topics"
 SITE_URL="https://software-engineering-guide.github.io/"
 def read(p): return open(p).read()
 def write(p,t): open(p,"w").write(t)
@@ -92,7 +92,7 @@ The guide is published as a website at
 
 ## Table of contents
 
-{toc_body("locales/en-us/chapters/")}
+{toc_body("locales/en-us/topics/")}
 {THEMES}
 
 {SKILLS_README}
@@ -119,7 +119,7 @@ home=f"""# Software Engineering Guide
 
 ## Table of contents
 
-{toc_body("../locales/en-us/chapters/")}
+{toc_body("../locales/en-us/topics/")}
 {THEMES}
 
 ## Beyond the chapters
@@ -137,10 +137,10 @@ toc=f"""# Table of contents
 Parts are whole numbers; chapters are decimals (chapter **N.0** introduces each
 part). See also the [Introduction](introduction.md).
 
-{toc_body("../../locales/en-us/chapters/")}"""
+{toc_body("../../locales/en-us/topics/")}"""
 write(f"{DOCS}/front-matter/table-of-contents.md", toc)
 
-# ---- locales/en-us/chapters/12-07-index/index.md (subject index) ----
+# ---- locales/en-us/topics/12-07-index/index.md (subject index) ----
 idxchap=[f for f in files if dec(f)[1]>=1 and dec(f)[0]<=11]  # substantive chapters, parts 1-11
 terms=["accessibility","agile","API","architecture decision record","A/B testing","blameless","blue-green",
  "bounded context","canary","capacity planning","chaos engineering","CI/CD","circuit breaker","code review",

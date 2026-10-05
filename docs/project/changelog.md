@@ -15,6 +15,11 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- Locale directories: `locales/<code>/chapters/` is now `locales/<code>/<topics_slug>/`, with
+  the segment translated per locale (`topics`, `temas`, `themen`, `sujets`, `pynciau`, and so on)
+  from a new `topics_slug` column in `locales.tsv`. Site URLs use it too: `/<code>/<topics_slug>/<slug>/`. Remaining English chapter slugs and loanwords (agile, mlops,
+  index, and others) are translated in `cy-001`, `de-de`, `es-001`, and `fr-001`.
+
 - Contents spec: new `spec/contents-for-global-sharing-with-svelte/index.md` declares
   the "Contents" label and `/contents/` route, and a nested list of parts and chapters
   (no tiles, tables, columns, flexbox, or grid).

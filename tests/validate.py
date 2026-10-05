@@ -10,11 +10,11 @@ The checks below are the executable form of the conventions in spec/conventions.
 import os, re, sys, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# The canonical English chapter content lives under locales/en-us/chapters/
+# The canonical English chapter content lives under locales/en-us/topics/
 # (one directory per chapter, each holding index.md), not docs/chapters/,
 # since chapters are now shared per-locale content (see
 # spec/locales-for-global-sharing-with-svelte/index.md).
-CH = os.path.join(ROOT, "locales", "en-us", "chapters")
+CH = os.path.join(ROOT, "locales", "en-us", "topics")
 LOCALES_DIR = os.path.join(ROOT, "locales")
 
 PART_TITLES = {
@@ -69,7 +69,7 @@ def dec(d):
 def chindex(d): return os.path.join(d, "index.md")
 def chname(d): return os.path.basename(d.rstrip("/"))
 
-# Chapters are directories under locales/en-us/chapters/, each holding an
+# Chapters are directories under locales/en-us/topics/, each holding an
 # index.md (the canonical English content) plus .locale-peer-id and a
 # README.md symlink to index.md.
 chapters = sorted((d for d in glob.glob(os.path.join(CH, "*")) if os.path.isdir(d)), key=dec)
@@ -231,7 +231,7 @@ else:
 # 10. README, the site home page, and the contents page link every chapter file.
 for navrel in ["README.md", "docs/index.md", "docs/front-matter/table-of-contents.md"]:
     nav = read(os.path.join(ROOT, navrel))
-    linked = set(f"{int(a)}.{int(b)}" for a, b in re.findall(r"chapters/(\d+)-(\d+)-", nav))
+    linked = set(f"{int(a)}.{int(b)}" for a, b in re.findall(r"topics/(\d+)-(\d+)-", nav))
     check(f"{navrel} links every chapter", not (disk - linked), f"missing {sorted(disk - linked)[:8]}")
 
 # 11. Every locale directory under locales/ is structurally sound: each
@@ -240,6 +240,12 @@ for navrel in ["README.md", "docs/index.md", "docs/front-matter/table-of-content
 # number as en-us, its peer-id matches en-us's (the peer-id is how the
 # site resolves "this page, in locale X" regardless of slug; see
 # spec/locales-for-global-sharing-with-svelte/index.md).
+LOCALES_TSV = os.path.join(ROOT, "spec", "locales-for-global-sharing-with-svelte", "locales.tsv")
+TOPICS_SLUG = {}
+for _row in read(LOCALES_TSV).splitlines()[1:]:
+    _c = _row.split("\t")
+    if len(_c) >= 4:
+        TOPICS_SLUG[_c[0]] = _c[3]
 PEER_ID_RE = re.compile(r"^[0-9a-f]{32}\n?$")
 en_us_peer_by_num = {}
 for f in chapters:
@@ -251,14 +257,20 @@ for f in chapters:
 locale_struct_errors = []
 peer_id_mismatches = []
 for locale in sorted(os.listdir(LOCALES_DIR)):
-    lch = os.path.join(LOCALES_DIR, locale, "chapters")
+    if not os.path.isdir(os.path.join(LOCALES_DIR, locale)):
+        continue
+    if locale not in TOPICS_SLUG:
+        locale_struct_errors.append(f"locales/{locale}: no topics_slug in locales.tsv")
+        continue
+    lch = os.path.join(LOCALES_DIR, locale, TOPICS_SLUG[locale])
     if not os.path.isdir(lch):
+        locale_struct_errors.append(f"locales/{locale}: missing {TOPICS_SLUG[locale]}/ directory")
         continue
     for d in sorted(os.listdir(lch)):
         topic = os.path.join(lch, d)
         if not os.path.isdir(topic):
             continue
-        rel = f"locales/{locale}/chapters/{d}"
+        rel = f"locales/{locale}/{TOPICS_SLUG[locale]}/{d}"
         idx = os.path.join(topic, "index.md")
         pid = os.path.join(topic, ".locale-peer-id")
         readme = os.path.join(topic, "README.md")

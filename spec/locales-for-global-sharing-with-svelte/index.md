@@ -25,7 +25,8 @@ A locale's pages live directly under its code. There is no `/locale/` or
 | `/` | no query: redirects to the default locale, e.g. `/en-us/`. With a query (`/?foo`): site search, no redirect. See [`spec/search`](../search/index.md) |
 | `/en-us/` | home page in English (United States) |
 | `/en-us/contents/` | contents page in English (United States) |
-| `/en-us/chapters/<chapter-slug>/` | a chapter in English (United States) |
+| `/en-us/topics/<topic-slug>/` | a topic (chapter) in English (United States) |
+| `/de-de/themen/<topic-slug>/` | the same, in German: the `topics` segment is translated per locale |
 | `/en-us/about/` | about page in English (United States) |
 
 Example: `https://software-engineering-guide.github.io/en-us/` serves English
@@ -49,10 +50,10 @@ Example: `https://software-engineering-guide.github.io/en-us/` serves English
   in place (no redirect), and each aliased page sets
   `<link rel="canonical" href="/<lang>-001/...">` so search engines index one
   URL. Aliases apply to every sub-route (`/en/contents/`, `/en/about/`,
-  `/en/<chapter-slug>/`). A language with no `-001` locale has no alias.
+  `/en/topics/<topic-slug>/`). A language with no `-001` locale has no alias.
   The param matcher accepts both full codes and these aliases, and the alias
   codes are reserved like the other locale codes.
-- Home, `contents`, and `chapters` are localized: each exists once per locale
+- Home, `contents`, and the topics section are localized: each exists once per locale
   under `/<code>/`, with its text and UI chrome from
   `ui(locale)` and `locales/<code>/`. The only locale-agnostic page is `/`, a small page that
   hosts search and the redirect below. There are no bare `/about/` or
@@ -63,7 +64,15 @@ Example: `https://software-engineering-guide.github.io/en-us/` serves English
   when `location.search` is empty. With JavaScript off, a `<noscript>`
   `<meta http-equiv="refresh">` in the head redirects to the default locale
   (no query is available without JavaScript to search anyway).
-- Old `/locales/<code>/...` URLs redirect to `/<code>/...`.
+- Old `/locales/<code>/...` URLs redirect to `/<code>/...`. Old
+  `/<code>/chapters/<slug>/` URLs redirect to `/<code>/<topics_slug>/<slug>/`.
+- The topics path segment is translated per locale, in both the URL and the
+  book-side directory. Its value is the `topics_slug` column of `locales.tsv`
+  (`topics`, `temas`, `themen`, `sujets`, `pynciau`, `المواضيع`, `विषय`,
+  `主题`). The same name is used for `locales/<code>/<topics_slug>/` and for
+  `/<code>/<topics_slug>/<topic-slug>/`. The param matcher also reads it, and
+  topics slugs are reserved like locale codes. Tools and tests read the column;
+  they never hardcode `topics`.
 - The book-side content directory stays `locales/<code>/`; only the URL changes.
 
 ## .locale-peer.id file
@@ -104,7 +113,8 @@ Then:
 
 Each locale is `locales/<code>/` in the book repo, containing:
 
-- `locales/<code>/topics/<slug>/index.md` + `.locale-peer-id`: one per topic.
+- `locales/<code>/<topics_slug>/<slug>/index.md` + `.locale-peer-id`: one per topic
+  (`<topics_slug>` is the locale's translated `topics`, from `locales.tsv`).
   `README.md` is a symlink to `index.md`.
 - `locales/<code>/index.md` + `.locale-peer-id` + `README.md` symlink: the
   locale's own translated README (site home/contents page source). Every
@@ -113,7 +123,7 @@ Each locale is `locales/<code>/` in the book repo, containing:
 
 ## Slugs
 
-Slugs are per-locale, not shared.** Translated locales rename topic directories
+Slugs are per-locale, not shared. Translated locales rename topic directories
 to native-script/accented slugs.
 
 Example: `es-001` `año-de-vida-ajustado-por-calidad`, `ur-001` `صحت-ایڈجسٹڈ-متوقع-زندگی`.

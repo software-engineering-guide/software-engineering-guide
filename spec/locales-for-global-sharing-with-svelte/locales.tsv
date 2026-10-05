@@ -1,10 +1,13 @@
-slug_lowercase  endodymn	exonym_en_001
-cy-001	Cymraeg	Cymraeg
-en-001	English	English
-en-gb	English - Great Britain	English - Great Britain
-en-gb-oxendict	English - Great Britain - Oxford	English - Great Britain - Oxford
-en-us	English - United States	English - United States
-es-001	Español	Spanish
-hi-001	हिन्दी	Hindi
-zh-001	?	Chinese
-zh-cn	?	Chinese - China
+slug_lowercase  endodymn	exonym_en_001	topics_slug
+cy-001	Cymraeg	Cymraeg	pynciau
+en-001	English	English	topics
+en-gb	English - Great Britain	English - Great Britain	topics
+en-gb-oxendict	English - Great Britain - Oxford	English - Great Britain - Oxford	topics
+en-us	English - United States	English - United States	topics
+es-001	Español	Spanish	temas
+hi-001	हिन्दी	Hindi	विषय
+zh-001	?	Chinese	主题
+zh-cn	?	Chinese - China	主题
+ar-001	العربية	Arabic	المواضيع
+de-de	Deutsch	German - Germany	themen
+fr-001	Français	French	sujets
