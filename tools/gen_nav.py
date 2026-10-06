@@ -3,7 +3,7 @@ import os, re, glob
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS=f"{ROOT}/docs"
 # The canonical English chapter content lives under locales/en-us/topics/
-# (one directory per chapter, each holding index.md), not docs/chapters/,
+# (one directory per chapter, each holding index.md), not docs/chapters/ (removed),
 # since chapters are now shared per-locale content (see
 # spec/locales-for-global-sharing-with-svelte/index.md).
 CH=f"{ROOT}/locales/en-us/topics"

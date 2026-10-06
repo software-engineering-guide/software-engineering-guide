@@ -1,8 +1,8 @@
 # Table of contents: parts, chapters, slugs
 
 Generated reference for locating guide content. Each chapter file lives at
-`docs/chapters/<slug>.md` in the `software-engineering-guide` repo, and is
-published at `https://software-engineering-guide.github.io/chapters/<slug>`.
+`locales/en-us/topics/<slug>/index.md` in the `software-engineering-guide` repo, and is
+published at `https://software-engineering-guide.github.io/en-us/topics/<slug>/`.
 
 ## Part 1: People
 - 1.0 Introduction: `01-00-people`

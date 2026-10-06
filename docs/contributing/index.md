@@ -51,7 +51,7 @@ just stats   # chapter and word counts
 ## What to avoid
 
 - Do not edit the generated files by hand (`README.md`, `docs/index.md`,
-  `docs/front-matter/table-of-contents.md`, and `docs/chapters/12-07-index.md`).
+  `docs/front-matter/table-of-contents.md`, and `locales/en-us/topics/12-07-index/index.md`).
   Change the chapters and run `just nav` instead.
 - Do not add a chapter without also updating `spec/structure.md`.
 - Do not introduce em-dashes or the forbidden phrases; the tests will fail.

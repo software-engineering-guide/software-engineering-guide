@@ -15,6 +15,11 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- `AGENTS.md` is now a short index; details moved to `AGENTS/layout.md`, `style.md`,
+  `locales.md`, and `workflow.md` (each well under 40 KB).
+- Docs audit: replaced stale `docs/chapters/` paths and the "100 chapters" count (now 147) in
+  `AGENTS.md`, the contributing guides, `spec/`, and the skills with
+  `locales/en-us/topics/<slug>/index.md`; documented the `locales/` tree and `topics_slug`.
 - Locale directories: `locales/<code>/chapters/` is now `locales/<code>/<topics_slug>/`, with
   the segment translated per locale (`topics`, `temas`, `themen`, `sujets`, `pynciau`, and so on)
   from a new `topics_slug` column in `locales.tsv`. Site URLs use it too: `/<code>/<topics_slug>/<slug>/`. Remaining English chapter slugs and loanwords (agile, mlops,

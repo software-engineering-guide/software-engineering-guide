@@ -12,8 +12,10 @@
 1. Pick the part and the next free decimal number in that part. Numbering is
    contiguous, so a new chapter usually takes the next number after the last one
    in its part.
-2. Create `docs/chapters/PP-CC-slug.md` (zero-padded, dash-separated prefix, for example `08-01-...`) from the
-   [chapter template](chapter-template.md).
+2. Create `locales/en-us/topics/PP-CC-slug/index.md` (zero-padded, dash-separated
+   prefix, for example `08-01-...`) from the
+   [chapter template](chapter-template.md). Add a `README.md` symlink to
+   `index.md` and a `.locale-peer-id` (32 lowercase hex characters).
 3. Write to the template. Every content chapter needs all of its sections:
    overview, key principles, recommendations, trade-offs (with a table),
    examples (one enterprise and one government), business case, anti-patterns, a

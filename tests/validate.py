@@ -11,7 +11,7 @@ import os, re, sys, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The canonical English chapter content lives under locales/en-us/topics/
-# (one directory per chapter, each holding index.md), not docs/chapters/,
+# (one directory per chapter, each holding index.md), not docs/chapters/ (removed),
 # since chapters are now shared per-locale content (see
 # spec/locales-for-global-sharing-with-svelte/index.md).
 CH = os.path.join(ROOT, "locales", "en-us", "topics")
@@ -51,7 +51,7 @@ XREF_CHAIN = re.compile(rf"(?i)\bchapters?[,:]?\s+(?:{_REF}{_DESC}{_CONN}?)+")
 # tokens the rules forbid (the em-dash character and the banned phrases). Every
 # other file, including all chapters and examples, must stay clean.
 STYLE_EXEMPT = {
-    "AGENTS.md", "docs/contributing/testing.md", "docs/contributing/style-rules.md",
+    "AGENTS.md", "AGENTS/style.md", "docs/contributing/testing.md", "docs/contributing/style-rules.md",
     "spec/conventions.md", "spec/index.md", "spec/README.md", "docs/contributing/index.md",
     "skills/software-engineering-guide-maintainer-skill/SKILL.md",
 }

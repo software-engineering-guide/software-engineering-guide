@@ -5,7 +5,7 @@ Four navigation artefacts are generated from the chapters, not written by hand:
 - `README.md` (the table of contents on the repository home page)
 - `docs/index.md` (the home page of the published site)
 - `docs/front-matter/table-of-contents.md`
-- `docs/chapters/12-07-index.md` (the subject index, with links)
+- `locales/en-us/topics/12-07-index/index.md` (the subject index, with links)
 
 They are produced by
 [`tools/gen_nav.py`](https://github.com/software-engineering-guide/software-engineering-guide/blob/main/tools/gen_nav.py).
@@ -21,14 +21,14 @@ Run `just nav` (or `python3 tools/gen_nav.py`) whenever you:
 
 ## How it works
 
-`gen_nav.py` reads every `docs/chapters/*.md` file, sorts by decimal number,
+`gen_nav.py` reads every `locales/en-us/topics/*/index.md` file, sorts by decimal number,
 groups by part, and:
 
 - builds the part-by-part table of contents from each chapter's H1 title,
 - writes it into `README.md`, `docs/index.md`, and
   `docs/front-matter/table-of-contents.md`,
 - scans the substantive chapters (Parts 1 through 11) for a fixed list of key
-  terms and writes the subject index to `docs/chapters/12-07-index.md`.
+  terms and writes the subject index to `locales/en-us/topics/12-07-index/index.md`.
 
 Part titles live in the `PART_TITLES` dictionary near the top of the script. The
 generator uses colon-style part headers ("Part 1: People"), never em-dashes.

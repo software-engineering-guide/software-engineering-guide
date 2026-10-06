@@ -7,7 +7,7 @@ description: Use when the user wants software engineering best-practice guidance
 
 A reference skill for consulting the **Software Engineering Guide**, an open
 guidebook of good practices for software developer teams (startups,
-enterprises, and government), spanning 12 parts and about 100 chapters: ways
+enterprises, and government), spanning 12 parts and 147 chapters: ways
 of working, programming craft, architecture, security, UI/UX, AI, data and
 analytics, automation, operations, management, and flow.
 
@@ -28,9 +28,9 @@ Try these in order and use whichever succeeds first:
 1. **Local checkout.** If a `software-engineering-guide` repo is already
    present in the workspace (check the current project, its siblings, and
    any path the user gives you), read the chapter straight from
-   `docs/chapters/<slug>.md`. This is the fastest and most reliable path.
+   `locales/en-us/topics/<slug>/index.md`. This is the fastest and most reliable path.
 2. **Live site.** Otherwise, fetch
-   `https://software-engineering-guide.github.io/chapters/<slug>` (WebFetch).
+   `https://software-engineering-guide.github.io/en-us/topics/<slug>/` (WebFetch).
 3. **Clone.** If neither is available and the user wants sustained or
    offline use of the guide, offer to clone the repo rather than fetching
    pages one at a time.

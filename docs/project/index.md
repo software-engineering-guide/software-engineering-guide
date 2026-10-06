@@ -6,7 +6,7 @@ check it, and where the source of truth lives. For the book itself, see the
 
 ## Map of the project
 
-- **The book:** `docs/chapters/` (100 files), `docs/front-matter/`, and the
+- **The book:** `locales/en-us/topics/` (147 topics), `docs/front-matter/`, and the
   appendices in Part 12.
 - **Source of truth:** `spec/` at the repository root (not published to the
   site). The structure is declared in `spec/structure.md` and the writing rules
@@ -55,7 +55,7 @@ generated navigation, and the tests all agree.
 
 ## Design decisions worth knowing
 
-- **Flat, decimal-numbered chapters.** Files are `docs/chapters/N.M-slug.md`.
+- **Flat, decimal-numbered chapters.** Topic directories are `locales/en-us/topics/PP-CC-slug/`.
   The part is a whole number; the chapter is a decimal; N.0 is the part
   introduction. This keeps stable identifiers and lets tools sort and group
   without a directory tree.

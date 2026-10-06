@@ -6,7 +6,7 @@ this first. It is short on purpose; the details live in the linked files.
 ## What this repo is
 
 An open guidebook of software engineering best practices for large developer
-teams, including enterprise and government. It is 100 chapters across 12 parts,
+teams, including enterprise and government. It is 147 chapters across 12 parts,
 plus front matter and appendices. The writing is deliberately warm, plain, and
 opinionated, and it follows a strict house style. This repository holds the
 book's content and specification; it is rendered into a website by the
@@ -35,26 +35,12 @@ The full, enforceable version of rules 1 through 5 is
 [`docs/contributing/style-rules.md`](docs/contributing/style-rules.md) and
 [`spec/conventions.md`](spec/conventions.md).
 
-## Repository layout
+## Topic guides
 
-- `docs/` : everything the published site contains, rendered elsewhere.
-  - `docs/chapters/` : the chapter files, named `PP-CC-slug.md` with a zero-padded, dash-separated, sortable prefix (the chapter number in the text stays dotted, e.g. `8.1`).
-  - `docs/front-matter/` : the opening essay, introduction, and table of contents.
-  - `docs/examples/` : small illustrative examples (a chapter skeleton, OKRs, an ADR).
-  - `docs/contributing/` : contributor and agent guides, plus shared snippets.
-  - `docs/project/` : project documentation and the changelog.
-- `spec/` : the specification-driven source of truth (structure, conventions,
-  roadmap). It is hand-authored and not published to the site; the book is
-  what it governs.
-- `tools/` : `gen_nav.py`, which generates the README TOC, the site home page,
-  the contents page, and the subject index; and `stats.py`, the Markdown
-  stats report behind `just stats`.
-- `tests/` : `validate.py`, the enforcement suite.
-- `styles/`, `.vale.ini` : the Vale prose linter rules (`just lint`).
-- `.github/workflows/` : `test.yml` (PR checks), `links.yml` (weekly external
-  link check).
-- `justfile`, `pyproject.toml` : the task runner and the Python dev-tooling
-  dependencies (codespell, pre-commit; see `just spell`).
+- [`AGENTS/layout.md`](AGENTS/layout.md) : where everything lives, including the `locales/` tree
+- [`AGENTS/style.md`](AGENTS/style.md) : the house style in one page
+- [`AGENTS/locales.md`](AGENTS/locales.md) : translation, slugs, peer ids, URLs
+- [`AGENTS/workflow.md`](AGENTS/workflow.md) : the usual workflow, git, dependencies
 
 ## Task guides
 
@@ -70,13 +56,8 @@ The full, enforceable version of rules 1 through 5 is
 
 ## The usual workflow
 
-1. Read the relevant task guide above.
-2. Make the smallest change that satisfies the request.
-3. If you changed the set of chapters, update `spec/structure.md` and run
-   `just nav`.
-4. Run `just test`. Fix anything it reports. `just spell` and `just lint`
-   catch spelling and style issues the suite does not; CI runs both.
-5. Update `docs/project/changelog.md` with a one-line summary of what changed.
+Read the task guide, make the smallest change, run `just test`, update
+`docs/project/changelog.md`. Details: [`AGENTS/workflow.md`](AGENTS/workflow.md).
 
-Every file in `docs/contributing/` is kept small (well under 40 KB) so it loads
+Every file in `docs/contributing/` and `AGENTS/` is kept small (well under 40 KB) so it loads
 cheaply into an agent's context.

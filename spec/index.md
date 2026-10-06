@@ -14,7 +14,7 @@ The book is written and lives as Markdown chapters. It is authored, read,
 reviewed, and versioned as prose. The published website is a rendering of that
 prose, not the thing itself.
 
-- The **source of truth** is the Markdown in `docs/chapters/`, the front matter,
+- The **source of truth** is the Markdown in `locales/en-us/topics/`, the front matter,
   the appendices, and this specification.
 - The **website is a side effect.** It is rendered from the same Markdown by
   the separate `software-engineering-guide.github.io` repository. How that
@@ -78,10 +78,10 @@ The book is organized as numbered parts, each made of numbered chapters.
   for example `8.1`.
 - Chapter **N.0** is the part introduction. Chapters **N.1, N.2, ...** are the
   content chapters. Numbering within a part is contiguous and starts at N.0.
-- Chapter files live in `docs/chapters/` and are named `PP-CC-slug.md` with a
+- Chapter files live in `locales/en-us/topics/` and are named `PP-CC-slug/index.md` with a
   zero-padded, dash-separated, sortable numeric prefix (two-digit part, two-digit
-  chapter; the N.0 introduction is `PP-00`), for example `01-00-people.md` and
-  `08-01-ci-cd-and-delivery.md`, so a plain lexical sort lists them in reading
+  chapter; the N.0 introduction is `PP-00`), for example `01-00-people/index.md` and
+  `08-01-ci-cd-and-delivery/index.md`, so a plain lexical sort lists them in reading
   order. The slug is lowercase with dashes.
 - The first heading of every chapter file is `# N.M Title` using the unpadded,
   dotted chapter number, and that number must match the file's `PP-CC` prefix.
