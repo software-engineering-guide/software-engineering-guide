@@ -4,7 +4,7 @@
    [navigation](../docs/contributing/navigation.md),
    [testing](../docs/contributing/testing.md).
 2. Make the smallest change that satisfies the request.
-3. If the set of chapters changed, update `spec/structure.md` and run `just nav`.
+3. If the set of chapters changed, update `spec/structure.md` and run `just nav`, `just llms`, and `just sitemap`.
 4. Run `just test`. Then `just spell` and `just lint`, which catch what the suite
    does not; CI runs both.
 5. Add a one-line entry to `docs/project/changelog.md`.

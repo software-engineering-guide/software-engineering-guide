@@ -297,6 +297,27 @@ check("every locale topic has a well-formed .locale-peer-id and README.md symlin
 check("locale peer-ids match en-us for the same chapter number",
       not peer_id_mismatches, f"{peer_id_mismatches[:8]}")
 
+# 12. llms.txt and llms.json (the AI agent index) are current: regenerating them
+# into a scratch directory must reproduce the committed files byte for byte.
+import subprocess, tempfile
+with tempfile.TemporaryDirectory() as _tmp:
+    _run = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "gen_llms.py")],
+                          env={**os.environ, "LLMS_OUT": _tmp}, capture_output=True, text=True)
+    _stale = [n for n in ("llms.txt", "llms.json")
+              if _run.returncode != 0 or not os.path.exists(os.path.join(ROOT, n))
+              or read(os.path.join(ROOT, n)) != read(os.path.join(_tmp, n))]
+    check("llms.txt and llms.json are up to date (run `just llms`)", not _stale,
+          f"{_stale} {_run.stderr[-200:]}")
+
+# 13. sitemap.xml is current: regenerating it into a scratch directory must
+# reproduce the committed file byte for byte.
+with tempfile.TemporaryDirectory() as _tmp:
+    _run = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "gen_sitemap.py")],
+                          env={**os.environ, "SITEMAP_OUT": _tmp}, capture_output=True, text=True)
+    _ok = (_run.returncode == 0 and os.path.exists(os.path.join(ROOT, "sitemap.xml"))
+           and read(os.path.join(ROOT, "sitemap.xml")) == read(os.path.join(_tmp, "sitemap.xml")))
+    check("sitemap.xml is up to date (run `just sitemap`)", _ok, _run.stderr[-200:])
+
 print()
 if failures:
     print(f"RESULT: {len(failures)} check(s) FAILED")

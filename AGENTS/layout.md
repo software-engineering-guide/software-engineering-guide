@@ -23,6 +23,10 @@ Where things live. Paths are relative to the repository root.
   `software-engineering-guide-maintainer-skill`).
 - `tools/` : `gen_nav.py` (README TOC, site home, contents page, subject index)
   and `stats.py` (`just stats`).
+- `tools/gen_llms.py` : writes `llms.txt` and `llms.json` at the repository root,
+  the AI agent index (`just llms`). Never hand-edit them.
+- `tools/gen_sitemap.py` : writes `sitemap.xml` at the repository root, with
+  hreflang alternates matched by `.locale-peer-id` (`just sitemap`). Never hand-edit it.
 - `tests/validate.py` : the enforcement suite (`just test`).
 - `styles/`, `.vale.ini` : Vale prose rules (`just lint`).
 - `.github/workflows/` : `test.yml` (PR checks), `links.yml` (weekly link check).
