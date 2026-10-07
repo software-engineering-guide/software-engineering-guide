@@ -200,6 +200,7 @@ The guide is published in several locales. The English locale below is the defau
 - [English - United States (en-us)](https://software-engineering-guide.github.io/en-us/)
 - [Español (es-001)](https://software-engineering-guide.github.io/es-001/)
 - [हिन्दी (hi-001)](https://software-engineering-guide.github.io/hi-001/)
+- [Chinese (zh-001)](https://software-engineering-guide.github.io/zh-001/)
 - [Chinese - China (zh-cn)](https://software-engineering-guide.github.io/zh-cn/)
 - [العربية (ar-001)](https://software-engineering-guide.github.io/ar-001/)
 - [Deutsch (de-de)](https://software-engineering-guide.github.io/de-de/)

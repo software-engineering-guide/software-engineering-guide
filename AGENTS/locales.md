@@ -19,3 +19,5 @@ Full rules: [`spec/locales-for-global-sharing-with-svelte/index.md`](../spec/loc
   `index.md`, the `README.md` symlink, and `.locale-peer-id`, then run `just test`.
 - Renaming a slug or the topics segment: rename with `git mv`, then fix every
   relative link that pointed at the old name.
+- `zh-001` mirrors `zh-cn` byte for byte. After editing `zh-cn`, run
+  `rsync -a --delete locales/zh-cn/ locales/zh-001/`.

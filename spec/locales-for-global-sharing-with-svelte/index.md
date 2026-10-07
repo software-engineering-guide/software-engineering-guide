@@ -91,6 +91,13 @@ regardless of slug.
 
 - en-gb-oxendict: use en-gb then revert just the -ise family back to Oxford -ize spelling (optimize, realise→realize, organise→organize, etc.), while correctly keeping -yse forms (analyse/analysable) unchanged, since Oxford style never uses -yze, and keeping all other British forms (colour, centre, defence, licence, programme, maths, modelled) intact.
 
+## Identical locales
+
+`zh-001` (Chinese, World) is identical in content to `zh-cn` (Chinese, China): same
+topics, slugs, and `.locale-peer-id` files, since the Simplified Chinese text has no
+country-specific usage to remove. Edit `zh-cn` first, then mirror the change into
+`zh-001` (`rsync -a --delete locales/zh-cn/ locales/zh-001/`).
+
 ## Guard against corruption
 
 Keep proper nouns unconverted. Example: "Hospital Readmissions Reduction Program" (a real United States federal program name).

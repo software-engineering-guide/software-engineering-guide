@@ -4472,6 +4472,749 @@
    ]
   },
   {
+   "code": "zh-001",
+   "label": "Chinese",
+   "home": "https://software-engineering-guide.github.io/zh-001/",
+   "topicsSegment": "主题",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "第一部分导言：人",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-00-人/"
+    },
+    {
+     "number": "1.1",
+     "title": "软件工程价值观",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-01-软件工程价值观/"
+    },
+    {
+     "number": "1.2",
+     "title": "团队拓扑与组织设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-02-团队拓扑/"
+    },
+    {
+     "number": "1.3",
+     "title": "角色、职业阶梯与成长",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-03-角色-职业阶梯与成长/"
+    },
+    {
+     "number": "1.4",
+     "title": "工作方式",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-04-工作方式/"
+    },
+    {
+     "number": "1.5",
+     "title": "决策制定与治理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-05-决策与治理/"
+    },
+    {
+     "number": "1.6",
+     "title": "决策记录",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-06-决策记录/"
+    },
+    {
+     "number": "1.7",
+     "title": "工程标准与例外",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-07-工程标准与例外/"
+    },
+    {
+     "number": "1.8",
+     "title": "招聘、面试与入职",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-08-招聘-面试与入职/"
+    },
+    {
+     "number": "1.9",
+     "title": "分布式与远程工作",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-09-分布式与远程工作/"
+    },
+    {
+     "number": "1.10",
+     "title": "工程效能与开发者生产力",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-10-工程效能与开发者生产力/"
+    },
+    {
+     "number": "1.11",
+     "title": "工程管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-11-工程管理/"
+    },
+    {
+     "number": "1.12",
+     "title": "多样性、公平、包容与归属感",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-12-多元-公平-包容与归属感/"
+    },
+    {
+     "number": "1.13",
+     "title": "指导、辅导与知识分享",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/01-13-指导-辅导与知识分享/"
+    },
+    {
+     "number": "2.0",
+     "title": "第二部分导读：软件编程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-00-软件编程/"
+    },
+    {
+     "number": "2.1",
+     "title": "编码标准与风格",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-01-编码标准与风格/"
+    },
+    {
+     "number": "2.2",
+     "title": "软件设计原则",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-02-软件设计原则/"
+    },
+    {
+     "number": "2.3",
+     "title": "API 与接口设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-03-API与接口设计/"
+    },
+    {
+     "number": "2.4",
+     "title": "测试策略",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-04-测试策略/"
+    },
+    {
+     "number": "2.5",
+     "title": "代码评审与协作",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-05-代码评审与协作/"
+    },
+    {
+     "number": "2.6",
+     "title": "版本控制与源代码管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-06-版本控制与源代码管理/"
+    },
+    {
+     "number": "2.7",
+     "title": "文档",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-07-文档编写/"
+    },
+    {
+     "number": "2.8",
+     "title": "软件需求",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-08-软件需求/"
+    },
+    {
+     "number": "2.9",
+     "title": "软件构建",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-09-软件构建/"
+    },
+    {
+     "number": "2.10",
+     "title": "软件配置管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-10-软件配置管理/"
+    },
+    {
+     "number": "2.11",
+     "title": "软件质量",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-11-软件质量/"
+    },
+    {
+     "number": "2.12",
+     "title": "软件模型与方法",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-12-软件模型与方法/"
+    },
+    {
+     "number": "2.13",
+     "title": "计算、数学与工程基础",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-13-计算-数学与工程基础/"
+    },
+    {
+     "number": "2.14",
+     "title": "项目与仓库结构",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-14-项目与仓库结构/"
+    },
+    {
+     "number": "2.15",
+     "title": "调试与故障排查",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-15-调试与故障排除/"
+    },
+    {
+     "number": "2.16",
+     "title": "性能工程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-16-性能工程/"
+    },
+    {
+     "number": "2.17",
+     "title": "并发与并行",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-17-并发与并行/"
+    },
+    {
+     "number": "2.18",
+     "title": "依赖与供应链管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-18-依赖与供应链管理/"
+    },
+    {
+     "number": "2.19",
+     "title": "重构与技术债务",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-19-重构与技术债务/"
+    },
+    {
+     "number": "2.20",
+     "title": "错误处理与韧性模式",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-20-错误处理与弹性模式/"
+    },
+    {
+     "number": "2.21",
+     "title": "类型系统与静态分析",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/02-21-类型系统与静态分析/"
+    },
+    {
+     "number": "3.0",
+     "title": "第 3 部分引言：系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-00-系统/"
+    },
+    {
+     "number": "3.1",
+     "title": "架构基础",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-01-架构基础/"
+    },
+    {
+     "number": "3.2",
+     "title": "架构风格与模式",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-02-架构风格与模式/"
+    },
+    {
+     "number": "3.3",
+     "title": "分布式系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-03-分布式系统/"
+    },
+    {
+     "number": "3.4",
+     "title": "数据架构与存储",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-04-数据架构与存储/"
+    },
+    {
+     "number": "3.5",
+     "title": "可扩展性、性能与韧性",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-05-可扩展性-性能与弹性/"
+    },
+    {
+     "number": "3.6",
+     "title": "遗留系统现代化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-06-遗留系统现代化/"
+    },
+    {
+     "number": "3.7",
+     "title": "软件维护",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-07-软件维护/"
+    },
+    {
+     "number": "3.8",
+     "title": "互操作性与开放标准",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-08-互操作性与开放标准/"
+    },
+    {
+     "number": "3.9",
+     "title": "系统工程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-09-系统工程/"
+    },
+    {
+     "number": "3.10",
+     "title": "嵌入式与实时系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-10-嵌入式与实时系统/"
+    },
+    {
+     "number": "3.11",
+     "title": "云架构",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-11-云架构/"
+    },
+    {
+     "number": "3.12",
+     "title": "事件驱动架构与消息传递",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-12-事件驱动架构与消息传递/"
+    },
+    {
+     "number": "3.13",
+     "title": "网络与连接",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-13-网络与连接/"
+    },
+    {
+     "number": "3.14",
+     "title": "多租户与 SaaS 架构",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-14-多租户与SaaS架构/"
+    },
+    {
+     "number": "3.15",
+     "title": "缓存与内容分发",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-15-缓存与内容分发/"
+    },
+    {
+     "number": "3.16",
+     "title": "API 网关与服务网格",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-16-API网关与服务网格/"
+    },
+    {
+     "number": "3.17",
+     "title": "搜索与信息检索",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/03-17-搜索与信息检索/"
+    },
+    {
+     "number": "4.0",
+     "title": "第 4 部分导言：安全",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-00-安全/"
+    },
+    {
+     "number": "4.1",
+     "title": "安全基础与文化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-01-安全基础与文化/"
+    },
+    {
+     "number": "4.2",
+     "title": "应用安全",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-02-应用安全/"
+    },
+    {
+     "number": "4.3",
+     "title": "基础设施与云安全",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-03-基础设施与云安全/"
+    },
+    {
+     "number": "4.4",
+     "title": "安全运营",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-04-安全运营/"
+    },
+    {
+     "number": "4.5",
+     "title": "隐私与数据保护",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-05-隐私与数据保护/"
+    },
+    {
+     "number": "4.6",
+     "title": "合规与治理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-06-合规与治理/"
+    },
+    {
+     "number": "4.7",
+     "title": "身份与访问管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-07-身份与访问管理/"
+    },
+    {
+     "number": "4.8",
+     "title": "密码学与密钥管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-08-密码学与密钥管理/"
+    },
+    {
+     "number": "4.9",
+     "title": "安全软件开发生命周期",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-09-安全软件开发生命周期/"
+    },
+    {
+     "number": "4.10",
+     "title": "渗透测试与红队演练",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/04-10-渗透测试与红队/"
+    },
+    {
+     "number": "5.0",
+     "title": "第 5 部分简介：UI/UX 设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-00-UI-UX设计/"
+    },
+    {
+     "number": "5.1",
+     "title": "用户体验基础",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-01-UX基础/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI 设计与设计系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-02-UI设计与设计系统/"
+    },
+    {
+     "number": "5.3",
+     "title": "无障碍",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-03-无障碍/"
+    },
+    {
+     "number": "5.4",
+     "title": "内容与沟通设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-04-内容与传播设计/"
+    },
+    {
+     "number": "5.5",
+     "title": "国际化与本地化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-05-国际化与本地化/"
+    },
+    {
+     "number": "5.6",
+     "title": "前端工程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-06-前端工程/"
+    },
+    {
+     "number": "5.7",
+     "title": "移动应用开发",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-07-移动应用开发/"
+    },
+    {
+     "number": "5.8",
+     "title": "设计研究与可用性测试",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-08-设计研究与可用性测试/"
+    },
+    {
+     "number": "5.9",
+     "title": "服务设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-09-服务设计/"
+    },
+    {
+     "number": "5.10",
+     "title": "数据可视化设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/05-10-数据可视化设计/"
+    },
+    {
+     "number": "6.0",
+     "title": "第六部分导言：人工智能",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-00-人工智能/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI 战略与就绪度",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-01-AI战略与准备度/"
+    },
+    {
+     "number": "6.2",
+     "title": "机器学习工程（MLOps）",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-02-MLOps/"
+    },
+    {
+     "number": "6.3",
+     "title": "生成式 AI 与 LLM 应用",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-03-生成式AI与大语言模型应用/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI 辅助软件开发",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-04-AI辅助软件开发/"
+    },
+    {
+     "number": "6.5",
+     "title": "负责任且值得信赖的 AI",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-05-负责任且可信赖的AI/"
+    },
+    {
+     "number": "6.6",
+     "title": "人工智能基础设施与运维",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-06-AI基础设施与运营/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI 智能体与自主智能体系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-07-AI智能体与自主系统/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI 评估与测试",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-08-AI评估与测试/"
+    },
+    {
+     "number": "6.9",
+     "title": "提示工程与上下文设计",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/06-09-提示词工程与上下文设计/"
+    },
+    {
+     "number": "7.0",
+     "title": "第 7 部分导言：数据、分析与洞察",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-00-数据与分析/"
+    },
+    {
+     "number": "7.1",
+     "title": "数据战略与治理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-01-数据战略与治理/"
+    },
+    {
+     "number": "7.2",
+     "title": "数据工程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-02-数据工程/"
+    },
+    {
+     "number": "7.3",
+     "title": "分析与商业智能",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-03-分析与商业智能/"
+    },
+    {
+     "number": "7.4",
+     "title": "产品分析与实验",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-04-产品分析与实验/"
+    },
+    {
+     "number": "7.5",
+     "title": "决策科学与数据知情文化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-05-决策科学与数据文化/"
+    },
+    {
+     "number": "7.6",
+     "title": "实时与流式数据",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-06-实时与流式数据/"
+    },
+    {
+     "number": "7.7",
+     "title": "数据建模与语义层",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-07-数据建模与语义层/"
+    },
+    {
+     "number": "7.8",
+     "title": "数据质量与可观测性",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-08-数据质量与可观测性/"
+    },
+    {
+     "number": "7.9",
+     "title": "主数据与参考数据管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/07-09-主数据与参考数据管理/"
+    },
+    {
+     "number": "8.0",
+     "title": "第 8 部分导言：自动化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-00-自动化/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD 与交付",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-01-CI-CD与交付/"
+    },
+    {
+     "number": "8.2",
+     "title": "基础设施即代码与配置管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-02-基础设施即代码与配置/"
+    },
+    {
+     "number": "8.3",
+     "title": "容器、编排与云原生",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-03-容器-编排与云原生/"
+    },
+    {
+     "number": "8.4",
+     "title": "平台工程与开发者体验",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-04-平台工程与开发者体验/"
+    },
+    {
+     "number": "8.5",
+     "title": "测试与流程自动化",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-05-测试与流程自动化/"
+    },
+    {
+     "number": "8.6",
+     "title": "发布管理与渐进式交付",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-06-发布管理与渐进式交付/"
+    },
+    {
+     "number": "8.7",
+     "title": "构建系统与制品管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/08-07-构建系统与制品管理/"
+    },
+    {
+     "number": "9.0",
+     "title": "第 9 部分简介：运维、可靠性与可观测性",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-00-运维与可靠性/"
+    },
+    {
+     "number": "9.1",
+     "title": "站点可靠性工程",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-01-站点可靠性工程/"
+    },
+    {
+     "number": "9.2",
+     "title": "可观测性与遥测",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-02-可观测性与遥测/"
+    },
+    {
+     "number": "9.3",
+     "title": "事件管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-03-事件管理/"
+    },
+    {
+     "number": "9.4",
+     "title": "成本、可持续性与绿色软件",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-04-成本-可持续性与绿色软件/"
+    },
+    {
+     "number": "9.5",
+     "title": "灾难恢复与业务连续性",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-05-灾难恢复与业务连续性/"
+    },
+    {
+     "number": "9.6",
+     "title": "混沌工程与弹性测试",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-06-混沌工程与弹性测试/"
+    },
+    {
+     "number": "9.7",
+     "title": "容量规划与需求预测",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-07-容量规划与需求预测/"
+    },
+    {
+     "number": "9.8",
+     "title": "待命与运营准备度",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/09-08-待命与运营就绪/"
+    },
+    {
+     "number": "10.0",
+     "title": "第 10 部分简介：项目/产品/计划管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-00-项目-产品与项目集管理/"
+    },
+    {
+     "number": "10.1",
+     "title": "组合与项目群管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-01-组合与项目集管理/"
+    },
+    {
+     "number": "10.2",
+     "title": "风险、审计与保证",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-02-风险-审计与保证/"
+    },
+    {
+     "number": "10.3",
+     "title": "采购、开源与许可",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-03-采购-开源与许可/"
+    },
+    {
+     "number": "10.4",
+     "title": "维系大型与长期运行的系统",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-04-大型长生命周期系统的维系/"
+    },
+    {
+     "number": "10.5",
+     "title": "伦理、问责制与公共利益",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-05-伦理-问责与公共利益/"
+    },
+    {
+     "number": "10.6",
+     "title": "项目管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-06-项目管理/"
+    },
+    {
+     "number": "10.7",
+     "title": "敏捷",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-07-敏捷/"
+    },
+    {
+     "number": "10.8",
+     "title": "成熟度模型",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-08-成熟度模型/"
+    },
+    {
+     "number": "10.9",
+     "title": "创新合作伙伴关系",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-09-创新伙伴关系/"
+    },
+    {
+     "number": "10.10",
+     "title": "软件工程经济学",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-10-软件工程经济学/"
+    },
+    {
+     "number": "10.11",
+     "title": "数字主权",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-11-数字主权/"
+    },
+    {
+     "number": "10.12",
+     "title": "开源与闭源",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-12-开源与闭源之争/"
+    },
+    {
+     "number": "10.13",
+     "title": "组织间协作",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-13-跨组织协作/"
+    },
+    {
+     "number": "10.14",
+     "title": "产品管理与探索",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-14-产品管理与探索/"
+    },
+    {
+     "number": "10.15",
+     "title": "估算与预测",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-15-估算与预测/"
+    },
+    {
+     "number": "10.16",
+     "title": "利益相关者管理与沟通",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-16-利益相关者管理与沟通/"
+    },
+    {
+     "number": "10.17",
+     "title": "组织变革管理",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-17-组织变革管理/"
+    },
+    {
+     "number": "10.18",
+     "title": "开源项目办公室（OSPO）与上游贡献",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/10-18-开源项目办公室/"
+    },
+    {
+     "number": "11.0",
+     "title": "第 11 部分简介：流：发现与交付流水线",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-00-流动-发现与交付/"
+    },
+    {
+     "number": "11.1",
+     "title": "探索流水线",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-01-探索流水线/"
+    },
+    {
+     "number": "11.2",
+     "title": "交付流水线",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-02-交付流水线/"
+    },
+    {
+     "number": "11.3",
+     "title": "排队论",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-03-排队论/"
+    },
+    {
+     "number": "11.4",
+     "title": "目标与关键结果（OKR）",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-04-目标与关键成果/"
+    },
+    {
+     "number": "11.5",
+     "title": "关键绩效指标（KPI）",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-05-关键绩效指标/"
+    },
+    {
+     "number": "11.6",
+     "title": "价值流映射与延迟成本",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/11-06-价值流映射与延迟成本/"
+    },
+    {
+     "number": "12.0",
+     "title": "附录",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-00-附录/"
+    },
+    {
+     "number": "12.1",
+     "title": "术语表",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-01-术语表/"
+    },
+    {
+     "number": "12.2",
+     "title": "检查清单",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-02-检查清单/"
+    },
+    {
+     "number": "12.3",
+     "title": "模板",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-03-模板/"
+    },
+    {
+     "number": "12.4",
+     "title": "成熟度自评",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-04-成熟度自评/"
+    },
+    {
+     "number": "12.5",
+     "title": "参考资料",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-05-参考文献/"
+    },
+    {
+     "number": "12.6",
+     "title": "采纳路线图",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-06-采纳路线图/"
+    },
+    {
+     "number": "12.7",
+     "title": "索引",
+     "url": "https://software-engineering-guide.github.io/zh-001/主题/12-07-索引/"
+    }
+   ]
+  },
+  {
    "code": "zh-cn",
    "label": "Chinese - China",
    "home": "https://software-engineering-guide.github.io/zh-cn/",
