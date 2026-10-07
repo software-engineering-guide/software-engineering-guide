@@ -22,7 +22,7 @@ A locale's pages live directly under its code. There is no `/locale/` or
 
 | URL | Meaning |
 |---|---|
-| `/` | no query: redirects to the default locale, e.g. `/en-us/`. With a query (`/?foo`): site search, no redirect. See [`spec/search`](../search/index.md) |
+| `/` | no query: redirects to the locale that best matches the browser language, else the default locale, e.g. `/en-us/`. With a query (`/?foo`): site search, no redirect. See [`spec/search`](../search/index.md) |
 | `/en-us/` | home page in English (United States) |
 | `/en-us/contents/` | contents page in English (United States) |
 | `/en-us/topics/<topic-slug>/` | a topic (chapter) in English (United States) |
@@ -38,7 +38,16 @@ Example: `https://software-engineering-guide.github.io/en-us/` serves English
   codes listed in `locales.tsv`, so it never captures `about`, `contents`,
   `contributing`, `project`, `examples`, or `front-matter`.
 - Reserved root route names must never be used as locale codes.
-- The default locale is `en-us`: `/` redirects there and search indexes it.
+- The default locale is `en-us`: search indexes it, and `/` redirects there when the
+  browser language matches no served locale.
+- **Language detection at `/`.** The client reads `navigator.languages`, then
+  `navigator.language`, and normalizes each tag (`cy_GB` becomes `cy-gb`). A tag matches
+  in this order: (1) an exact served code (`en-GB` to `/en-gb/`); (2) the international
+  superset, `<lang>-001` when it is served (`en-AU`, with no `en-au`, to `/en-001/`, never
+  the `/en/` alias); (3) any served
+  `<lang>-*` code, preferring the default locale (`de-AT` to `/de-de/`). The first tag with a
+  match wins; with none, the default locale. Detection never runs when there is a query, and
+  without JavaScript the `<noscript>` refresh goes to the default locale.
 - Sections with no translations yet (`/front-matter/`, `/examples/`,
   `/contributing/`, `/project/`) stay English-only at the root, with no locale
   prefix. Their nav labels and breadcrumbs still use the default locale's

@@ -15,6 +15,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Changed
 
+- Locale routes: `/` redirects to the locale matching the browser language (`navigator.languages`,
+  then `navigator.language`), then the language's international `-001` locale (`en-AU` goes to `/en-001/`), falling back to the default locale;
+  spec updated.
 - `AGENTS.md` is now a short index; details moved to `AGENTS/layout.md`, `style.md`,
   `locales.md`, and `workflow.md` (each well under 40 KB).
 - Docs audit: replaced stale `docs/chapters/` paths and the "100 chapters" count (now 147) in
