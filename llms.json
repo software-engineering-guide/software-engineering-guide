@@ -9234,6 +9234,21 @@
      "number": "4.5",
      "title": "গোপনীয়তা ও ডেটা সুরক্ষা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-05-গোপনীয়তা-ও-ডেটা-সুরক্ষা/"
+    },
+    {
+     "number": "4.6",
+     "title": "সম্মতি ও শাসন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-06-সম্মতি-ও-শাসন/"
+    },
+    {
+     "number": "4.7",
+     "title": "পরিচয় ও অ্যাক্সেস ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-07-পরিচয়-ও-অ্যাক্সেস-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "4.8",
+     "title": "ক্রিপ্টোগ্রাফি ও কী ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-08-ক্রিপ্টোগ্রাফি-ও-কী-ব্যবস্থাপনা/"
     }
    ]
   },
