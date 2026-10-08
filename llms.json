@@ -9159,6 +9159,16 @@
      "number": "3.8",
      "title": "আন্তঃকার্যক্ষমতা ও মুক্ত মান",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-08-আন্তঃকার্যক্ষমতা-ও-মুক্ত-মান/"
+    },
+    {
+     "number": "3.9",
+     "title": "সিস্টেমস ইঞ্জিনিয়ারিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-09-সিস্টেমস-ইঞ্জিনিয়ারিং/"
+    },
+    {
+     "number": "3.10",
+     "title": "এমবেডেড ও রিয়েল-টাইম সিস্টেম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-10-এমবেডেড-ও-রিয়েল-টাইম-সিস্টেম/"
     }
    ]
   },
