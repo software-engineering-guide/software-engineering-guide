@@ -9004,6 +9004,41 @@
      "number": "1.13",
      "title": "মেন্টরিং, কোচিং ও জ্ঞান বিনিময়",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-13-মেন্টরিং-কোচিং-ও-জ্ঞান-বিনিময়/"
+    },
+    {
+     "number": "2.0",
+     "title": "পর্ব ২-এর ভূমিকা: সফটওয়্যার প্রোগ্রামিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"
+    },
+    {
+     "number": "2.1",
+     "title": "কোডিং মান ও শৈলী",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"
+    },
+    {
+     "number": "2.2",
+     "title": "সফটওয়্যার নকশার নীতি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"
+    },
+    {
+     "number": "2.3",
+     "title": "API ও ইন্টারফেস নকশা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"
+    },
+    {
+     "number": "2.4",
+     "title": "টেস্টিং কৌশল",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"
+    },
+    {
+     "number": "2.5",
+     "title": "কোড রিভিউ ও সহযোগিতা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"
+    },
+    {
+     "number": "2.6",
+     "title": "ভার্সন কন্ট্রোল ও সোর্স ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"
     }
    ]
   },

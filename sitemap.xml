@@ -289,6 +289,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -307,6 +308,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -325,6 +327,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -343,6 +346,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -361,6 +365,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -379,6 +384,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -397,6 +403,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -2958,6 +2965,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -2976,6 +2984,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -2994,6 +3003,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -3012,6 +3022,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -3030,6 +3041,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -3048,6 +3060,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -3066,6 +3079,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -5627,6 +5641,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -5645,6 +5660,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -5663,6 +5679,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -5681,6 +5698,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -5699,6 +5717,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -5717,6 +5736,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -5735,6 +5755,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -8296,6 +8317,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -8314,6 +8336,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -8332,6 +8355,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -8350,6 +8374,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -8368,6 +8393,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -8386,6 +8412,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -8404,6 +8431,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -10965,6 +10993,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -10983,6 +11012,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -11001,6 +11031,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -11019,6 +11050,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -11037,6 +11069,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -11055,6 +11088,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -11073,6 +11107,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -13634,6 +13669,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -13652,6 +13688,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -13670,6 +13707,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -13688,6 +13726,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -13706,6 +13745,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -13724,6 +13764,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -13742,6 +13783,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -16303,6 +16345,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -16321,6 +16364,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -16339,6 +16383,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -16357,6 +16402,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -16375,6 +16421,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -16393,6 +16440,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -16411,6 +16459,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -18972,6 +19021,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -18990,6 +19040,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -19008,6 +19059,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -19026,6 +19078,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -19044,6 +19097,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -19062,6 +19116,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -19080,6 +19135,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -21641,6 +21697,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -21659,6 +21716,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -21677,6 +21735,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -21695,6 +21754,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -21713,6 +21773,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -21731,6 +21792,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -21749,6 +21811,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -24310,6 +24373,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -24328,6 +24392,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -24346,6 +24411,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -24364,6 +24430,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -24382,6 +24449,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -24400,6 +24468,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -24418,6 +24487,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -26979,6 +27049,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -26997,6 +27068,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -27015,6 +27087,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -27033,6 +27106,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -27051,6 +27125,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -27069,6 +27144,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -27087,6 +27163,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -29648,6 +29725,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -29666,6 +29744,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -29684,6 +29763,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -29702,6 +29782,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -29720,6 +29801,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -29738,6 +29820,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -29756,6 +29839,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -32304,6 +32388,139 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/01-13-mentoring-coaching-knowledge-sharing/"/>
   </url>
   <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-00-rhaglennu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-00-programación-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-00-软件编程/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-00-软件编程/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-00-برمجة-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-01-safonau-a-arddull-codio/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-01-estándares-y-estilo-de-codificación/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-01-编码标准与风格/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-01-编码标准与风格/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-01-معايير-الترميز-والأسلوب/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-02-software-design-principles/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-02-software-design-principles/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-02-principios-de-diseño-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-02-软件设计原则/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-02-软件设计原则/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-02-مبادئ-تصميم-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-03-apis-and-interface-design/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-03-apis-and-interface-design/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-03-apis-y-diseño-de-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-03-API与接口设计/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-03-API与接口设计/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-03-واجهات-البرمجة-وتصميم-الواجهات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-04-strategaeth-brofi/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-04-testing-strategy/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-04-testing-strategy/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-04-estrategia-de-pruebas/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-04-परीक्षण-रणनीति/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-04-测试策略/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-04-测试策略/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-04-استراتيجية-الاختبار/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-05-code-review-and-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-05-code-review-and-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-05-revisión-de-código-y-colaboración/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-05-代码评审与协作/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-05-代码评审与协作/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-05-مراجعة-الشيفرة-والتعاون/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-06-version-control-and-source-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-06-version-control-and-source-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-06-control-de-versiones-y-gestión-del-código-fuente/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-06-版本控制与源代码管理/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-06-版本控制与源代码管理/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-06-ضبط-الإصدارات-وإدارة-المصدر/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
+  </url>
+  <url>
     <loc>https://software-engineering-guide.github.io/cy-gb/</loc>
   </url>
   <url>
@@ -32592,6 +32809,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -32610,6 +32828,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -32628,6 +32847,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -32646,6 +32866,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -32664,6 +32885,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -32682,6 +32904,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -32700,6 +32923,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
@@ -35261,6 +35485,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
@@ -35279,6 +35504,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
@@ -35297,6 +35523,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-02-prinzipien-des-softwaredesigns/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-02-principes-conception-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-02-সফটওয়্যার-নকশার-নীতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-02-software-design-principles/"/>
@@ -35315,6 +35542,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-03-apis-und-schnittstellendesign/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-03-api-conception-interfaces/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-03-API-ও-ইন্টারফেস-নকশা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-03-apis-and-interface-design/"/>
@@ -35333,6 +35561,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-04-teststrategie/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-04-strategie-de-test/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-04-টেস্টিং-কৌশল/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-04-testing-strategy/"/>
@@ -35351,6 +35580,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-05-code-review-und-zusammenarbeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-05-revue-code-collaboration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-05-কোড-রিভিউ-ও-সহযোগিতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-05-code-review-and-collaboration/"/>
@@ -35369,6 +35599,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-06-controle-version-gestion-source/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
