@@ -9284,6 +9284,16 @@
      "number": "5.4",
      "title": "কনটেন্ট ও যোগাযোগ ডিজাইন",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-04-কনটেন্ট-ও-যোগাযোগ-ডিজাইন/"
+    },
+    {
+     "number": "5.5",
+     "title": "আন্তর্জাতিকীকরণ ও স্থানীয়করণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-05-আন্তর্জাতিকীকরণ-ও-স্থানীয়করণ/"
+    },
+    {
+     "number": "5.6",
+     "title": "ফ্রন্টএন্ড প্রকৌশল",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-06-ফ্রন্টএন্ড-প্রকৌশল/"
     }
    ]
   },
