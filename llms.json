@@ -9249,6 +9249,16 @@
      "number": "4.8",
      "title": "ক্রিপ্টোগ্রাফি ও কী ব্যবস্থাপনা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-08-ক্রিপ্টোগ্রাফি-ও-কী-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "4.9",
+     "title": "নিরাপদ সফটওয়্যার উন্নয়ন জীবনচক্র",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-09-নিরাপদ-সফটওয়্যার-উন্নয়ন-জীবনচক্র/"
+    },
+    {
+     "number": "4.10",
+     "title": "পেনিট্রেশন টেস্টিং ও রেড টিমিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-10-পেনিট্রেশন-টেস্টিং-ও-রেড-টিমিং/"
     }
    ]
   },
