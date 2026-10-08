@@ -9314,6 +9314,16 @@
      "number": "5.10",
      "title": "ডেটা ভিজ্যুয়ালাইজেশন ডিজাইন",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-10-ডেটা-ভিজ্যুয়ালাইজেশন-ডিজাইন/"
+    },
+    {
+     "number": "6.0",
+     "title": "পর্ব ৬-এর ভূমিকা: কৃত্রিম বুদ্ধিমত্তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-00-কৃত্রিম-বুদ্ধিমত্তা/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI কৌশল ও প্রস্তুতি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-01-AI-কৌশল-ও-প্রস্তুতি/"
     }
    ]
   },
