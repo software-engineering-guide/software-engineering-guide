@@ -9364,6 +9364,16 @@
      "number": "6.9",
      "title": "প্রম্পট প্রকৌশল ও প্রসঙ্গ নকশা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-09-প্রম্পট-প্রকৌশল-ও-প্রসঙ্গ-নকশা/"
+    },
+    {
+     "number": "7.0",
+     "title": "পর্ব ৭-এর ভূমিকা: ডেটা, বিশ্লেষণ ও অন্তর্দৃষ্টি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-00-ডেটা-ও-বিশ্লেষণ/"
+    },
+    {
+     "number": "7.1",
+     "title": "ডেটা কৌশল ও শাসন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-01-ডেটা-কৌশল-ও-শাসন/"
     }
    ]
   },
