@@ -9424,6 +9424,16 @@
      "number": "8.1",
      "title": "CI/CD ও ডেলিভারি",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/08-01-CI-CD-ও-ডেলিভারি/"
+    },
+    {
+     "number": "8.2",
+     "title": "কোড হিসেবে অবকাঠামো ও কনফিগারেশন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"
+    },
+    {
+     "number": "8.3",
+     "title": "কনটেইনার, অর্কেস্ট্রেশন ও ক্লাউড-নেটিভ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"
     }
    ]
   },
