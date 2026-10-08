@@ -9334,6 +9334,16 @@
      "number": "6.3",
      "title": "জেনারেটিভ AI ও LLM অ্যাপ্লিকেশন",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-03-জেনারেটিভ-AI-ও-LLM-অ্যাপ্লিকেশন/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-সহায়তায় সফটওয়্যার উন্নয়ন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-04-AI-সহায়তায়-সফটওয়্যার-উন্নয়ন/"
+    },
+    {
+     "number": "6.5",
+     "title": "দায়িত্বশীল ও বিশ্বস্ত AI",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-05-দায়িত্বশীল-ও-বিশ্বস্ত-AI/"
     }
    ]
   },
