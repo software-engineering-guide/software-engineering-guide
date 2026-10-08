@@ -9354,6 +9354,16 @@
      "number": "6.7",
      "title": "AI এজেন্ট ও এজেন্টিক সিস্টেম",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-07-AI-এজেন্ট-ও-এজেন্টিক-সিস্টেম/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI মূল্যায়ন ও টেস্টিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-08-AI-মূল্যায়ন-ও-টেস্টিং/"
+    },
+    {
+     "number": "6.9",
+     "title": "প্রম্পট প্রকৌশল ও প্রসঙ্গ নকশা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-09-প্রম্পট-প্রকৌশল-ও-প্রসঙ্গ-নকশা/"
     }
    ]
   },
