@@ -9294,6 +9294,16 @@
      "number": "5.6",
      "title": "ফ্রন্টএন্ড প্রকৌশল",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-06-ফ্রন্টএন্ড-প্রকৌশল/"
+    },
+    {
+     "number": "5.7",
+     "title": "মোবাইল অ্যাপ্লিকেশন উন্নয়ন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-07-মোবাইল-অ্যাপ্লিকেশন-উন্নয়ন/"
+    },
+    {
+     "number": "5.8",
+     "title": "ডিজাইন গবেষণা ও ব্যবহারযোগ্যতা পরীক্ষা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-08-ডিজাইন-গবেষণা-ও-ব্যবহারযোগ্যতা-পরীক্ষা/"
     }
    ]
   },
