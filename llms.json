@@ -9169,6 +9169,21 @@
      "number": "3.10",
      "title": "এমবেডেড ও রিয়েল-টাইম সিস্টেম",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-10-এমবেডেড-ও-রিয়েল-টাইম-সিস্টেম/"
+    },
+    {
+     "number": "3.11",
+     "title": "ক্লাউড স্থাপত্য",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-11-ক্লাউড-স্থাপত্য/"
+    },
+    {
+     "number": "3.12",
+     "title": "ইভেন্ট-চালিত স্থাপত্য ও মেসেজিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-12-ইভেন্ট-চালিত-স্থাপত্য-ও-মেসেজিং/"
+    },
+    {
+     "number": "3.13",
+     "title": "নেটওয়ার্কিং ও সংযোগ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-13-নেটওয়ার্কিং-ও-সংযোগ/"
     }
    ]
   },
