@@ -9089,6 +9089,31 @@
      "number": "2.16",
      "title": "পারফরম্যান্স প্রকৌশল",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-16-পারফরম্যান্স-প্রকৌশল/"
+    },
+    {
+     "number": "2.17",
+     "title": "কনকারেন্সি ও প্যারালেলিজম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-17-কনকারেন্সি-ও-প্যারালেলিজম/"
+    },
+    {
+     "number": "2.18",
+     "title": "নির্ভরতা ও সরবরাহ-শৃঙ্খল ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-18-নির্ভরতা-ও-সরবরাহ-শৃঙ্খল-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "2.19",
+     "title": "রিফ্যাক্টরিং ও প্রযুক্তিগত ঋণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"
+    },
+    {
+     "number": "2.20",
+     "title": "ত্রুটি সামলানো ও স্থিতিস্থাপকতার প্যাটার্ন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"
+    },
+    {
+     "number": "2.21",
+     "title": "টাইপ সিস্টেম ও স্ট্যাটিক বিশ্লেষণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-21-টাইপ-সিস্টেম-ও-স্ট্যাটিক-বিশ্লেষণ/"
     }
    ]
   },
