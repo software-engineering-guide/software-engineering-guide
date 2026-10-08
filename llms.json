@@ -9114,6 +9114,36 @@
      "number": "2.21",
      "title": "টাইপ সিস্টেম ও স্ট্যাটিক বিশ্লেষণ",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-21-টাইপ-সিস্টেম-ও-স্ট্যাটিক-বিশ্লেষণ/"
+    },
+    {
+     "number": "3.0",
+     "title": "পর্ব ৩-এর ভূমিকা: সিস্টেম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-00-সিস্টেম/"
+    },
+    {
+     "number": "3.1",
+     "title": "স্থাপত্যের মৌলিক বিষয়",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-01-স্থাপত্যের-মৌলিক-বিষয়/"
+    },
+    {
+     "number": "3.2",
+     "title": "স্থাপত্য শৈলী ও প্যাটার্ন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-02-স্থাপত্য-শৈলী-ও-প্যাটার্ন/"
+    },
+    {
+     "number": "3.3",
+     "title": "বিতরিত সিস্টেম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-03-বিতরিত-সিস্টেম/"
+    },
+    {
+     "number": "3.4",
+     "title": "ডেটা স্থাপত্য ও সংরক্ষণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-04-ডেটা-স্থাপত্য-ও-সংরক্ষণ/"
+    },
+    {
+     "number": "3.5",
+     "title": "স্কেলেবিলিটি, পারফরম্যান্স ও স্থিতিস্থাপকতা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-05-স্কেলেবিলিটি-পারফরম্যান্স-ও-স্থিতিস্থাপকতা/"
     }
    ]
   },
