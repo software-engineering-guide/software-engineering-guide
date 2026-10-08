@@ -8979,6 +8979,31 @@
      "number": "1.8",
      "title": "নিয়োগ, সাক্ষাৎকার ও অনবোর্ডিং",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-08-নিয়োগ-সাক্ষাৎকার-ও-অনবোর্ডিং/"
+    },
+    {
+     "number": "1.9",
+     "title": "বিতরিত ও দূরবর্তী কাজ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-09-বিতরিত-ও-দূরবর্তী-কাজ/"
+    },
+    {
+     "number": "1.10",
+     "title": "প্রকৌশল কার্যকারিতা ও ডেভেলপার উৎপাদনশীলতা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-10-প্রকৌশল-কার্যকারিতা-ও-ডেভেলপার-উৎপাদনশীলতা/"
+    },
+    {
+     "number": "1.11",
+     "title": "প্রকৌশল ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-11-প্রকৌশল-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "1.12",
+     "title": "বৈচিত্র্য, ন্যায্যতা, অন্তর্ভুক্তি ও আপনত্ববোধ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-12-বৈচিত্র্য-ন্যায্যতা-অন্তর্ভুক্তি-ও-আপনত্ববোধ/"
+    },
+    {
+     "number": "1.13",
+     "title": "মেন্টরিং, কোচিং ও জ্ঞান বিনিময়",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-13-মেন্টরিং-কোচিং-ও-জ্ঞান-বিনিময়/"
     }
    ]
   },
