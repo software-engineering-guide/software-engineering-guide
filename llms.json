@@ -9344,6 +9344,16 @@
      "number": "6.5",
      "title": "দায়িত্বশীল ও বিশ্বস্ত AI",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-05-দায়িত্বশীল-ও-বিশ্বস্ত-AI/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI অবকাঠামো ও পরিচালনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-06-AI-অবকাঠামো-ও-পরিচালনা/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI এজেন্ট ও এজেন্টিক সিস্টেম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-07-AI-এজেন্ট-ও-এজেন্টিক-সিস্টেম/"
     }
    ]
   },
