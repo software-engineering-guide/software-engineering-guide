@@ -9039,6 +9039,36 @@
      "number": "2.6",
      "title": "ভার্সন কন্ট্রোল ও সোর্স ব্যবস্থাপনা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-06-ভার্সন-কন্ট্রোল-ও-সোর্স-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "2.7",
+     "title": "ডকুমেন্টেশন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"
+    },
+    {
+     "number": "2.8",
+     "title": "সফটওয়্যার প্রয়োজনীয়তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"
+    },
+    {
+     "number": "2.9",
+     "title": "সফটওয়্যার নির্মাণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"
+    },
+    {
+     "number": "2.10",
+     "title": "সফটওয়্যার কনফিগারেশন ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "2.11",
+     "title": "সফটওয়্যারের গুণমান",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"
+    },
+    {
+     "number": "2.12",
+     "title": "সফটওয়্যার মডেল ও পদ্ধতি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"
     }
    ]
   },

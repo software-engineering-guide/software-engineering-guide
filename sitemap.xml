@@ -422,6 +422,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -440,6 +441,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -458,6 +460,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -476,6 +479,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -494,6 +498,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -512,6 +517,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -3098,6 +3104,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -3116,6 +3123,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -3134,6 +3142,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -3152,6 +3161,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -3170,6 +3180,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -3188,6 +3199,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -5774,6 +5786,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -5792,6 +5805,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -5810,6 +5824,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -5828,6 +5843,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -5846,6 +5862,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -5864,6 +5881,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -8450,6 +8468,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -8468,6 +8487,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -8486,6 +8506,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -8504,6 +8525,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -8522,6 +8544,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -8540,6 +8563,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -11126,6 +11150,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -11144,6 +11169,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -11162,6 +11188,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -11180,6 +11207,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -11198,6 +11226,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -11216,6 +11245,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -13802,6 +13832,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -13820,6 +13851,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -13838,6 +13870,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -13856,6 +13889,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -13874,6 +13908,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -13892,6 +13927,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -16478,6 +16514,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -16496,6 +16533,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -16514,6 +16552,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -16532,6 +16571,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -16550,6 +16590,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -16568,6 +16609,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -19154,6 +19196,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -19172,6 +19215,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -19190,6 +19234,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -19208,6 +19253,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -19226,6 +19272,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -19244,6 +19291,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -21830,6 +21878,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -21848,6 +21897,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -21866,6 +21916,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -21884,6 +21935,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -21902,6 +21954,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -21920,6 +21973,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -24506,6 +24560,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -24524,6 +24579,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -24542,6 +24598,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -24560,6 +24617,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -24578,6 +24636,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -24596,6 +24655,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -27182,6 +27242,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -27200,6 +27261,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -27218,6 +27280,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -27236,6 +27299,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -27254,6 +27318,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -27272,6 +27337,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -29858,6 +29924,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -29876,6 +29943,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -29894,6 +29962,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -29912,6 +29981,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -29930,6 +30000,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -29948,6 +30019,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -32521,6 +32593,120 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-06-version-control-and-source-management/"/>
   </url>
   <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-07-dogfennaeth/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-07-documentación/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-07-दस्तावेज़ीकरण/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-07-文档编写/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-07-文档编写/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-07-التوثيق/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-08-gofynion-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-08-software-requirements/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-08-software-requirements/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-08-requisitos-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-08-软件需求/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-08-软件需求/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-08-متطلبات-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-09-adeiladu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-09-software-construction/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-09-software-construction/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-09-construcción-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-09-软件构建/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-09-软件构建/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-09-بناء-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-10-software-configuration-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-10-software-configuration-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-10-gestión-de-la-configuración-del-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-10-软件配置管理/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-10-软件配置管理/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-10-إدارة-تهيئة-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-11-ansawdd-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-11-software-quality/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-11-software-quality/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-11-calidad-del-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-11-软件质量/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-11-软件质量/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-11-جودة-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-12-software-models-and-methods/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-12-software-models-and-methods/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-12-modelos-y-métodos-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-12-软件模型与方法/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-12-软件模型与方法/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-12-نماذج-البرمجيات-وأساليبها/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
+  </url>
+  <url>
     <loc>https://software-engineering-guide.github.io/cy-gb/</loc>
   </url>
   <url>
@@ -32942,6 +33128,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -32960,6 +33147,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -32978,6 +33166,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -32996,6 +33185,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -33014,6 +33204,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -33032,6 +33223,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
@@ -35618,6 +35810,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-07-dokumentation/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-07-documentation/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-07-ডকুমেন্টেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-07-documentation/"/>
@@ -35636,6 +35829,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-08-softwareanforderungen/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-08-exigences-logicielles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-08-সফটওয়্যার-প্রয়োজনীয়তা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-08-software-requirements/"/>
@@ -35654,6 +35848,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-09-softwarekonstruktion/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-09-construction-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-09-সফটওয়্যার-নির্মাণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-09-software-construction/"/>
@@ -35672,6 +35867,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-10-software-konfigurationsmanagement/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-10-gestion-configuration-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-10-সফটওয়্যার-কনফিগারেশন-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-10-software-configuration-management/"/>
@@ -35690,6 +35886,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-11-softwarequalitaet/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-11-qualite-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-11-সফটওয়্যারের-গুণমান/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-11-software-quality/"/>
@@ -35708,6 +35905,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-12-softwaremodelle-und-methoden/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-12-modeles-methodes-logiciels/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-12-software-models-and-methods/"/>
