@@ -9069,6 +9069,26 @@
      "number": "2.12",
      "title": "সফটওয়্যার মডেল ও পদ্ধতি",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-12-সফটওয়্যার-মডেল-ও-পদ্ধতি/"
+    },
+    {
+     "number": "2.13",
+     "title": "কম্পিউটিং, গণিত ও প্রকৌশলের ভিত্তি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-13-কম্পিউটিং-গণিত-ও-প্রকৌশলের-ভিত্তি/"
+    },
+    {
+     "number": "2.14",
+     "title": "প্রকল্প ও রিপজিটরির কাঠামো",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-14-প্রকল্প-ও-রিপজিটরির-কাঠামো/"
+    },
+    {
+     "number": "2.15",
+     "title": "ডিবাগিং ও সমস্যা নিরসন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-15-ডিবাগিং-ও-সমস্যা-নিরসন/"
+    },
+    {
+     "number": "2.16",
+     "title": "পারফরম্যান্স প্রকৌশল",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/02-16-পারফরম্যান্স-প্রকৌশল/"
     }
    ]
   },
