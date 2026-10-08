@@ -6701,6 +6701,749 @@
    ]
   },
   {
+   "code": "de-001",
+   "label": "Deutsch",
+   "home": "https://software-engineering-guide.github.io/de-001/",
+   "topicsSegment": "themen",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Einführung in Teil 1: Menschen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-00-menschen/"
+    },
+    {
+     "number": "1.1",
+     "title": "Werte der Softwaretechnik",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-01-werte-der-softwaretechnik/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teamtopologien und Organisationsdesign",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-02-teamtopologien-und-organisationsdesign/"
+    },
+    {
+     "number": "1.3",
+     "title": "Rollen, Karrierepfade und Wachstum",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-03-rollen-karrierepfade-und-wachstum/"
+    },
+    {
+     "number": "1.4",
+     "title": "Arbeitsweisen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-04-arbeitsweisen/"
+    },
+    {
+     "number": "1.5",
+     "title": "Entscheidungsfindung und Governance",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-05-entscheidungsfindung-und-governance/"
+    },
+    {
+     "number": "1.6",
+     "title": "Entscheidungsprotokolle",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-06-entscheidungsprotokolle/"
+    },
+    {
+     "number": "1.7",
+     "title": "Technische Standards und Ausnahmen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-07-technische-standards-und-ausnahmen/"
+    },
+    {
+     "number": "1.8",
+     "title": "Einstellung, Vorstellungsgespräche und Onboarding",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-08-einstellung-vorstellungsgespraeche-und-onboarding/"
+    },
+    {
+     "number": "1.9",
+     "title": "Verteiltes und Remote-Arbeiten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-09-verteiltes-und-remote-arbeiten/"
+    },
+    {
+     "number": "1.10",
+     "title": "Ingenieurseffektivität und Entwicklerproduktivität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-10-ingenieurseffektivitaet-und-entwicklerproduktivitaet/"
+    },
+    {
+     "number": "1.11",
+     "title": "Technisches Management",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-11-technisches-management/"
+    },
+    {
+     "number": "1.12",
+     "title": "Vielfalt, Gerechtigkeit, Inklusion und Zugehörigkeit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-12-vielfalt-gerechtigkeit-inklusion-und-zugehoerigkeit/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, Coaching und Wissensaustausch",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/01-13-mentoring-coaching-und-wissensaustausch/"
+    },
+    {
+     "number": "2.0",
+     "title": "Einführung in Teil 2: Softwareprogrammierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"
+    },
+    {
+     "number": "2.1",
+     "title": "Codierstandards und Stil",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"
+    },
+    {
+     "number": "2.2",
+     "title": "Prinzipien des Softwaredesigns",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-02-prinzipien-des-softwaredesigns/"
+    },
+    {
+     "number": "2.3",
+     "title": "APIs und Schnittstellendesign",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-03-apis-und-schnittstellendesign/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategie",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-04-teststrategie/"
+    },
+    {
+     "number": "2.5",
+     "title": "Code-Review und Zusammenarbeit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-05-code-review-und-zusammenarbeit/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versionskontrolle und Quellcodeverwaltung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-06-versionskontrolle-und-quellcodeverwaltung/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentation",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-07-dokumentation/"
+    },
+    {
+     "number": "2.8",
+     "title": "Softwareanforderungen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-08-softwareanforderungen/"
+    },
+    {
+     "number": "2.9",
+     "title": "Softwarekonstruktion",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-09-softwarekonstruktion/"
+    },
+    {
+     "number": "2.10",
+     "title": "Software-Konfigurationsmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-10-software-konfigurationsmanagement/"
+    },
+    {
+     "number": "2.11",
+     "title": "Softwarequalität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-11-softwarequalitaet/"
+    },
+    {
+     "number": "2.12",
+     "title": "Softwaremodelle und -methoden",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-12-softwaremodelle-und-methoden/"
+    },
+    {
+     "number": "2.13",
+     "title": "Grundlagen der Informatik, Mathematik und Ingenieurwissenschaft",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-13-grundlagen-der-informatik-mathematik-und-ingenieurwissenschaft/"
+    },
+    {
+     "number": "2.14",
+     "title": "Projekt- und Repository-Struktur",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-14-projekt-und-repository-struktur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debugging und Fehlersuche",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-15-debugging-und-fehlersuche/"
+    },
+    {
+     "number": "2.16",
+     "title": "Performance-Engineering",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-16-leistungstechnik/"
+    },
+    {
+     "number": "2.17",
+     "title": "Nebenläufigkeit und Parallelität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-17-nebenlaeufigkeit-und-parallelitaet/"
+    },
+    {
+     "number": "2.18",
+     "title": "Abhängigkeits- und Lieferkettenmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-18-abhaengigkeits-und-lieferkettenmanagement/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refactoring und technische Schulden",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-19-refactoring-und-technische-schulden/"
+    },
+    {
+     "number": "2.20",
+     "title": "Fehlerbehandlung und Resilienzmuster",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-20-fehlerbehandlung-und-resilienzmuster/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typsysteme und statische Analyse",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/02-21-typsysteme-und-statische-analyse/"
+    },
+    {
+     "number": "3.0",
+     "title": "# 3. Einführung in Teil 3: Systeme",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-00-systeme/"
+    },
+    {
+     "number": "3.1",
+     "title": "Architekturgrundlagen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-01-architekturgrundlagen/"
+    },
+    {
+     "number": "3.2",
+     "title": "Architekturstile und -muster",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-02-architekturstile-und-muster/"
+    },
+    {
+     "number": "3.3",
+     "title": "Verteilte Systeme",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-03-verteilte-systeme/"
+    },
+    {
+     "number": "3.4",
+     "title": "Datenarchitektur und Speicherung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-04-datenarchitektur-und-speicherung/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalierbarkeit, Performance, und Resilienz",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-05-skalierbarkeit-performance-resilienz/"
+    },
+    {
+     "number": "3.6",
+     "title": "Legacy-Modernisierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-06-legacy-modernisierung/"
+    },
+    {
+     "number": "3.7",
+     "title": "Softwarewartung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-07-softwarewartung/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilität und offene Standards",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-08-interoperabilitaet-und-offene-standards/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systems Engineering",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-09-systemtechnik/"
+    },
+    {
+     "number": "3.10",
+     "title": "Eingebettete und Echtzeitsysteme",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-10-eingebettete-und-echtzeitsysteme/"
+    },
+    {
+     "number": "3.11",
+     "title": "Cloud-Architektur",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-11-cloud-architektur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Ereignisgesteuerte Architektur und Messaging",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-12-ereignisgesteuerte-architektur-und-messaging/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netzwerk und Konnektivität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-13-netzwerk-und-konnektivitaet/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multi-Tenancy und SaaS-Architektur",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-14-multi-tenancy-und-saas-architektur/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching und Content-Delivery",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-15-caching-und-content-delivery/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-Gateways und Service Mesh",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-16-api-gateways-und-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Suche und Informationsretrieval",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/03-17-suche-und-informationsretrieval/"
+    },
+    {
+     "number": "4.0",
+     "title": "# 4. Einführung in Teil 4: Sicherheit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-00-sicherheit/"
+    },
+    {
+     "number": "4.1",
+     "title": "Sicherheitsgrundlagen und -kultur",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-01-sicherheitsgrundlagen-und-kultur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Anwendungssicherheit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-02-anwendungssicherheit/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastruktur- und Cloud-Sicherheit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-03-infrastruktur-und-cloud-sicherheit/"
+    },
+    {
+     "number": "4.4",
+     "title": "Sicherheitsbetrieb",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-04-sicherheitsbetrieb/"
+    },
+    {
+     "number": "4.5",
+     "title": "Datenschutz und Datenschutzrecht",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-05-datenschutz-und-datenschutzrecht/"
+    },
+    {
+     "number": "4.6",
+     "title": "Compliance und Governance",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-06-compliance-und-governance/"
+    },
+    {
+     "number": "4.7",
+     "title": "Identitäts- und Zugriffsmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-07-identitaets-und-zugriffsmanagement/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kryptografie und Schlüsselmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-08-kryptografie-und-schluesselmanagement/"
+    },
+    {
+     "number": "4.9",
+     "title": "Sicherer Software-Entwicklungslebenszyklus",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-09-sicherer-software-entwicklungslebenszyklus/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetrationstests und Red Teaming",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/04-10-penetrationstests-und-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Einführung in Teil 5: UI/UX-Design",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-00-benutzeroberflaechen-und-nutzererlebnis-design/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-Grundlagen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-01-ux-grundlagen/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-Design und Designsysteme",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-02-ui-design-und-designsysteme/"
+    },
+    {
+     "number": "5.3",
+     "title": "Barrierefreiheit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-03-barrierefreiheit/"
+    },
+    {
+     "number": "5.4",
+     "title": "Inhalts- und Kommunikationsdesign",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-04-inhalts-und-kommunikationsdesign/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internationalisierung und Lokalisierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-05-internationalisierung-und-lokalisierung/"
+    },
+    {
+     "number": "5.6",
+     "title": "Frontend-Entwicklung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-06-frontend-entwicklung/"
+    },
+    {
+     "number": "5.7",
+     "title": "Mobile Anwendungsentwicklung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-07-mobile-anwendungsentwicklung/"
+    },
+    {
+     "number": "5.8",
+     "title": "Designforschung und Usability-Testen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-08-designforschung-und-usability-testen/"
+    },
+    {
+     "number": "5.9",
+     "title": "Service-Design",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-09-dienstleistungsdesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Datenvisualisierungsdesign",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/05-10-datenvisualisierungsdesign/"
+    },
+    {
+     "number": "6.0",
+     "title": "Einführung in Teil 6: Künstliche Intelligenz",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-00-kuenstliche-intelligenz/"
+    },
+    {
+     "number": "6.1",
+     "title": "KI-Strategie und -Bereitschaft",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-01-ki-strategie-und-bereitschaft/"
+    },
+    {
+     "number": "6.2",
+     "title": "Machine-Learning-Engineering (MLOps)",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-02-betrieb-maschinellen-lernens/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generative KI und LLM-Anwendungen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-03-generative-ki-und-llm-anwendungen/"
+    },
+    {
+     "number": "6.4",
+     "title": "KI-unterstützte Softwareentwicklung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-04-ki-unterstuetzte-softwareentwicklung/"
+    },
+    {
+     "number": "6.5",
+     "title": "Verantwortungsvolle und vertrauenswürdige KI",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-05-verantwortungsvolle-und-vertrauenswuerdige-ki/"
+    },
+    {
+     "number": "6.6",
+     "title": "KI-Infrastruktur und -Betrieb",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-06-ki-infrastruktur-und-betrieb/"
+    },
+    {
+     "number": "6.7",
+     "title": "KI-Agentinnen und agentische Systeme",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-07-ki-agentinnen-und-agentische-systeme/"
+    },
+    {
+     "number": "6.8",
+     "title": "KI-Evaluation und -Testen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-08-ki-evaluation-und-testen/"
+    },
+    {
+     "number": "6.9",
+     "title": "Prompt-Engineering und Kontextdesign",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/06-09-prompt-engineering-und-kontextdesign/"
+    },
+    {
+     "number": "7.0",
+     "title": "Einführung in Teil 7: Daten, Analytik, und Erkenntnis",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-00-daten-analytik-und-erkenntnis/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datenstrategie und -governance",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-01-datenstrategie-und-governance/"
+    },
+    {
+     "number": "7.2",
+     "title": "Data Engineering",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-02-datentechnik/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analytik und Business Intelligence",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-03-analytik-und-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Produktanalytik und Experimentieren",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-04-produktanalytik-und-experimentieren/"
+    },
+    {
+     "number": "7.5",
+     "title": "Entscheidungswissenschaft und datengestützte Kultur",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-05-entscheidungswissenschaft-und-datengestuetzte-kultur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Echtzeit- und Streaming-Daten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-06-echtzeit-und-streaming-daten/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datenmodellierung und die semantische Schicht",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-07-datenmodellierung-und-semantische-schicht/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datenqualität und Beobachtbarkeit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"
+    },
+    {
+     "number": "7.9",
+     "title": "Stammdaten- und Referenzdatenverwaltung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"
+    },
+    {
+     "number": "8.0",
+     "title": "Einführung in Teil 8: Automatisierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-00-automatisierung/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD und Lieferung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-01-ci-cd-und-lieferung/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastructure as Code und Konfiguration",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-02-infrastructure-as-code-und-konfiguration/"
+    },
+    {
+     "number": "8.3",
+     "title": "Container, Orchestrierung, und Cloud-Native",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-03-container-orchestrierung-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Plattform-Engineering und Entwicklererfahrung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-04-plattform-engineering-und-entwicklererfahrung/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test- und Prozessautomatisierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-05-test-und-prozessautomatisierung/"
+    },
+    {
+     "number": "8.6",
+     "title": "Release-Management und progressive Lieferung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-06-release-management-und-progressive-lieferung/"
+    },
+    {
+     "number": "8.7",
+     "title": "Build-Systeme und Artefaktverwaltung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/08-07-build-systeme-und-artefaktverwaltung/"
+    },
+    {
+     "number": "9.0",
+     "title": "Einführung in Teil 9: Betrieb, Zuverlässigkeit, und Beobachtbarkeit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-00-betrieb-und-zuverlaessigkeit/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site Reliability Engineering",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-01-zuverlaessigkeitstechnik-fuer-dienste/"
+    },
+    {
+     "number": "9.2",
+     "title": "Beobachtbarkeit und Telemetrie",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-02-beobachtbarkeit-und-telemetrie/"
+    },
+    {
+     "number": "9.3",
+     "title": "Vorfallmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-03-vorfallmanagement/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kosten, Nachhaltigkeit, und grüne Software",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-04-kosten-nachhaltigkeit-und-gruene-software/"
+    },
+    {
+     "number": "9.5",
+     "title": "Notfallwiederherstellung und Geschäftskontinuität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-05-notfallwiederherstellung-und-geschaeftskontinuitaet/"
+    },
+    {
+     "number": "9.6",
+     "title": "Chaos-Engineering und Resilienztesten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-06-chaos-engineering-und-resilienztesten/"
+    },
+    {
+     "number": "9.7",
+     "title": "Kapazitätsplanung und Bedarfsprognose",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-07-kapazitaetsplanung-und-bedarfsprognose/"
+    },
+    {
+     "number": "9.8",
+     "title": "Bereitschaftsdienst und operative Bereitschaft",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/09-08-bereitschaftsdienst-und-operative-bereitschaft/"
+    },
+    {
+     "number": "10.0",
+     "title": "Einführung in Teil 10: Projekt-/Produkt-/Programmmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-00-projekt-produkt-programmmanagement/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portfolio- und Programmmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-01-portfolio-und-programmmanagement/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risiko, Prüfung, und Sicherstellung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-02-risiko-pruefung-und-sicherstellung/"
+    },
+    {
+     "number": "10.3",
+     "title": "Beschaffung, Open Source, und Lizenzierung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-03-beschaffung-open-source-und-lizenzierung/"
+    },
+    {
+     "number": "10.4",
+     "title": "Große und langlebige Systeme am Laufen halten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-04-grosse-und-langlebige-systeme-am-laufen-halten/"
+    },
+    {
+     "number": "10.5",
+     "title": "Ethik, Rechenschaftspflicht, und öffentliches Interesse",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-05-ethik-rechenschaftspflicht-und-oeffentliches-interesse/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projektmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-06-projektmanagement/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-07-agil/"
+    },
+    {
+     "number": "10.8",
+     "title": "Reifegradmodelle",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-08-reifegradmodelle/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovationspartnerschaft",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-09-innovationspartnerschaft/"
+    },
+    {
+     "number": "10.10",
+     "title": "Software-Engineering-Ökonomie",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-10-software-engineering-oekonomie/"
+    },
+    {
+     "number": "10.11",
+     "title": "Digitale Souveränität",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-11-digitale-souveraenitaet/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open Source versus Closed Source",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-12-open-source-versus-closed-source/"
+    },
+    {
+     "number": "10.13",
+     "title": "Interorganisationale Zusammenarbeit",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-13-interorganisationale-zusammenarbeit/"
+    },
+    {
+     "number": "10.14",
+     "title": "Produktmanagement und Discovery",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-14-produktmanagement-und-discovery/"
+    },
+    {
+     "number": "10.15",
+     "title": "Schätzung und Prognose",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-15-schaetzung-und-prognose/"
+    },
+    {
+     "number": "10.16",
+     "title": "Stakeholder-Management und Kommunikation",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-16-stakeholder-management-und-kommunikation/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisches Veränderungsmanagement",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-17-organisatorisches-veraenderungsmanagement/"
+    },
+    {
+     "number": "10.18",
+     "title": "Open Source Program Office (OSPO) und Upstream-Beitrag",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/10-18-open-source-program-office-ospo-und-upstream-beitrag/"
+    },
+    {
+     "number": "11.0",
+     "title": "Einführung in Teil 11: Fluss: Discovery- und Lieferpipelines",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-00-fluss-discovery-und-lieferpipelines/"
+    },
+    {
+     "number": "11.1",
+     "title": "Die Discovery-Pipeline",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-01-entdeckungs-pipeline/"
+    },
+    {
+     "number": "11.2",
+     "title": "Die Lieferpipeline",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-02-lieferpipeline/"
+    },
+    {
+     "number": "11.3",
+     "title": "Warteschlangentheorie",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-03-warteschlangentheorie/"
+    },
+    {
+     "number": "11.4",
+     "title": "Objectives and Key Results (OKRs)",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-04-objectives-and-key-results-okrs/"
+    },
+    {
+     "number": "11.5",
+     "title": "Key Performance Indicators (KPIs)",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-05-key-performance-indicators-kpis/"
+    },
+    {
+     "number": "11.6",
+     "title": "Value-Stream-Mapping und Verzögerungskosten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/11-06-value-stream-mapping-und-verzoegerungskosten/"
+    },
+    {
+     "number": "12.0",
+     "title": "Anhänge",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-00-anhaenge/"
+    },
+    {
+     "number": "12.1",
+     "title": "Glossar",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-01-glossar/"
+    },
+    {
+     "number": "12.2",
+     "title": "Checklisten",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-02-checklisten/"
+    },
+    {
+     "number": "12.3",
+     "title": "Vorlagen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-03-vorlagen/"
+    },
+    {
+     "number": "12.4",
+     "title": "Reife-Selbsteinschätzung",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-04-reife-selbsteinschaetzung/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referenzen",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-05-referenzen/"
+    },
+    {
+     "number": "12.6",
+     "title": "Übernahme-Roadmap",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-06-uebernahme-roadmap/"
+    },
+    {
+     "number": "12.7",
+     "title": "Index",
+     "url": "https://software-engineering-guide.github.io/de-001/themen/12-07-stichwortverzeichnis/"
+    }
+   ]
+  },
+  {
    "code": "de-de",
    "label": "Deutsch",
    "home": "https://software-engineering-guide.github.io/de-de/",
@@ -8183,6 +8926,1492 @@
      "number": "12.7",
      "title": "Index",
      "url": "https://software-engineering-guide.github.io/fr-001/sujets/12-07-index-des-sujets/"
+    }
+   ]
+  },
+  {
+   "code": "cy-gb",
+   "label": "Cymraeg",
+   "home": "https://software-engineering-guide.github.io/cy-gb/",
+   "topicsSegment": "pynciau",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Cyflwyniad i Ran 1: Pobl",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-00-pobl/"
+    },
+    {
+     "number": "1.1",
+     "title": "Gwerthoedd peirianneg meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-01-gwerthoedd-peirianneg-meddalwedd/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topolegau tîm a chynllun sefydliadol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-02-topolegau-timau/"
+    },
+    {
+     "number": "1.3",
+     "title": "Rolau, ysgolion gyrfa, a thwf",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-03-rolau-ysgolion-gyrfa-twf/"
+    },
+    {
+     "number": "1.4",
+     "title": "Ffyrdd o weithio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-04-ffyrdd-o-weithio/"
+    },
+    {
+     "number": "1.5",
+     "title": "Gwneud penderfyniadau a llywodraethu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-05-gwneud-penderfyniadau-a-llywodraethu/"
+    },
+    {
+     "number": "1.6",
+     "title": "Cofnodion penderfyniadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-06-cofnodion-penderfyniadau/"
+    },
+    {
+     "number": "1.7",
+     "title": "Safonau peirianneg ac eithriadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-07-safonau-peirianneg-ac-eithriadau/"
+    },
+    {
+     "number": "1.8",
+     "title": "Recriwtio, cyfweld, a sefydlu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-08-cyflogi-cyfweld-sefydlu/"
+    },
+    {
+     "number": "1.9",
+     "title": "Gwaith dosbarthedig a phell",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-09-gwaith-dosbarthedig-a-phell/"
+    },
+    {
+     "number": "1.10",
+     "title": "Effeithiolrwydd peirianneg a chynhyrchedd datblygwyr",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-10-effeithiolrwydd-peirianneg-a-chynhyrchedd-datblygwyr/"
+    },
+    {
+     "number": "1.11",
+     "title": "Rheolaeth beirianneg",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-11-rheolaeth-peirianneg/"
+    },
+    {
+     "number": "1.12",
+     "title": "Amrywiaeth, tegwch, cynhwysiant, a pherthyn",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-12-amrywiaeth-tegwch-cynhwysiant-perthyn/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentora, hyfforddi, a rhannu gwybodaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/01-13-mentora-hyfforddi-rhannu-gwybodaeth/"
+    },
+    {
+     "number": "2.0",
+     "title": "Cyflwyniad i Ran 2: Rhaglennu Meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"
+    },
+    {
+     "number": "2.1",
+     "title": "Safonau a steil codio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"
+    },
+    {
+     "number": "2.2",
+     "title": "Egwyddorion cynllunio meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-02-egwyddorion-dylunio-meddalwedd/"
+    },
+    {
+     "number": "2.3",
+     "title": "APIs a dylunio rhyngwynebau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-03-apiau-a-dylunio-rhyngwynebau/"
+    },
+    {
+     "number": "2.4",
+     "title": "Strategaeth brofi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-04-strategaeth-brofi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Adolygiad cod a chydweithio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-05-adolygu-cod-a-chydweithio/"
+    },
+    {
+     "number": "2.6",
+     "title": "Rheolaeth fersiynau a rheoli ffynhonnell",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-06-rheoli-fersiynau-a-rheoli-ffynonellau/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dogfennaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-07-dogfennaeth/"
+    },
+    {
+     "number": "2.8",
+     "title": "Gofynion meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-08-gofynion-meddalwedd/"
+    },
+    {
+     "number": "2.9",
+     "title": "Adeiladu meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-09-adeiladu-meddalwedd/"
+    },
+    {
+     "number": "2.10",
+     "title": "Rheolaeth ffurfweddiad meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-10-rheoli-cyfluniad-meddalwedd/"
+    },
+    {
+     "number": "2.11",
+     "title": "Ansawdd meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-11-ansawdd-meddalwedd/"
+    },
+    {
+     "number": "2.12",
+     "title": "Modelau a dulliau meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-12-modelau-a-dulliau-meddalwedd/"
+    },
+    {
+     "number": "2.13",
+     "title": "Sylfeini cyfrifiadura, mathemategol, a pheirianneg",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-13-sylfeini-cyfrifiadura-mathemategol-peirianyddol/"
+    },
+    {
+     "number": "2.14",
+     "title": "Strwythur prosiect ac ystorfa",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-14-strwythur-prosiect-a-storfa/"
+    },
+    {
+     "number": "2.15",
+     "title": "Dadfygio a datrys problemau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-15-dadfygio-a-datrys-problemau/"
+    },
+    {
+     "number": "2.16",
+     "title": "Peirianneg perfformiad",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-16-peirianneg-perfformiad/"
+    },
+    {
+     "number": "2.17",
+     "title": "Cydredoldeb a Pharaleliaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-17-cydamseroldeb-a-chyfochredd/"
+    },
+    {
+     "number": "2.18",
+     "title": "Rheoli dibyniaethau a chadwyn gyflenwi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-18-rheoli-dibyniaethau-a-chadwyn-gyflenwi/"
+    },
+    {
+     "number": "2.19",
+     "title": "Ailffactora a dyled dechnegol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"
+    },
+    {
+     "number": "2.20",
+     "title": "Trin gwallau a phatrymau cydnerthedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"
+    },
+    {
+     "number": "2.21",
+     "title": "Systemau mathau a dadansoddiad statig",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/02-21-systemau-math-a-dadansoddi-statig/"
+    },
+    {
+     "number": "3.0",
+     "title": "Cyflwyniad i Ran 3: Systemau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-00-systemau/"
+    },
+    {
+     "number": "3.1",
+     "title": "Sylfeini pensaernïaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-01-sylfeini-pensaernïaeth/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arddulliau a phatrymau pensaernïol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-02-arddulliau-a-phatrymau-pensaernïol/"
+    },
+    {
+     "number": "3.3",
+     "title": "Systemau dosbarthedig",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-03-systemau-dosbarthedig/"
+    },
+    {
+     "number": "3.4",
+     "title": "Pensaernïaeth a storio data",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-04-pensaernïaeth-data-a-storio/"
+    },
+    {
+     "number": "3.5",
+     "title": "Graddadwyedd, perfformiad, a gwydnwch",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-05-graddoldeb-perfformiad-gwydnwch/"
+    },
+    {
+     "number": "3.6",
+     "title": "Moderneiddio systemau etifeddol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-06-moderneiddio-systemau-etifeddol/"
+    },
+    {
+     "number": "3.7",
+     "title": "Cynnal a chadw meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-07-cynnal-a-chadw-meddalwedd/"
+    },
+    {
+     "number": "3.8",
+     "title": "Rhyngweithredu a safonau agored",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-08-rhyngweithredoldeb-a-safonau-agored/"
+    },
+    {
+     "number": "3.9",
+     "title": "Peirianneg systemau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-09-peirianneg-systemau/"
+    },
+    {
+     "number": "3.10",
+     "title": "Systemau mewnadeiladedig ac amser-real",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-10-systemau-mewnadeiladedig-ac-amser-real/"
+    },
+    {
+     "number": "3.11",
+     "title": "Pensaernïaeth cwmwl",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-11-pensaernïaeth-cwmwl/"
+    },
+    {
+     "number": "3.12",
+     "title": "Pensaernïaeth wedi'i gyrru gan ddigwyddiadau a negesu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-12-pensaernïaeth-a-yrrir-gan-ddigwyddiadau-a-negeseua/"
+    },
+    {
+     "number": "3.13",
+     "title": "Rhwydweithio a chysylltedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-13-rhwydweithio-a-chysylltedd/"
+    },
+    {
+     "number": "3.14",
+     "title": "Aml-ddeiliadaeth a phensaernïaeth SaaS",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-14-amlddeiliadaeth-a-phensaernïaeth-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Storio dros dro (caching) a chyflenwi cynnwys",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-15-storio-cyflym-a-dosbarthu-cynnwys/"
+    },
+    {
+     "number": "3.16",
+     "title": "Gatiau API a rhwyll gwasanaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-16-pyrth-api-a-rhwyll-gwasanaethau/"
+    },
+    {
+     "number": "3.17",
+     "title": "Chwilio ac adalw gwybodaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/03-17-chwilio-ac-adalw-gwybodaeth/"
+    },
+    {
+     "number": "4.0",
+     "title": "Cyflwyniad i Ran 4: Diogelwch",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-00-diogelwch/"
+    },
+    {
+     "number": "4.1",
+     "title": "Sylfeini a diwylliant diogelwch",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-01-sylfeini-a-diwylliant-diogelwch/"
+    },
+    {
+     "number": "4.2",
+     "title": "Diogelwch cymwysiadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-02-diogelwch-cymwysiadau/"
+    },
+    {
+     "number": "4.3",
+     "title": "Seilwaith a diogelwch cwmwl",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-03-diogelwch-seilwaith-a-chwmwl/"
+    },
+    {
+     "number": "4.4",
+     "title": "Gweithrediadau diogelwch",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-04-gweithrediadau-diogelwch/"
+    },
+    {
+     "number": "4.5",
+     "title": "Preifatrwydd a diogelu data",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-05-preifatrwydd-a-diogelu-data/"
+    },
+    {
+     "number": "4.6",
+     "title": "Cydymffurfiaeth a llywodraethu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-06-cydymffurfiaeth-a-llywodraethu/"
+    },
+    {
+     "number": "4.7",
+     "title": "Rheoli hunaniaeth a mynediad",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-07-rheoli-hunaniaeth-a-mynediad/"
+    },
+    {
+     "number": "4.8",
+     "title": "Cryptograffeg a rheoli allweddi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-08-cryptograffeg-a-rheoli-allweddi/"
+    },
+    {
+     "number": "4.9",
+     "title": "Cylchred datblygu meddalwedd diogel",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-09-cylchred-datblygu-meddalwedd-diogel/"
+    },
+    {
+     "number": "4.10",
+     "title": "Profi treiddiad a thimau coch",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/04-10-profi-treiddiad-a-thimau-coch/"
+    },
+    {
+     "number": "5.0",
+     "title": "Cyflwyniad i Ran 5: Dylunio UI/UX",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-00-dylunio-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Sylfeini UX",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-01-sylfeini-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Dylunio UI a systemau dylunio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-02-dylunio-ui-a-systemau-dylunio/"
+    },
+    {
+     "number": "5.3",
+     "title": "Hygyrchedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-03-hygyrchedd/"
+    },
+    {
+     "number": "5.4",
+     "title": "Dylunio cynnwys a chyfathrebu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-04-dylunio-cynnwys-a-chyfathrebu/"
+    },
+    {
+     "number": "5.5",
+     "title": "Rhyngwladoli a lleoleiddio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-05-rhyngwladoli-a-lleoleiddio/"
+    },
+    {
+     "number": "5.6",
+     "title": "Peirianneg Frontend",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-06-peirianneg-blaen-ben/"
+    },
+    {
+     "number": "5.7",
+     "title": "Datblygu rhaglenni symudol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-07-datblygu-cymwysiadau-symudol/"
+    },
+    {
+     "number": "5.8",
+     "title": "Ymchwil dylunio a phrofi defnyddioldeb",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-08-ymchwil-dylunio-a-phrofi-defnyddioldeb/"
+    },
+    {
+     "number": "5.9",
+     "title": "Dylunio gwasanaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-09-dylunio-gwasanaethau/"
+    },
+    {
+     "number": "5.10",
+     "title": "Dylunio delweddu data",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/05-10-dylunio-delweddu-data/"
+    },
+    {
+     "number": "6.0",
+     "title": "Cyflwyniad i Ran 6: Deallusrwydd Artiffisial",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-00-deallusrwydd-artiffisial/"
+    },
+    {
+     "number": "6.1",
+     "title": "Strategaeth a pharodrwydd DA",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-01-strategaeth-a-pharodrwydd-ai/"
+    },
+    {
+     "number": "6.2",
+     "title": "Peirianneg dysgu peiriant (MLOps)",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-02-gweithrediadau-dysgu-peirianyddol/"
+    },
+    {
+     "number": "6.3",
+     "title": "Cymhwysiadau AI generadigol ac LLM",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-03-ai-cynhyrchiol-a-chymwysiadau-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Datblygu meddalwedd â chymorth AI",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-04-datblygu-meddalwedd-gyda-chymorth-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI cyfrifol a dibynadwy",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-05-ai-cyfrifol-a-dibynadwy/"
+    },
+    {
+     "number": "6.6",
+     "title": "Seilwaith a gweithrediadau AI",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-06-seilwaith-a-gweithrediadau-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Asiantau deallusrwydd artiffisial a systemau asiantol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-07-asiantau-ai-a-systemau-asiantol/"
+    },
+    {
+     "number": "6.8",
+     "title": "Gwerthuso a phrofi AI",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-08-gwerthuso-a-phrofi-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Peirianneg prompt a chynllunio cyd-destun",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/06-09-peirianneg-anogiadau-a-dylunio-cyd-destun/"
+    },
+    {
+     "number": "7.0",
+     "title": "Cyflwyniad i Ran 7: Data, Dadansoddeg, a Mewnwelediad",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-00-data-a-dadansoddeg/"
+    },
+    {
+     "number": "7.1",
+     "title": "Strategaeth a llywodraethu data",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-01-strategaeth-a-llywodraethu-data/"
+    },
+    {
+     "number": "7.2",
+     "title": "Peirianneg data",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-02-peirianneg-data/"
+    },
+    {
+     "number": "7.3",
+     "title": "Dadansoddeg a chudd-wybodaeth fusnes",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-03-dadansoddeg-a-gwybodaeth-fusnes/"
+    },
+    {
+     "number": "7.4",
+     "title": "Dadansoddeg cynnyrch ac arbrofi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-04-dadansoddeg-cynnyrch-ac-arbrofi/"
+    },
+    {
+     "number": "7.5",
+     "title": "Gwyddoniaeth penderfyniadau a diwylliant wedi'i lywio gan ddata",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-05-gwyddor-penderfyniadau-a-diwylliant-data/"
+    },
+    {
+     "number": "7.6",
+     "title": "Data amser real a ffrydio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-06-data-amser-real-a-ffrydiol/"
+    },
+    {
+     "number": "7.7",
+     "title": "Modelu data a'r haen semantig",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-07-modelu-data-a-haen-semantig/"
+    },
+    {
+     "number": "7.8",
+     "title": "Ansawdd data ac arsylwadaeth",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"
+    },
+    {
+     "number": "7.9",
+     "title": "Rheoli data meistr a data cyfeirio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"
+    },
+    {
+     "number": "8.0",
+     "title": "Cyflwyniad i Ran 8: Awtomeiddio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-00-awtomeiddio/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD a thraddodi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-01-ci-cd-a-danfon/"
+    },
+    {
+     "number": "8.2",
+     "title": "Seilwaith fel cod a ffurfweddiad",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"
+    },
+    {
+     "number": "8.3",
+     "title": "Cynwysyddion, cerdorfa, a brodorol-cwmwl",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"
+    },
+    {
+     "number": "8.4",
+     "title": "Peirianneg platfform a phrofiad datblygwyr",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-04-peirianneg-platfform-a-devex/"
+    },
+    {
+     "number": "8.5",
+     "title": "Awtomeiddio profi a phrosesau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-05-awtomeiddio-profi-a-phrosesau/"
+    },
+    {
+     "number": "8.6",
+     "title": "Rheoli rhyddhau a chyflenwi blaengar",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-06-rheoli-rhyddhau-a-danfon-cynyddol/"
+    },
+    {
+     "number": "8.7",
+     "title": "Systemau adeiladu a rheoli arteffactau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/08-07-systemau-adeiladu-a-rheoli-arteffactau/"
+    },
+    {
+     "number": "9.0",
+     "title": "Cyflwyniad i Ran 9: Gweithrediadau, Dibynadwyedd, ac Arsylladwyedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-00-gweithrediadau-a-dibynadwyedd/"
+    },
+    {
+     "number": "9.1",
+     "title": "Peirianneg dibynadwyedd safle",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-01-peirianneg-dibynadwyedd-safle/"
+    },
+    {
+     "number": "9.2",
+     "title": "Arsylladwyedd a thelemetreg",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-02-arsylladwyedd-a-thelemetreg/"
+    },
+    {
+     "number": "9.3",
+     "title": "Rheoli digwyddiadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-03-rheoli-digwyddiadau/"
+    },
+    {
+     "number": "9.4",
+     "title": "Cost, cynaliadwyedd, a meddalwedd gwyrdd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-04-cost-cynaliadwyedd-meddalwedd-werdd/"
+    },
+    {
+     "number": "9.5",
+     "title": "Adfer trychineb a pharhad busnes",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-05-adfer-o-drychineb-a-pharhad-busnes/"
+    },
+    {
+     "number": "9.6",
+     "title": "Peirianneg anhrefn a phrofi cydnerthedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"
+    },
+    {
+     "number": "9.7",
+     "title": "Cynllunio capasiti a rhagolygu galw",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"
+    },
+    {
+     "number": "9.8",
+     "title": "Ar-alwad a pharodrwydd gweithredol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"
+    },
+    {
+     "number": "10.0",
+     "title": "Cyflwyniad i Ran 10: Rheoli Prosiectau/Cynnyrch/Rhaglenni",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-00-rheoli-prosiectau-cynhyrchion-rhaglenni/"
+    },
+    {
+     "number": "10.1",
+     "title": "Rheolaeth portffolio a rhaglenni",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-01-rheoli-portffolio-a-rhaglenni/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risg, archwilio, a sicrwydd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-02-risg-archwilio-a-sicrwydd/"
+    },
+    {
+     "number": "10.3",
+     "title": "Caffael, cod agored, a thrwyddedu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-03-caffael-cod-agored-a-thrwyddedu/"
+    },
+    {
+     "number": "10.4",
+     "title": "Cynnal systemau mawr a hirhoedlog",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-04-cynnal-systemau-mawr-hirhoedlog/"
+    },
+    {
+     "number": "10.5",
+     "title": "Moeseg, atebolrwydd, a budd y cyhoedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-05-moeseg-atebolrwydd-lles-cyhoeddus/"
+    },
+    {
+     "number": "10.6",
+     "title": "Rheoli prosiectau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-06-rheoli-prosiectau/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-07-ystwyth/"
+    },
+    {
+     "number": "10.8",
+     "title": "Modelau aeddfedrwydd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-08-modelau-aeddfedrwydd/"
+    },
+    {
+     "number": "10.9",
+     "title": "Partneriaeth arloesi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-09-partneriaeth-arloesi/"
+    },
+    {
+     "number": "10.10",
+     "title": "Economeg peirianneg meddalwedd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-10-economeg-peirianneg-meddalwedd/"
+    },
+    {
+     "number": "10.11",
+     "title": "Sofraniaeth ddigidol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-11-sofraniaeth-ddigidol/"
+    },
+    {
+     "number": "10.12",
+     "title": "Cod agored yn erbyn cod caeedig",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-12-cod-agored-yn-erbyn-cod-caeedig/"
+    },
+    {
+     "number": "10.13",
+     "title": "Cydweithredu rhwng sefydliadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-13-cydweithio-rhwng-sefydliadau/"
+    },
+    {
+     "number": "10.14",
+     "title": "Rheolaeth cynnyrch a darganfod",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-14-rheoli-cynnyrch-a-darganfod/"
+    },
+    {
+     "number": "10.15",
+     "title": "Amcangyfrif a rhagolygon",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-15-amcangyfrif-a-rhagolygu/"
+    },
+    {
+     "number": "10.16",
+     "title": "Rheolaeth rhanddeiliaid a chyfathrebu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-16-rheoli-rhanddeiliaid-a-chyfathrebu/"
+    },
+    {
+     "number": "10.17",
+     "title": "Rheolaeth newid sefydliadol",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-17-rheoli-newid-sefydliadol/"
+    },
+    {
+     "number": "10.18",
+     "title": "Swyddfa rhaglen cod agored (OSPO) a chyfrannu i'r prif brosiect",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/10-18-swyddfa-rhaglenni-cod-agored/"
+    },
+    {
+     "number": "11.0",
+     "title": "Cyflwyniad i Ran 11: Llif: Darganfod a Phiblinellau Cyflenwi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-00-llif-darganfod-a-danfon/"
+    },
+    {
+     "number": "11.1",
+     "title": "Y biblinell ddarganfod",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-01-piblinell-ddarganfod/"
+    },
+    {
+     "number": "11.2",
+     "title": "Y biblinell ddanfon",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-02-piblinell-ddanfon/"
+    },
+    {
+     "number": "11.3",
+     "title": "Theori ciwio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-03-damcaniaeth-ciwio/"
+    },
+    {
+     "number": "11.4",
+     "title": "Amcanion a chanlyniadau allweddol (OKRs)",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-04-amcanion-a-chanlyniadau-allweddol/"
+    },
+    {
+     "number": "11.5",
+     "title": "Dangosyddion perfformiad allweddol (KPIs)",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-05-dangosyddion-perfformiad-allweddol/"
+    },
+    {
+     "number": "11.6",
+     "title": "Mapio ffrwd werth a chost oedi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/11-06-mapio-ffrwd-werth-a-chost-oedi/"
+    },
+    {
+     "number": "12.0",
+     "title": "Atodiadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-00-atodiadau/"
+    },
+    {
+     "number": "12.1",
+     "title": "Geirfa",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-01-geirfa/"
+    },
+    {
+     "number": "12.2",
+     "title": "Rhestrau gwirio",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-02-rhestrau-gwirio/"
+    },
+    {
+     "number": "12.3",
+     "title": "Templedi",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-03-templedi/"
+    },
+    {
+     "number": "12.4",
+     "title": "Hunanasesiad aeddfedrwydd",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-04-hunanasesiad-aeddfedrwydd/"
+    },
+    {
+     "number": "12.5",
+     "title": "Cyfeiriadau",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-05-cyfeiriadau/"
+    },
+    {
+     "number": "12.6",
+     "title": "Map ffordd mabwysiadu",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-06-map-ffordd-mabwysiadu/"
+    },
+    {
+     "number": "12.7",
+     "title": "Mynegai",
+     "url": "https://software-engineering-guide.github.io/cy-gb/pynciau/12-07-mynegai/"
+    }
+   ]
+  },
+  {
+   "code": "hi-in",
+   "label": "हिन्दी",
+   "home": "https://software-engineering-guide.github.io/hi-in/",
+   "topicsSegment": "विषय",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "भाग 1 का परिचय: लोग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-00-लोग/"
+    },
+    {
+     "number": "1.1",
+     "title": "सॉफ़्टवेयर इंजीनियरिंग मूल्य",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-01-सॉफ़्टवेयर-इंजीनियरिंग-मूल्य/"
+    },
+    {
+     "number": "1.2",
+     "title": "टीम टोपोलॉजी और संगठनात्मक डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-02-टीम-टोपोलॉजी/"
+    },
+    {
+     "number": "1.3",
+     "title": "भूमिकाएँ, करियर सीढ़ी, और विकास",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-03-भूमिकाएँ-करियर-सीढ़ी-और-विकास/"
+    },
+    {
+     "number": "1.4",
+     "title": "काम करने के तरीके",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-04-काम-करने-के-तरीके/"
+    },
+    {
+     "number": "1.5",
+     "title": "निर्णय-लेना और शासन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-05-निर्णय-लेना-और-शासन/"
+    },
+    {
+     "number": "1.6",
+     "title": "निर्णय अभिलेख",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-06-निर्णय-अभिलेख/"
+    },
+    {
+     "number": "1.7",
+     "title": "इंजीनियरिंग मानक और अपवाद",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-07-इंजीनियरिंग-मानक-और-अपवाद/"
+    },
+    {
+     "number": "1.8",
+     "title": "भर्ती, साक्षात्कार, और ऑनबोर्डिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-08-भर्ती-साक्षात्कार-और-ऑनबोर्डिंग/"
+    },
+    {
+     "number": "1.9",
+     "title": "वितरित और रिमोट कार्य",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-09-वितरित-और-दूरस्थ-कार्य/"
+    },
+    {
+     "number": "1.10",
+     "title": "इंजीनियरिंग प्रभावशीलता और डेवलपर प्रोडक्टिविटी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-10-इंजीनियरिंग-प्रभावशीलता-और-डेवलपर-उत्पादकता/"
+    },
+    {
+     "number": "1.11",
+     "title": "इंजीनियरिंग प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-11-इंजीनियरिंग-प्रबंधन/"
+    },
+    {
+     "number": "1.12",
+     "title": "विविधता, समता, समावेशन, और अपनेपन की भावना",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-12-विविधता-समता-समावेशन-और-अपनापन/"
+    },
+    {
+     "number": "1.13",
+     "title": "मार्गदर्शन, कोचिंग, और ज्ञान साझाकरण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/01-13-मेंटरिंग-कोचिंग-और-ज्ञान-साझाकरण/"
+    },
+    {
+     "number": "2.0",
+     "title": "भाग 2 का परिचय: सॉफ़्टवेयर प्रोग्रामिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"
+    },
+    {
+     "number": "2.1",
+     "title": "कोडिंग मानक और शैली",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"
+    },
+    {
+     "number": "2.2",
+     "title": "सॉफ़्टवेयर डिज़ाइन सिद्धांत",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-02-सॉफ़्टवेयर-डिज़ाइन-सिद्धांत/"
+    },
+    {
+     "number": "2.3",
+     "title": "API और इंटरफ़ेस डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-03-एपीआई-और-इंटरफ़ेस-डिज़ाइन/"
+    },
+    {
+     "number": "2.4",
+     "title": "टेस्टिंग रणनीति",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-04-परीक्षण-रणनीति/"
+    },
+    {
+     "number": "2.5",
+     "title": "कोड समीक्षा और सहयोग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-05-कोड-समीक्षा-और-सहयोग/"
+    },
+    {
+     "number": "2.6",
+     "title": "वर्ज़न कंट्रोल और सोर्स प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-06-वर्शन-नियंत्रण-और-स्रोत-प्रबंधन/"
+    },
+    {
+     "number": "2.7",
+     "title": "दस्तावेज़ीकरण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-07-दस्तावेज़ीकरण/"
+    },
+    {
+     "number": "2.8",
+     "title": "सॉफ़्टवेयर आवश्यकताएँ",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-08-सॉफ़्टवेयर-आवश्यकताएँ/"
+    },
+    {
+     "number": "2.9",
+     "title": "सॉफ़्टवेयर निर्माण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-09-सॉफ़्टवेयर-निर्माण/"
+    },
+    {
+     "number": "2.10",
+     "title": "सॉफ़्टवेयर कॉन्फ़िगरेशन प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-10-सॉफ़्टवेयर-कॉन्फ़िगरेशन-प्रबंधन/"
+    },
+    {
+     "number": "2.11",
+     "title": "सॉफ़्टवेयर गुणवत्ता",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-11-सॉफ़्टवेयर-गुणवत्ता/"
+    },
+    {
+     "number": "2.12",
+     "title": "सॉफ़्टवेयर मॉडल और विधियां",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-12-सॉफ़्टवेयर-मॉडल-और-विधियाँ/"
+    },
+    {
+     "number": "2.13",
+     "title": "कंप्यूटिंग, गणितीय, और इंजीनियरिंग आधार",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-13-कंप्यूटिंग-गणितीय-और-इंजीनियरिंग-नींव/"
+    },
+    {
+     "number": "2.14",
+     "title": "प्रोजेक्ट और रिपॉज़िटरी संरचना",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-14-परियोजना-और-रिपॉज़िटरी-संरचना/"
+    },
+    {
+     "number": "2.15",
+     "title": "डिबगिंग और समस्या निवारण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-15-डिबगिंग-और-समस्या-निवारण/"
+    },
+    {
+     "number": "2.16",
+     "title": "प्रदर्शन इंजीनियरिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-16-परफॉर्मेंस-इंजीनियरिंग/"
+    },
+    {
+     "number": "2.17",
+     "title": "समवर्तीता और समानांतरता",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-17-समरूपता-और-समांतरता/"
+    },
+    {
+     "number": "2.18",
+     "title": "निर्भरता और आपूर्ति-श्रृंखला प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-18-निर्भरता-और-आपूर्ति-श्रृंखला-प्रबंधन/"
+    },
+    {
+     "number": "2.19",
+     "title": "रीफ़ैक्टरिंग और तकनीकी ऋण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"
+    },
+    {
+     "number": "2.20",
+     "title": "त्रुटि प्रबंधन और रेज़िलिएंस पैटर्न",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"
+    },
+    {
+     "number": "2.21",
+     "title": "टाइप सिस्टम और स्टैटिक विश्लेषण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/02-21-टाइप-सिस्टम-और-स्थैतिक-विश्लेषण/"
+    },
+    {
+     "number": "3.0",
+     "title": "भाग 3 का परिचय: सिस्टम",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-00-प्रणालियाँ/"
+    },
+    {
+     "number": "3.1",
+     "title": "आर्किटेक्चर की बुनियादी बातें",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-01-आर्किटेक्चर-की-बुनियादी-बातें/"
+    },
+    {
+     "number": "3.2",
+     "title": "आर्किटेक्चरल शैलियाँ और पैटर्न",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-02-वास्तुशिल्प-शैलियाँ-और-पैटर्न/"
+    },
+    {
+     "number": "3.3",
+     "title": "वितरित सिस्टम",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-03-वितरित-प्रणालियाँ/"
+    },
+    {
+     "number": "3.4",
+     "title": "डेटा आर्किटेक्चर और स्टोरेज",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-04-डेटा-आर्किटेक्चर-और-भंडारण/"
+    },
+    {
+     "number": "3.5",
+     "title": "स्केलेबिलिटी, प्रदर्शन, और रेज़िलिएंस",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-05-स्केलेबिलिटी-प्रदर्शन-और-लचीलापन/"
+    },
+    {
+     "number": "3.6",
+     "title": "लेगेसी आधुनिकीकरण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-06-लीगेसी-आधुनिकीकरण/"
+    },
+    {
+     "number": "3.7",
+     "title": "सॉफ़्टवेयर अनुरक्षण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-07-सॉफ़्टवेयर-रखरखाव/"
+    },
+    {
+     "number": "3.8",
+     "title": "इंटरऑपरेबिलिटी और ओपन स्टैंडर्ड",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-08-इंटरऑपरेबिलिटी-और-खुले-मानक/"
+    },
+    {
+     "number": "3.9",
+     "title": "सिस्टम्स इंजीनियरिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-09-सिस्टम्स-इंजीनियरिंग/"
+    },
+    {
+     "number": "3.10",
+     "title": "एम्बेडेड और रियल-टाइम सिस्टम",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-10-एम्बेडेड-और-रियल-टाइम-प्रणालियाँ/"
+    },
+    {
+     "number": "3.11",
+     "title": "क्लाउड आर्किटेक्चर",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-11-क्लाउड-आर्किटेक्चर/"
+    },
+    {
+     "number": "3.12",
+     "title": "इवेंट-संचालित आर्किटेक्चर और मैसेजिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-12-इवेंट-आधारित-आर्किटेक्चर-और-मैसेजिंग/"
+    },
+    {
+     "number": "3.13",
+     "title": "नेटवर्किंग और कनेक्टिविटी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-13-नेटवर्किंग-और-कनेक्टिविटी/"
+    },
+    {
+     "number": "3.14",
+     "title": "मल्टी-टेनेंसी और SaaS आर्किटेक्चर",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-14-मल्टी-टेनेंसी-और-SaaS-आर्किटेक्चर/"
+    },
+    {
+     "number": "3.15",
+     "title": "कैशिंग और सामग्री वितरण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-15-कैशिंग-और-कंटेंट-डिलीवरी/"
+    },
+    {
+     "number": "3.16",
+     "title": "API गेटवे और सर्विस मेश",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-16-एपीआई-गेटवे-और-सर्विस-मेश/"
+    },
+    {
+     "number": "3.17",
+     "title": "खोज और सूचना पुनर्प्राप्ति",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/03-17-खोज-और-सूचना-पुनर्प्राप्ति/"
+    },
+    {
+     "number": "4.0",
+     "title": "भाग 4 का परिचय: सुरक्षा",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-00-सुरक्षा/"
+    },
+    {
+     "number": "4.1",
+     "title": "सुरक्षा की नींव और संस्कृति",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-01-सुरक्षा-की-नींव-और-संस्कृति/"
+    },
+    {
+     "number": "4.2",
+     "title": "एप्लिकेशन सुरक्षा",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-02-एप्लिकेशन-सुरक्षा/"
+    },
+    {
+     "number": "4.3",
+     "title": "इन्फ्रास्ट्रक्चर और क्लाउड सुरक्षा",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-03-इंफ्रास्ट्रक्चर-और-क्लाउड-सुरक्षा/"
+    },
+    {
+     "number": "4.4",
+     "title": "सुरक्षा संचालन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-04-सुरक्षा-संचालन/"
+    },
+    {
+     "number": "4.5",
+     "title": "गोपनीयता और डेटा संरक्षण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-05-गोपनीयता-और-डेटा-सुरक्षा/"
+    },
+    {
+     "number": "4.6",
+     "title": "अनुपालन और गवर्नेंस",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-06-अनुपालन-और-गवर्नेंस/"
+    },
+    {
+     "number": "4.7",
+     "title": "पहचान और पहुँच प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-07-पहचान-और-पहुँच-प्रबंधन/"
+    },
+    {
+     "number": "4.8",
+     "title": "क्रिप्टोग्राफी और कुंजी प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-08-क्रिप्टोग्राफी-और-कुंजी-प्रबंधन/"
+    },
+    {
+     "number": "4.9",
+     "title": "सुरक्षित सॉफ़्टवेयर विकास जीवनचक्र",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-09-सुरक्षित-सॉफ़्टवेयर-विकास-जीवनचक्र/"
+    },
+    {
+     "number": "4.10",
+     "title": "पेनेट्रेशन टेस्टिंग और रेड टीमिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/04-10-पेनेट्रेशन-टेस्टिंग-और-रेड-टीमिंग/"
+    },
+    {
+     "number": "5.0",
+     "title": "भाग 5 का परिचय: UI/UX डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-00-यूआई-यूएक्स-डिज़ाइन/"
+    },
+    {
+     "number": "5.1",
+     "title": "यूएक्स की बुनियादी बातें",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-01-यूएक्स-की-बुनियादी-बातें/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI डिज़ाइन और डिज़ाइन सिस्टम",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-02-यूआई-डिज़ाइन-और-डिज़ाइन-सिस्टम/"
+    },
+    {
+     "number": "5.3",
+     "title": "एक्सेसिबिलिटी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-03-सुगम्यता/"
+    },
+    {
+     "number": "5.4",
+     "title": "सामग्री और संचार डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-04-सामग्री-और-संचार-डिज़ाइन/"
+    },
+    {
+     "number": "5.5",
+     "title": "अंतर्राष्ट्रीयकरण और स्थानीयकरण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-05-अंतरराष्ट्रीयकरण-और-स्थानीयकरण/"
+    },
+    {
+     "number": "5.6",
+     "title": "फ्रंटएंड इंजीनियरिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-06-फ्रंटएंड-इंजीनियरिंग/"
+    },
+    {
+     "number": "5.7",
+     "title": "मोबाइल एप्लिकेशन विकास",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-07-मोबाइल-एप्लिकेशन-विकास/"
+    },
+    {
+     "number": "5.8",
+     "title": "डिज़ाइन शोध और उपयोगिता परीक्षण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-08-डिज़ाइन-रिसर्च-और-उपयोगिता-परीक्षण/"
+    },
+    {
+     "number": "5.9",
+     "title": "सेवा डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-09-सेवा-डिज़ाइन/"
+    },
+    {
+     "number": "5.10",
+     "title": "डेटा विज़ुअलाइज़ेशन डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/05-10-डेटा-विज़ुअलाइज़ेशन-डिज़ाइन/"
+    },
+    {
+     "number": "6.0",
+     "title": "भाग 6 का परिचय: कृत्रिम बुद्धिमत्ता",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-00-कृत्रिम-बुद्धिमत्ता/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI रणनीति और तैयारी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-01-एआई-रणनीति-और-तैयारी/"
+    },
+    {
+     "number": "6.2",
+     "title": "मशीन लर्निंग इंजीनियरिंग (एमएलऑप्स)",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-02-एमएलऑप्स/"
+    },
+    {
+     "number": "6.3",
+     "title": "जेनेरेटिव AI और LLM एप्लिकेशन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-03-जेनेरेटिव-एआई-और-एलएलएम-अनुप्रयोग/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-सहायता प्राप्त सॉफ़्टवेयर विकास",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-04-एआई-सहायता-प्राप्त-सॉफ़्टवेयर-विकास/"
+    },
+    {
+     "number": "6.5",
+     "title": "उत्तरदायी और भरोसेमंद AI",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-05-ज़िम्मेदार-और-भरोसेमंद-एआई/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI इन्फ्रास्ट्रक्चर और संचालन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-06-एआई-इंफ्रास्ट्रक्चर-और-संचालन/"
+    },
+    {
+     "number": "6.7",
+     "title": "एआई एजेंट और एजेंटिक प्रणालियाँ",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-07-एआई-एजेंट-और-एजेंटिक-प्रणालियाँ/"
+    },
+    {
+     "number": "6.8",
+     "title": "एआई मूल्यांकन और परीक्षण",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-08-एआई-मूल्यांकन-और-परीक्षण/"
+    },
+    {
+     "number": "6.9",
+     "title": "प्रॉम्प्ट इंजीनियरिंग और कॉन्टेक्स्ट डिज़ाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/06-09-प्रॉम्प्ट-इंजीनियरिंग-और-संदर्भ-डिज़ाइन/"
+    },
+    {
+     "number": "7.0",
+     "title": "भाग 7 का परिचय: डेटा, एनालिटिक्स, और इनसाइट",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-00-डेटा-और-एनालिटिक्स/"
+    },
+    {
+     "number": "7.1",
+     "title": "डेटा रणनीति और गवर्नेंस",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-01-डेटा-रणनीति-और-गवर्नेंस/"
+    },
+    {
+     "number": "7.2",
+     "title": "डेटा इंजीनियरिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-02-डेटा-इंजीनियरिंग/"
+    },
+    {
+     "number": "7.3",
+     "title": "विश्लेषिकी और बिज़नेस इंटेलिजेंस",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-03-एनालिटिक्स-और-बिज़नेस-इंटेलिजेंस/"
+    },
+    {
+     "number": "7.4",
+     "title": "प्रोडक्ट एनालिटिक्स और प्रयोग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-04-प्रोडक्ट-एनालिटिक्स-और-प्रयोग/"
+    },
+    {
+     "number": "7.5",
+     "title": "निर्णय विज्ञान और डेटा-सूचित संस्कृति",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-05-डिसीज़न-साइंस-और-डेटा-संस्कृति/"
+    },
+    {
+     "number": "7.6",
+     "title": "रियल-टाइम और स्ट्रीमिंग डेटा",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-06-रियल-टाइम-और-स्ट्रीमिंग-डेटा/"
+    },
+    {
+     "number": "7.7",
+     "title": "डेटा मॉडलिंग और सिमेंटिक लेयर",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-07-डेटा-मॉडलिंग-और-सिमेंटिक-लेयर/"
+    },
+    {
+     "number": "7.8",
+     "title": "डेटा गुणवत्ता और ऑब्ज़र्वेबिलिटी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"
+    },
+    {
+     "number": "7.9",
+     "title": "मास्टर डेटा और संदर्भ डेटा प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"
+    },
+    {
+     "number": "8.0",
+     "title": "भाग 8 का परिचय: स्वचालन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-00-स्वचालन/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD और डिलीवरी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-01-सीआई-सीडी-और-डिलीवरी/"
+    },
+    {
+     "number": "8.2",
+     "title": "इन्फ्रास्ट्रक्चर ऐज़ कोड और कॉन्फ़िगरेशन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"
+    },
+    {
+     "number": "8.3",
+     "title": "कंटेनर, ऑर्केस्ट्रेशन, और क्लाउड-नेटिव",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"
+    },
+    {
+     "number": "8.4",
+     "title": "प्लेटफ़ॉर्म इंजीनियरिंग और डेवलपर अनुभव",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-04-प्लेटफ़ॉर्म-इंजीनियरिंग-और-डेवएक्स/"
+    },
+    {
+     "number": "8.5",
+     "title": "टेस्ट और प्रक्रिया स्वचालन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-05-परीक्षण-और-प्रक्रिया-स्वचालन/"
+    },
+    {
+     "number": "8.6",
+     "title": "रिलीज़ प्रबंधन और प्रोग्रेसिव डिलीवरी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-06-रिलीज़-प्रबंधन-और-प्रोग्रेसिव-डिलीवरी/"
+    },
+    {
+     "number": "8.7",
+     "title": "बिल्ड सिस्टम और आर्टिफैक्ट प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/08-07-बिल्ड-सिस्टम-और-आर्टिफैक्ट-प्रबंधन/"
+    },
+    {
+     "number": "9.0",
+     "title": "भाग 9 का परिचय: संचालन, विश्वसनीयता, और ऑब्ज़र्वेबिलिटी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-00-संचालन-और-विश्वसनीयता/"
+    },
+    {
+     "number": "9.1",
+     "title": "साइट रिलायबिलिटी इंजीनियरिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-01-साइट-रिलायबिलिटी-इंजीनियरिंग/"
+    },
+    {
+     "number": "9.2",
+     "title": "ऑब्ज़र्वेबिलिटी और टेलीमेट्री",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-02-ऑब्ज़र्वेबिलिटी-और-टेलीमेट्री/"
+    },
+    {
+     "number": "9.3",
+     "title": "घटना प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-03-इंसिडेंट-प्रबंधन/"
+    },
+    {
+     "number": "9.4",
+     "title": "लागत, सततता, और ग्रीन सॉफ़्टवेयर",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-04-लागत-स्थिरता-और-ग्रीन-सॉफ़्टवेयर/"
+    },
+    {
+     "number": "9.5",
+     "title": "आपदा पुनर्प्राप्ति और व्यवसाय निरंतरता",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-05-आपदा-पुनर्प्राप्ति-और-व्यवसाय-निरंतरता/"
+    },
+    {
+     "number": "9.6",
+     "title": "कैओस इंजीनियरिंग और रेज़िलिएंस टेस्टिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"
+    },
+    {
+     "number": "9.7",
+     "title": "क्षमता योजना और मांग पूर्वानुमान",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"
+    },
+    {
+     "number": "9.8",
+     "title": "ऑन-कॉल और परिचालन तैयारी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"
+    },
+    {
+     "number": "10.0",
+     "title": "भाग 10 का परिचय: प्रोजेक्ट/प्रोडक्ट/प्रोग्राम प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-00-प्रोजेक्ट-प्रोडक्ट-और-प्रोग्राम-प्रबंधन/"
+    },
+    {
+     "number": "10.1",
+     "title": "पोर्टफ़ोलियो और प्रोग्राम प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-01-पोर्टफ़ोलियो-और-प्रोग्राम-प्रबंधन/"
+    },
+    {
+     "number": "10.2",
+     "title": "जोखिम, ऑडिट, और आश्वासन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-02-जोखिम-ऑडिट-और-आश्वासन/"
+    },
+    {
+     "number": "10.3",
+     "title": "खरीद, ओपन सोर्स, और लाइसेंसिंग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-03-खरीद-ओपन-सोर्स-और-लाइसेंसिंग/"
+    },
+    {
+     "number": "10.4",
+     "title": "बड़े और दीर्घजीवी सिस्टमों को बनाए रखना",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-04-बड़ी-और-दीर्घजीवी-प्रणालियों-का-रखरखाव/"
+    },
+    {
+     "number": "10.5",
+     "title": "नैतिकता, जवाबदेही, और जनहित",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-05-नैतिकता-जवाबदेही-और-लोकहित/"
+    },
+    {
+     "number": "10.6",
+     "title": "परियोजना प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-06-प्रोजेक्ट-प्रबंधन/"
+    },
+    {
+     "number": "10.7",
+     "title": "एजाइल",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-07-एजाइल/"
+    },
+    {
+     "number": "10.8",
+     "title": "परिपक्वता मॉडल",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-08-परिपक्वता-मॉडल/"
+    },
+    {
+     "number": "10.9",
+     "title": "इनोवेशन पार्टनरशिप",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-09-इनोवेशन-पार्टनरशिप/"
+    },
+    {
+     "number": "10.10",
+     "title": "सॉफ़्टवेयर इंजीनियरिंग अर्थशास्त्र",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-10-सॉफ़्टवेयर-इंजीनियरिंग-अर्थशास्त्र/"
+    },
+    {
+     "number": "10.11",
+     "title": "डिजिटल संप्रभुता",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-11-डिजिटल-संप्रभुता/"
+    },
+    {
+     "number": "10.12",
+     "title": "ओपन सोर्स बनाम क्लोज़्ड सोर्स",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-12-ओपन-सोर्स-बनाम-क्लोज़्ड-सोर्स/"
+    },
+    {
+     "number": "10.13",
+     "title": "अंतर-संगठनात्मक सहयोग",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-13-अंतर-संगठनात्मक-सहयोग/"
+    },
+    {
+     "number": "10.14",
+     "title": "उत्पाद प्रबंधन और डिस्कवरी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-14-प्रोडक्ट-प्रबंधन-और-डिस्कवरी/"
+    },
+    {
+     "number": "10.15",
+     "title": "आकलन और पूर्वानुमान",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-15-आकलन-और-पूर्वानुमान/"
+    },
+    {
+     "number": "10.16",
+     "title": "हितधारक प्रबंधन और संचार",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-16-हितधारक-प्रबंधन-और-संचार/"
+    },
+    {
+     "number": "10.17",
+     "title": "संगठनात्मक परिवर्तन प्रबंधन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-17-संगठनात्मक-परिवर्तन-प्रबंधन/"
+    },
+    {
+     "number": "10.18",
+     "title": "ओपन सोर्स प्रोग्राम ऑफ़िस (OSPO) और अपस्ट्रीम योगदान",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/10-18-ओपन-सोर्स-प्रोग्राम-ऑफ़िस/"
+    },
+    {
+     "number": "11.0",
+     "title": "भाग 11 का परिचय: प्रवाह: खोज और डिलीवरी पाइपलाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-00-फ़्लो-डिस्कवरी-और-डिलीवरी/"
+    },
+    {
+     "number": "11.1",
+     "title": "डिस्कवरी पाइपलाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-01-डिस्कवरी-पाइपलाइन/"
+    },
+    {
+     "number": "11.2",
+     "title": "डिलीवरी पाइपलाइन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-02-डिलीवरी-पाइपलाइन/"
+    },
+    {
+     "number": "11.3",
+     "title": "क्यूइंग थ्योरी",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-03-क्यूइंग-थ्योरी/"
+    },
+    {
+     "number": "11.4",
+     "title": "उद्देश्य और मुख्य परिणाम (OKRs)",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-04-ऑब्जेक्टिव्स-और-की-रिज़ल्ट्स/"
+    },
+    {
+     "number": "11.5",
+     "title": "प्रमुख प्रदर्शन संकेतक (KPIs)",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-05-की-परफॉर्मेंस-इंडिकेटर्स/"
+    },
+    {
+     "number": "11.6",
+     "title": "वैल्यू स्ट्रीम मैपिंग और देरी की लागत",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/11-06-वैल्यू-स्ट्रीम-मैपिंग-और-विलंब-लागत/"
+    },
+    {
+     "number": "12.0",
+     "title": "परिशिष्ट",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-00-परिशिष्ट/"
+    },
+    {
+     "number": "12.1",
+     "title": "शब्दावली",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-01-शब्दावली/"
+    },
+    {
+     "number": "12.2",
+     "title": "चेकलिस्ट",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-02-चेकलिस्ट/"
+    },
+    {
+     "number": "12.3",
+     "title": "टेम्पलेट",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-03-टेम्पलेट/"
+    },
+    {
+     "number": "12.4",
+     "title": "परिपक्वता स्व-मूल्यांकन",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-04-परिपक्वता-स्व-मूल्यांकन/"
+    },
+    {
+     "number": "12.5",
+     "title": "संदर्भ",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-05-संदर्भ/"
+    },
+    {
+     "number": "12.6",
+     "title": "अपनाने का रोडमैप",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-06-अपनाने-का-रोडमैप/"
+    },
+    {
+     "number": "12.7",
+     "title": "इंडेक्स",
+     "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-07-अनुक्रमणिका/"
     }
    ]
   }

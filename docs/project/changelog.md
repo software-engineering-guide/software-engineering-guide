@@ -13,6 +13,15 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   the content and specification source of truth; rendering moved to the
   separate `software-engineering-guide.github.io` repository.
 
+### Added
+
+- Locales `ar-001`, `cy-gb`, `hi-in`, and `de-001` (identical to `de-de`), with `cy-gb` and `hi-in`
+  registered in `locales.tsv`.
+
+### Fixed
+
+- `de-de` was missing its root and `themen` `.locale-peer-id` files, `index.md`, and `README.md`.
+
 ### Changed
 
 - Locale routes: `/` redirects to the locale matching the browser language (`navigator.languages`,
