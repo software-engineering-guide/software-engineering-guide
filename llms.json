@@ -9394,6 +9394,16 @@
      "number": "7.5",
      "title": "সিদ্ধান্ত বিজ্ঞান ও ডেটা-অবহিত সংস্কৃতি",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-05-সিদ্ধান্ত-বিজ্ঞান-ও-ডেটা-সংস্কৃতি/"
+    },
+    {
+     "number": "7.6",
+     "title": "রিয়েল-টাইম ও স্ট্রিমিং ডেটা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-06-রিয়েল-টাইম-ও-স্ট্রিমিং-ডেটা/"
+    },
+    {
+     "number": "7.7",
+     "title": "ডেটা মডেলিং ও শব্দার্থিক স্তর",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-07-ডেটা-মডেলিং-ও-শব্দার্থিক-স্তর/"
     }
    ]
   },
