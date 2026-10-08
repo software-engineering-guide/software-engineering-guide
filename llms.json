@@ -9204,6 +9204,21 @@
      "number": "3.17",
      "title": "অনুসন্ধান ও তথ্য পুনরুদ্ধার",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-17-অনুসন্ধান-ও-তথ্য-পুনরুদ্ধার/"
+    },
+    {
+     "number": "4.0",
+     "title": "পর্ব ৪-এর ভূমিকা: নিরাপত্তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-00-নিরাপত্তা/"
+    },
+    {
+     "number": "4.1",
+     "title": "নিরাপত্তার ভিত্তি ও সংস্কৃতি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-01-নিরাপত্তার-ভিত্তি-ও-সংস্কৃতি/"
+    },
+    {
+     "number": "4.2",
+     "title": "অ্যাপ্লিকেশন নিরাপত্তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-02-অ্যাপ্লিকেশন-নিরাপত্তা/"
     }
    ]
   },
