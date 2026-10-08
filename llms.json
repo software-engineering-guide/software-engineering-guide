@@ -9374,6 +9374,16 @@
      "number": "7.1",
      "title": "ডেটা কৌশল ও শাসন",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-01-ডেটা-কৌশল-ও-শাসন/"
+    },
+    {
+     "number": "7.2",
+     "title": "ডেটা প্রকৌশল",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-02-ডেটা-প্রকৌশল/"
+    },
+    {
+     "number": "7.3",
+     "title": "বিশ্লেষণ ও বিজনেস ইন্টেলিজেন্স",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-03-বিশ্লেষণ-ও-বিজনেস-ইন্টেলিজেন্স/"
     }
    ]
   },
