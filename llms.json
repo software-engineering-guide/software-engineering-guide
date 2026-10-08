@@ -9324,6 +9324,16 @@
      "number": "6.1",
      "title": "AI কৌশল ও প্রস্তুতি",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-01-AI-কৌশল-ও-প্রস্তুতি/"
+    },
+    {
+     "number": "6.2",
+     "title": "মেশিন লার্নিং প্রকৌশল (MLOps)",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-02-MLOps/"
+    },
+    {
+     "number": "6.3",
+     "title": "জেনারেটিভ AI ও LLM অ্যাপ্লিকেশন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/06-03-জেনারেটিভ-AI-ও-LLM-অ্যাপ্লিকেশন/"
     }
    ]
   },
