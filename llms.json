@@ -9144,6 +9144,21 @@
      "number": "3.5",
      "title": "স্কেলেবিলিটি, পারফরম্যান্স ও স্থিতিস্থাপকতা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-05-স্কেলেবিলিটি-পারফরম্যান্স-ও-স্থিতিস্থাপকতা/"
+    },
+    {
+     "number": "3.6",
+     "title": "লিগ্যাসি আধুনিকীকরণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-06-লিগ্যাসি-আধুনিকীকরণ/"
+    },
+    {
+     "number": "3.7",
+     "title": "সফটওয়্যার রক্ষণাবেক্ষণ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-07-সফটওয়্যার-রক্ষণাবেক্ষণ/"
+    },
+    {
+     "number": "3.8",
+     "title": "আন্তঃকার্যক্ষমতা ও মুক্ত মান",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-08-আন্তঃকার্যক্ষমতা-ও-মুক্ত-মান/"
     }
    ]
   },
