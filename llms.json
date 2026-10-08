@@ -9414,6 +9414,16 @@
      "number": "7.9",
      "title": "মাস্টার ডেটা ও রেফারেন্স ডেটা ব্যবস্থাপনা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "8.0",
+     "title": "পর্ব ৮-এর ভূমিকা: স্বয়ংক্রিয়তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/08-00-স্বয়ংক্রিয়তা/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD ও ডেলিভারি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/08-01-CI-CD-ও-ডেলিভারি/"
     }
    ]
   },
