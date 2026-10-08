@@ -1809,6 +1809,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -1827,6 +1828,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -4558,6 +4560,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -4576,6 +4579,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -7307,6 +7311,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -7325,6 +7330,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -10056,6 +10062,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -10074,6 +10081,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -12805,6 +12813,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -12823,6 +12832,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -15554,6 +15564,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -15572,6 +15583,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -18303,6 +18315,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -18321,6 +18334,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -21052,6 +21066,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -21070,6 +21085,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -23801,6 +23817,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -23819,6 +23836,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -26550,6 +26568,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -26568,6 +26587,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -29299,6 +29319,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -29317,6 +29338,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -32048,6 +32070,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -32066,6 +32089,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -34784,6 +34808,44 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/07-08-data-quality-and-observability/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/07-08-data-quality-and-observability/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/07-08-calidad-y-observabilidad-de-datos/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/07-08-数据质量与可观测性/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/07-08-数据质量与可观测性/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/07-08-جودة-البيانات-وقابلية-مراقبتها/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/07-09-master-data-and-reference-data-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/07-09-master-data-and-reference-data-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/07-09-gestión-de-datos-maestros-y-de-referencia/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/07-09-主数据与参考数据管理/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/07-09-主数据与参考数据管理/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/07-09-إدارة-البيانات-الرئيسية-والبيانات-المرجعية/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
+  </url>
+  <url>
     <loc>https://software-engineering-guide.github.io/cy-gb/</loc>
   </url>
   <url>
@@ -36592,6 +36654,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -36610,6 +36673,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>
@@ -39341,6 +39405,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-08-datenqualitaet-und-beobachtbarkeit/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-08-qualite-observabilite-donnees/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-08-ansawdd-data-a-arsylladwyedd/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-08-डेटा-गुणवत्ता-और-ऑब्ज़र्वेबिलिटी/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-08-data-quality-and-observability/"/>
@@ -39359,6 +39424,7 @@
     <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-09-stammdaten-und-referenzdatenverwaltung/"/>
     <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-09-gestion-donnees-maitresses-reference/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-09-rheoli-prif-ddata-a-data-cyfeirio/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-09-मास्टर-डेटा-और-संदर्भ-डेटा-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-09-master-data-and-reference-data-management/"/>

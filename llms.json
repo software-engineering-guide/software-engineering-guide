@@ -9404,6 +9404,16 @@
      "number": "7.7",
      "title": "ডেটা মডেলিং ও শব্দার্থিক স্তর",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-07-ডেটা-মডেলিং-ও-শব্দার্থিক-স্তর/"
+    },
+    {
+     "number": "7.8",
+     "title": "ডেটা মান ও পর্যবেক্ষণযোগ্যতা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-08-ডেটা-মান-ও-পর্যবেক্ষণযোগ্যতা/"
+    },
+    {
+     "number": "7.9",
+     "title": "মাস্টার ডেটা ও রেফারেন্স ডেটা ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/07-09-মাস্টার-ডেটা-ও-রেফারেন্স-ডেটা-ব্যবস্থাপনা/"
     }
    ]
   },
