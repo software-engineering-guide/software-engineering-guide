@@ -9259,6 +9259,21 @@
      "number": "4.10",
      "title": "পেনিট্রেশন টেস্টিং ও রেড টিমিং",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/04-10-পেনিট্রেশন-টেস্টিং-ও-রেড-টিমিং/"
+    },
+    {
+     "number": "5.0",
+     "title": "পর্ব ৫-এর ভূমিকা: ইউআই/ইউএক্স ডিজাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-00-ইউআই-ইউএক্স-ডিজাইন/"
+    },
+    {
+     "number": "5.1",
+     "title": "ইউএক্স-এর ভিত্তি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-01-ইউএক্স-এর-ভিত্তি/"
+    },
+    {
+     "number": "5.2",
+     "title": "ইউআই ডিজাইন ও ডিজাইন সিস্টেম",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-02-ইউআই-ডিজাইন-ও-ডিজাইন-সিস্টেম/"
     }
    ]
   },
