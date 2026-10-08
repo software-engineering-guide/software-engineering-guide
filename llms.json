@@ -9304,6 +9304,16 @@
      "number": "5.8",
      "title": "ডিজাইন গবেষণা ও ব্যবহারযোগ্যতা পরীক্ষা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-08-ডিজাইন-গবেষণা-ও-ব্যবহারযোগ্যতা-পরীক্ষা/"
+    },
+    {
+     "number": "5.9",
+     "title": "সার্ভিস ডিজাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-09-সার্ভিস-ডিজাইন/"
+    },
+    {
+     "number": "5.10",
+     "title": "ডেটা ভিজ্যুয়ালাইজেশন ডিজাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/05-10-ডেটা-ভিজ্যুয়ালাইজেশন-ডিজাইন/"
     }
    ]
   },
