@@ -9184,6 +9184,21 @@
      "number": "3.13",
      "title": "নেটওয়ার্কিং ও সংযোগ",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-13-নেটওয়ার্কিং-ও-সংযোগ/"
+    },
+    {
+     "number": "3.14",
+     "title": "মাল্টি-টেন্যান্সি ও SaaS স্থাপত্য",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-14-মাল্টি-টেন্যান্সি-ও-SaaS-স্থাপত্য/"
+    },
+    {
+     "number": "3.15",
+     "title": "ক্যাশিং ও কন্টেন্ট ডেলিভারি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-15-ক্যাশিং-ও-কন্টেন্ট-ডেলিভারি/"
+    },
+    {
+     "number": "3.16",
+     "title": "API গেটওয়ে ও সার্ভিস মেশ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/03-16-API-গেটওয়ে-ও-সার্ভিস-মেশ/"
     }
    ]
   },
