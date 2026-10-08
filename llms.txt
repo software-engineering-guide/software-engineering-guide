@@ -206,6 +206,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Deutsch (de-001)](https://software-engineering-guide.github.io/de-001/)
 - [Deutsch (de-de)](https://software-engineering-guide.github.io/de-de/)
 - [Français (fr-001)](https://software-engineering-guide.github.io/fr-001/)
+- [বাংলা (bn-001)](https://software-engineering-guide.github.io/bn-001/)
 - [Cymraeg (cy-gb)](https://software-engineering-guide.github.io/cy-gb/)
 - [हिन्दी (hi-in)](https://software-engineering-guide.github.io/hi-in/)
 

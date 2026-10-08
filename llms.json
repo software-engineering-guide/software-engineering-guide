@@ -8930,6 +8930,24 @@
    ]
   },
   {
+   "code": "bn-001",
+   "label": "বাংলা",
+   "home": "https://software-engineering-guide.github.io/bn-001/",
+   "topicsSegment": "বিষয়",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "পর্ব ১-এর ভূমিকা: মানুষ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-00-মানুষ/"
+    },
+    {
+     "number": "1.1",
+     "title": "সফটওয়্যার ইঞ্জিনিয়ারিং মূল্যবোধ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/01-01-সফটওয়্যার-ইঞ্জিনিয়ারিং-মূল্যবোধ/"
+    }
+   ]
+  },
+  {
    "code": "cy-gb",
    "label": "Cymraeg",
    "home": "https://software-engineering-guide.github.io/cy-gb/",
