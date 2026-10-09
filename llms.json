@@ -9494,6 +9494,11 @@
      "number": "9.7",
      "title": "ক্ষমতা পরিকল্পনা ও চাহিদা পূর্বাভাস",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-07-ক্ষমতা-পরিকল্পনা-ও-চাহিদা-পূর্বাভাস/"
+    },
+    {
+     "number": "9.8",
+     "title": "অন-কল ও পরিচালনগত প্রস্তুতি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-08-অন-কল-ও-পরিচালনগত-প্রস্তুতি/"
     }
    ]
   },
