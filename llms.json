@@ -11528,6 +11528,16 @@
      "number": "5.7",
      "title": "Pengembangan aplikasi seluler",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-07-pengembangan-aplikasi-seluler/"
+    },
+    {
+     "number": "5.8",
+     "title": "Riset desain dan uji kegunaan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-08-riset-desain-dan-uji-kegunaan/"
+    },
+    {
+     "number": "5.9",
+     "title": "Desain layanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-09-desain-layanan/"
     }
    ]
   }
