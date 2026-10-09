@@ -11288,6 +11288,16 @@
      "number": "2.10",
      "title": "Manajemen konfigurasi perangkat lunak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-10-manajemen-konfigurasi-perangkat-lunak/"
+    },
+    {
+     "number": "2.11",
+     "title": "Kualitas perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-11-kualitas-perangkat-lunak/"
+    },
+    {
+     "number": "2.12",
+     "title": "Model dan metode perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-12-model-dan-metode-perangkat-lunak/"
     }
    ]
   }
