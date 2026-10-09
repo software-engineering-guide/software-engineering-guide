@@ -11573,6 +11573,21 @@
      "number": "6.5",
      "title": "AI yang bertanggung jawab dan tepercaya",
      "url": "https://software-engineering-guide.github.io/id-001/topik/06-05-ai-yang-bertanggung-jawab-dan-tepercaya/"
+    },
+    {
+     "number": "6.6",
+     "title": "Infrastruktur dan operasi AI",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-06-infrastruktur-dan-operasi-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Agen AI dan sistem agentik",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-07-agen-ai-dan-sistem-agentik/"
+    },
+    {
+     "number": "6.8",
+     "title": "Evaluasi dan pengujian AI",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-08-evaluasi-dan-pengujian-ai/"
     }
    ]
   }
