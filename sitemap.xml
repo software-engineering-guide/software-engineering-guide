@@ -1986,6 +1986,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -2005,6 +2006,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -4886,6 +4888,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -4905,6 +4908,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -7786,6 +7790,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -7805,6 +7810,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -10686,6 +10692,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -10705,6 +10712,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -13586,6 +13594,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -13605,6 +13614,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -16486,6 +16496,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -16505,6 +16516,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -19386,6 +19398,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -19405,6 +19418,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -22286,6 +22300,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -22305,6 +22320,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -25186,6 +25202,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -25205,6 +25222,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -28086,6 +28104,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -28105,6 +28124,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -30986,6 +31006,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -31005,6 +31026,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -33886,6 +33908,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -33905,6 +33928,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -36786,6 +36810,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -36805,6 +36830,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -39686,6 +39712,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -39705,6 +39732,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -42586,6 +42614,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
   </url>
   <url>
@@ -42605,6 +42634,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
   <url>
@@ -45468,5 +45498,45 @@
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-01-सीआई-सीडी-और-डिलीवरी/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-01-ci-cd-dan-pengiriman/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-01-ci-cd-and-delivery/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/08-02-infrastructure-as-code-and-configuration/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/08-02-infrastructure-as-code-and-configuration/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/08-02-infraestructura-como-código-y-configuración/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/08-02-基础设施即代码与配置/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/08-02-基础设施即代码与配置/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/08-02-البنية-التحتية-كشيفرة-والتهيئة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/08-02-infrastructure-as-code-und-konfiguration/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/08-02-infrastructure-as-code-und-konfiguration/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/08-02-infrastructure-code-configuration/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-02-কোড-হিসেবে-অবকাঠামো-ও-কনফিগারেশন/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-02-seilwaith-fel-cod-a-chyfluniad/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-02-इंफ्रास्ट्रक्चर-एज़-कोड-और-कॉन्फ़िगरेशन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-02-infrastructure-as-code-and-configuration/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/08-03-containers-orchestration-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/08-03-containers-orchestration-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/08-03-contenedores-orquestación-y-nativo-de-la-nube/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/08-03-容器-编排与云原生/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/08-03-容器-编排与云原生/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/08-03-الحاويات-والتنسيق-والسحابة-الأصلية/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/08-03-container-orchestrierung-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/08-03-container-orchestrierung-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/08-03-conteneurs-orchestration-cloud-natif/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/08-03-কনটেইনার-অর্কেস্ট্রেশন-ও-ক্লাউড-নেটিভ/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/08-03-cynwysyddion-cerddorfaeth-brodorol-cwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/08-03-कंटेनर-ऑर्केस्ट्रेशन-और-क्लाउड-नेटिव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/08-03-containers-orchestration-cloud-native/"/>
   </url>
 </urlset>

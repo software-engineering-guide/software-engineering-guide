@@ -11653,6 +11653,16 @@
      "number": "8.1",
      "title": "CI/CD dan pengiriman",
      "url": "https://software-engineering-guide.github.io/id-001/topik/08-01-ci-cd-dan-pengiriman/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastructure as code dan konfigurasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-02-infrastructure-as-code-dan-konfigurasi/"
+    },
+    {
+     "number": "8.3",
+     "title": "Kontainer, orkestrasi, dan cloud-native",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"
     }
    ]
   }
