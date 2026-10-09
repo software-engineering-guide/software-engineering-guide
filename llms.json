@@ -11563,6 +11563,16 @@
      "number": "6.3",
      "title": "AI generatif dan aplikasi LLM",
      "url": "https://software-engineering-guide.github.io/id-001/topik/06-03-ai-generatif-dan-aplikasi-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Pengembangan perangkat lunak berbantuan AI",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-04-pengembangan-perangkat-lunak-berbantuan-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI yang bertanggung jawab dan tepercaya",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-05-ai-yang-bertanggung-jawab-dan-tepercaya/"
     }
    ]
   }
