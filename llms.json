@@ -11788,6 +11788,16 @@
      "number": "10.11",
      "title": "Kedaulatan digital",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-11-kedaulatan-digital/"
+    },
+    {
+     "number": "10.12",
+     "title": "Sumber terbuka vs sumber tertutup",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-12-sumber-terbuka-vs-sumber-tertutup/"
+    },
+    {
+     "number": "10.13",
+     "title": "Kolaborasi antarorganisasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-13-kolaborasi-antarorganisasi/"
     }
    ]
   }
