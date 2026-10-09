@@ -11373,6 +11373,16 @@
      "number": "3.5",
      "title": "Skalabilitas, kinerja, dan ketahanan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-05-skalabilitas-kinerja-dan-ketahanan/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisasi sistem warisan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-06-modernisasi-sistem-warisan/"
+    },
+    {
+     "number": "3.7",
+     "title": "Pemeliharaan perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-07-pemeliharaan-perangkat-lunak/"
     }
    ]
   }
