@@ -11208,6 +11208,16 @@
      "number": "1.8",
      "title": "Perekrutan, wawancara, dan orientasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/01-08-perekrutan-wawancara-dan-orientasi/"
+    },
+    {
+     "number": "1.9",
+     "title": "Kerja terdistribusi dan jarak jauh",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-09-kerja-terdistribusi-dan-jarak-jauh/"
+    },
+    {
+     "number": "1.10",
+     "title": "Efektivitas rekayasa dan produktivitas pengembang",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang/"
     }
    ]
   }
