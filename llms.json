@@ -9639,6 +9639,16 @@
      "number": "12.1",
      "title": "শব্দকোষ",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/12-01-শব্দকোষ/"
+    },
+    {
+     "number": "12.2",
+     "title": "চেকলিস্ট",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/12-02-চেকলিস্ট/"
+    },
+    {
+     "number": "12.3",
+     "title": "টেমপ্লেট",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/12-03-টেমপ্লেট/"
     }
    ]
   },
