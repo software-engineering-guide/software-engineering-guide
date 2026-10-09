@@ -11353,6 +11353,16 @@
      "number": "3.1",
      "title": "Dasar-dasar arsitektur",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-01-dasar-dasar-arsitektur/"
+    },
+    {
+     "number": "3.2",
+     "title": "Gaya dan pola arsitektural",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-02-gaya-dan-pola-arsitektural/"
+    },
+    {
+     "number": "3.3",
+     "title": "Sistem terdistribusi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-03-sistem-terdistribusi/"
     }
    ]
   }
