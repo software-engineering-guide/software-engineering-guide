@@ -11768,6 +11768,16 @@
      "number": "10.7",
      "title": "Agile",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Model kematangan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-08-model-kematangan/"
+    },
+    {
+     "number": "10.9",
+     "title": "Kemitraan inovasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-09-kemitraan-inovasi/"
     }
    ]
   }
