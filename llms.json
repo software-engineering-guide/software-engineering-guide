@@ -11278,6 +11278,16 @@
      "number": "2.8",
      "title": "Persyaratan perangkat lunak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-08-persyaratan-perangkat-lunak/"
+    },
+    {
+     "number": "2.9",
+     "title": "Konstruksi perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-09-konstruksi-perangkat-lunak/"
+    },
+    {
+     "number": "2.10",
+     "title": "Manajemen konfigurasi perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-10-manajemen-konfigurasi-perangkat-lunak/"
     }
    ]
   }
