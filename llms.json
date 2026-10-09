@@ -11593,6 +11593,16 @@
      "number": "6.9",
      "title": "Rekayasa prompt dan desain konteks",
      "url": "https://software-engineering-guide.github.io/id-001/topik/06-09-rekayasa-prompt-dan-desain-konteks/"
+    },
+    {
+     "number": "7.0",
+     "title": "Pengantar Bagian 7: Data, analitik, dan wawasan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-00-data-dan-analitik/"
+    },
+    {
+     "number": "7.1",
+     "title": "Strategi dan tata kelola data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-01-strategi-dan-tata-kelola-data/"
     }
    ]
   }
