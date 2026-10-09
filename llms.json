@@ -11778,6 +11778,16 @@
      "number": "10.9",
      "title": "Kemitraan inovasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-09-kemitraan-inovasi/"
+    },
+    {
+     "number": "10.10",
+     "title": "Ekonomi rekayasa perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-10-ekonomi-rekayasa-perangkat-lunak/"
+    },
+    {
+     "number": "10.11",
+     "title": "Kedaulatan digital",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-11-kedaulatan-digital/"
     }
    ]
   }
