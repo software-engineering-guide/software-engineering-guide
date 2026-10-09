@@ -11673,6 +11673,16 @@
      "number": "8.5",
      "title": "Otomasi pengujian dan proses",
      "url": "https://software-engineering-guide.github.io/id-001/topik/08-05-otomasi-pengujian-dan-proses/"
+    },
+    {
+     "number": "8.6",
+     "title": "Manajemen rilis dan pengiriman progresif",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-06-manajemen-rilis-dan-pengiriman-progresif/"
+    },
+    {
+     "number": "8.7",
+     "title": "Sistem build dan manajemen artefak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-07-sistem-build-dan-manajemen-artefak/"
     }
    ]
   }
