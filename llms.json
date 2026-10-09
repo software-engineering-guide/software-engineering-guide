@@ -11663,6 +11663,16 @@
      "number": "8.3",
      "title": "Kontainer, orkestrasi, dan cloud-native",
      "url": "https://software-engineering-guide.github.io/id-001/topik/08-03-kontainer-orkestrasi-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Rekayasa platform dan pengalaman pengembang",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-04-rekayasa-platform-dan-devex/"
+    },
+    {
+     "number": "8.5",
+     "title": "Otomasi pengujian dan proses",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-05-otomasi-pengujian-dan-proses/"
     }
    ]
   }
