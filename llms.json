@@ -11268,6 +11268,16 @@
      "number": "2.6",
      "title": "Kontrol versi dan manajemen sumber",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-06-kontrol-versi-dan-manajemen-sumber/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-07-dokumentasi/"
+    },
+    {
+     "number": "2.8",
+     "title": "Persyaratan perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-08-persyaratan-perangkat-lunak/"
     }
    ]
   }
