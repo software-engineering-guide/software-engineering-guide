@@ -9529,6 +9529,16 @@
      "number": "10.5",
      "title": "নৈতিকতা, জবাবদিহি ও জনস্বার্থ",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-05-নৈতিকতা-জবাবদিহি-ও-জনস্বার্থ/"
+    },
+    {
+     "number": "10.6",
+     "title": "প্রকল্প ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-06-প্রকল্প-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "10.7",
+     "title": "অ্যাজাইল",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-07-অ্যাজাইল/"
     }
    ]
   },
