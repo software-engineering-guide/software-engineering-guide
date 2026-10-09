@@ -11603,6 +11603,16 @@
      "number": "7.1",
      "title": "Strategi dan tata kelola data",
      "url": "https://software-engineering-guide.github.io/id-001/topik/07-01-strategi-dan-tata-kelola-data/"
+    },
+    {
+     "number": "7.2",
+     "title": "Rekayasa data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-02-rekayasa-data/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analitik dan business intelligence",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-03-analitik-dan-business-intelligence/"
     }
    ]
   }
