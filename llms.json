@@ -11363,6 +11363,16 @@
      "number": "3.3",
      "title": "Sistem terdistribusi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-03-sistem-terdistribusi/"
+    },
+    {
+     "number": "3.4",
+     "title": "Arsitektur data dan penyimpanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-04-arsitektur-data-dan-penyimpanan/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalabilitas, kinerja, dan ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-05-skalabilitas-kinerja-dan-ketahanan/"
     }
    ]
   }
