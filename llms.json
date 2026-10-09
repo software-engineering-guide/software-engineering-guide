@@ -11623,6 +11623,16 @@
      "number": "7.5",
      "title": "Ilmu keputusan dan budaya berbasis data",
      "url": "https://software-engineering-guide.github.io/id-001/topik/07-05-ilmu-keputusan-dan-budaya-data/"
+    },
+    {
+     "number": "7.6",
+     "title": "Data real-time dan streaming",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-06-data-real-time-dan-streaming/"
+    },
+    {
+     "number": "7.7",
+     "title": "Pemodelan data dan lapisan semantik",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-07-pemodelan-data-dan-lapisan-semantik/"
     }
    ]
   }
