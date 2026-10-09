@@ -11518,6 +11518,16 @@
      "number": "5.5",
      "title": "Internasionalisasi dan lokalisasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-05-internasionalisasi-dan-lokalisasi/"
+    },
+    {
+     "number": "5.6",
+     "title": "Rekayasa frontend",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-06-rekayasa-frontend/"
+    },
+    {
+     "number": "5.7",
+     "title": "Pengembangan aplikasi seluler",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-07-pengembangan-aplikasi-seluler/"
     }
    ]
   }
