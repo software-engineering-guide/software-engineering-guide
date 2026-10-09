@@ -11723,6 +11723,11 @@
      "number": "9.7",
      "title": "Perencanaan kapasitas dan peramalan permintaan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"
+    },
+    {
+     "number": "9.8",
+     "title": "On-call dan kesiapan operasional",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"
     }
    ]
   }
