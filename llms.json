@@ -11433,6 +11433,16 @@
      "number": "3.17",
      "title": "Pencarian dan temu balik informasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-17-pencarian-dan-temu-balik-informasi/"
+    },
+    {
+     "number": "4.0",
+     "title": "Pengantar Bagian 4: Keamanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-00-keamanan/"
+    },
+    {
+     "number": "4.1",
+     "title": "Fondasi dan budaya keamanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-01-fondasi-dan-budaya-keamanan/"
     }
    ]
   }
