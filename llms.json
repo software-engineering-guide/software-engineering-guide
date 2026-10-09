@@ -9519,6 +9519,16 @@
      "number": "10.3",
      "title": "ক্রয়, ওপেন সোর্স ও লাইসেন্সিং",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-03-ক্রয়-ওপেন-সোর্স-ও-লাইসেন্সিং/"
+    },
+    {
+     "number": "10.4",
+     "title": "বড় ও দীর্ঘজীবী সিস্টেম টিকিয়ে রাখা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-04-বড়-ও-দীর্ঘজীবী-সিস্টেম-টিকিয়ে-রাখা/"
+    },
+    {
+     "number": "10.5",
+     "title": "নৈতিকতা, জবাবদিহি ও জনস্বার্থ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-05-নৈতিকতা-জবাবদিহি-ও-জনস্বার্থ/"
     }
    ]
   },
