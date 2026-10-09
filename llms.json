@@ -11233,6 +11233,21 @@
      "number": "1.13",
      "title": "Mentoring, coaching, dan berbagi pengetahuan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/01-13-mentoring-coaching-dan-berbagi-pengetahuan/"
+    },
+    {
+     "number": "2.0",
+     "title": "Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-00-pemrograman-perangkat-lunak/"
+    },
+    {
+     "number": "2.1",
+     "title": "Standar pengodean dan gaya",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-01-standar-pengodean-dan-gaya/"
+    },
+    {
+     "number": "2.2",
+     "title": "Prinsip desain perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-02-prinsip-desain-perangkat-lunak/"
     }
    ]
   }
