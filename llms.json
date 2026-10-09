@@ -11643,6 +11643,16 @@
      "number": "7.9",
      "title": "Manajemen data induk dan data referensi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/07-09-manajemen-data-induk-dan-data-referensi/"
+    },
+    {
+     "number": "8.0",
+     "title": "Pengantar Bagian 8: Otomasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-00-otomasi/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD dan pengiriman",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/08-01-ci-cd-dan-pengiriman/"
     }
    ]
   }
