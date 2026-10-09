@@ -9464,6 +9464,16 @@
      "number": "9.1",
      "title": "সাইট নির্ভরযোগ্যতা প্রকৌশল",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-01-সাইট-নির্ভরযোগ্যতা-প্রকৌশল/"
+    },
+    {
+     "number": "9.2",
+     "title": "পর্যবেক্ষণযোগ্যতা ও টেলিমেট্রি",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-02-পর্যবেক্ষণযোগ্যতা-ও-টেলিমেট্রি/"
+    },
+    {
+     "number": "9.3",
+     "title": "ঘটনা ব্যবস্থাপনা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-03-ঘটনা-ব্যবস্থাপনা/"
     }
    ]
   },
