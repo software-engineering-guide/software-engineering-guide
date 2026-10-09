@@ -11488,6 +11488,16 @@
      "number": "4.10",
      "title": "Uji penetrasi dan red teaming",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-10-uji-penetrasi-dan-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Pengantar Bagian 5: Desain UI/UX",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-00-desain-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Fondasi UX",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-01-fondasi-ux/"
     }
    ]
   }
