@@ -11443,6 +11443,16 @@
      "number": "4.1",
      "title": "Fondasi dan budaya keamanan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-01-fondasi-dan-budaya-keamanan/"
+    },
+    {
+     "number": "4.2",
+     "title": "Keamanan aplikasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-02-keamanan-aplikasi/"
+    },
+    {
+     "number": "4.3",
+     "title": "Keamanan infrastruktur dan cloud",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-03-keamanan-infrastruktur-dan-cloud/"
     }
    ]
   }
