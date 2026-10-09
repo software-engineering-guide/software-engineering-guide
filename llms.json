@@ -11157,6 +11157,29 @@
      "url": "https://software-engineering-guide.github.io/hi-in/विषय/12-07-अनुक्रमणिका/"
     }
    ]
+  },
+  {
+   "code": "id-001",
+   "label": "Bahasa Indonesia",
+   "home": "https://software-engineering-guide.github.io/id-001/",
+   "topicsSegment": "topik",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Pengantar Bagian 1: Manusia",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-00-manusia/"
+    },
+    {
+     "number": "1.1",
+     "title": "Nilai-nilai rekayasa perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-01-nilai-nilai-rekayasa-perangkat-lunak/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topologi tim dan desain organisasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-02-topologi-tim/"
+    }
+   ]
   }
  ]
 }
