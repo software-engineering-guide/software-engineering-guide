@@ -11873,6 +11873,16 @@
      "number": "12.3",
      "title": "Templat",
      "url": "https://software-engineering-guide.github.io/id-001/topik/12-03-templat/"
+    },
+    {
+     "number": "12.4",
+     "title": "Penilaian diri kematangan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-04-penilaian-diri-kematangan/"
+    },
+    {
+     "number": "12.6",
+     "title": "Peta jalan adopsi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-06-peta-jalan-adopsi/"
     }
    ]
   }
