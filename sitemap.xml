@@ -686,6 +686,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -705,6 +706,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -3521,6 +3523,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -3540,6 +3543,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -6356,6 +6360,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -6375,6 +6380,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -9191,6 +9197,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -9210,6 +9217,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -12026,6 +12034,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -12045,6 +12054,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -14861,6 +14871,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -14880,6 +14891,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -17696,6 +17708,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -17715,6 +17728,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -20531,6 +20545,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -20550,6 +20565,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -23366,6 +23382,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -23385,6 +23402,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -26201,6 +26219,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -26220,6 +26239,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -29036,6 +29056,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -29055,6 +29076,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -31871,6 +31893,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -31890,6 +31913,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -34706,6 +34730,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -34725,6 +34750,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -37541,6 +37567,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -37560,6 +37587,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -40376,6 +40404,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
   </url>
   <url>
@@ -40395,6 +40424,7 @@
     <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
   <url>
@@ -43193,5 +43223,45 @@
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-18-निर्भरता-और-आपूर्ति-श्रृंखला-प्रबंधन/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-18-manajemen-dependensi-dan-rantai-pasok/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-18-dependency-and-supply-chain-management/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-19-refactoring-and-technical-debt/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-19-refactoring-and-technical-debt/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-19-refactorización-y-deuda-técnica/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-19-重构与技术债务/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-19-重构与技术债务/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-19-إعادة-الهيكلة-والدَّين-التقني/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-19-refactoring-und-technische-schulden/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-19-refactoring-und-technische-schulden/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-19-refactorisation-dette-technique/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-19-রিফ্যাক্টরিং-ও-প্রযুক্তিগত-ঋণ/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-19-ailffatrioli-a-dyled-dechnegol/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-19-रीफैक्टरिंग-और-तकनीकी-ऋण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-19-refactoring-and-technical-debt/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-20-error-handling-and-resilience-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-20-error-handling-and-resilience-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-20-manejo-de-errores-y-patrones-de-resiliencia/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-20-错误处理与弹性模式/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-20-错误处理与弹性模式/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-20-معالجة-الأخطاء-وأنماط-المرونة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-20-fehlerbehandlung-und-resilienzmuster/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-20-fehlerbehandlung-und-resilienzmuster/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-20-gestion-erreurs-motifs-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-20-ত্রুটি-সামলানো-ও-স্থিতিস্থাপকতার-প্যাটার্ন/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-20-trin-gwallau-a-phatrymau-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-20-त्रुटि-प्रबंधन-और-लचीलापन-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-20-error-handling-and-resilience-patterns/"/>
   </url>
 </urlset>

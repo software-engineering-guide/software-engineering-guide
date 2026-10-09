@@ -11328,6 +11328,16 @@
      "number": "2.18",
      "title": "Manajemen dependensi dan rantai pasok",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-18-manajemen-dependensi-dan-rantai-pasok/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refaktoring dan utang teknis",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-19-refaktoring-dan-utang-teknis/"
+    },
+    {
+     "number": "2.20",
+     "title": "Penanganan galat dan pola ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"
     }
    ]
   }
