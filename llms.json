@@ -9604,6 +9604,16 @@
      "number": "11.1",
      "title": "আবিষ্কার পাইপলাইন",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-01-আবিষ্কার-পাইপলাইন/"
+    },
+    {
+     "number": "11.2",
+     "title": "ডেলিভারি পাইপলাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-02-ডেলিভারি-পাইপলাইন/"
+    },
+    {
+     "number": "11.3",
+     "title": "সারিবদ্ধ তত্ত্ব",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-03-সারিবদ্ধ-তত্ত্ব/"
     }
    ]
   },
