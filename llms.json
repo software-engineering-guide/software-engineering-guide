@@ -11318,6 +11318,16 @@
      "number": "2.16",
      "title": "Rekayasa kinerja",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-16-rekayasa-kinerja/"
+    },
+    {
+     "number": "2.17",
+     "title": "Konkurensi dan paralelisme",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-17-konkurensi-dan-paralelisme/"
+    },
+    {
+     "number": "2.18",
+     "title": "Manajemen dependensi dan rantai pasok",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-18-manajemen-dependensi-dan-rantai-pasok/"
     }
    ]
   }
