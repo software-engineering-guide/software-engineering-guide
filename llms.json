@@ -11823,6 +11823,16 @@
      "number": "10.18",
      "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-18-kantor-program-sumber-terbuka/"
+    },
+    {
+     "number": "11.0",
+     "title": "Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-00-aliran-penemuan-dan-penyampaian/"
+    },
+    {
+     "number": "11.1",
+     "title": "Jalur penemuan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-01-jalur-penemuan/"
     }
    ]
   }
