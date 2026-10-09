@@ -11613,6 +11613,16 @@
      "number": "7.3",
      "title": "Analitik dan business intelligence",
      "url": "https://software-engineering-guide.github.io/id-001/topik/07-03-analitik-dan-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Analitik produk dan eksperimen",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-04-analitik-produk-dan-eksperimen/"
+    },
+    {
+     "number": "7.5",
+     "title": "Ilmu keputusan dan budaya berbasis data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-05-ilmu-keputusan-dan-budaya-data/"
     }
    ]
   }
