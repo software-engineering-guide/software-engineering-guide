@@ -11738,6 +11738,16 @@
      "number": "10.1",
      "title": "Manajemen portofolio dan program",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-01-manajemen-portofolio-dan-program/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risiko, audit, dan jaminan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-02-risiko-audit-dan-jaminan/"
+    },
+    {
+     "number": "10.3",
+     "title": "Pengadaan, sumber terbuka, dan lisensi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-03-pengadaan-sumber-terbuka-dan-lisensi/"
     }
    ]
   }
