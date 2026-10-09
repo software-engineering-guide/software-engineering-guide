@@ -11865,6 +11865,11 @@
      "url": "https://software-engineering-guide.github.io/id-001/topik/12-00-lampiran/"
     },
     {
+     "number": "12.1",
+     "title": "Glosarium",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-01-glosarium/"
+    },
+    {
      "number": "12.2",
      "title": "Daftar periksa",
      "url": "https://software-engineering-guide.github.io/id-001/topik/12-02-daftar-periksa/"
@@ -11878,6 +11883,11 @@
      "number": "12.4",
      "title": "Penilaian diri kematangan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/12-04-penilaian-diri-kematangan/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referensi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-05-referensi/"
     },
     {
      "number": "12.6",
