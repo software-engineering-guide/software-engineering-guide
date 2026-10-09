@@ -11693,6 +11693,16 @@
      "number": "9.1",
      "title": "Site reliability engineering",
      "url": "https://software-engineering-guide.github.io/id-001/topik/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observabilitas dan telemetri",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-02-observabilitas-dan-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Manajemen insiden",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-03-manajemen-insiden/"
     }
    ]
   }
