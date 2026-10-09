@@ -11198,6 +11198,16 @@
      "number": "1.6",
      "title": "Catatan keputusan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/01-06-catatan-keputusan/"
+    },
+    {
+     "number": "1.7",
+     "title": "Standar rekayasa dan pengecualian",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-07-standar-rekayasa-dan-pengecualian/"
+    },
+    {
+     "number": "1.8",
+     "title": "Perekrutan, wawancara, dan orientasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-08-perekrutan-wawancara-dan-orientasi/"
     }
    ]
   }
