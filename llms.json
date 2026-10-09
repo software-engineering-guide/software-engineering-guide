@@ -11833,6 +11833,16 @@
      "number": "11.1",
      "title": "Jalur penemuan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/11-01-jalur-penemuan/"
+    },
+    {
+     "number": "11.2",
+     "title": "Jalur penyampaian",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-02-jalur-penyampaian/"
+    },
+    {
+     "number": "11.3",
+     "title": "Teori antrean",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-03-teori-antrean/"
     }
    ]
   }
