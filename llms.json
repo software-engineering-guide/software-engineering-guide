@@ -9474,6 +9474,16 @@
      "number": "9.3",
      "title": "ঘটনা ব্যবস্থাপনা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-03-ঘটনা-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "9.4",
+     "title": "খরচ, টেকসইতা ও সবুজ সফটওয়্যার",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-04-খরচ-টেকসইতা-ও-সবুজ-সফটওয়্যার/"
+    },
+    {
+     "number": "9.5",
+     "title": "দুর্যোগ পুনরুদ্ধার ও ব্যবসা ধারাবাহিকতা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/09-05-দুর্যোগ-পুনরুদ্ধার-ও-ব্যবসা-ধারাবাহিকতা/"
     }
    ]
   },
