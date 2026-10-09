@@ -11798,6 +11798,16 @@
      "number": "10.13",
      "title": "Kolaborasi antarorganisasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-13-kolaborasi-antarorganisasi/"
+    },
+    {
+     "number": "10.14",
+     "title": "Manajemen produk dan penemuan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-14-manajemen-produk-dan-penemuan/"
+    },
+    {
+     "number": "10.15",
+     "title": "Estimasi dan peramalan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-15-estimasi-dan-peramalan/"
     }
    ]
   }
