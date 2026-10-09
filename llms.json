@@ -11543,6 +11543,16 @@
      "number": "5.10",
      "title": "Desain visualisasi data",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-10-desain-visualisasi-data/"
+    },
+    {
+     "number": "6.0",
+     "title": "Pengantar Bagian 6: Kecerdasan buatan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-00-kecerdasan-buatan/"
+    },
+    {
+     "number": "6.1",
+     "title": "Strategi dan kesiapan AI",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-01-strategi-dan-kesiapan-ai/"
     }
    ]
   }
