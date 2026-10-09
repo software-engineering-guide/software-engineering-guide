@@ -11758,6 +11758,16 @@
      "number": "10.5",
      "title": "Etika, akuntabilitas, dan kepentingan publik",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-05-etika-akuntabilitas-kepentingan-publik/"
+    },
+    {
+     "number": "10.6",
+     "title": "Manajemen proyek",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-06-manajemen-proyek/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-07-agile/"
     }
    ]
   }
