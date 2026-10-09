@@ -11818,6 +11818,11 @@
      "number": "10.17",
      "title": "Manajemen perubahan organisasi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-17-manajemen-perubahan-organisasi/"
+    },
+    {
+     "number": "10.18",
+     "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-18-kantor-program-sumber-terbuka/"
     }
    ]
   }
