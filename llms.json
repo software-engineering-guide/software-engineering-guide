@@ -9594,6 +9594,16 @@
      "number": "10.18",
      "title": "ওপেন সোর্স প্রোগ্রাম অফিস (OSPO) ও আপস্ট্রিম অবদান",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-18-ওপেন-সোর্স-প্রোগ্রাম-অফিস/"
+    },
+    {
+     "number": "11.0",
+     "title": "পর্ব ১১-এর ভূমিকা: প্রবাহ: আবিষ্কার ও ডেলিভারি পাইপলাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-00-প্রবাহ-আবিষ্কার-ও-ডেলিভারি/"
+    },
+    {
+     "number": "11.1",
+     "title": "আবিষ্কার পাইপলাইন",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-01-আবিষ্কার-পাইপলাইন/"
     }
    ]
   },
