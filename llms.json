@@ -11538,6 +11538,11 @@
      "number": "5.9",
      "title": "Desain layanan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-09-desain-layanan/"
+    },
+    {
+     "number": "5.10",
+     "title": "Desain visualisasi data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-10-desain-visualisasi-data/"
     }
    ]
   }
