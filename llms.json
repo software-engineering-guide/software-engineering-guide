@@ -11393,6 +11393,16 @@
      "number": "3.9",
      "title": "Rekayasa sistem",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-09-rekayasa-sistem/"
+    },
+    {
+     "number": "3.10",
+     "title": "Sistem tertanam dan waktu nyata",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-10-sistem-tertanam-dan-waktu-nyata/"
+    },
+    {
+     "number": "3.11",
+     "title": "Arsitektur cloud",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-11-arsitektur-cloud/"
     }
    ]
   }
