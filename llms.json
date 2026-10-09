@@ -11748,6 +11748,16 @@
      "number": "10.3",
      "title": "Pengadaan, sumber terbuka, dan lisensi",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-03-pengadaan-sumber-terbuka-dan-lisensi/"
+    },
+    {
+     "number": "10.4",
+     "title": "Merawat sistem besar dan berumur panjang",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-04-merawat-sistem-besar-dan-berumur-panjang/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etika, akuntabilitas, dan kepentingan publik",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-05-etika-akuntabilitas-kepentingan-publik/"
     }
    ]
   }
