@@ -11633,6 +11633,16 @@
      "number": "7.7",
      "title": "Pemodelan data dan lapisan semantik",
      "url": "https://software-engineering-guide.github.io/id-001/topik/07-07-pemodelan-data-dan-lapisan-semantik/"
+    },
+    {
+     "number": "7.8",
+     "title": "Kualitas dan observabilitas data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-08-kualitas-dan-observabilitas-data/"
+    },
+    {
+     "number": "7.9",
+     "title": "Manajemen data induk dan data referensi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/07-09-manajemen-data-induk-dan-data-referensi/"
     }
    ]
   }
