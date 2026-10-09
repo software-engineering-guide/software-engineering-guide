@@ -11383,6 +11383,16 @@
      "number": "3.7",
      "title": "Pemeliharaan perangkat lunak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-07-pemeliharaan-perangkat-lunak/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilitas dan standar terbuka",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-08-interoperabilitas-dan-standar-terbuka/"
+    },
+    {
+     "number": "3.9",
+     "title": "Rekayasa sistem",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-09-rekayasa-sistem/"
     }
    ]
   }
