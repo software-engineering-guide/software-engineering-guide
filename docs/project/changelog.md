@@ -17,6 +17,8 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 - Locales `ar-001`, `cy-gb`, `hi-in`, and `de-001` (identical to `de-de`), with `cy-gb` and `hi-in`
   registered in `locales.tsv`.
+- Locale `bn-001` (Bengali): all chapters translated by hand, with Bengali-script directory segments
+  under `বিষয়/` and matching `.locale-peer-id` files.
 
 ### Fixed
 
