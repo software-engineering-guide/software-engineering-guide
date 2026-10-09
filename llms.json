@@ -11498,6 +11498,16 @@
      "number": "5.1",
      "title": "Fondasi UX",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-01-fondasi-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Desain UI dan sistem desain",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-02-desain-ui-dan-sistem-desain/"
+    },
+    {
+     "number": "5.3",
+     "title": "Aksesibilitas",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-03-aksesibilitas/"
     }
    ]
   }
