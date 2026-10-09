@@ -11703,6 +11703,16 @@
      "number": "9.3",
      "title": "Manajemen insiden",
      "url": "https://software-engineering-guide.github.io/id-001/topik/09-03-manajemen-insiden/"
+    },
+    {
+     "number": "9.4",
+     "title": "Biaya, keberlanjutan, dan perangkat lunak hijau",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-04-biaya-keberlanjutan-perangkat-lunak-hijau/"
+    },
+    {
+     "number": "9.5",
+     "title": "Pemulihan bencana dan kesinambungan bisnis",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-05-pemulihan-bencana-dan-kesinambungan-bisnis/"
     }
    ]
   }
