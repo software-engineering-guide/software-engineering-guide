@@ -11423,6 +11423,16 @@
      "number": "3.15",
      "title": "Caching dan pengiriman konten",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-15-caching-dan-pengiriman-konten/"
+    },
+    {
+     "number": "3.16",
+     "title": "API gateway dan service mesh",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-16-api-gateway-dan-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Pencarian dan temu balik informasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-17-pencarian-dan-temu-balik-informasi/"
     }
    ]
   }
