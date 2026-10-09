@@ -9624,6 +9624,11 @@
      "number": "11.5",
      "title": "মূল কর্মক্ষমতা সূচক (KPI)",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-05-মূল-কর্মক্ষমতা-সূচক/"
+    },
+    {
+     "number": "11.6",
+     "title": "ভ্যালু স্ট্রিম ম্যাপিং ও বিলম্বের খরচ",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/11-06-ভ্যালু-স্ট্রিম-ম্যাপিং-ও-বিলম্বের-খরচ/"
     }
    ]
   },
