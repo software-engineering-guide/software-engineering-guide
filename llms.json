@@ -11588,6 +11588,11 @@
      "number": "6.8",
      "title": "Evaluasi dan pengujian AI",
      "url": "https://software-engineering-guide.github.io/id-001/topik/06-08-evaluasi-dan-pengujian-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Rekayasa prompt dan desain konteks",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-09-rekayasa-prompt-dan-desain-konteks/"
     }
    ]
   }
