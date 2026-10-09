@@ -11338,6 +11338,11 @@
      "number": "2.20",
      "title": "Penanganan galat dan pola ketahanan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-20-penanganan-galat-dan-pola-ketahanan/"
+    },
+    {
+     "number": "2.21",
+     "title": "Sistem tipe dan analisis statis",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-21-sistem-tipe-dan-analisis-statis/"
     }
    ]
   }
