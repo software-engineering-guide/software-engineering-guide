@@ -11683,6 +11683,16 @@
      "number": "8.7",
      "title": "Sistem build dan manajemen artefak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/08-07-sistem-build-dan-manajemen-artefak/"
+    },
+    {
+     "number": "9.0",
+     "title": "Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-00-operasi-dan-keandalan/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-01-site-reliability-engineering/"
     }
    ]
   }
