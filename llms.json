@@ -11403,6 +11403,16 @@
      "number": "3.11",
      "title": "Arsitektur cloud",
      "url": "https://software-engineering-guide.github.io/id-001/topik/03-11-arsitektur-cloud/"
+    },
+    {
+     "number": "3.12",
+     "title": "Arsitektur berbasis peristiwa dan pesan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-12-arsitektur-berbasis-peristiwa-dan-pesan/"
+    },
+    {
+     "number": "3.13",
+     "title": "Jaringan dan konektivitas",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-13-jaringan-dan-konektivitas/"
     }
    ]
   }
