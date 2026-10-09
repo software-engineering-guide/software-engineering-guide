@@ -19,6 +19,8 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   registered in `locales.tsv`.
 - Locale `bn-001` (Bengali): all chapters translated by hand, with Bengali-script directory segments
   under `বিষয়/` and matching `.locale-peer-id` files.
+- Locale `id-001` (Indonesian): all 147 chapters translated by hand, with Indonesian directory
+  segments under `topik/` and matching `.locale-peer-id` files.
 
 ### Fixed
 
