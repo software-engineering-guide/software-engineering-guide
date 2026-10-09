@@ -11473,6 +11473,16 @@
      "number": "4.7",
      "title": "Manajemen identitas dan akses",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-07-manajemen-identitas-dan-akses/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kriptografi dan manajemen kunci",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-08-kriptografi-dan-manajemen-kunci/"
+    },
+    {
+     "number": "4.9",
+     "title": "Siklus hidup pengembangan perangkat lunak aman",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman/"
     }
    ]
   }
