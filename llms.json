@@ -9509,6 +9509,16 @@
      "number": "10.1",
      "title": "পোর্টফোলিও ও কর্মসূচি ব্যবস্থাপনা",
      "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-01-পোর্টফোলিও-ও-কর্মসূচি-ব্যবস্থাপনা/"
+    },
+    {
+     "number": "10.2",
+     "title": "ঝুঁকি, নিরীক্ষা ও নিশ্চয়তা",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-02-ঝুঁকি-নিরীক্ষা-ও-নিশ্চয়তা/"
+    },
+    {
+     "number": "10.3",
+     "title": "ক্রয়, ওপেন সোর্স ও লাইসেন্সিং",
+     "url": "https://software-engineering-guide.github.io/bn-001/বিষয়/10-03-ক্রয়-ওপেন-সোর্স-ও-লাইসেন্সিং/"
     }
    ]
   },
