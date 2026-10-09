@@ -11853,6 +11853,11 @@
      "number": "11.5",
      "title": "Key performance indicator (KPI)",
      "url": "https://software-engineering-guide.github.io/id-001/topik/11-05-indikator-kinerja-utama-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Pemetaan aliran nilai dan biaya penundaan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan/"
     }
    ]
   }
