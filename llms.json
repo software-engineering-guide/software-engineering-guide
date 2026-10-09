@@ -11453,6 +11453,16 @@
      "number": "4.3",
      "title": "Keamanan infrastruktur dan cloud",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-03-keamanan-infrastruktur-dan-cloud/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operasi keamanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-04-operasi-keamanan/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privasi dan pelindungan data",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-05-privasi-dan-pelindungan-data/"
     }
    ]
   }
