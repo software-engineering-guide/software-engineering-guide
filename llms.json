@@ -11843,6 +11843,16 @@
      "number": "11.3",
      "title": "Teori antrean",
      "url": "https://software-engineering-guide.github.io/id-001/topik/11-03-teori-antrean/"
+    },
+    {
+     "number": "11.4",
+     "title": "Objectives and key results (OKR)",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-04-sasaran-dan-hasil-kunci-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Key performance indicator (KPI)",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/11-05-indikator-kinerja-utama-kpi/"
     }
    ]
   }
