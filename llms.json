@@ -11218,6 +11218,16 @@
      "number": "1.10",
      "title": "Efektivitas rekayasa dan produktivitas pengembang",
      "url": "https://software-engineering-guide.github.io/id-001/topik/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang/"
+    },
+    {
+     "number": "1.11",
+     "title": "Manajemen rekayasa",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-11-manajemen-rekayasa/"
+    },
+    {
+     "number": "1.12",
+     "title": "Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki/"
     }
    ]
   }
