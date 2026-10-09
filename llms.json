@@ -11713,6 +11713,16 @@
      "number": "9.5",
      "title": "Pemulihan bencana dan kesinambungan bisnis",
      "url": "https://software-engineering-guide.github.io/id-001/topik/09-05-pemulihan-bencana-dan-kesinambungan-bisnis/"
+    },
+    {
+     "number": "9.6",
+     "title": "Rekayasa chaos dan pengujian ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"
+    },
+    {
+     "number": "9.7",
+     "title": "Perencanaan kapasitas dan peramalan permintaan",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"
     }
    ]
   }
