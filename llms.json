@@ -11553,6 +11553,16 @@
      "number": "6.1",
      "title": "Strategi dan kesiapan AI",
      "url": "https://software-engineering-guide.github.io/id-001/topik/06-01-strategi-dan-kesiapan-ai/"
+    },
+    {
+     "number": "6.2",
+     "title": "Rekayasa pembelajaran mesin (MLOps)",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "AI generatif dan aplikasi LLM",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/06-03-ai-generatif-dan-aplikasi-llm/"
     }
    ]
   }
