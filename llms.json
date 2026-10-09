@@ -11343,6 +11343,16 @@
      "number": "2.21",
      "title": "Sistem tipe dan analisis statis",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-21-sistem-tipe-dan-analisis-statis/"
+    },
+    {
+     "number": "3.0",
+     "title": "Pengantar Bagian 3: Sistem",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-00-sistem/"
+    },
+    {
+     "number": "3.1",
+     "title": "Dasar-dasar arsitektur",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/03-01-dasar-dasar-arsitektur/"
     }
    ]
   }
