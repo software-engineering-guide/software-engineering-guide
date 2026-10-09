@@ -11858,6 +11858,21 @@
      "number": "11.6",
      "title": "Pemetaan aliran nilai dan biaya penundaan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan/"
+    },
+    {
+     "number": "12.0",
+     "title": "Lampiran",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-00-lampiran/"
+    },
+    {
+     "number": "12.2",
+     "title": "Daftar periksa",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-02-daftar-periksa/"
+    },
+    {
+     "number": "12.3",
+     "title": "Templat",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/12-03-templat/"
     }
    ]
   }
