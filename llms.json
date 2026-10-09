@@ -11308,6 +11308,16 @@
      "number": "2.14",
      "title": "Struktur proyek dan repositori",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-14-struktur-proyek-dan-repositori/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debugging dan pemecahan masalah",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-15-debugging-dan-pemecahan-masalah/"
+    },
+    {
+     "number": "2.16",
+     "title": "Rekayasa kinerja",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-16-rekayasa-kinerja/"
     }
    ]
   }
