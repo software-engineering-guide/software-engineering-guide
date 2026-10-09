@@ -11508,6 +11508,16 @@
      "number": "5.3",
      "title": "Aksesibilitas",
      "url": "https://software-engineering-guide.github.io/id-001/topik/05-03-aksesibilitas/"
+    },
+    {
+     "number": "5.4",
+     "title": "Desain konten dan komunikasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-04-desain-konten-dan-komunikasi/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internasionalisasi dan lokalisasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/05-05-internasionalisasi-dan-lokalisasi/"
     }
    ]
   }
