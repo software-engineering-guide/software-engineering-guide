@@ -11728,6 +11728,16 @@
      "number": "9.8",
      "title": "On-call dan kesiapan operasional",
      "url": "https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"
+    },
+    {
+     "number": "10.0",
+     "title": "Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-00-manajemen-proyek-produk-dan-program/"
+    },
+    {
+     "number": "10.1",
+     "title": "Manajemen portofolio dan program",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-01-manajemen-portofolio-dan-program/"
     }
    ]
   }
