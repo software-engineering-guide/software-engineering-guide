@@ -11463,6 +11463,16 @@
      "number": "4.5",
      "title": "Privasi dan pelindungan data",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-05-privasi-dan-pelindungan-data/"
+    },
+    {
+     "number": "4.6",
+     "title": "Kepatuhan dan tata kelola",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-06-kepatuhan-dan-tata-kelola/"
+    },
+    {
+     "number": "4.7",
+     "title": "Manajemen identitas dan akses",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-07-manajemen-identitas-dan-akses/"
     }
    ]
   }
