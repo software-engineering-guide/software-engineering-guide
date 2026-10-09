@@ -11808,6 +11808,16 @@
      "number": "10.15",
      "title": "Estimasi dan peramalan",
      "url": "https://software-engineering-guide.github.io/id-001/topik/10-15-estimasi-dan-peramalan/"
+    },
+    {
+     "number": "10.16",
+     "title": "Manajemen pemangku kepentingan dan komunikasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-16-manajemen-pemangku-kepentingan-dan-komunikasi/"
+    },
+    {
+     "number": "10.17",
+     "title": "Manajemen perubahan organisasi",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/10-17-manajemen-perubahan-organisasi/"
     }
    ]
   }
