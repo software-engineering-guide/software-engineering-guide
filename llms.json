@@ -11483,6 +11483,11 @@
      "number": "4.9",
      "title": "Siklus hidup pengembangan perangkat lunak aman",
      "url": "https://software-engineering-guide.github.io/id-001/topik/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman/"
+    },
+    {
+     "number": "4.10",
+     "title": "Uji penetrasi dan red teaming",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/04-10-uji-penetrasi-dan-red-teaming/"
     }
    ]
   }
