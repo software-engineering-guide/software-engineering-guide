@@ -11298,6 +11298,16 @@
      "number": "2.12",
      "title": "Model dan metode perangkat lunak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-12-model-dan-metode-perangkat-lunak/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fondasi komputasi, matematika, dan rekayasa",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-13-fondasi-komputasi-matematika-dan-rekayasa/"
+    },
+    {
+     "number": "2.14",
+     "title": "Struktur proyek dan repositori",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-14-struktur-proyek-dan-repositori/"
     }
    ]
   }
