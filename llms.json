@@ -11248,6 +11248,16 @@
      "number": "2.2",
      "title": "Prinsip desain perangkat lunak",
      "url": "https://software-engineering-guide.github.io/id-001/topik/02-02-prinsip-desain-perangkat-lunak/"
+    },
+    {
+     "number": "2.3",
+     "title": "API dan desain antarmuka",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-03-api-dan-desain-antarmuka/"
+    },
+    {
+     "number": "2.4",
+     "title": "Strategi pengujian",
+     "url": "https://software-engineering-guide.github.io/id-001/topik/02-04-strategi-pengujian/"
     }
    ]
   }
