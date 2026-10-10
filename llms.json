@@ -15208,6 +15208,16 @@
      "number": "5.0",
      "title": "Introduktion till del 5: UI/UX-design",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-00-ui-ux-design/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-grunder",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-01-ux-grunder/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-design och designsystem",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-02-ui-design-och-designsystem/"
     }
    ]
   }
