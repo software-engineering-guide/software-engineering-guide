@@ -12176,6 +12176,16 @@
      "number": "3.17",
      "title": "検索と情報検索",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-17-検索と情報検索/"
+    },
+    {
+     "number": "4.0",
+     "title": "第4部の導入: セキュリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-00-セキュリティ/"
+    },
+    {
+     "number": "4.1",
+     "title": "セキュリティの基礎と文化",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-01-セキュリティの基礎と文化/"
     }
    ]
   }
