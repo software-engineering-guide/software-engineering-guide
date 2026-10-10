@@ -34,7 +34,7 @@ Configureer linters met een overeengekomen regelset, laat de build falen bij ove
 
 ### Handhaaf op meerdere lagen
 
-Bied editorintegratie voor directe feedback, pre-commit hooks voor lokale handhaving en CI-controles als gezaghebbende poort. Hoe eerder je een overtreding opvangt, hoe goedkoper. CI moet de laatste vangnet zijn, omdat lokale hooks kunnen worden omzeild.
+Bied editorintegratie voor directe feedback, pre-commit hooks voor lokale handhaving en CI-controles als gezaghebbende poort. Hoe eerder je een overtreding opvangt, hoe goedkoper. CI moet het laatste vangnet zijn, omdat lokale hooks kunnen worden omzeild.
 
 ### Geef naamgeving expliciete regels
 

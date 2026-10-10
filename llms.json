@@ -16444,6 +16444,16 @@
      "number": "2.1",
      "title": "Codeerstandaarden en stijl",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"
+    },
+    {
+     "number": "2.2",
+     "title": "Ontwerpprincipes voor software",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-02-ontwerpprincipes-voor-software/"
+    },
+    {
+     "number": "2.3",
+     "title": "API's en interfaceontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-03-api-s-en-interfaceontwerp/"
     }
    ]
   }
