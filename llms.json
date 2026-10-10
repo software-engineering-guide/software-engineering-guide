@@ -12306,6 +12306,16 @@
      "number": "6.3",
      "title": "生成AIとLLMアプリケーション",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-03-生成AIとLLMアプリケーション/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI支援ソフトウェア開発",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-04-AI支援ソフトウェア開発/"
+    },
+    {
+     "number": "6.5",
+     "title": "責任あるAIと信頼できるAI",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-05-責任あるAIと信頼できるAI/"
     }
    ]
   }
