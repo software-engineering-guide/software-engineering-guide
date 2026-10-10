@@ -16694,6 +16694,16 @@
      "number": "5.0",
      "title": "Inleiding op deel 5: UI/UX-ontwerp",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-00-ui-ux-ontwerp/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-fundamenten",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-01-ux-fundamenten/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-ontwerp en designsystemen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-02-ui-ontwerp-en-designsystemen/"
     }
    ]
   }
