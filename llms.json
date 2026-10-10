@@ -17940,6 +17940,16 @@
      "number": "2.3",
      "title": "Forritaskil og viðmótshönnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-03-forritaskil-og-viðmótshönnun/"
+    },
+    {
+     "number": "2.4",
+     "title": "Prófunarstefna",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-04-prófunarstefna/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kóðarýni og samvinna",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-05-kóðarýni-og-samvinna/"
     }
    ]
   }
