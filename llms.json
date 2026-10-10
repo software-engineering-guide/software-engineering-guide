@@ -12501,6 +12501,16 @@
      "number": "10.5",
      "title": "倫理、説明責任、公共の利益",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-05-倫理と説明責任と公共の利益/"
+    },
+    {
+     "number": "10.6",
+     "title": "プロジェクトマネジメント",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-06-プロジェクトマネジメント/"
+    },
+    {
+     "number": "10.7",
+     "title": "アジャイル",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-07-アジャイル/"
     }
    ]
   }
