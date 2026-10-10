@@ -12156,6 +12156,16 @@
      "number": "3.13",
      "title": "ネットワーキングと接続性",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-13-ネットワーキングと接続性/"
+    },
+    {
+     "number": "3.14",
+     "title": "マルチテナンシーとSaaSアーキテクチャ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-14-マルチテナンシーとSaaSアーキテクチャ/"
+    },
+    {
+     "number": "3.15",
+     "title": "キャッシュとコンテンツ配信",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-15-キャッシュとコンテンツ配信/"
     }
    ]
   }
