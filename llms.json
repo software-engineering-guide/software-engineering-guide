@@ -15408,6 +15408,16 @@
      "number": "9.1",
      "title": "Site reliability engineering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observerbarhet och telemetri",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-02-observerbarhet-och-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Incidenthantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-03-incidenthantering/"
     }
    ]
   }
