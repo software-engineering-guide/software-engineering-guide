@@ -16724,6 +16724,16 @@
      "number": "5.6",
      "title": "Frontend-engineering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-06-frontendengineering/"
+    },
+    {
+     "number": "5.7",
+     "title": "Ontwikkeling van mobiele applicaties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-07-ontwikkeling-van-mobiele-applicaties/"
+    },
+    {
+     "number": "5.8",
+     "title": "Ontwerponderzoek en usabilitytesten",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-08-ontwerponderzoek-en-usabilitytesten/"
     }
    ]
   }
