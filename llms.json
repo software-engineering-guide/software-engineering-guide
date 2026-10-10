@@ -11976,6 +11976,16 @@
      "number": "1.13",
      "title": "メンタリングとコーチングと知識共有",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-13-メンタリングとコーチングと知識共有/"
+    },
+    {
+     "number": "2.0",
+     "title": "第2部の紹介: ソフトウェアプログラミング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-00-ソフトウェアプログラミング/"
+    },
+    {
+     "number": "2.1",
+     "title": "コーディング標準とスタイル",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-01-コーディング標準とスタイル/"
     }
    ]
   }
