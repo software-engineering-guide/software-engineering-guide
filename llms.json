@@ -17019,6 +17019,16 @@
      "number": "10.17",
      "title": "Organisatorisch veranderingsmanagement",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-17-organisatorisch-veranderingsmanagement/"
+    },
+    {
+     "number": "10.18",
+     "title": "Open source program office (OSPO) en bijdragen aan upstream",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-18-open-source-programmabureau/"
+    },
+    {
+     "number": "11.0",
+     "title": "Inleiding op deel 11: Flow: Discovery- en leveringspijplijnen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-00-flow-discovery-en-oplevering/"
     }
    ]
   }
