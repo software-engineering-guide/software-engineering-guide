@@ -13952,6 +13952,16 @@
      "number": "9.7",
      "title": "용량 계획과 수요 예측",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-07-용량-계획과-수요-예측/"
+    },
+    {
+     "number": "9.8",
+     "title": "온콜과 운영 준비도",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-08-온콜과-운영-준비도/"
+    },
+    {
+     "number": "10.0",
+     "title": "10부 소개: 프로젝트/제품/프로그램 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-00-프로젝트와-제품과-프로그램-관리/"
     }
    ]
   }
