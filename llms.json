@@ -16914,6 +16914,16 @@
      "number": "9.5",
      "title": "Disaster recovery en bedrijfscontinuïteit",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-05-disaster-recovery-en-bedrijfscontinuiteit/"
+    },
+    {
+     "number": "9.6",
+     "title": "Chaos engineering en veerkrachttesten",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-06-chaos-engineering-en-veerkrachttesten/"
+    },
+    {
+     "number": "9.7",
+     "title": "Capaciteitsplanning en vraagvoorspelling",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-07-capaciteitsplanning-en-vraagvoorspelling/"
     }
    ]
   }
