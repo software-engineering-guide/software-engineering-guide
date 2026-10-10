@@ -18080,6 +18080,16 @@
      "number": "3.9",
      "title": "Kerfisverkfræði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-09-kerfisverkfræði/"
+    },
+    {
+     "number": "3.10",
+     "title": "Innbyggð kerfi og rauntímakerfi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-10-innbyggð-kerfi-og-rauntímakerfi/"
+    },
+    {
+     "number": "3.11",
+     "title": "Skýjaarkitektúr",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-11-skýjaarkitektúr/"
     }
    ]
   }
