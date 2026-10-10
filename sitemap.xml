@@ -1059,6 +1059,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -1085,6 +1086,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -4928,6 +4930,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -4954,6 +4957,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -8797,6 +8801,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -8823,6 +8828,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -12666,6 +12672,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -12692,6 +12699,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -16535,6 +16543,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -16561,6 +16570,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -20404,6 +20414,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -20430,6 +20441,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -24273,6 +24285,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -24299,6 +24312,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -28142,6 +28156,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -28168,6 +28183,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -32011,6 +32027,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -32037,6 +32054,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -35880,6 +35898,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -35906,6 +35925,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -39749,6 +39769,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -39775,6 +39796,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -43618,6 +43640,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -43644,6 +43667,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -47487,6 +47511,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -47513,6 +47538,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -51356,6 +51382,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -51382,6 +51409,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -55225,6 +55253,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -55251,6 +55280,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -59094,6 +59124,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -59120,6 +59151,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -62963,6 +62995,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -62989,6 +63022,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -66832,6 +66866,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -66858,6 +66893,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -70701,6 +70737,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -70727,6 +70764,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -74570,6 +74608,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -74596,6 +74635,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -78439,6 +78479,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -78465,6 +78506,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -82308,6 +82350,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
   </url>
   <url>
@@ -82334,6 +82377,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
   <url>
@@ -86152,5 +86196,59 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-01-arkitekturens-grunder/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-01-architectuurfundamenten/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-01-architecture-fundamentals/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-02-arddulliau-a-phatrymau-pensaernïol/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-02-architectural-styles-and-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-02-architectural-styles-and-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-02-estilos-y-patrones-arquitectónicos/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-02-वास्तुशिल्प-शैलियाँ-और-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-02-架构风格与模式/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-02-架构风格与模式/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-02-الأنماط-والأساليب-المعمارية/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-02-architekturstile-und-muster/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-02-architekturstile-und-muster/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-02-styles-motifs-architecturaux/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-02-স্থাপত্য-শৈলী-ও-প্যাটার্ন/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-02-arddulliau-a-phatrymau-pensaernïol/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-02-वास्तुशिल्प-शैलियाँ-और-पैटर्न/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-02-gaya-dan-pola-arsitektural/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-02-アーキテクチャスタイルとパターン/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-02-アーキテクチャスタイルとパターン/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-02-아키텍처-스타일과-패턴/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-02-아키텍처-스타일과-패턴/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-02-architectural-styles-and-patterns/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-03-systemau-dosbarthedig/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-03-distributed-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-03-distributed-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-03-sistemas-distribuidos/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-03-वितरित-प्रणालियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-03-分布式系统/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-03-分布式系统/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-03-الأنظمة-الموزعة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-03-verteilte-systeme/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-03-verteilte-systeme/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-03-systemes-distribues/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-03-বিতরিত-সিস্টেম/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-03-systemau-dosbarthedig/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-03-वितरित-प्रणालियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-03-sistem-terdistribusi/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-03-分散システム/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-03-分散システム/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-03-분산-시스템/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
   </url>
 </urlset>

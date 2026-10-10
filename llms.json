@@ -16554,6 +16554,16 @@
      "number": "3.1",
      "title": "Architectuurfundamenten",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-01-architectuurfundamenten/"
+    },
+    {
+     "number": "3.2",
+     "title": "Architectuurstijlen en -patronen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-02-architectuurstijlen-en-patronen/"
+    },
+    {
+     "number": "3.3",
+     "title": "Gedistribueerde systemen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"
     }
    ]
   }
