@@ -15338,6 +15338,16 @@
      "number": "7.5",
      "title": "Beslutsvetenskap och databaserad kultur",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-05-beslutsvetenskap-och-datakultur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Realtidsdata och strömmande data",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datamodellering och det semantiska lagret",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"
     }
    ]
   }

@@ -2331,6 +2331,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -2355,6 +2356,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -5960,6 +5962,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -5984,6 +5987,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -9589,6 +9593,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -9613,6 +9618,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -13218,6 +13224,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -13242,6 +13249,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -16847,6 +16855,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -16871,6 +16880,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -20476,6 +20486,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -20500,6 +20511,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -24105,6 +24117,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -24129,6 +24142,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -27734,6 +27748,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -27758,6 +27773,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -31363,6 +31379,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -31387,6 +31404,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -34992,6 +35010,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -35016,6 +35035,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -38621,6 +38641,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -38645,6 +38666,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -42250,6 +42272,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -42274,6 +42297,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -45879,6 +45903,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -45903,6 +45928,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -49508,6 +49534,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -49532,6 +49559,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -53137,6 +53165,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -53161,6 +53190,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -56766,6 +56796,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -56790,6 +56821,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -60395,6 +60427,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -60419,6 +60452,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -64024,6 +64058,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -64048,6 +64083,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -67653,6 +67689,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -67677,6 +67714,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -71282,6 +71320,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
   </url>
   <url>
@@ -71306,6 +71345,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
   <url>
@@ -74888,5 +74928,55 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-05-의사결정-과학과-데이터-문화/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-05-beslutsvetenskap-och-datakultur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-05-decision-science-and-data-culture/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/07-06-data-amser-real-a-ffrydiol/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/07-06-real-time-and-streaming-data/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/07-06-real-time-and-streaming-data/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/07-06-datos-en-tiempo-real-y-en-flujo/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/07-06-रियल-टाइम-और-स्ट्रीमिंग-डेटा/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/07-06-实时与流式数据/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/07-06-实时与流式数据/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/07-06-البيانات-الفورية-والمتدفقة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-06-echtzeit-und-streaming-daten/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-06-echtzeit-und-streaming-daten/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-06-donnees-temps-reel-flux/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-06-রিয়েল-টাইম-ও-স্ট্রিমিং-ডেটা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-06-data-amser-real-a-ffrydiol/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-06-रियल-टाइम-और-स्ट्रीमिंग-डेटा/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/07-06-data-real-time-dan-streaming/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-06-リアルタイムデータとストリーミングデータ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-06-실시간-데이터와-스트리밍-데이터/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-06-realtidsdata-och-strömmande-data/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-06-real-time-and-streaming-data/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/07-07-modelu-data-a-haen-semantig/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/07-07-data-modelling-and-semantic-layer/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/07-07-data-modelling-and-semantic-layer/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/07-07-modelado-de-datos-y-capa-semántica/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/07-07-डेटा-मॉडलिंग-और-सिमेंटिक-लेयर/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/07-07-数据建模与语义层/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/07-07-数据建模与语义层/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/07-07-نمذجة-البيانات-والطبقة-الدلالية/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/07-07-datenmodellierung-und-semantische-schicht/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/07-07-datenmodellierung-und-semantische-schicht/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/07-07-modelisation-donnees-couche-semantique/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/07-07-ডেটা-মডেলিং-ও-শব্দার্থিক-স্তর/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/07-07-modelu-data-a-haen-semantig/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/07-07-डेटा-मॉडलिंग-और-सिमेंटिक-लेयर/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/07-07-pemodelan-data-dan-lapisan-semantik/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/07-07-データモデリングとセマンティックレイヤー/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/07-07-데이터-모델링과-시맨틱-계층/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/07-07-data-modelling-and-semantic-layer/"/>
   </url>
 </urlset>
