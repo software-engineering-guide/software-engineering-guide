@@ -16704,6 +16704,16 @@
      "number": "5.2",
      "title": "UI-ontwerp en designsystemen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-02-ui-ontwerp-en-designsystemen/"
+    },
+    {
+     "number": "5.3",
+     "title": "Toegankelijkheid",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-03-toegankelijkheid/"
+    },
+    {
+     "number": "5.4",
+     "title": "Content- en communicatieontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-04-content-en-communicatieontwerp/"
     }
    ]
   }
