@@ -13442,6 +13442,16 @@
      "number": "1.9",
      "title": "분산 근무와 원격 근무",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-09-분산-근무와-원격-근무/"
+    },
+    {
+     "number": "1.10",
+     "title": "엔지니어링 효과성과 개발자 생산성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-10-엔지니어링-효과성과-개발자-생산성/"
+    },
+    {
+     "number": "1.11",
+     "title": "엔지니어링 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-11-엔지니어링-관리/"
     }
    ]
   }
