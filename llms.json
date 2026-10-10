@@ -12106,6 +12106,16 @@
      "number": "3.3",
      "title": "分散システム",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-03-分散システム/"
+    },
+    {
+     "number": "3.4",
+     "title": "データアーキテクチャとストレージ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-04-データアーキテクチャとストレージ/"
+    },
+    {
+     "number": "3.5",
+     "title": "スケーラビリティ、パフォーマンス、レジリエンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"
     }
    ]
   }
