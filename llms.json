@@ -12276,6 +12276,16 @@
      "number": "5.8",
      "title": "デザインリサーチとユーザビリティテスト",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-08-デザインリサーチとユーザビリティテスト/"
+    },
+    {
+     "number": "5.9",
+     "title": "サービスデザイン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-09-サービスデザイン/"
+    },
+    {
+     "number": "5.10",
+     "title": "データ可視化デザイン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-10-データ可視化デザイン/"
     }
    ]
   }
