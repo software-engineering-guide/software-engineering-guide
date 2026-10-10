@@ -16999,6 +16999,16 @@
      "number": "10.13",
      "title": "Samenwerking tussen organisaties",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-13-samenwerking-tussen-organisaties/"
+    },
+    {
+     "number": "10.14",
+     "title": "Productmanagement en discovery",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-14-productmanagement-en-discovery/"
+    },
+    {
+     "number": "10.15",
+     "title": "Schatten en voorspellen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-15-schatten-en-voorspellen/"
     }
    ]
   }
