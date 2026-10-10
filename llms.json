@@ -12336,6 +12336,16 @@
      "number": "6.9",
      "title": "プロンプトエンジニアリングとコンテキスト設計",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-09-プロンプトエンジニアリングとコンテキスト設計/"
+    },
+    {
+     "number": "7.0",
+     "title": "第7部の導入: データ、分析、洞察",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-00-データと分析/"
+    },
+    {
+     "number": "7.1",
+     "title": "データ戦略とガバナンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-01-データ戦略とガバナンス/"
     }
    ]
   }
