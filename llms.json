@@ -13612,6 +13612,16 @@
      "number": "3.7",
      "title": "소프트웨어 유지보수",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-07-소프트웨어-유지보수/"
+    },
+    {
+     "number": "3.8",
+     "title": "상호운용성과 개방형 표준",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-08-상호운용성과-개방형-표준/"
+    },
+    {
+     "number": "3.9",
+     "title": "시스템 엔지니어링",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-09-시스템-엔지니어링/"
     }
    ]
   }
