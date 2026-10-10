@@ -15088,6 +15088,16 @@
      "number": "3.5",
      "title": "Skalbarhet, prestanda och motståndskraft",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisering av äldre system",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-06-modernisering-av-äldre-system/"
+    },
+    {
+     "number": "3.7",
+     "title": "Programvaruunderhåll",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-07-programvaruunderhåll/"
     }
    ]
   }
