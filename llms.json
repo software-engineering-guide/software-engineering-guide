@@ -16564,6 +16564,16 @@
      "number": "3.3",
      "title": "Gedistribueerde systemen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-03-gedistribueerde-systemen/"
+    },
+    {
+     "number": "3.4",
+     "title": "Dataarchitectuur en opslag",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-04-dataarchitectuur-en-opslag/"
+    },
+    {
+     "number": "3.5",
+     "title": "Schaalbaarheid, prestaties en veerkracht",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-05-schaalbaarheid-prestaties-en-veerkracht/"
     }
    ]
   }
