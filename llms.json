@@ -12056,6 +12056,16 @@
      "number": "2.15",
      "title": "デバッグとトラブルシューティング",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-15-デバッグとトラブルシューティング/"
+    },
+    {
+     "number": "2.16",
+     "title": "パフォーマンスエンジニアリング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-16-パフォーマンスエンジニアリング/"
+    },
+    {
+     "number": "2.17",
+     "title": "並行性と並列性",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-17-並行性と並列性/"
     }
    ]
   }
