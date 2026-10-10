@@ -15098,6 +15098,16 @@
      "number": "3.7",
      "title": "Programvaruunderhåll",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-07-programvaruunderhåll/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilitet och öppna standarder",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-08-interoperabilitet-och-öppna-standarder/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systemteknik",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-09-systemteknik/"
     }
    ]
   }
