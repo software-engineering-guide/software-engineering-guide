@@ -18070,6 +18070,16 @@
      "number": "3.7",
      "title": "Viðhald hugbúnaðar",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-07-viðhald-hugbúnaðar/"
+    },
+    {
+     "number": "3.8",
+     "title": "Samvirkni og opnir staðlar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-08-samvirkni-og-opnir-staðlar/"
+    },
+    {
+     "number": "3.9",
+     "title": "Kerfisverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-09-kerfisverkfræði/"
     }
    ]
   }
