@@ -15448,6 +15448,16 @@
      "number": "10.0",
      "title": "Introduktion till del 10: Projekt-, produkt- och programledning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-00-projekt-produkt-och-programledning/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portfölj- och programledning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-01-portfölj-och-programledning/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risk, revision och försäkran",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-02-risk-revision-och-säkerställande/"
     }
    ]
   }
