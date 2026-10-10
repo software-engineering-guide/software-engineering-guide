@@ -16734,6 +16734,16 @@
      "number": "5.8",
      "title": "Ontwerponderzoek en usabilitytesten",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-08-ontwerponderzoek-en-usabilitytesten/"
+    },
+    {
+     "number": "5.9",
+     "title": "Servicedesign",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-09-servicedesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Ontwerp van datavisualisaties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-10-ontwerp-van-datavisualisaties/"
     }
    ]
   }
