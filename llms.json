@@ -14002,6 +14002,16 @@
      "number": "10.8",
      "title": "성숙도 모델",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-08-성숙도-모델/"
+    },
+    {
+     "number": "10.9",
+     "title": "혁신과 파트너십",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-09-혁신과-파트너십/"
+    },
+    {
+     "number": "10.10",
+     "title": "소프트웨어 엔지니어링 경제학",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-10-소프트웨어-엔지니어링-경제학/"
     }
    ]
   }
