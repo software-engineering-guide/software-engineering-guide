@@ -15438,6 +15438,16 @@
      "number": "9.7",
      "title": "Kapacitetsplanering och efterfrågeprognoser",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-07-kapacitetsplanering-och-efterfrågeprognoser/"
+    },
+    {
+     "number": "9.8",
+     "title": "Jour och driftberedskap",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-08-jour-och-driftberedskap/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introduktion till del 10: Projekt-, produkt- och programledning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-00-projekt-produkt-och-programledning/"
     }
    ]
   }
