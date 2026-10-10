@@ -13682,6 +13682,16 @@
      "number": "4.3",
      "title": "인프라와 클라우드 보안",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-03-인프라와-클라우드-보안/"
+    },
+    {
+     "number": "4.4",
+     "title": "보안 운영",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-04-보안-운영/"
+    },
+    {
+     "number": "4.5",
+     "title": "프라이버시와 데이터 보호",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-05-프라이버시와-데이터-보호/"
     }
    ]
   }
