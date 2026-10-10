@@ -12471,6 +12471,16 @@
      "number": "9.8",
      "title": "オンコールと運用準備",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"
+    },
+    {
+     "number": "10.0",
+     "title": "第10部の導入: プロジェクト/プロダクト/プログラムの管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-00-プロジェクトとプロダクトとプログラムの管理/"
+    },
+    {
+     "number": "10.1",
+     "title": "ポートフォリオとプログラムの管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-01-ポートフォリオとプログラムの管理/"
     }
    ]
   }
