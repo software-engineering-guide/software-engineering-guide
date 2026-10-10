@@ -13972,6 +13972,16 @@
      "number": "10.2",
      "title": "위험, 감사, 보증",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-02-위험과-감사와-보증/"
+    },
+    {
+     "number": "10.3",
+     "title": "조달, 오픈 소스, 라이선스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-03-조달과-오픈-소스와-라이선스/"
+    },
+    {
+     "number": "10.4",
+     "title": "대규모 장수 시스템의 지속",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-04-대규모-장수-시스템의-지속/"
     }
    ]
   }
