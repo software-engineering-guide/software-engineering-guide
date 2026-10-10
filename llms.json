@@ -11966,6 +11966,16 @@
      "number": "1.11",
      "title": "エンジニアリングマネジメント",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-11-エンジニアリングマネジメント/"
+    },
+    {
+     "number": "1.12",
+     "title": "多様性と公平性とインクルージョンと所属意識",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-12-多様性と公平性とインクルージョンと所属意識/"
+    },
+    {
+     "number": "1.13",
+     "title": "メンタリングとコーチングと知識共有",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-13-メンタリングとコーチングと知識共有/"
     }
    ]
   }
