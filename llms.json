@@ -14968,6 +14968,16 @@
      "number": "2.3",
      "title": "API:er och gränssnittsdesign",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-03-api-er-och-gränssnittsdesign/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategi",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-04-teststrategi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kodgranskning och samarbete",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-05-kodgranskning-och-samarbete/"
     }
    ]
   }
