@@ -13692,6 +13692,16 @@
      "number": "4.5",
      "title": "프라이버시와 데이터 보호",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-05-프라이버시와-데이터-보호/"
+    },
+    {
+     "number": "4.6",
+     "title": "컴플라이언스와 거버넌스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-06-컴플라이언스와-거버넌스/"
+    },
+    {
+     "number": "4.7",
+     "title": "신원과 접근 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-07-신원과-접근-관리/"
     }
    ]
   }
