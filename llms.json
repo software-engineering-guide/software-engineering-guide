@@ -12206,6 +12206,16 @@
      "number": "4.5",
      "title": "プライバシーとデータ保護",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-05-プライバシーとデータ保護/"
+    },
+    {
+     "number": "4.6",
+     "title": "コンプライアンスとガバナンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-06-コンプライアンスとガバナンス/"
+    },
+    {
+     "number": "4.7",
+     "title": "アイデンティティとアクセスの管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-07-アイデンティティとアクセスの管理/"
     }
    ]
   }
