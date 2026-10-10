@@ -13832,6 +13832,16 @@
      "number": "7.1",
      "title": "데이터 전략과 거버넌스",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-01-데이터-전략과-거버넌스/"
+    },
+    {
+     "number": "7.2",
+     "title": "데이터 엔지니어링",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-02-데이터-엔지니어링/"
+    },
+    {
+     "number": "7.3",
+     "title": "분석과 비즈니스 인텔리전스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-03-분석과-비즈니스-인텔리전스/"
     }
    ]
   }
