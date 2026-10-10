@@ -11926,6 +11926,16 @@
      "number": "1.3",
      "title": "役割、キャリアラダー、成長",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-03-役割とキャリアラダーと成長/"
+    },
+    {
+     "number": "1.4",
+     "title": "働き方",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-04-働き方/"
+    },
+    {
+     "number": "1.5",
+     "title": "意思決定とガバナンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-05-意思決定とガバナンス/"
     }
    ]
   }
