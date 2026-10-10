@@ -14082,6 +14082,16 @@
      "number": "11.5",
      "title": "핵심 성과 지표(KPI)",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/11-05-핵심-성과-지표-KPI/"
+    },
+    {
+     "number": "11.6",
+     "title": "가치 흐름 매핑과 지연의 비용",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/11-06-가치-흐름-매핑과-지연-비용/"
+    },
+    {
+     "number": "12.0",
+     "title": "부록",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-00-부록/"
     }
    ]
   }
