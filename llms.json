@@ -17049,6 +17049,16 @@
      "number": "11.4",
      "title": "Objectives en key results (OKR's)",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-04-doelen-en-sleutelresultaten-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Key performance indicators (KPI's)",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-05-kritieke-prestatie-indicatoren-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Value stream mapping en kosten van vertraging",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-06-waardestroomanalyse-en-vertragingskosten/"
     }
    ]
   }
