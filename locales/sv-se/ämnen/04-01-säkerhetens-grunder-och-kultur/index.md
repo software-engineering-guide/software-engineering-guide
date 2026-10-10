@@ -14,7 +14,7 @@ Det här kapitlet lägger fram de mentala modeller och kulturella praxis som und
 
 - **Säkerhet är allas jobb.** Varje ingenjör, produktansvarig och operatör äger säkerheten i det de bygger. Säkerhetsteamet möjliggör, rådger och granskar. Det gör inte och kan inte göra arbetet ensamt.
 - **Anta intrång.** Designa som om angripare redan är inne. Minimera vad en komprometterad komponent kan nå.
-- **Försvar på djupet.** Ingen enskild kontroll räcker. Lagra oberoende kontroller så att fel i en inte betyder fel i alla.
+- **Försvar på djupet.** Ingen enskild kontroll räcker. Lägg oberoende kontroller i lager så att fel i en inte betyder fel i alla.
 - **[Minsta behörighet](https://en.wikipedia.org/wiki/Principle_of_least_privilege).** Ge den minsta åtkomst som behövs, under minsta möjliga tid, och återkalla den automatiskt när den inte längre behövs.
 - **Skifta åt vänster.** Hitta och rätta problem så tidigt som möjligt, när de är billigast att åtgärda.
 - **Riskbaserad prioritering.** Lägg insatsen där kombinationen av sannolikhet och konsekvens är högst, vägledd av CIA-triaden (konfidentialitet, integritet och tillgänglighet), inte på det som kom i nyheterna den här veckan.

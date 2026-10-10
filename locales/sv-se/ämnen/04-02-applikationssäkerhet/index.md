@@ -156,7 +156,7 @@ Avkastningen är starkast när kontroller är automatiserade och återanvända. 
 ## Viktigaste punkter
 
 - OWASP Top 10 är nödvändig kunskap. ASVS ger den testbara standarden.
-- Lagra indatavalidering, parametrisering och utdatakodning för att besegra injektion och XSS.
+- Lägg indatavalidering, parametrisering och utdatakodning i lager för att besegra injektion och XSS.
 - Använd beprövade protokoll (OAuth 2.0, OIDC) och upprätthåll MFA. Bygg aldrig autentisering från grunden.
 - Upprätthåll auktorisering på serversidan för varje begäran och varje objekt.
 - Håll hemligheter utanför källkod, hantera dem centralt och rotera mot kortlivade uppgifter.

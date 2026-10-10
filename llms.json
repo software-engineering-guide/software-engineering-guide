@@ -15168,6 +15168,16 @@
      "number": "4.3",
      "title": "Infrastruktur- och molnsäkerhet",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-03-infrastruktur-och-molnsäkerhet/"
+    },
+    {
+     "number": "4.4",
+     "title": "Säkerhetsdrift",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-04-säkerhetsdrift/"
+    },
+    {
+     "number": "4.5",
+     "title": "Integritet och dataskydd",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-05-integritet-och-dataskydd/"
     }
    ]
   }
