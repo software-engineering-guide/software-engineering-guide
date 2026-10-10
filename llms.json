@@ -16814,6 +16814,16 @@
      "number": "7.3",
      "title": "Analytics en business intelligence",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-03-analytics-en-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Productanalytics en experimenteren",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-04-productanalytics-en-experimenteren/"
+    },
+    {
+     "number": "7.5",
+     "title": "Beslissingswetenschap en datagedreven cultuur",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-05-beslissingswetenschap-en-datacultuur/"
     }
    ]
   }
