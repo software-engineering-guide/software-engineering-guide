@@ -16384,6 +16384,16 @@
      "number": "1.3",
      "title": "Rollen, loopbaanladders en groei",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-03-rollen-loopbaanladders-en-groei/"
+    },
+    {
+     "number": "1.4",
+     "title": "Werkwijzen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-04-werkwijzen/"
+    },
+    {
+     "number": "1.5",
+     "title": "Besluitvorming en governance",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-05-besluitvorming-en-governance/"
     }
    ]
   }
