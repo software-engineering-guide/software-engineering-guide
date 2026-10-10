@@ -13812,6 +13812,16 @@
      "number": "6.7",
      "title": "AI 에이전트와 에이전트 시스템",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-07-AI-에이전트와-에이전트-시스템/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI 평가와 테스트",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-08-AI-평가와-테스트/"
+    },
+    {
+     "number": "6.9",
+     "title": "프롬프트 엔지니어링과 컨텍스트 설계",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-09-프롬프트-엔지니어링과-컨텍스트-설계/"
     }
    ]
   }
