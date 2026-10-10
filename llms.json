@@ -14092,6 +14092,21 @@
      "number": "12.0",
      "title": "부록",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-00-부록/"
+    },
+    {
+     "number": "12.1",
+     "title": "용어집",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-01-용어집/"
+    },
+    {
+     "number": "12.2",
+     "title": "체크리스트",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-02-체크리스트/"
+    },
+    {
+     "number": "12.3",
+     "title": "템플릿",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-03-템플릿/"
     }
    ]
   }
