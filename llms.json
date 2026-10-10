@@ -12436,6 +12436,16 @@
      "number": "9.1",
      "title": "サイト信頼性エンジニアリング",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-01-サイト信頼性エンジニアリング/"
+    },
+    {
+     "number": "9.2",
+     "title": "オブザーバビリティとテレメトリ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-02-オブザーバビリティとテレメトリ/"
+    },
+    {
+     "number": "9.3",
+     "title": "インシデント管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-03-インシデント管理/"
     }
    ]
   }
