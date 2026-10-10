@@ -13752,6 +13752,16 @@
      "number": "5.6",
      "title": "프런트엔드 엔지니어링",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-06-프런트엔드-엔지니어링/"
+    },
+    {
+     "number": "5.7",
+     "title": "모바일 애플리케이션 개발",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-07-모바일-애플리케이션-개발/"
+    },
+    {
+     "number": "5.8",
+     "title": "디자인 리서치와 사용성 테스트",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-08-디자인-리서치와-사용성-테스트/"
     }
    ]
   }
