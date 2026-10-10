@@ -15458,6 +15458,16 @@
      "number": "10.2",
      "title": "Risk, revision och försäkran",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-02-risk-revision-och-säkerställande/"
+    },
+    {
+     "number": "10.3",
+     "title": "Upphandling, öppen källkod och licensiering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"
+    },
+    {
+     "number": "10.4",
+     "title": "Att vidmakthålla stora och långlivade system",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"
     }
    ]
   }
