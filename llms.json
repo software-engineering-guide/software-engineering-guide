@@ -16504,6 +16504,16 @@
      "number": "2.13",
      "title": "Fundamenten van informatica, wiskunde en engineering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-13-fundamenten-van-informatica-wiskunde-en-engineering/"
+    },
+    {
+     "number": "2.14",
+     "title": "Project- en repositorystructuur",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-14-project-en-repositorystructuur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debuggen en storingzoeken",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-15-debuggen-en-storingzoeken/"
     }
    ]
   }
