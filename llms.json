@@ -17880,6 +17880,16 @@
      "number": "1.5",
      "title": "Ákvarðanataka og stjórnarhættir",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-05-ákvarðanataka-og-stjórnarhættir/"
+    },
+    {
+     "number": "1.6",
+     "title": "Ákvörðunarskrár",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-06-ákvörðunarskrár/"
+    },
+    {
+     "number": "1.7",
+     "title": "Verkfræðistaðlar og undanþágur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-07-verkfræðistaðlar-og-undanþágur/"
     }
    ]
   }
