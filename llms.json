@@ -16394,6 +16394,16 @@
      "number": "1.5",
      "title": "Besluitvorming en governance",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-05-besluitvorming-en-governance/"
+    },
+    {
+     "number": "1.6",
+     "title": "Besluitenlogboeken",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-06-besluitenlogboeken/"
+    },
+    {
+     "number": "1.7",
+     "title": "Engineeringstandaarden en uitzonderingen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-07-engineeringstandaarden-en-uitzonderingen/"
     }
    ]
   }
