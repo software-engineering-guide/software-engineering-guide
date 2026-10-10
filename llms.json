@@ -13872,6 +13872,16 @@
      "number": "7.9",
      "title": "마스터 데이터와 참조 데이터 관리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-09-마스터-데이터와-참조-데이터-관리/"
+    },
+    {
+     "number": "8.0",
+     "title": "8부 소개: 자동화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/08-00-자동화/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD와 전달",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/08-01-CI-CD와-전달/"
     }
    ]
   }
