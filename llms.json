@@ -13662,6 +13662,16 @@
      "number": "3.17",
      "title": "검색과 정보 검색",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-17-검색과-정보-검색/"
+    },
+    {
+     "number": "4.0",
+     "title": "4부 소개: 보안",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-00-보안/"
+    },
+    {
+     "number": "4.1",
+     "title": "보안의 기초와 문화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-01-보안의-기초와-문화/"
     }
    ]
   }
