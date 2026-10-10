@@ -16764,6 +16764,16 @@
      "number": "6.3",
      "title": "Generatieve AI en LLM-toepassingen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-03-generatieve-ai-en-llm-toepassingen/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-ondersteunde softwareontwikkeling",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-04-ai-ondersteunde-softwareontwikkeling/"
+    },
+    {
+     "number": "6.5",
+     "title": "Verantwoorde en betrouwbare AI",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-05-verantwoorde-en-betrouwbare-ai/"
     }
    ]
   }
