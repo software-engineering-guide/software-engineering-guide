@@ -21,6 +21,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   under `বিষয়/` and matching `.locale-peer-id` files.
 - Locale `id-001` (Indonesian): all 147 chapters translated by hand, with Indonesian directory
   segments under `topik/` and matching `.locale-peer-id` files.
+- Locales `ja-jp` and `ja-001` (Japanese): all 147 chapters translated by hand, with Japanese
+  directory segments under `トピック/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
 
 ### Fixed
 

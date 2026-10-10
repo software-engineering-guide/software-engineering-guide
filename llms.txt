@@ -211,6 +211,7 @@ The guide is published in several locales. The English locale below is the defau
 - [हिन्दी (hi-in)](https://software-engineering-guide.github.io/hi-in/)
 - [Bahasa Indonesia (id-001)](https://software-engineering-guide.github.io/id-001/)
 - [日本語 (ja-jp)](https://software-engineering-guide.github.io/ja-jp/)
+- [日本語 (ja-001)](https://software-engineering-guide.github.io/ja-001/)
 
 ## For contributors and agents
 
