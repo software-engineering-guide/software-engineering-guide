@@ -13702,6 +13702,16 @@
      "number": "4.7",
      "title": "신원과 접근 관리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-07-신원과-접근-관리/"
+    },
+    {
+     "number": "4.8",
+     "title": "암호학과 키 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"
+    },
+    {
+     "number": "4.9",
+     "title": "보안 소프트웨어 개발 수명 주기",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"
     }
    ]
   }
