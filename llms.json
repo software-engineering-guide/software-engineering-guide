@@ -16784,6 +16784,16 @@
      "number": "6.7",
      "title": "AI-agents en agentische systemen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-07-ai-agents-en-agentische-systemen/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI-evaluatie en -testen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-08-ai-evaluatie-en-testen/"
+    },
+    {
+     "number": "6.9",
+     "title": "Promptengineering en contextontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-09-promptengineering-en-contextontwerp/"
     }
    ]
   }
