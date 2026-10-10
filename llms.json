@@ -14998,6 +14998,16 @@
      "number": "2.9",
      "title": "Programvarukonstruktion",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-09-programvarukonstruktion/"
+    },
+    {
+     "number": "2.10",
+     "title": "Konfigurationshantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-10-konfigurationshantering/"
+    },
+    {
+     "number": "2.11",
+     "title": "Programvarukvalitet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-11-programvarukvalitet/"
     }
    ]
   }
