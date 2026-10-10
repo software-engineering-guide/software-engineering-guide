@@ -13912,6 +13912,16 @@
      "number": "8.7",
      "title": "빌드 시스템과 산출물 관리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/08-07-빌드-시스템과-산출물-관리/"
+    },
+    {
+     "number": "9.0",
+     "title": "9부 소개: 운영, 신뢰성, 관측 가능성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-00-운영과-신뢰성/"
+    },
+    {
+     "number": "9.1",
+     "title": "사이트 신뢰성 엔지니어링",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-01-사이트-신뢰성-엔지니어링/"
     }
    ]
   }
