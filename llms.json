@@ -16414,6 +16414,16 @@
      "number": "1.9",
      "title": "Gedistribueerd en thuiswerken",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-09-gedistribueerd-en-thuiswerken/"
+    },
+    {
+     "number": "1.10",
+     "title": "Engineeringeffectiviteit en ontwikkelaarsproductiviteit",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-10-engineeringeffectiviteit-en-ontwikkelaarsproductiviteit/"
+    },
+    {
+     "number": "1.11",
+     "title": "Engineeringmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-11-engineeringmanagement/"
     }
    ]
   }
