@@ -12166,6 +12166,16 @@
      "number": "3.15",
      "title": "キャッシュとコンテンツ配信",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-15-キャッシュとコンテンツ配信/"
+    },
+    {
+     "number": "3.16",
+     "title": "APIゲートウェイとサービスメッシュ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-16-APIゲートウェイとサービスメッシュ/"
+    },
+    {
+     "number": "3.17",
+     "title": "検索と情報検索",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-17-検索と情報検索/"
     }
    ]
   }
