@@ -22,7 +22,7 @@ Omgevingen van onderneming en overheid verhogen de inzet. Gereguleerde programma
 
 ### Definieer het SCM-proces en wijs eigenaarschap toe
 
-Schrijf een SCM-plan op dat zegt wat onder configuratiebeheer valt, hoe items worden geïdentificeerd, hoe wijzigingen worden voorgesteld en goedgekeurd en hoe de status wordt vastgelegd en geaudit. Wijs duidelijk eigenaarschap toe, zoals een configuratiemanager of een verantwoordelijk team, zodat SCM niet van iedereen is en dus van niemand. Schaal het proces naar het risico: een klein intern hulpmiddel heeft lichte controle nodig, terwijl een veiligheidskritiek of gereguleerd systeem formele commissies en registers nodig heeft. Verankerd het plan in een erkende standaard als IEEE 828, zodat auditors en partners het kunnen volgen.
+Schrijf een SCM-plan op dat zegt wat onder configuratiebeheer valt, hoe items worden geïdentificeerd, hoe wijzigingen worden voorgesteld en goedgekeurd en hoe de status wordt vastgelegd en geaudit. Wijs duidelijk eigenaarschap toe, zoals een configuratiemanager of een verantwoordelijk team, zodat SCM niet van iedereen is en dus van niemand. Schaal het proces naar het risico: een klein intern hulpmiddel heeft lichte controle nodig, terwijl een veiligheidskritiek of gereguleerd systeem formele commissies en registers nodig heeft. Veranker het plan in een erkende standaard als IEEE 828, zodat auditors en partners het kunnen volgen.
 
 ### Identificeer configuratie-items en stel baselines vast
 

@@ -16624,6 +16624,16 @@
      "number": "3.15",
      "title": "Caching en contentlevering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-15-caching-en-contentlevering/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gateways en service mesh",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-16-api-gateways-en-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Zoeken en informatieopvraging",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-17-zoeken-en-informatieopvraging/"
     }
    ]
   }
