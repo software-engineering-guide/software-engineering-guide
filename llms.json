@@ -14107,6 +14107,21 @@
      "number": "12.3",
      "title": "템플릿",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-03-템플릿/"
+    },
+    {
+     "number": "12.4",
+     "title": "성숙도 자가 평가",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-04-성숙도-자가-평가/"
+    },
+    {
+     "number": "12.5",
+     "title": "참고 문헌",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-05-참고-문헌/"
+    },
+    {
+     "number": "12.6",
+     "title": "도입 로드맵",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/12-06-도입-로드맵/"
     }
    ]
   }
