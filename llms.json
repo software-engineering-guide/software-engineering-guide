@@ -15548,6 +15548,16 @@
      "number": "11.1",
      "title": "Upptäcktsflödet",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-01-upptäcktsflödet/"
+    },
+    {
+     "number": "11.2",
+     "title": "Leveransflödet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-02-leveransflödet/"
+    },
+    {
+     "number": "11.3",
+     "title": "Köteori",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-03-köteori/"
     }
    ]
   }
