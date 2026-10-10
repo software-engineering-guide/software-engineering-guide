@@ -13502,6 +13502,16 @@
      "number": "2.7",
      "title": "문서화",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-07-문서화/"
+    },
+    {
+     "number": "2.8",
+     "title": "소프트웨어 요구사항",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-08-소프트웨어-요구사항/"
+    },
+    {
+     "number": "2.9",
+     "title": "소프트웨어 구축",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-09-소프트웨어-구축/"
     }
    ]
   }
