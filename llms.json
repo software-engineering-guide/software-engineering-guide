@@ -16534,6 +16534,16 @@
      "number": "2.19",
      "title": "Refactoring en technische schuld",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-19-refactoring-en-technische-schuld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Foutafhandeling en veerkrachtpatronen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-20-foutafhandeling-en-veerkrachtpatronen/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typesystemen en statische analyse",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-21-typesystemen-en-statische-analyse/"
     }
    ]
   }
