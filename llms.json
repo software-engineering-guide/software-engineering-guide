@@ -13532,6 +13532,16 @@
      "number": "2.13",
      "title": "컴퓨팅, 수학, 엔지니어링의 기초",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-13-컴퓨팅과-수학과-엔지니어링의-기초/"
+    },
+    {
+     "number": "2.14",
+     "title": "프로젝트와 저장소 구조",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-14-프로젝트와-저장소-구조/"
+    },
+    {
+     "number": "2.15",
+     "title": "디버깅과 문제 해결",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-15-디버깅과-문제-해결/"
     }
    ]
   }
