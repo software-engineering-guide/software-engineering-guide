@@ -14958,6 +14958,16 @@
      "number": "2.1",
      "title": "Kodstandarder och kodstil",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"
+    },
+    {
+     "number": "2.2",
+     "title": "Principer för programvarudesign",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-02-principer-för-programvarudesign/"
+    },
+    {
+     "number": "2.3",
+     "title": "API:er och gränssnittsdesign",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-03-api-er-och-gränssnittsdesign/"
     }
    ]
   }
