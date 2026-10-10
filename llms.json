@@ -12236,6 +12236,16 @@
      "number": "5.0",
      "title": "第5部の導入: UIとUXのデザイン",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-00-UIとUXのデザイン/"
+    },
+    {
+     "number": "5.1",
+     "title": "UXの基礎",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-01-UXの基礎/"
+    },
+    {
+     "number": "5.2",
+     "title": "UIデザインとデザインシステム",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-02-UIデザインとデザインシステム/"
     }
    ]
   }
