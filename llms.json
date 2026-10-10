@@ -14052,6 +14052,16 @@
      "number": "10.18",
      "title": "오픈 소스 프로그램 오피스(OSPO)와 업스트림 기여",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-18-오픈-소스-프로그램-오피스/"
+    },
+    {
+     "number": "11.0",
+     "title": "11부 소개: 흐름: 디스커버리 및 전달 파이프라인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/11-00-흐름과-디스커버리와-전달/"
+    },
+    {
+     "number": "11.1",
+     "title": "디스커버리 파이프라인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/11-01-디스커버리-파이프라인/"
     }
    ]
   }
