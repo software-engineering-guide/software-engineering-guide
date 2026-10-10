@@ -24,6 +24,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locales `ja-jp` and `ja-001` (Japanese): all 147 chapters translated by hand, with Japanese
   directory segments under `トピック/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`.
+- Locales `ko-kr` and `ko-001` (Korean): all 147 chapters translated by hand, with Korean
+  directory segments under `주제/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
 
 ### Fixed
 
