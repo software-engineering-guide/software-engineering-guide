@@ -13472,6 +13472,16 @@
      "number": "2.1",
      "title": "코딩 표준과 스타일",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-01-코딩-표준과-스타일/"
+    },
+    {
+     "number": "2.2",
+     "title": "소프트웨어 설계 원칙",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-02-소프트웨어-설계-원칙/"
+    },
+    {
+     "number": "2.3",
+     "title": "API와 인터페이스 설계",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-03-API와-인터페이스-설계/"
     }
    ]
   }
