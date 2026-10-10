@@ -15198,6 +15198,16 @@
      "number": "4.9",
      "title": "Livscykeln för säker programvaruutveckling",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetrationstestning och red team-övningar",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-10-penetrationstestning-och-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introduktion till del 5: UI/UX-design",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-00-ui-ux-design/"
     }
    ]
   }
