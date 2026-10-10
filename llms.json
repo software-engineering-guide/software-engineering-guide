@@ -12316,6 +12316,16 @@
      "number": "6.5",
      "title": "責任あるAIと信頼できるAI",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-05-責任あるAIと信頼できるAI/"
+    },
+    {
+     "number": "6.6",
+     "title": "AIのインフラストラクチャと運用",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-06-AIのインフラストラクチャと運用/"
+    },
+    {
+     "number": "6.7",
+     "title": "AIエージェントとエージェント型システム",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-07-AIエージェントとエージェント型システム/"
     }
    ]
   }
