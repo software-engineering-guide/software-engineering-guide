@@ -12136,6 +12136,16 @@
      "number": "3.9",
      "title": "システムズエンジニアリング",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-09-システムズエンジニアリング/"
+    },
+    {
+     "number": "3.10",
+     "title": "組込みシステムとリアルタイムシステム",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-10-組込みシステムとリアルタイムシステム/"
+    },
+    {
+     "number": "3.11",
+     "title": "クラウドアーキテクチャ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-11-クラウドアーキテクチャ/"
     }
    ]
   }
