@@ -16929,6 +16929,16 @@
      "number": "9.8",
      "title": "Bereikbaarheidsdienst en operationele gereedheid",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-08-bereikbaarheidsdienst-en-operationele-gereedheid/"
+    },
+    {
+     "number": "10.0",
+     "title": "Inleiding op deel 10: Project-, product- en programmamanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-00-project-product-en-programmamanagement/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portfolio- en programmamanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-01-portfolio-en-programmamanagement/"
     }
    ]
   }
