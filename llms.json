@@ -17960,6 +17960,16 @@
      "number": "2.7",
      "title": "Skjölun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-07-skjölun/"
+    },
+    {
+     "number": "2.8",
+     "title": "Hugbúnaðarkröfur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-08-hugbúnaðarkröfur/"
+    },
+    {
+     "number": "2.9",
+     "title": "Hugbúnaðarsmíði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-09-hugbúnaðarsmíði/"
     }
    ]
   }
