@@ -11956,6 +11956,16 @@
      "number": "1.9",
      "title": "分散勤務とリモートワーク",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-09-分散勤務とリモートワーク/"
+    },
+    {
+     "number": "1.10",
+     "title": "エンジニアリングの有効性と開発者の生産性",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-10-エンジニアリングの有効性と開発者の生産性/"
+    },
+    {
+     "number": "1.11",
+     "title": "エンジニアリングマネジメント",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-11-エンジニアリングマネジメント/"
     }
    ]
   }
