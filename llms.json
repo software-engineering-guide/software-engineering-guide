@@ -13492,6 +13492,16 @@
      "number": "2.5",
      "title": "코드 리뷰와 협업",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-05-코드-리뷰와-협업/"
+    },
+    {
+     "number": "2.6",
+     "title": "버전 관리와 소스 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-06-버전-관리와-소스-관리/"
+    },
+    {
+     "number": "2.7",
+     "title": "문서화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-07-문서화/"
     }
    ]
   }
