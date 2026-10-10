@@ -13512,6 +13512,16 @@
      "number": "2.9",
      "title": "소프트웨어 구축",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-09-소프트웨어-구축/"
+    },
+    {
+     "number": "2.10",
+     "title": "소프트웨어 형상 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-10-소프트웨어-형상-관리/"
+    },
+    {
+     "number": "2.11",
+     "title": "소프트웨어 품질",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-11-소프트웨어-품질/"
     }
    ]
   }
