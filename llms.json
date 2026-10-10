@@ -12326,6 +12326,16 @@
      "number": "6.7",
      "title": "AIエージェントとエージェント型システム",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-07-AIエージェントとエージェント型システム/"
+    },
+    {
+     "number": "6.8",
+     "title": "AIの評価とテスト",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-08-AIの評価とテスト/"
+    },
+    {
+     "number": "6.9",
+     "title": "プロンプトエンジニアリングとコンテキスト設計",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-09-プロンプトエンジニアリングとコンテキスト設計/"
     }
    ]
   }
