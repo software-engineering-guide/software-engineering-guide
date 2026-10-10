@@ -16904,6 +16904,16 @@
      "number": "9.3",
      "title": "Incidentmanagement",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kosten, duurzaamheid en groene software",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-04-kosten-duurzaamheid-en-groene-software/"
+    },
+    {
+     "number": "9.5",
+     "title": "Disaster recovery en bedrijfscontinuïteit",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-05-disaster-recovery-en-bedrijfscontinuiteit/"
     }
    ]
   }
