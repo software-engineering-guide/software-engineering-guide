@@ -16358,6 +16358,24 @@
      "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-07-register/"
     }
    ]
+  },
+  {
+   "code": "nl-nl",
+   "label": "Nederlands",
+   "home": "https://software-engineering-guide.github.io/nl-nl/",
+   "topicsSegment": "onderwerpen",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Inleiding op deel 1: Mensen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-00-mensen/"
+    },
+    {
+     "number": "1.1",
+     "title": "Waarden van software engineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-01-waarden-van-software-engineering/"
+    }
+   ]
   }
  ]
 }

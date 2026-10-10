@@ -216,6 +216,7 @@ The guide is published in several locales. The English locale below is the defau
 - [한국어 (ko-001)](https://software-engineering-guide.github.io/ko-001/)
 - [Svenska (sv-se)](https://software-engineering-guide.github.io/sv-se/)
 - [Svenska (sv-001)](https://software-engineering-guide.github.io/sv-001/)
+- [Nederlands (nl-nl)](https://software-engineering-guide.github.io/nl-nl/)
 
 ## For contributors and agents
 
