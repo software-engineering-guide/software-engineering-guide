@@ -13622,6 +13622,16 @@
      "number": "3.9",
      "title": "시스템 엔지니어링",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-09-시스템-엔지니어링/"
+    },
+    {
+     "number": "3.10",
+     "title": "임베디드와 실시간 시스템",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-10-임베디드와-실시간-시스템/"
+    },
+    {
+     "number": "3.11",
+     "title": "클라우드 아키텍처",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-11-클라우드-아키텍처/"
     }
    ]
   }
