@@ -17970,6 +17970,16 @@
      "number": "2.9",
      "title": "Hugbúnaðarsmíði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-09-hugbúnaðarsmíði/"
+    },
+    {
+     "number": "2.10",
+     "title": "Stillingarstjórnun hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-10-stillingarstjórnun-hugbúnaðar/"
+    },
+    {
+     "number": "2.11",
+     "title": "Hugbúnaðargæði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-11-hugbúnaðargæði/"
     }
    ]
   }
