@@ -15048,6 +15048,16 @@
      "number": "2.19",
      "title": "Refaktorisering och teknisk skuld",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-19-refaktorisering-och-teknisk-skuld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Felhantering och motståndskraftsmönster",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-20-felhantering-och-motståndskraftsmönster/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typsystem och statisk analys",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-21-typsystem-och-statisk-analys/"
     }
    ]
   }
