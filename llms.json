@@ -16654,6 +16654,16 @@
      "number": "4.3",
      "title": "Infrastructuur- en cloudbeveiliging",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"
+    },
+    {
+     "number": "4.4",
+     "title": "Beveiligingsoperaties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-04-beveiligingsoperaties/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privacy en gegevensbescherming",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-05-privacy-en-gegevensbescherming/"
     }
    ]
   }
