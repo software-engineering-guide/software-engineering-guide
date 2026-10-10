@@ -15018,6 +15018,16 @@
      "number": "2.13",
      "title": "Grunder i datavetenskap, matematik och teknik",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-13-grunder-i-datavetenskap-matematik-och-teknik/"
+    },
+    {
+     "number": "2.14",
+     "title": "Projekt- och repositoriestruktur",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-14-projekt-och-repositoriestruktur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Felsökning och problemlösning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-15-felsökning-och-problemlösning/"
     }
    ]
   }
