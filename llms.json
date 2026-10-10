@@ -12216,6 +12216,16 @@
      "number": "4.7",
      "title": "アイデンティティとアクセスの管理",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-07-アイデンティティとアクセスの管理/"
+    },
+    {
+     "number": "4.8",
+     "title": "暗号と鍵管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-08-暗号と鍵管理/"
+    },
+    {
+     "number": "4.9",
+     "title": "セキュアなソフトウェア開発ライフサイクル",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"
     }
    ]
   }
