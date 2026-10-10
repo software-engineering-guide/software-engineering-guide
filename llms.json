@@ -12346,6 +12346,16 @@
      "number": "7.1",
      "title": "データ戦略とガバナンス",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-01-データ戦略とガバナンス/"
+    },
+    {
+     "number": "7.2",
+     "title": "データエンジニアリング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-02-データエンジニアリング/"
+    },
+    {
+     "number": "7.3",
+     "title": "分析とビジネスインテリジェンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-03-分析とビジネスインテリジェンス/"
     }
    ]
   }
