@@ -16884,6 +16884,16 @@
      "number": "8.7",
      "title": "Buildsystemen en artefactbeheer",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-07-buildsystemen-en-artefactbeheer/"
+    },
+    {
+     "number": "9.0",
+     "title": "Inleiding op deel 9: Beheer, betrouwbaarheid en observeerbaarheid",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-00-beheer-en-betrouwbaarheid/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-01-site-reliability-engineering/"
     }
    ]
   }
