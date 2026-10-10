@@ -16584,6 +16584,16 @@
      "number": "3.7",
      "title": "Softwareonderhoud",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-07-softwareonderhoud/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabiliteit en open standaarden",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-08-interoperabiliteit-en-open-standaarden/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systeemengineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-09-systeemengineering/"
     }
    ]
   }
