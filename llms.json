@@ -12296,6 +12296,16 @@
      "number": "6.1",
      "title": "AI戦略と準備態勢",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-01-AI戦略と準備態勢/"
+    },
+    {
+     "number": "6.2",
+     "title": "機械学習エンジニアリング(MLOps)",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-02-MLOps/"
+    },
+    {
+     "number": "6.3",
+     "title": "生成AIとLLMアプリケーション",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-03-生成AIとLLMアプリケーション/"
     }
    ]
   }
