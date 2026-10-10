@@ -17910,6 +17910,16 @@
      "number": "1.11",
      "title": "Stjórnun verkfræðiteyma",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-11-stjórnun-verkfræðiteyma/"
+    },
+    {
+     "number": "1.12",
+     "title": "Fjölbreytni, jafnrétti, þátttaka og tilheyrsla",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-12-fjölbreytni-jafnrétti-og-þátttaka/"
+    },
+    {
+     "number": "1.13",
+     "title": "Leiðsögn, þjálfun og þekkingarmiðlun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-13-leiðsögn-þjálfun-og-þekkingarmiðlun/"
     }
    ]
   }
