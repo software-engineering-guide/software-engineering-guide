@@ -15388,6 +15388,16 @@
      "number": "8.5",
      "title": "Test- och processautomatisering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-05-test-och-processautomatisering/"
+    },
+    {
+     "number": "8.6",
+     "title": "Releasehantering och gradvis leverans",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-06-releasehantering-och-gradvis-leverans/"
+    },
+    {
+     "number": "8.7",
+     "title": "Byggsystem och artefakthantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-07-byggsystem-och-artefakthantering/"
     }
    ]
   }
