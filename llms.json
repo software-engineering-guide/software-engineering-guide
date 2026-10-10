@@ -17990,6 +17990,16 @@
      "number": "2.13",
      "title": "Grunnur í tölvunarfræði, stærðfræði og verkfræði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-13-grunnur-í-tölvunarfræði-stærðfræði-og-verkfræði/"
+    },
+    {
+     "number": "2.14",
+     "title": "Skipulag verkefna og hugbúnaðarsafna",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-14-skipulag-verkefna-og-hugbúnaðarsafna/"
+    },
+    {
+     "number": "2.15",
+     "title": "Villuleit og bilanagreining",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-15-villuleit-og-bilanagreining/"
     }
    ]
   }

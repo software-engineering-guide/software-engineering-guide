@@ -11,7 +11,7 @@ Fyrir fyrirtækja- og opinber teymi eru undirstöður líka það sem gerir sér
 ## Meginreglur
 
 - **Ágripanir leka:** að þekkja lagið undir því sem þú notar er það sem bjargar þér þegar það lekur.
-- **Aukningarfræði ræður stærð:** munurinn á O(n) og O(n²) er munurinn á því að virka og bila við tíu milljón raðir.
+- **Vaxtarhraði ræður stærð:** munurinn á O(n) og O(n²) er munurinn á því að virka og bila við tíu milljón raðir.
 - **Réttleiki er rökhugsun, ekki heppni:** rökfræði, fastayrðingar og sönnunarhugtök liggja undir hverju áreiðanlegu kerfi.
 - **Óvissa er magngreinanleg:** líkindi og tölfræði breyta „það virðist hægt“ í sönnunargögn.
 - **Mældu áður en þú fullyrðir:** reynsluaðferðin aðskilur verkfræði frá skoðun.
@@ -74,7 +74,7 @@ Endurtekna málamiðlunin er **hraði núna á móti dómgreind síðar**. Undir
 
 3. **Þegar tveir verkfræðingar eru ósammála um afköst hönnunar, mælum við, eða víkjum við fyrir þeim sem er eldri?** Reynsluaðferðin er það sem gerir þetta að verkfræði en ekki skoðun: myndaðu tilgátu, keyrðu tilraun og láttu sönnunargögn útkljá spurninguna, hvort sem þú berð saman tvær hönnunir, greinir afturför eða athugar fullyrðingu söluaðila. Gildran í stóru teymi er að rifrildi vinnast með sjálfstrausti og tign, og vika hverfur í umræðu sem mæling hefði bundið enda á á klukkustund. Komdu með nýlega hönnunardeilu og spurðu hvernig hún var í raun útkljáð: með gögnum, eða af háværustu manneskjunni í herberginu? Aðgerðin er að gera mælingu að eðlilegum hluta hönnunarrýni, með skilgreindum einingum, skekkjumörkum og dreifingum frekar en einni handvalinni keyrslu, svo „það virðist hraðara“ sé skipt út fyrir p95- eða p99-tölu sem allt teymið getur treyst.
 
-4. **Spyr hönnunar- og kóðarýni okkar í raun „hvað kostar þetta þegar gögnin vaxa?“, eða uppgötvum við svarið aðeins í stórum stíl?** Aukningarfræðileg rökhugsun er áhrifamesta daglega færnin á listanum, því O(n²) lykkja er ósýnileg með prófagögnum og banvæn í framleiðslu, og ódýrasti staðurinn til að grípa hana er rýnin, ekki atvikið. Í stóru teymi er þrýstingurinn á móti afköst: rýnar undir fresti athuga stíl og réttleika á úrtakinu fyrir framan sig og spyrja sjaldan hvernig kóðinn hegðar sér við tíu milljón raðir. Komdu með nýlega sameiningarbeiðni og lestu hana upphátt með þeirri einu spurningu beittri á hverja lykkju, fyrirspurn og samtengingu, spurðu síðan hvort rýnigátlisti þinn eða sniðmát minnir yfirleitt á hana. Í fyrirtækja- eða opinberu kerfi þar sem gagnamagn klífur árum saman og hæg fyrirspurn getur brotið þjónustustigssamning eða seinkað bótum borgara skaltu gera flækjuspurninguna að skyldubundnu, skriflegu hliði í rýni, svo venjan velti ekki á því hver rýndi þann daginn.
+4. **Spyr hönnunar- og kóðarýni okkar í raun „hvað kostar þetta þegar gögnin vaxa?“, eða uppgötvum við svarið aðeins í stórum stíl?** Vaxtargreining er áhrifamesta daglega færnin á listanum, því O(n²) lykkja er ósýnileg með prófagögnum og banvæn í framleiðslu, og ódýrasti staðurinn til að grípa hana er rýnin, ekki atvikið. Í stóru teymi er þrýstingurinn á móti afköst: rýnar undir fresti athuga stíl og réttleika á úrtakinu fyrir framan sig og spyrja sjaldan hvernig kóðinn hegðar sér við tíu milljón raðir. Komdu með nýlega sameiningarbeiðni og lestu hana upphátt með þeirri einu spurningu beittri á hverja lykkju, fyrirspurn og samtengingu, spurðu síðan hvort rýnigátlisti þinn eða sniðmát minnir yfirleitt á hana. Í fyrirtækja- eða opinberu kerfi þar sem gagnamagn klífur árum saman og hæg fyrirspurn getur brotið þjónustustigssamning eða seinkað bótum borgara skaltu gera flækjuspurninguna að skyldubundnu, skriflegu hliði í rýni, svo venjan velti ekki á því hver rýndi þann daginn.
 
 5. **Hvernig ákveðum við hvort gervigreindarmyndaður kóði sé réttur, skalanlegur og öruggur og hver er í raun hæfur til að taka þá ákvörðun?** Myndaður kóði er fljótur að framleiða og auðveldur að samþykkja án gagnrýni, og hann er örugglega rangur nógu oft til að að sameina hann án undirstaðna er hvernig lúmskir stærðar- og öryggisgallar komast í kóðagrunninn. Spennan fyrir stórt teymi er raunveruleg: verkfærið er til að flýta fólki og að krefjast djúprar rýni á hverja tillögu þurrkar út ávinninginn, svo þú verður að ákveða hvaða flokkar myndaðs kóða (öryggisfrumstæða, heit fyrirspurn, samtímabreyting) fá alltaf sérfræðiskoðun og hverjir mega standast léttari athuganir. Komdu með úrtak nýlega sameinaðra gervigreindaraðstoðaðra breytinga og spurðu, fyrir hverja, hver í teyminu gæti af öryggi sagt að hún sé traust og hvort nokkur gerði það í raun. Fyrir fyrirtæki eða opinbera skipulagsheild sem svarar endurskoðendum skaltu nefna ábyrgan rýni fyrir áhættumikla flokka og skrá að manneskja með viðeigandi undirstöðuhæfni hafi samþykkt, því „líkanið skrifaði það“ er ekki rökstutt svar þegar myndaður galli nær til framleiðslu.
 
@@ -107,11 +107,11 @@ Hvað varðar **heildareignarkostnað** eru undirstöður óvenju ódýrar í vi
 ## Andmynstur og gildrur
 
 - **Eingöngu rammaþekking:** reiprennandi í verkfæri án skilnings á vélinni undir, sem skilur engan eftir fær um að greina djúpar bilanir.
-- **Að hunsa aukningarfræði:** að afhenda kóða sem virkar á prófagögnum og hrynur á framleiðslugögnum því flækja var aldrei íhuguð.
+- **Að hunsa vaxtarhraða:** að afhenda kóða sem virkar á prófagögnum og hrynur á framleiðslugögnum því flækja var aldrei íhuguð.
 - **Meðaltöl sem sannleikur:** að tilkynna meðaltöf eða eina viðmiðskeyrslu og missa af halanum sem raunverulega skaðar notendur.
 - **Heimasmíðuð dulritun:** að finna upp öryggisfrumstæður án talnafræðilegs skilnings á hvers vegna þær eru brotnar.
 - **Einkennalagfæringar:** að plástra næstu villu án rótarorsakagreiningar, svo bilunin endurtekur sig í nýju dulargervi.
-- **Farmdýrkunarfínstilling:** að „fínstilla“ án mælingar, oft gera hluti hægari eða breyta aukningarkostnaði ómeðvitað.
+- **Farmdýrkunarfínstilling:** að „fínstilla“ án mælingar, oft gera hluti hægari eða breyta vaxtarkostnaði ómeðvitað.
 - **Gagnrýnislaus gervigreindarsamþykkt:** að sameina sennilegan myndaðan kóða án undirstaðna til að dæma hvort hann sé réttur, skalanlegur eða öruggur.
 - **Undirstöður sem „fræðilegar“:** að afgreiða undirstöður sem óviðkomandi „raunverulegri“ vinnu, borga síðan fyrir fjarveru þeirra í framleiðslu.
 
@@ -136,7 +136,7 @@ Hvað varðar **heildareignarkostnað** eru undirstöður óvenju ódýrar í vi
 
 - Undirstöður eru varanlega lagið undir römmum: tölvunarfræði (hvernig vélar reikna), stærðfræði (hvernig á að rökræða nákvæmlega) og verkfræði (hvernig á að mæla og móta).
 - **Ágripanir leka**, og undirstöðuþekking er það sem leyfir teymi að greina bilunina þegar þær gera það, venjulega í stórum stíl, undir álagi eða undir árás.
-- **Aukningarfræðileg rökhugsun** er áhrifamesta daglega færnin: spyrðu hvað hver lykkja og fyrirspurn kostar þegar gögn vaxa.
+- **Vaxtargreining** er áhrifamesta daglega færnin: spyrðu hvað hver lykkja og fyrirspurn kostar þegar gögn vaxa.
 - **Líkindi, tölfræði og reynsluaðferðin** breyta skoðun í sönnunargögn: mældu og skýrðu frá dreifingum, ekki bara meðaltölum.
 - **Mótaðu og rökræddu fyrir smíði:** endanlegar ástandsvélar, fastayrðingar og lítil afkastagetulíkön grípa galla ódýrt.
 - Undirstöður gera **sérhæfingu og gervigreindaraðstoð örugga** með því að gefa teyminu sameiginlega dómgreind til að meta traust. Þær eru ódýrar í viðhaldi og afskrifast hægt.
