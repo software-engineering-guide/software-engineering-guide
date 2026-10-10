@@ -14978,6 +14978,16 @@
      "number": "2.5",
      "title": "Kodgranskning och samarbete",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-05-kodgranskning-och-samarbete/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versionshantering och källkodshantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-06-versionshantering-och-källkodshantering/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentation",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-07-dokumentation/"
     }
    ]
   }
