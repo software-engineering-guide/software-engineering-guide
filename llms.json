@@ -13632,6 +13632,16 @@
      "number": "3.11",
      "title": "클라우드 아키텍처",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-11-클라우드-아키텍처/"
+    },
+    {
+     "number": "3.12",
+     "title": "이벤트 기반 아키텍처와 메시징",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-12-이벤트-기반-아키텍처와-메시징/"
+    },
+    {
+     "number": "3.13",
+     "title": "네트워킹과 연결성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-13-네트워킹과-연결성/"
     }
    ]
   }
