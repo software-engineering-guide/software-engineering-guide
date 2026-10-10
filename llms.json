@@ -12286,6 +12286,16 @@
      "number": "5.10",
      "title": "データ可視化デザイン",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-10-データ可視化デザイン/"
+    },
+    {
+     "number": "6.0",
+     "title": "第6部の導入: 人工知能",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-00-人工知能/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI戦略と準備態勢",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/06-01-AI戦略と準備態勢/"
     }
    ]
   }
