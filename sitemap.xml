@@ -781,6 +781,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -805,6 +806,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -4348,6 +4350,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -4372,6 +4375,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -7915,6 +7919,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -7939,6 +7944,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -11482,6 +11488,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -11506,6 +11513,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -15049,6 +15057,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -15073,6 +15082,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -18616,6 +18626,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -18640,6 +18651,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -22183,6 +22195,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -22207,6 +22220,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -25750,6 +25764,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -25774,6 +25789,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -29317,6 +29333,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -29341,6 +29358,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -32884,6 +32902,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -32908,6 +32927,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -36451,6 +36471,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -36475,6 +36496,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -40018,6 +40040,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -40042,6 +40065,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -43585,6 +43609,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -43609,6 +43634,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -47152,6 +47178,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -47176,6 +47203,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -50719,6 +50747,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -50743,6 +50772,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -54286,6 +54316,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -54310,6 +54341,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -57853,6 +57885,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -57877,6 +57910,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -61420,6 +61454,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -61444,6 +61479,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -64987,6 +65023,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -65011,6 +65048,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -68554,6 +68592,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
   </url>
   <url>
@@ -68578,6 +68617,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
   <url>
@@ -72098,5 +72138,55 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-15-디버깅과-문제-해결/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-15-felsökning-och-problemlösning/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-15-debugging-and-troubleshooting/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-16-peirianneg-perfformiad/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-16-performance-engineering/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-16-performance-engineering/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-16-ingeniería-de-rendimiento/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-16-परफॉर्मेंस-इंजीनियरिंग/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-16-性能工程/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-16-性能工程/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-16-هندسة-الأداء/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-16-leistungstechnik/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-16-leistungstechnik/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-16-ingenierie-de-performance/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-16-পারফরম্যান্স-প্রকৌশল/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-16-peirianneg-perfformiad/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-16-परफॉर्मेंस-इंजीनियरिंग/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-16-rekayasa-kinerja/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/02-16-パフォーマンスエンジニアリング/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-16-パフォーマンスエンジニアリング/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-16-성능-엔지니어링/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-16-performance-engineering/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-17-cydamseroldeb-a-chyfochredd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-17-concurrency-and-parallelism/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-17-concurrency-and-parallelism/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-17-concurrencia-y-paralelismo/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-17-समरूपता-और-समांतरता/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-17-并发与并行/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-17-并发与并行/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-17-التزامن-والتوازي/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-17-nebenlaeufigkeit-und-parallelitaet/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-17-nebenlaeufigkeit-und-parallelitaet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-17-concurrence-et-parallelisme/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-17-কনকারেন্সি-ও-প্যারালেলিজম/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-17-cydamseroldeb-a-chyfochredd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-17-समरूपता-और-समांतरता/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-17-konkurensi-dan-paralelisme/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/02-17-並行性と並列性/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-17-並行性と並列性/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-17-동시성과-병렬성/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-17-concurrency-and-parallelism/"/>
   </url>
 </urlset>

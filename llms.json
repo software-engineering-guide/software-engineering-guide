@@ -15028,6 +15028,16 @@
      "number": "2.15",
      "title": "Felsökning och problemlösning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-15-felsökning-och-problemlösning/"
+    },
+    {
+     "number": "2.16",
+     "title": "Prestandateknik",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-16-prestandateknik/"
+    },
+    {
+     "number": "2.17",
+     "title": "Samtidighet och parallellism",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"
     }
    ]
   }
