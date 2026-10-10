@@ -15108,6 +15108,16 @@
      "number": "3.9",
      "title": "Systemteknik",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-09-systemteknik/"
+    },
+    {
+     "number": "3.10",
+     "title": "Inbyggda system och realtidssystem",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"
+    },
+    {
+     "number": "3.11",
+     "title": "Molnarkitektur",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"
     }
    ]
   }
