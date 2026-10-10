@@ -17039,6 +17039,16 @@
      "number": "11.2",
      "title": "De opleveringspijplijn",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-02-opleveringspijplijn/"
+    },
+    {
+     "number": "11.3",
+     "title": "Wachtrijtheorie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-03-wachtrijtheorie/"
+    },
+    {
+     "number": "11.4",
+     "title": "Objectives en key results (OKR's)",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-04-doelen-en-sleutelresultaten-okr/"
     }
    ]
   }
