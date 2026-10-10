@@ -15258,6 +15258,16 @@
      "number": "5.10",
      "title": "Design av datavisualisering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-10-design-av-datavisualisering/"
+    },
+    {
+     "number": "6.0",
+     "title": "Introduktion till del 6: Artificiell intelligens",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-00-artificiell-intelligens/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI-strategi och beredskap",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-01-ai-strategi-och-beredskap/"
     }
    ]
   }
