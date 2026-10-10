@@ -15298,6 +15298,16 @@
      "number": "6.7",
      "title": "AI-agenter och agentiska system",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-07-ai-agenter-och-agentiska-system/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI-utvärdering och testning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-08-ai-utvärdering-och-testning/"
+    },
+    {
+     "number": "6.9",
+     "title": "Promptteknik och kontextdesign",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-09-promptteknik-och-kontextdesign/"
     }
    ]
   }
