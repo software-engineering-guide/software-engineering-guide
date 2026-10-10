@@ -13412,6 +13412,16 @@
      "number": "1.3",
      "title": "역할, 커리어 사다리, 성장",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-03-역할과-커리어-사다리와-성장/"
+    },
+    {
+     "number": "1.4",
+     "title": "일하는 방식",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-04-일하는-방식/"
+    },
+    {
+     "number": "1.5",
+     "title": "의사결정과 거버넌스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-05-의사결정과-거버넌스/"
     }
    ]
   }
