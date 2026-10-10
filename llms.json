@@ -13522,6 +13522,16 @@
      "number": "2.11",
      "title": "소프트웨어 품질",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-11-소프트웨어-품질/"
+    },
+    {
+     "number": "2.12",
+     "title": "소프트웨어 모델과 방법",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-12-소프트웨어-모델과-방법/"
+    },
+    {
+     "number": "2.13",
+     "title": "컴퓨팅, 수학, 엔지니어링의 기초",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-13-컴퓨팅과-수학과-엔지니어링의-기초/"
     }
    ]
   }
