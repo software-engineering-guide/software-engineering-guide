@@ -15568,6 +15568,11 @@
      "number": "11.5",
      "title": "Nyckeltal (KPI)",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-05-nyckeltal-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Värdeflödeskartläggning och fördröjningskostnad",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-06-värdeflödeskartläggning-och-fördröjningskostnad/"
     }
    ]
   }
