@@ -16424,6 +16424,16 @@
      "number": "1.11",
      "title": "Engineeringmanagement",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-11-engineeringmanagement/"
+    },
+    {
+     "number": "1.12",
+     "title": "Diversiteit, gelijkwaardigheid, inclusie en erbij horen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-12-diversiteit-gelijkwaardigheid-inclusie-en-erbij-horen/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, coaching en kennisdeling",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-13-mentoring-coaching-en-kennisdeling/"
     }
    ]
   }
