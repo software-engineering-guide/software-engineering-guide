@@ -13842,6 +13842,16 @@
      "number": "7.3",
      "title": "분석과 비즈니스 인텔리전스",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-03-분석과-비즈니스-인텔리전스/"
+    },
+    {
+     "number": "7.4",
+     "title": "제품 분석과 실험",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-04-제품-분석과-실험/"
+    },
+    {
+     "number": "7.5",
+     "title": "의사결정 과학과 데이터 기반 문화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-05-의사결정-과학과-데이터-문화/"
     }
    ]
   }
