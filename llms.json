@@ -14042,6 +14042,16 @@
      "number": "10.16",
      "title": "이해관계자 관리와 커뮤니케이션",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-16-이해관계자-관리와-커뮤니케이션/"
+    },
+    {
+     "number": "10.17",
+     "title": "조직 변화 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-17-조직-변화-관리/"
+    },
+    {
+     "number": "10.18",
+     "title": "오픈 소스 프로그램 오피스(OSPO)와 업스트림 기여",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-18-오픈-소스-프로그램-오피스/"
     }
    ]
   }
