@@ -17079,6 +17079,16 @@
      "number": "12.3",
      "title": "Sjablonen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-03-sjablonen/"
+    },
+    {
+     "number": "12.4",
+     "title": "Zelfbeoordeling volwassenheid",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-04-zelfbeoordeling-volwassenheid/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referenties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-05-referenties/"
     }
    ]
   }
