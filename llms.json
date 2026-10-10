@@ -15398,6 +15398,16 @@
      "number": "8.7",
      "title": "Byggsystem och artefakthantering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-07-byggsystem-och-artefakthantering/"
+    },
+    {
+     "number": "9.0",
+     "title": "Introduktion till del 9: Drift, tillförlitlighet och observerbarhet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-00-drift-och-tillförlitlighet/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-01-site-reliability-engineering/"
     }
    ]
   }
