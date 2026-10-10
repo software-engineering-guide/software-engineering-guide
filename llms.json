@@ -15008,6 +15008,16 @@
      "number": "2.11",
      "title": "Programvarukvalitet",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-11-programvarukvalitet/"
+    },
+    {
+     "number": "2.12",
+     "title": "Programvarumodeller och metoder",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-12-programvarumodeller-och-metoder/"
+    },
+    {
+     "number": "2.13",
+     "title": "Grunder i datavetenskap, matematik och teknik",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-13-grunder-i-datavetenskap-matematik-och-teknik/"
     }
    ]
   }
