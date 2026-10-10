@@ -17844,6 +17844,24 @@
      "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-07-register/"
     }
    ]
+  },
+  {
+   "code": "is-is",
+   "label": "Íslenska",
+   "home": "https://software-engineering-guide.github.io/is-is/",
+   "topicsSegment": "viðfangsefni",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Inngangur að 1. hluta: Fólk",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-00-fólk/"
+    },
+    {
+     "number": "1.1",
+     "title": "Gildi hugbúnaðarverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-01-gildi-hugbúnaðarverkfræði/"
+    }
+   ]
   }
  ]
 }
