@@ -12226,6 +12226,16 @@
      "number": "4.9",
      "title": "セキュアなソフトウェア開発ライフサイクル",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"
+    },
+    {
+     "number": "4.10",
+     "title": "ペネトレーションテストとレッドチーム演習",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-10-ペネトレーションテストとレッドチーム演習/"
+    },
+    {
+     "number": "5.0",
+     "title": "第5部の導入: UIとUXのデザイン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-00-UIとUXのデザイン/"
     }
    ]
   }
