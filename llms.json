@@ -12146,6 +12146,16 @@
      "number": "3.11",
      "title": "クラウドアーキテクチャ",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-11-クラウドアーキテクチャ/"
+    },
+    {
+     "number": "3.12",
+     "title": "イベント駆動アーキテクチャとメッセージング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-12-イベント駆動アーキテクチャとメッセージング/"
+    },
+    {
+     "number": "3.13",
+     "title": "ネットワーキングと接続性",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-13-ネットワーキングと接続性/"
     }
    ]
   }
