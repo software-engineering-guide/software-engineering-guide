@@ -16404,6 +16404,16 @@
      "number": "1.7",
      "title": "Engineeringstandaarden en uitzonderingen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-07-engineeringstandaarden-en-uitzonderingen/"
+    },
+    {
+     "number": "1.8",
+     "title": "Werving, selectiegesprekken en onboarding",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-08-werving-selectiegesprekken-en-onboarding/"
+    },
+    {
+     "number": "1.9",
+     "title": "Gedistribueerd en thuiswerken",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-09-gedistribueerd-en-thuiswerken/"
     }
    ]
   }
