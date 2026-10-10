@@ -15348,6 +15348,16 @@
      "number": "7.7",
      "title": "Datamodellering och det semantiska lagret",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-07-datamodellering-och-semantiskt-lager/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datakvalitet och observerbarhet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-08-datakvalitet-och-observerbarhet/"
+    },
+    {
+     "number": "7.9",
+     "title": "Hantering av masterdata och referensdata",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-09-hantering-av-masterdata-och-referensdata/"
     }
    ]
   }
