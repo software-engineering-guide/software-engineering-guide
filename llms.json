@@ -13722,6 +13722,16 @@
      "number": "5.0",
      "title": "5부 소개: UI/UX 디자인",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-00-UI-UX-디자인/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX의 기초",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-01-UX의-기초/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI 디자인과 디자인 시스템",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-02-UI-디자인과-디자인-시스템/"
     }
    ]
   }
