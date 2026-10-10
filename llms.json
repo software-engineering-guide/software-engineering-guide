@@ -12551,6 +12551,21 @@
      "number": "10.15",
      "title": "見積りと予測",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-15-見積りと予測/"
+    },
+    {
+     "number": "10.16",
+     "title": "ステークホルダー管理とコミュニケーション",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-16-ステークホルダー管理とコミュニケーション/"
+    },
+    {
+     "number": "10.17",
+     "title": "組織変革マネジメント",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-17-組織変革マネジメント/"
+    },
+    {
+     "number": "10.18",
+     "title": "オープンソースプログラムオフィス(OSPO)とアップストリームへの貢献",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-18-オープンソースプログラムオフィス/"
     }
    ]
   }
