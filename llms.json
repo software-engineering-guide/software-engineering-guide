@@ -13982,6 +13982,16 @@
      "number": "10.4",
      "title": "대규모 장수 시스템의 지속",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-04-대규모-장수-시스템의-지속/"
+    },
+    {
+     "number": "10.5",
+     "title": "윤리, 책임성, 공익",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-05-윤리와-책임성과-공익/"
+    },
+    {
+     "number": "10.6",
+     "title": "프로젝트 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-06-프로젝트-관리/"
     }
    ]
   }
