@@ -15318,6 +15318,16 @@
      "number": "7.1",
      "title": "Datastrategi och datastyrning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-01-datastrategi-och-datastyrning/"
+    },
+    {
+     "number": "7.2",
+     "title": "Datateknik",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-02-datateknik/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analys och business intelligence",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-03-analys-och-business-intelligence/"
     }
    ]
   }
