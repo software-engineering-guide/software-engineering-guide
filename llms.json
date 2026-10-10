@@ -12491,6 +12491,16 @@
      "number": "10.3",
      "title": "調達、オープンソース、ライセンス",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-03-調達とオープンソースとライセンス/"
+    },
+    {
+     "number": "10.4",
+     "title": "大規模で長寿命なシステムの維持",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-04-大規模で長寿命なシステムの維持/"
+    },
+    {
+     "number": "10.5",
+     "title": "倫理、説明責任、公共の利益",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-05-倫理と説明責任と公共の利益/"
     }
    ]
   }
