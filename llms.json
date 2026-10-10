@@ -12036,6 +12036,16 @@
      "number": "2.11",
      "title": "ソフトウェア品質",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-11-ソフトウェア品質/"
+    },
+    {
+     "number": "2.12",
+     "title": "ソフトウェアのモデルと手法",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-12-ソフトウェアのモデルと手法/"
+    },
+    {
+     "number": "2.13",
+     "title": "計算と数学とエンジニアリングの基礎",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-13-計算と数学とエンジニアリングの基礎/"
     }
    ]
   }
