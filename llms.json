@@ -15428,6 +15428,16 @@
      "number": "9.5",
      "title": "Katastrofåterställning och verksamhetskontinuitet",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-05-katastrofåterställning-och-verksamhetskontinuitet/"
+    },
+    {
+     "number": "9.6",
+     "title": "Kaosteknik och motståndskraftstestning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-06-kaosteknik-och-motståndskraftstestning/"
+    },
+    {
+     "number": "9.7",
+     "title": "Kapacitetsplanering och efterfrågeprognoser",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-07-kapacitetsplanering-och-efterfrågeprognoser/"
     }
    ]
   }
