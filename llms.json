@@ -16644,6 +16644,16 @@
      "number": "4.1",
      "title": "Beveiligingsfundamenten en cultuur",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-01-beveiligingsfundamenten-en-cultuur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Applicatiebeveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastructuur- en cloudbeveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"
     }
    ]
   }
