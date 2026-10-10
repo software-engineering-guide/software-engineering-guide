@@ -13432,6 +13432,16 @@
      "number": "1.7",
      "title": "엔지니어링 표준과 예외",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-07-엔지니어링-표준과-예외/"
+    },
+    {
+     "number": "1.8",
+     "title": "채용, 면접, 온보딩",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-08-채용과-면접과-온보딩/"
+    },
+    {
+     "number": "1.9",
+     "title": "분산 근무와 원격 근무",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-09-분산-근무와-원격-근무/"
     }
    ]
   }
