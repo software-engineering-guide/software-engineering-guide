@@ -12566,6 +12566,21 @@
      "number": "10.18",
      "title": "オープンソースプログラムオフィス(OSPO)とアップストリームへの貢献",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-18-オープンソースプログラムオフィス/"
+    },
+    {
+     "number": "11.0",
+     "title": "第11部の導入: フロー: ディスカバリーとデリバリーのパイプライン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-00-フローとディスカバリーとデリバリー/"
+    },
+    {
+     "number": "11.1",
+     "title": "ディスカバリーパイプライン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-01-ディスカバリーパイプライン/"
+    },
+    {
+     "number": "11.2",
+     "title": "デリバリーパイプライン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-02-デリバリーパイプライン/"
     }
    ]
   }
