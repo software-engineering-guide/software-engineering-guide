@@ -13582,6 +13582,16 @@
      "number": "3.1",
      "title": "아키텍처의 기본",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-01-아키텍처의-기본/"
+    },
+    {
+     "number": "3.2",
+     "title": "아키텍처 스타일과 패턴",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-02-아키텍처-스타일과-패턴/"
+    },
+    {
+     "number": "3.3",
+     "title": "분산 시스템",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-03-분산-시스템/"
     }
    ]
   }
