@@ -16844,6 +16844,16 @@
      "number": "7.9",
      "title": "Beheer van stamdata en referentiedata",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-09-beheer-van-stamdata-en-referentiedata/"
+    },
+    {
+     "number": "8.0",
+     "title": "Inleiding op deel 8: Automatisering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-00-automatisering/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD en oplevering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-01-ci-cd-en-oplevering/"
     }
    ]
   }
