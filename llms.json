@@ -13822,6 +13822,16 @@
      "number": "6.9",
      "title": "프롬프트 엔지니어링과 컨텍스트 설계",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-09-프롬프트-엔지니어링과-컨텍스트-설계/"
+    },
+    {
+     "number": "7.0",
+     "title": "7부 소개: 데이터, 분석, 통찰",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-00-데이터와-분석/"
+    },
+    {
+     "number": "7.1",
+     "title": "데이터 전략과 거버넌스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-01-데이터-전략과-거버넌스/"
     }
    ]
   }
