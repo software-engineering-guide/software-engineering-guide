@@ -12046,6 +12046,16 @@
      "number": "2.13",
      "title": "計算と数学とエンジニアリングの基礎",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-13-計算と数学とエンジニアリングの基礎/"
+    },
+    {
+     "number": "2.14",
+     "title": "プロジェクトとリポジトリの構造",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-14-プロジェクトとリポジトリの構造/"
+    },
+    {
+     "number": "2.15",
+     "title": "デバッグとトラブルシューティング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-15-デバッグとトラブルシューティング/"
     }
    ]
   }
