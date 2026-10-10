@@ -15148,6 +15148,16 @@
      "number": "3.17",
      "title": "Sökning och informationsåtervinning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-17-sökning-och-informationsåtervinning/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introduktion till del 4: Säkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-00-säkerhet/"
+    },
+    {
+     "number": "4.1",
+     "title": "Säkerhetens grunder och kultur",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-01-säkerhetens-grunder-och-kultur/"
     }
    ]
   }

@@ -6,7 +6,7 @@
 
 För företag och myndigheter spelar grunderna ännu större roll, eftersom systemen är långlivade, starkt reglerade och delade mellan avdelningar. Ett skattesystem, en bidragsplattform, ett nationellt hälsoregister eller en banks kärnhuvudbok kommer att överleva karriären hos de människor som byggde det. De beslut du fattar i dag om koppling, dataägarskap och [kvalitetsegenskaper](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) begränsar vad som är möjligt i ett decennium eller mer. Tillsynsmyndigheter och revisorer förväntar sig alltmer dokumenterad, försvarbar arkitektur: belägg för att tillförlitlighet, säkerhet, integritet och tillgänglighet byggdes in, inte skruvades på. Att få grunderna rätt är inte akademiskt. Det är skillnaden mellan en plattform som anpassar sig till nya mandat och en som måste byggas om från grunden.
 
-Det här kapitlet behandlar de varaktiga grunder som överlever teknikmoden: kvalitetsegenskaper (ilitetsegenskaperna), arkitektoniskt betydande krav, anpassningsfunktioner och evolutionär arkitektur, lätt dokumentation med [C4](https://en.wikipedia.org/wiki/C4_model) och arc42 samt strukturerad avvägningsanalys. Det är de verktyg som låter ett stort team resonera om arkitektur med avsikt snarare än av en slump.
+Det här kapitlet behandlar de varaktiga grunder som överlever teknikmoden: kvalitetsegenskaper, arkitektoniskt betydande krav, anpassningsfunktioner och evolutionär arkitektur, lätt dokumentation med [C4](https://en.wikipedia.org/wiki/C4_model) och arc42 samt strukturerad avvägningsanalys. Det är de verktyg som låter ett stort team resonera om arkitektur med avsikt snarare än av en slump.
 
 ## Nyckelprinciper
 
