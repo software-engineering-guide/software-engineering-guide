@@ -15558,6 +15558,16 @@
      "number": "11.3",
      "title": "Köteori",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-03-köteori/"
+    },
+    {
+     "number": "11.4",
+     "title": "Mål och nyckelresultat (OKR)",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-04-mål-och-nyckelresultat-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Nyckeltal (KPI)",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-05-nyckeltal-kpi/"
     }
    ]
   }
