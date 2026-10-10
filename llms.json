@@ -16754,6 +16754,16 @@
      "number": "6.1",
      "title": "AI-strategie en gereedheid",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-01-ai-strategie-en-gereedheid/"
+    },
+    {
+     "number": "6.2",
+     "title": "Machine-learningengineering (MLOps)",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generatieve AI en LLM-toepassingen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-03-generatieve-ai-en-llm-toepassingen/"
     }
    ]
   }
