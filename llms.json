@@ -18040,6 +18040,16 @@
      "number": "3.1",
      "title": "Grunnatriði arkitektúrs",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-01-grunnatriði-arkitektúrs/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arkitektúrstílar og mynstur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-02-arkitektúrstílar-og-mynstur/"
+    },
+    {
+     "number": "3.3",
+     "title": "Dreifð kerfi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-03-dreifð-kerfi/"
     }
    ]
   }
