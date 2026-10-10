@@ -15615,6 +15615,749 @@
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-07-register/"
     }
    ]
+  },
+  {
+   "code": "sv-001",
+   "label": "Svenska",
+   "home": "https://software-engineering-guide.github.io/sv-001/",
+   "topicsSegment": "ämnen",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Introduktion till del 1: Människor",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-00-människor/"
+    },
+    {
+     "number": "1.1",
+     "title": "Värderingar inom programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-01-värderingar-inom-programvaruutveckling/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teamtopologier och organisationsdesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-02-teamtopologier/"
+    },
+    {
+     "number": "1.3",
+     "title": "Roller, karriärstegar och utveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-03-roller-karriärstegar-och-utveckling/"
+    },
+    {
+     "number": "1.4",
+     "title": "Arbetssätt",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-04-arbetssätt/"
+    },
+    {
+     "number": "1.5",
+     "title": "Beslutsfattande och styrning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-05-beslutsfattande-och-styrning/"
+    },
+    {
+     "number": "1.6",
+     "title": "Beslutsloggar",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-06-beslutsloggar/"
+    },
+    {
+     "number": "1.7",
+     "title": "Tekniska standarder och undantag",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-07-tekniska-standarder-och-undantag/"
+    },
+    {
+     "number": "1.8",
+     "title": "Rekrytering, intervjuer och introduktion",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-08-rekrytering-intervjuer-och-introduktion/"
+    },
+    {
+     "number": "1.9",
+     "title": "Distribuerat arbete och distansarbete",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-09-distribuerat-arbete-och-distansarbete/"
+    },
+    {
+     "number": "1.10",
+     "title": "Teknisk effektivitet och utvecklarproduktivitet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-10-teknisk-effektivitet-och-utvecklarproduktivitet/"
+    },
+    {
+     "number": "1.11",
+     "title": "Ledarskap inom utveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-11-ledarskap-inom-utveckling/"
+    },
+    {
+     "number": "1.12",
+     "title": "Mångfald, jämlikhet, inkludering och tillhörighet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-12-mångfald-jämlikhet-inkludering-och-tillhörighet/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentorskap, coachning och kunskapsdelning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/01-13-mentorskap-coachning-och-kunskapsdelning/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introduktion till del 2: Programmering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kodstandarder och kodstil",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"
+    },
+    {
+     "number": "2.2",
+     "title": "Principer för programvarudesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-02-principer-för-programvarudesign/"
+    },
+    {
+     "number": "2.3",
+     "title": "API:er och gränssnittsdesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-03-api-er-och-gränssnittsdesign/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategi",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-04-teststrategi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kodgranskning och samarbete",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-05-kodgranskning-och-samarbete/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versionshantering och källkodshantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-06-versionshantering-och-källkodshantering/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentation",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-07-dokumentation/"
+    },
+    {
+     "number": "2.8",
+     "title": "Programvarukrav",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-08-programvarukrav/"
+    },
+    {
+     "number": "2.9",
+     "title": "Programvarukonstruktion",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-09-programvarukonstruktion/"
+    },
+    {
+     "number": "2.10",
+     "title": "Konfigurationshantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-10-konfigurationshantering/"
+    },
+    {
+     "number": "2.11",
+     "title": "Programvarukvalitet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-11-programvarukvalitet/"
+    },
+    {
+     "number": "2.12",
+     "title": "Programvarumodeller och metoder",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-12-programvarumodeller-och-metoder/"
+    },
+    {
+     "number": "2.13",
+     "title": "Grunder i datavetenskap, matematik och teknik",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-13-grunder-i-datavetenskap-matematik-och-teknik/"
+    },
+    {
+     "number": "2.14",
+     "title": "Projekt- och repositoriestruktur",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-14-projekt-och-repositoriestruktur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Felsökning och problemlösning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-15-felsökning-och-problemlösning/"
+    },
+    {
+     "number": "2.16",
+     "title": "Prestandateknik",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-16-prestandateknik/"
+    },
+    {
+     "number": "2.17",
+     "title": "Samtidighet och parallellism",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-17-samtidighet-och-parallellism/"
+    },
+    {
+     "number": "2.18",
+     "title": "Beroende- och leveranskedjehantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-18-beroende-och-leverantörskedjehantering/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refaktorisering och teknisk skuld",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-19-refaktorisering-och-teknisk-skuld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Felhantering och motståndskraftsmönster",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-20-felhantering-och-motståndskraftsmönster/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typsystem och statisk analys",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/02-21-typsystem-och-statisk-analys/"
+    },
+    {
+     "number": "3.0",
+     "title": "Introduktion till del 3: System",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-00-system/"
+    },
+    {
+     "number": "3.1",
+     "title": "Arkitekturens grunder",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-01-arkitekturens-grunder/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arkitekturstilar och mönster",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-02-arkitekturstilar-och-mönster/"
+    },
+    {
+     "number": "3.3",
+     "title": "Distribuerade system",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-03-distribuerade-system/"
+    },
+    {
+     "number": "3.4",
+     "title": "Dataarkitektur och lagring",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-04-dataarkitektur-och-lagring/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalbarhet, prestanda och motståndskraft",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisering av äldre system",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-06-modernisering-av-äldre-system/"
+    },
+    {
+     "number": "3.7",
+     "title": "Programvaruunderhåll",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-07-programvaruunderhåll/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilitet och öppna standarder",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-08-interoperabilitet-och-öppna-standarder/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systemteknik",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-09-systemteknik/"
+    },
+    {
+     "number": "3.10",
+     "title": "Inbyggda system och realtidssystem",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"
+    },
+    {
+     "number": "3.11",
+     "title": "Molnarkitektur",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Händelsedriven arkitektur och meddelandehantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-12-händelsedriven-arkitektur-och-meddelandehantering/"
+    },
+    {
+     "number": "3.13",
+     "title": "Nätverk och uppkoppling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-13-nätverk-och-uppkoppling/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multitenans och SaaS-arkitektur",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-14-multitenans-och-saas-arkitektur/"
+    },
+    {
+     "number": "3.15",
+     "title": "Cachelagring och innehållsleverans",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-15-cachelagring-och-innehållsleverans/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gateways och tjänstenät",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-16-api-gateways-och-servicenät/"
+    },
+    {
+     "number": "3.17",
+     "title": "Sökning och informationsåtervinning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/03-17-sökning-och-informationsåtervinning/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introduktion till del 4: Säkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-00-säkerhet/"
+    },
+    {
+     "number": "4.1",
+     "title": "Säkerhetens grunder och kultur",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-01-säkerhetens-grunder-och-kultur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Applikationssäkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastruktur- och molnsäkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"
+    },
+    {
+     "number": "4.4",
+     "title": "Säkerhetsdrift",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-04-säkerhetsdrift/"
+    },
+    {
+     "number": "4.5",
+     "title": "Integritet och dataskydd",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-05-integritet-och-dataskydd/"
+    },
+    {
+     "number": "4.6",
+     "title": "Regelefterlevnad och styrning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-06-regelefterlevnad-och-styrning/"
+    },
+    {
+     "number": "4.7",
+     "title": "Identitets- och åtkomsthantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-07-identitets-och-åtkomsthantering/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kryptografi och nyckelhantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-08-kryptografi-och-nyckelhantering/"
+    },
+    {
+     "number": "4.9",
+     "title": "Livscykeln för säker programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-09-säker-programvaruutvecklingslivscykel/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetrationstestning och red team-övningar",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/04-10-penetrationstestning-och-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introduktion till del 5: UI/UX-design",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-00-ui-ux-design/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-grunder",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-01-ux-grunder/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-design och designsystem",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-02-ui-design-och-designsystem/"
+    },
+    {
+     "number": "5.3",
+     "title": "Tillgänglighet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-03-tillgänglighet/"
+    },
+    {
+     "number": "5.4",
+     "title": "Innehålls- och kommunikationsdesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-04-innehålls-och-kommunikationsdesign/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internationalisering och lokalisering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-05-internationalisering-och-lokalisering/"
+    },
+    {
+     "number": "5.6",
+     "title": "Frontendutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-06-frontendutveckling/"
+    },
+    {
+     "number": "5.7",
+     "title": "Utveckling av mobilapplikationer",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-07-utveckling-av-mobilapplikationer/"
+    },
+    {
+     "number": "5.8",
+     "title": "Designforskning och användbarhetstestning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-08-designforskning-och-användbarhetstestning/"
+    },
+    {
+     "number": "5.9",
+     "title": "Tjänstedesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-09-tjänstedesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Design av datavisualisering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/05-10-design-av-datavisualisering/"
+    },
+    {
+     "number": "6.0",
+     "title": "Introduktion till del 6: Artificiell intelligens",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-00-artificiell-intelligens/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI-strategi och beredskap",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-01-ai-strategi-och-beredskap/"
+    },
+    {
+     "number": "6.2",
+     "title": "Maskininlärningsteknik (MLOps)",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generativ AI och LLM-applikationer",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-03-generativ-ai-och-llm-applikationer/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-stödd programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-04-ai-stödd-programvaruutveckling/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ansvarsfull och pålitlig AI",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-05-ansvarsfull-och-pålitlig-ai/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI-infrastruktur och drift",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-06-ai-infrastruktur-och-drift/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI-agenter och agentiska system",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-07-ai-agenter-och-agentiska-system/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI-utvärdering och testning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-08-ai-utvärdering-och-testning/"
+    },
+    {
+     "number": "6.9",
+     "title": "Promptteknik och kontextdesign",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/06-09-promptteknik-och-kontextdesign/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introduktion till del 7: Data, analys och insikt",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-00-data-och-analys/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datastrategi och datastyrning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-01-datastrategi-och-datastyrning/"
+    },
+    {
+     "number": "7.2",
+     "title": "Datateknik",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-02-datateknik/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analys och business intelligence",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-03-analys-och-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Produktanalys och experimentering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-04-produktanalys-och-experimentering/"
+    },
+    {
+     "number": "7.5",
+     "title": "Beslutsvetenskap och databaserad kultur",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-05-beslutsvetenskap-och-datakultur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Realtidsdata och strömmande data",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-06-realtidsdata-och-strömmande-data/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datamodellering och det semantiska lagret",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-07-datamodellering-och-semantiskt-lager/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datakvalitet och observerbarhet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-08-datakvalitet-och-observerbarhet/"
+    },
+    {
+     "number": "7.9",
+     "title": "Hantering av masterdata och referensdata",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/07-09-hantering-av-masterdata-och-referensdata/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introduktion till del 8: Automatisering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-00-automatisering/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD och leverans",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-01-ci-cd-och-leverans/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastruktur som kod och konfiguration",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-02-infrastruktur-som-kod-och-konfiguration/"
+    },
+    {
+     "number": "8.3",
+     "title": "Containrar, orkestrering och molnnativt",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-03-containrar-orkestrering-och-molnnativt/"
+    },
+    {
+     "number": "8.4",
+     "title": "Plattformsteknik och utvecklarupplevelse",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-04-plattformsteknik-och-utvecklarupplevelse/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test- och processautomatisering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-05-test-och-processautomatisering/"
+    },
+    {
+     "number": "8.6",
+     "title": "Releasehantering och gradvis leverans",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-06-releasehantering-och-gradvis-leverans/"
+    },
+    {
+     "number": "8.7",
+     "title": "Byggsystem och artefakthantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/08-07-byggsystem-och-artefakthantering/"
+    },
+    {
+     "number": "9.0",
+     "title": "Introduktion till del 9: Drift, tillförlitlighet och observerbarhet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-00-drift-och-tillförlitlighet/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observerbarhet och telemetri",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Incidenthantering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kostnad, hållbarhet och grön programvara",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-04-kostnad-hållbarhet-och-grön-programvara/"
+    },
+    {
+     "number": "9.5",
+     "title": "Katastrofåterställning och verksamhetskontinuitet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-05-katastrofåterställning-och-verksamhetskontinuitet/"
+    },
+    {
+     "number": "9.6",
+     "title": "Kaosteknik och motståndskraftstestning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-06-kaosteknik-och-motståndskraftstestning/"
+    },
+    {
+     "number": "9.7",
+     "title": "Kapacitetsplanering och efterfrågeprognoser",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-07-kapacitetsplanering-och-efterfrågeprognoser/"
+    },
+    {
+     "number": "9.8",
+     "title": "Jour och driftberedskap",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/09-08-jour-och-driftberedskap/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introduktion till del 10: Projekt-, produkt- och programledning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-00-projekt-produkt-och-programledning/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portfölj- och programledning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-01-portfölj-och-programledning/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risk, revision och försäkran",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-02-risk-revision-och-säkerställande/"
+    },
+    {
+     "number": "10.3",
+     "title": "Upphandling, öppen källkod och licensiering",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"
+    },
+    {
+     "number": "10.4",
+     "title": "Att vidmakthålla stora och långlivade system",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etik, ansvarsskyldighet och allmänintresse",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-05-etik-ansvarsskyldighet-och-allmänintresse/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projektledning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-06-projektledning/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agil",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-07-agilt/"
+    },
+    {
+     "number": "10.8",
+     "title": "Mognadsmodeller",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-08-mognadsmodeller/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovationspartnerskap",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-09-innovationspartnerskap/"
+    },
+    {
+     "number": "10.10",
+     "title": "Ekonomi inom programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-10-ekonomi-inom-programvaruutveckling/"
+    },
+    {
+     "number": "10.11",
+     "title": "Digital suveränitet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-11-digital-suveränitet/"
+    },
+    {
+     "number": "10.12",
+     "title": "Öppen källkod mot sluten källkod",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-12-öppen-källkod-mot-sluten-källkod/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samarbete mellan organisationer",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-13-samarbete-mellan-organisationer/"
+    },
+    {
+     "number": "10.14",
+     "title": "Produktledning och discovery",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-14-produktledning-och-upptäckt/"
+    },
+    {
+     "number": "10.15",
+     "title": "Uppskattning och prognoser",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-15-uppskattning-och-prognoser/"
+    },
+    {
+     "number": "10.16",
+     "title": "Intressenthantering och kommunikation",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-16-intressenthantering-och-kommunikation/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisk förändringsledning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-17-organisatorisk-förändringsledning/"
+    },
+    {
+     "number": "10.18",
+     "title": "Kontor för öppen källkod (OSPO) och bidrag uppströms",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/10-18-kontor-för-öppen-källkod/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introduktion till del 11: Flöde: upptäckts- och leveransflöden",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-00-flöde-upptäckt-och-leverans/"
+    },
+    {
+     "number": "11.1",
+     "title": "Upptäcktsflödet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-01-upptäcktsflödet/"
+    },
+    {
+     "number": "11.2",
+     "title": "Leveransflödet",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-02-leveransflödet/"
+    },
+    {
+     "number": "11.3",
+     "title": "Köteori",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-03-köteori/"
+    },
+    {
+     "number": "11.4",
+     "title": "Mål och nyckelresultat (OKR)",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-04-mål-och-nyckelresultat-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Nyckeltal (KPI)",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-05-nyckeltal-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Värdeflödeskartläggning och fördröjningskostnad",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/11-06-värdeflödeskartläggning-och-fördröjningskostnad/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bilagor",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-00-bilagor/"
+    },
+    {
+     "number": "12.1",
+     "title": "Ordlista",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-01-ordlista/"
+    },
+    {
+     "number": "12.2",
+     "title": "Checklistor",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-02-checklistor/"
+    },
+    {
+     "number": "12.3",
+     "title": "Mallar",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-03-mallar/"
+    },
+    {
+     "number": "12.4",
+     "title": "Mognadsbedömning",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-04-mognadsbedömning/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referenser",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-05-referenser/"
+    },
+    {
+     "number": "12.6",
+     "title": "Införandeplan",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-06-införandeplan/"
+    },
+    {
+     "number": "12.7",
+     "title": "Register",
+     "url": "https://software-engineering-guide.github.io/sv-001/ämnen/12-07-register/"
+    }
+   ]
   }
  ]
 }

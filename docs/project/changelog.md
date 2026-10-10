@@ -27,6 +27,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locales `ko-kr` and `ko-001` (Korean): all 147 chapters translated by hand, with Korean
   directory segments under `주제/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`.
+- Locales `sv-se` and `sv-001` (Swedish): all 147 chapters translated by hand, with Swedish
+  directory segments under `ämnen/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
 
 ### Fixed
 
