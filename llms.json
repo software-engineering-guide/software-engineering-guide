@@ -16674,6 +16674,16 @@
      "number": "4.7",
      "title": "Identiteits- en toegangsbeheer",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-07-identiteits-en-toegangsbeheer/"
+    },
+    {
+     "number": "4.8",
+     "title": "Cryptografie en sleutelbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-08-cryptografie-en-sleutelbeheer/"
+    },
+    {
+     "number": "4.9",
+     "title": "Veilige softwareontwikkelingscyclus",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-09-veilige-softwareontwikkelingscyclus/"
     }
    ]
   }
