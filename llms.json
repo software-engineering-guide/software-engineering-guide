@@ -13922,6 +13922,16 @@
      "number": "9.1",
      "title": "사이트 신뢰성 엔지니어링",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-01-사이트-신뢰성-엔지니어링/"
+    },
+    {
+     "number": "9.2",
+     "title": "관측 가능성과 텔레메트리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-02-관측-가능성과-텔레메트리/"
+    },
+    {
+     "number": "9.3",
+     "title": "인시던트 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-03-인시던트-관리/"
     }
    ]
   }
