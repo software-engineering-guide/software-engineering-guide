@@ -14872,6 +14872,24 @@
      "url": "https://software-engineering-guide.github.io/ko-001/주제/12-07-색인/"
     }
    ]
+  },
+  {
+   "code": "sv-se",
+   "label": "Svenska",
+   "home": "https://software-engineering-guide.github.io/sv-se/",
+   "topicsSegment": "ämnen",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Introduktion till del 1: Människor",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-00-människor/"
+    },
+    {
+     "number": "1.1",
+     "title": "Värderingar inom programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-01-värderingar-inom-programvaruutveckling/"
+    }
+   ]
   }
  ]
 }
