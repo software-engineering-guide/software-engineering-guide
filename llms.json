@@ -12086,6 +12086,16 @@
      "number": "2.21",
      "title": "型システムと静的解析",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-21-型システムと静的解析/"
+    },
+    {
+     "number": "3.0",
+     "title": "第3部の紹介: システム",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-00-システム/"
+    },
+    {
+     "number": "3.1",
+     "title": "アーキテクチャの基礎",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-01-アーキテクチャの基礎/"
     }
    ]
   }
