@@ -11946,6 +11946,16 @@
      "number": "1.7",
      "title": "エンジニアリング標準と例外",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-07-エンジニアリング標準と例外/"
+    },
+    {
+     "number": "1.8",
+     "title": "採用、面接、オンボーディング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-08-採用と面接とオンボーディング/"
+    },
+    {
+     "number": "1.9",
+     "title": "分散勤務とリモートワーク",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-09-分散勤務とリモートワーク/"
     }
    ]
   }
