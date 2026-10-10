@@ -15218,6 +15218,16 @@
      "number": "5.2",
      "title": "UI-design och designsystem",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-02-ui-design-och-designsystem/"
+    },
+    {
+     "number": "5.3",
+     "title": "Tillgänglighet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-03-tillgänglighet/"
+    },
+    {
+     "number": "5.4",
+     "title": "Innehålls- och kommunikationsdesign",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-04-innehålls-och-kommunikationsdesign/"
     }
    ]
   }
