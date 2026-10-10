@@ -12376,6 +12376,16 @@
      "number": "7.7",
      "title": "データモデリングとセマンティックレイヤー",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-07-データモデリングとセマンティックレイヤー/"
+    },
+    {
+     "number": "7.8",
+     "title": "データ品質とオブザーバビリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-08-データ品質とオブザーバビリティ/"
+    },
+    {
+     "number": "7.9",
+     "title": "マスターデータと参照データの管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-09-マスターデータと参照データの管理/"
     }
    ]
   }
