@@ -15418,6 +15418,16 @@
      "number": "9.3",
      "title": "Incidenthantering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-03-incidenthantering/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kostnad, hållbarhet och grön programvara",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-04-kostnad-hållbarhet-och-grön-programvara/"
+    },
+    {
+     "number": "9.5",
+     "title": "Katastrofåterställning och verksamhetskontinuitet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/09-05-katastrofåterställning-och-verksamhetskontinuitet/"
     }
    ]
   }
