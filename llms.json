@@ -13762,6 +13762,16 @@
      "number": "5.8",
      "title": "디자인 리서치와 사용성 테스트",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-08-디자인-리서치와-사용성-테스트/"
+    },
+    {
+     "number": "5.9",
+     "title": "서비스 디자인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-09-서비스-디자인/"
+    },
+    {
+     "number": "5.10",
+     "title": "데이터 시각화 디자인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-10-데이터-시각화-디자인/"
     }
    ]
   }
