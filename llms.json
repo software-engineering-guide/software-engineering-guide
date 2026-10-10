@@ -14898,6 +14898,16 @@
      "number": "1.3",
      "title": "Roller, karriärstegar och utveckling",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-03-roller-karriärstegar-och-utveckling/"
+    },
+    {
+     "number": "1.4",
+     "title": "Arbetssätt",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-04-arbetssätt/"
+    },
+    {
+     "number": "1.5",
+     "title": "Beslutsfattande och styrning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-05-beslutsfattande-och-styrning/"
     }
    ]
   }
