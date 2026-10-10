@@ -14012,6 +14012,16 @@
      "number": "10.10",
      "title": "소프트웨어 엔지니어링 경제학",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-10-소프트웨어-엔지니어링-경제학/"
+    },
+    {
+     "number": "10.11",
+     "title": "디지털 주권",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-11-디지털-주권/"
+    },
+    {
+     "number": "10.12",
+     "title": "오픈 소스 대 클로즈드 소스",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-12-오픈-소스-대-클로즈드-소스/"
     }
    ]
   }
