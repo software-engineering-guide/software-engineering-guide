@@ -15593,6 +15593,16 @@
      "number": "12.3",
      "title": "Mallar",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-03-mallar/"
+    },
+    {
+     "number": "12.4",
+     "title": "Mognadsbedömning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-04-mognadsbedömning/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referenser",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-05-referenser/"
     }
    ]
   }
