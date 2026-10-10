@@ -12096,6 +12096,16 @@
      "number": "3.1",
      "title": "アーキテクチャの基礎",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-01-アーキテクチャの基礎/"
+    },
+    {
+     "number": "3.2",
+     "title": "アーキテクチャスタイルとパターン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-02-アーキテクチャスタイルとパターン/"
+    },
+    {
+     "number": "3.3",
+     "title": "分散システム",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-03-分散システム/"
     }
    ]
   }
