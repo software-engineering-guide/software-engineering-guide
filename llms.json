@@ -13572,6 +13572,16 @@
      "number": "2.21",
      "title": "타입 시스템과 정적 분석",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-21-타입-시스템과-정적-분석/"
+    },
+    {
+     "number": "3.0",
+     "title": "3부 소개: 시스템",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-00-시스템/"
+    },
+    {
+     "number": "3.1",
+     "title": "아키텍처의 기본",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-01-아키텍처의-기본/"
     }
    ]
   }
