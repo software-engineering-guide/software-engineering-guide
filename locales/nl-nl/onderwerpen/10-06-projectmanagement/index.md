@@ -13,7 +13,7 @@ Contexten van onderneming en overheid verhogen de inzet en veranderen de beperki
 - **Beheer uitkomsten, niet activiteit.** Klaar betekent opgeleverde waarde, niet gesloten taken.
 - **Ontbind en sequence.** Klein, geordend, afhankelijkheidsbewust werk verslaat big-bangplannen.
 - **Schattingen zijn bereiken, geen beloftes.** Communiceer onzekerheid eerlijk.
-- **Breng risico vroeg en continu boven water.** Het goedkoopste probleem is het eerst gevangen probleem.
+- **Breng risico vroeg en continu boven water.** Het goedkoopste probleem is het probleem dat je het eerst vangt.
 - **Stem de methode af op het werk.** Voorspellend, adaptief of hybride: pas bij de onzekerheid en beperkingen.
 - **Maak status transparant.** Zichtbare flow verslaat geruststellende rapporten.
 - **Belanghebbenden zijn deel van het team.** Afwezigheid van de klant is een projectrisico.
