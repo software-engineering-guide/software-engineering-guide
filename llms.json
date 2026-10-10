@@ -16834,6 +16834,16 @@
      "number": "7.7",
      "title": "Datamodellering en de semantische laag",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-07-datamodellering-en-semantische-laag/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datakwaliteit en observeerbaarheid",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-08-datakwaliteit-en-observeerbaarheid/"
+    },
+    {
+     "number": "7.9",
+     "title": "Beheer van stamdata en referentiedata",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-09-beheer-van-stamdata-en-referentiedata/"
     }
    ]
   }
