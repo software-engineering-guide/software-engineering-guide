@@ -340,7 +340,7 @@ uitgebreidere behandeling.
 
 **[Red team](https://en.wikipedia.org/wiki/Red_team)**: Een groep die een realistische tegenstander nabootst, vaak tegen een hele organisatie en zonder waarschuwing van de verdedigers, om detectie en respons te testen in plaats van slechts kwetsbaarheden op te sommen. Contrast met een blauw (defensief) team.
 
-**[Reference data](https://en.wikipedia.org/wiki/Reference_data)** (referentiedata): Gecontroleerde, langzaam veranderende codelijsten en classificaties gebruikt om andere data te categoriseren, zoals landcodes, valuta's en statuswaarden. Ze als gedeeld, versiebeheerd vocabulaire beheren houdt systemen consistent.
+**[Reference data](https://en.wikipedia.org/wiki/Reference_data)** (referentiedata): Gecontroleerde, langzaam veranderende codelijsten en classificaties gebruikt om andere data te categoriseren, zoals landcodes, valuta's en statuswaarden. Haar beheren als gedeeld, versiebeheerd vocabulaire houdt systemen consistent.
 
 **Rego**: De declaratieve beleidstaal die Open Policy Agent gebruikt om regels voor autorisatie- en configuratiebeslissingen uit te drukken.
 

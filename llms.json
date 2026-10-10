@@ -17069,6 +17069,16 @@
      "number": "12.1",
      "title": "Woordenlijst",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-01-woordenlijst/"
+    },
+    {
+     "number": "12.2",
+     "title": "Checklists",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-02-checklists/"
+    },
+    {
+     "number": "12.3",
+     "title": "Sjablonen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-03-sjablonen/"
     }
    ]
   }
