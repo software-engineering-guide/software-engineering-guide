@@ -16524,6 +16524,16 @@
      "number": "2.17",
      "title": "Gelijktijdigheid en parallellisme",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-17-gelijktijdigheid-en-parallellisme/"
+    },
+    {
+     "number": "2.18",
+     "title": "Afhankelijkheden en toeleveringsketenbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-18-afhankelijkheden-en-toeleveringsketenbeheer/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refactoring en technische schuld",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-19-refactoring-en-technische-schuld/"
     }
    ]
   }
