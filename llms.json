@@ -13562,6 +13562,16 @@
      "number": "2.19",
      "title": "리팩터링과 기술 부채",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-19-리팩터링과-기술-부채/"
+    },
+    {
+     "number": "2.20",
+     "title": "오류 처리와 복원력 패턴",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-20-오류-처리와-복원력-패턴/"
+    },
+    {
+     "number": "2.21",
+     "title": "타입 시스템과 정적 분석",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-21-타입-시스템과-정적-분석/"
     }
    ]
   }
