@@ -13402,6 +13402,16 @@
      "number": "1.1",
      "title": "소프트웨어 엔지니어링의 가치",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-01-소프트웨어-엔지니어링의-가치/"
+    },
+    {
+     "number": "1.2",
+     "title": "팀 토폴로지와 조직 설계",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-02-팀-토폴로지/"
+    },
+    {
+     "number": "1.3",
+     "title": "역할, 커리어 사다리, 성장",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-03-역할과-커리어-사다리와-성장/"
     }
    ]
   }
