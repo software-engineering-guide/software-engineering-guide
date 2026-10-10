@@ -15308,6 +15308,16 @@
      "number": "6.9",
      "title": "Promptteknik och kontextdesign",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-09-promptteknik-och-kontextdesign/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introduktion till del 7: Data, analys och insikt",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-00-data-och-analys/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datastrategi och datastyrning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-01-datastrategi-och-datastyrning/"
     }
    ]
   }
