@@ -12426,6 +12426,16 @@
      "number": "8.7",
      "title": "ビルドシステムと成果物管理",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-07-ビルドシステムと成果物管理/"
+    },
+    {
+     "number": "9.0",
+     "title": "第9部の導入: 運用、信頼性、オブザーバビリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-00-運用と信頼性/"
+    },
+    {
+     "number": "9.1",
+     "title": "サイト信頼性エンジニアリング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-01-サイト信頼性エンジニアリング/"
     }
    ]
   }
