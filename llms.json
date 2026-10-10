@@ -15058,6 +15058,16 @@
      "number": "2.21",
      "title": "Typsystem och statisk analys",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-21-typsystem-och-statisk-analys/"
+    },
+    {
+     "number": "3.0",
+     "title": "Introduktion till del 3: System",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-00-system/"
+    },
+    {
+     "number": "3.1",
+     "title": "Arkitekturens grunder",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-01-arkitekturens-grunder/"
     }
    ]
   }
