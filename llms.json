@@ -15138,6 +15138,16 @@
      "number": "3.15",
      "title": "Cachelagring och innehållsleverans",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-15-cachelagring-och-innehållsleverans/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gateways och tjänstenät",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-16-api-gateways-och-servicenät/"
+    },
+    {
+     "number": "3.17",
+     "title": "Sökning och informationsåtervinning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-17-sökning-och-informationsåtervinning/"
     }
    ]
   }
