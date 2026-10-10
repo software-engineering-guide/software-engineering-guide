@@ -13732,6 +13732,16 @@
      "number": "5.2",
      "title": "UI 디자인과 디자인 시스템",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-02-UI-디자인과-디자인-시스템/"
+    },
+    {
+     "number": "5.3",
+     "title": "접근성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-03-접근성/"
+    },
+    {
+     "number": "5.4",
+     "title": "콘텐츠와 커뮤니케이션 디자인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-04-콘텐츠와-커뮤니케이션-디자인/"
     }
    ]
   }
