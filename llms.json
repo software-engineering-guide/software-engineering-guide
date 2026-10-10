@@ -11936,6 +11936,16 @@
      "number": "1.5",
      "title": "意思決定とガバナンス",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-05-意思決定とガバナンス/"
+    },
+    {
+     "number": "1.6",
+     "title": "意思決定記録",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-06-意思決定記録/"
+    },
+    {
+     "number": "1.7",
+     "title": "エンジニアリング標準と例外",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-07-エンジニアリング標準と例外/"
     }
    ]
   }
