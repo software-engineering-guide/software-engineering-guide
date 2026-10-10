@@ -13772,6 +13772,16 @@
      "number": "5.10",
      "title": "데이터 시각화 디자인",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-10-데이터-시각화-디자인/"
+    },
+    {
+     "number": "6.0",
+     "title": "6부 소개: 인공지능",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-00-인공지능/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI 전략과 준비도",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-01-AI-전략과-준비도/"
     }
    ]
   }
