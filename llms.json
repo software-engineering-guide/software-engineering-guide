@@ -13482,6 +13482,16 @@
      "number": "2.3",
      "title": "API와 인터페이스 설계",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-03-API와-인터페이스-설계/"
+    },
+    {
+     "number": "2.4",
+     "title": "테스트 전략",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-04-테스트-전략/"
+    },
+    {
+     "number": "2.5",
+     "title": "코드 리뷰와 협업",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-05-코드-리뷰와-협업/"
     }
    ]
   }
