@@ -16454,6 +16454,16 @@
      "number": "2.3",
      "title": "API's en interfaceontwerp",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-03-api-s-en-interfaceontwerp/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-04-teststrategie/"
+    },
+    {
+     "number": "2.5",
+     "title": "Codereview en samenwerking",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-05-codereview-en-samenwerking/"
     }
    ]
   }
