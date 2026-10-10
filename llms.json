@@ -11900,6 +11900,24 @@
      "url": "https://software-engineering-guide.github.io/id-001/topik/12-07-indeks/"
     }
    ]
+  },
+  {
+   "code": "ja-jp",
+   "label": "日本語",
+   "home": "https://software-engineering-guide.github.io/ja-jp/",
+   "topicsSegment": "トピック",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "パート1の紹介: 人々",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-00-人々/"
+    },
+    {
+     "number": "1.1",
+     "title": "ソフトウェアエンジニアリングの価値観",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-01-ソフトウェアエンジニアリングの価値観/"
+    }
+   ]
   }
  ]
 }
