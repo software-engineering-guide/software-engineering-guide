@@ -12541,6 +12541,16 @@
      "number": "10.13",
      "title": "組織間協働",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-13-組織間協働/"
+    },
+    {
+     "number": "10.14",
+     "title": "プロダクトマネジメントとディスカバリー",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-14-プロダクトマネジメントとディスカバリー/"
+    },
+    {
+     "number": "10.15",
+     "title": "見積りと予測",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-15-見積りと予測/"
     }
    ]
   }
