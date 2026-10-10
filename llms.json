@@ -16594,6 +16594,16 @@
      "number": "3.9",
      "title": "Systeemengineering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-09-systeemengineering/"
+    },
+    {
+     "number": "3.10",
+     "title": "Embedded en realtimesystemen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"
+    },
+    {
+     "number": "3.11",
+     "title": "Cloudarchitectuur",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"
     }
    ]
   }

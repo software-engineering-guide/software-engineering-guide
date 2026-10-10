@@ -1275,6 +1275,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -1301,6 +1302,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -5152,6 +5154,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -5178,6 +5181,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -9029,6 +9033,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -9055,6 +9060,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -12906,6 +12912,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -12932,6 +12939,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -16783,6 +16791,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -16809,6 +16818,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -20660,6 +20670,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -20686,6 +20697,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -24537,6 +24549,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -24563,6 +24576,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -28414,6 +28428,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -28440,6 +28455,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -32291,6 +32307,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -32317,6 +32334,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -36168,6 +36186,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -36194,6 +36213,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -40045,6 +40065,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -40071,6 +40092,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -43922,6 +43944,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -43948,6 +43971,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -47799,6 +47823,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -47825,6 +47850,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -51676,6 +51702,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -51702,6 +51729,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -55553,6 +55581,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -55579,6 +55608,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -59430,6 +59460,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -59456,6 +59487,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -63307,6 +63339,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -63333,6 +63366,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -67184,6 +67218,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -67210,6 +67245,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -71061,6 +71097,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -71087,6 +71124,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -74938,6 +74976,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -74964,6 +75003,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -78815,6 +78855,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -78841,6 +78882,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -82692,6 +82734,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
   </url>
   <url>
@@ -82718,6 +82761,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
   <url>
@@ -86544,5 +86588,59 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-09-systemteknik/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-09-systeemengineering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-09-systems-engineering/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-10-systemau-mewnadeiladedig-ac-amser-real/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-10-embedded-and-real-time-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-10-embedded-and-real-time-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-10-sistemas-embebidos-y-de-tiempo-real/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-10-एम्बेडेड-और-रियल-टाइम-प्रणालियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-10-嵌入式与实时系统/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-10-嵌入式与实时系统/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-10-الأنظمة-المدمجة-وأنظمة-الوقت-الحقيقي/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-10-eingebettete-und-echtzeitsysteme/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-10-eingebettete-und-echtzeitsysteme/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-10-systemes-embarques-temps-reel/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-10-এমবেডেড-ও-রিয়েল-টাইম-সিস্টেম/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-10-systemau-mewnadeiladedig-ac-amser-real/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-10-एम्बेडेड-और-रियल-टाइम-प्रणालियाँ/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-10-sistem-tertanam-dan-waktu-nyata/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-10-組込みシステムとリアルタイムシステム/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-10-組込みシステムとリアルタイムシステム/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-10-임베디드와-실시간-시스템/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-10-임베디드와-실시간-시스템/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-10-inbyggda-system-och-realtidssystem/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-10-embedded-en-realtimesystemen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-10-embedded-and-real-time-systems/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-11-pensaernïaeth-cwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-11-cloud-architecture/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-11-cloud-architecture/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-11-arquitectura-en-la-nube/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-11-क्लाउड-आर्किटेक्चर/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-11-云架构/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-11-云架构/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-11-عمارة-السحابة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-11-cloud-architektur/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-11-cloud-architektur/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-11-architecture-cloud/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-11-ক্লাউড-স্থাপত্য/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-11-pensaernïaeth-cwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-11-क्लाउड-आर्किटेक्चर/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-11-arsitektur-cloud/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-11-クラウドアーキテクチャ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-11-クラウドアーキテクチャ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-11-클라우드-아키텍처/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-11-클라우드-아키텍처/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/03-11-molnarkitektur/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-11-cloud-architecture/"/>
   </url>
 </urlset>
