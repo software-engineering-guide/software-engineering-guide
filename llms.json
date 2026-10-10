@@ -16574,6 +16574,16 @@
      "number": "3.5",
      "title": "Schaalbaarheid, prestaties en veerkracht",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-05-schaalbaarheid-prestaties-en-veerkracht/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisering van legacy",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-06-modernisering-van-legacy/"
+    },
+    {
+     "number": "3.7",
+     "title": "Softwareonderhoud",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-07-softwareonderhoud/"
     }
    ]
   }
