@@ -13672,6 +13672,16 @@
      "number": "4.1",
      "title": "보안의 기초와 문화",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-01-보안의-기초와-문화/"
+    },
+    {
+     "number": "4.2",
+     "title": "애플리케이션 보안",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-02-애플리케이션-보안/"
+    },
+    {
+     "number": "4.3",
+     "title": "인프라와 클라우드 보안",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-03-인프라와-클라우드-보안/"
     }
    ]
   }
