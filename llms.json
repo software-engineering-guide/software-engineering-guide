@@ -17920,6 +17920,16 @@
      "number": "1.13",
      "title": "Leiðsögn, þjálfun og þekkingarmiðlun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-13-leiðsögn-þjálfun-og-þekkingarmiðlun/"
+    },
+    {
+     "number": "2.0",
+     "title": "Inngangur að 2. hluta: Hugbúnaðarforritun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-00-hugbúnaðarforritun/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kóðunarstaðlar og stíll",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-01-kóðunarstaðlar-og-stíll/"
     }
    ]
   }
