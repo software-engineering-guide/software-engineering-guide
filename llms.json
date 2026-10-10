@@ -13422,6 +13422,16 @@
      "number": "1.5",
      "title": "의사결정과 거버넌스",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-05-의사결정과-거버넌스/"
+    },
+    {
+     "number": "1.6",
+     "title": "결정 기록",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-06-결정-기록/"
+    },
+    {
+     "number": "1.7",
+     "title": "엔지니어링 표준과 예외",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-07-엔지니어링-표준과-예외/"
     }
    ]
   }
