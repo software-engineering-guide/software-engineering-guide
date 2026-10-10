@@ -12126,6 +12126,16 @@
      "number": "3.7",
      "title": "ソフトウェア保守",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-07-ソフトウェア保守/"
+    },
+    {
+     "number": "3.8",
+     "title": "相互運用性とオープン標準",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-08-相互運用性とオープン標準/"
+    },
+    {
+     "number": "3.9",
+     "title": "システムズエンジニアリング",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-09-システムズエンジニアリング/"
     }
    ]
   }
