@@ -15068,6 +15068,16 @@
      "number": "3.1",
      "title": "Arkitekturens grunder",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-01-arkitekturens-grunder/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arkitekturstilar och mönster",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-02-arkitekturstilar-och-mönster/"
+    },
+    {
+     "number": "3.3",
+     "title": "Distribuerade system",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"
     }
    ]
   }
