@@ -9,7 +9,7 @@ Företags- och myndighetssammanhang lägger till skarpare begränsningar, och de
 ## Kapitel i den här delen
 
 - **6.1 AI-strategi och beredskap**: Disciplinen att avgöra var AI ska tillämpas, var den ska undvikas och vilka data-, kompetens- och styrningsgrunder som måste finnas innan den första modellen når produktion.
-- **6.2 Maskininlärningsteknik (MLOps)**: Att föra in programvarustringens in i den trefaldiga verkligheten av kod plus data plus modeller, så att ML-system är reproducerbara, observerbara och underhållbara snarare än engångsdemonstrationer.
+- **6.2 Maskininlärningsteknik (MLOps)**: Att föra in programvaruutvecklingens stringens i den trefaldiga verkligheten av kod plus data plus modeller, så att ML-system är reproducerbara, observerbara och underhållbara snarare än engångsdemonstrationer.
 - **6.3 Generativ AI och LLM-applikationer**: Att konstruera pålitliga applikationer kring probabilistiska språkmodeller genom kontexthantering, förankring med retrieval-augmented generation, skyddsräcken (körtidskontroller som begränsar modellens indata och utdata) och rigorös utvärdering.
 - **6.4 AI-assisterad programvaruutveckling**: Att använda AI-kodassistenter för att höja genomströmningen utan att sänka kvaliteten, genom tydliga normer, goda standardvärden, stark verifiering och uppmärksamhet på säkerhet och licensiering.
 - **6.5 Ansvarsfull och pålitlig AI**: Att bygga system som är rättvisa, transparenta, ansvariga, säkra och integritetsrespekterande, och att kunna visa allt detta för de som berörs och för tillsynsmyndigheter.

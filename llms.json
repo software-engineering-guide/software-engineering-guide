@@ -15268,6 +15268,16 @@
      "number": "6.1",
      "title": "AI-strategi och beredskap",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-01-ai-strategi-och-beredskap/"
+    },
+    {
+     "number": "6.2",
+     "title": "Maskininlärningsteknik (MLOps)",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generativ AI och LLM-applikationer",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-03-generativ-ai-och-llm-applikationer/"
     }
    ]
   }
