@@ -13782,6 +13782,16 @@
      "number": "6.1",
      "title": "AI 전략과 준비도",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-01-AI-전략과-준비도/"
+    },
+    {
+     "number": "6.2",
+     "title": "머신러닝 엔지니어링 (MLOps)",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-02-MLOps/"
+    },
+    {
+     "number": "6.3",
+     "title": "생성형 AI와 LLM 애플리케이션",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-03-생성형-AI와-LLM-애플리케이션/"
     }
    ]
   }
