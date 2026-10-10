@@ -16464,6 +16464,16 @@
      "number": "2.5",
      "title": "Codereview en samenwerking",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-05-codereview-en-samenwerking/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versiebeheer en broncodebeheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-06-versiebeheer-en-broncodebeheer/"
+    },
+    {
+     "number": "2.7",
+     "title": "Documentatie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-07-documentatie/"
     }
    ]
   }
