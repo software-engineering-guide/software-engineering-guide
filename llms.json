@@ -11986,6 +11986,16 @@
      "number": "2.1",
      "title": "コーディング標準とスタイル",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-01-コーディング標準とスタイル/"
+    },
+    {
+     "number": "2.2",
+     "title": "ソフトウェア設計原則",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-02-ソフトウェア設計原則/"
+    },
+    {
+     "number": "2.3",
+     "title": "APIとインターフェース設計",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-03-APIとインターフェース設計/"
     }
    ]
   }
