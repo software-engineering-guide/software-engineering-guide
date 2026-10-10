@@ -12481,6 +12481,16 @@
      "number": "10.1",
      "title": "ポートフォリオとプログラムの管理",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-01-ポートフォリオとプログラムの管理/"
+    },
+    {
+     "number": "10.2",
+     "title": "リスク、監査、保証",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-02-リスクと監査と保証/"
+    },
+    {
+     "number": "10.3",
+     "title": "調達、オープンソース、ライセンス",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-03-調達とオープンソースとライセンス/"
     }
    ]
   }
