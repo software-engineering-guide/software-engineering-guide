@@ -1581,6 +1581,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -1605,6 +1606,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -5180,6 +5182,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -5204,6 +5207,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -8779,6 +8783,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -8803,6 +8808,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -12378,6 +12384,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -12402,6 +12409,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -15977,6 +15985,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -16001,6 +16010,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -19576,6 +19586,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -19600,6 +19611,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -23175,6 +23187,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -23199,6 +23212,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -26774,6 +26788,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -26798,6 +26813,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -30373,6 +30389,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -30397,6 +30414,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -33972,6 +33990,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -33996,6 +34015,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -37571,6 +37591,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -37595,6 +37616,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -41170,6 +41192,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -41194,6 +41217,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -44769,6 +44793,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -44793,6 +44818,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -48368,6 +48394,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -48392,6 +48419,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -51967,6 +51995,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -51991,6 +52020,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -55566,6 +55596,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -55590,6 +55621,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -59165,6 +59197,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -59189,6 +59222,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -62764,6 +62798,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -62788,6 +62823,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -66363,6 +66399,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -66387,6 +66424,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -69962,6 +70000,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
   </url>
   <url>
@@ -69986,6 +70025,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
   <url>
@@ -73538,5 +73578,55 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-07-신원과-접근-관리/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-07-identitets-och-åtkomsthantering/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-07-identity-and-access-management/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/04-08-cryptograffeg-a-rheoli-allweddi/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/04-08-cryptography-and-key-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/04-08-cryptography-and-key-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/04-08-criptografía-y-gestión-de-claves/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/04-08-क्रिप्टोग्राफी-और-कुंजी-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/04-08-密码学与密钥管理/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/04-08-密码学与密钥管理/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/04-08-التشفير-وإدارة-المفاتيح/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/04-08-kryptografie-und-schluesselmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/04-08-kryptografie-und-schluesselmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/04-08-cryptographie-gestion-cles/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/04-08-ক্রিপ্টোগ্রাফি-ও-কী-ব্যবস্থাপনা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/04-08-cryptograffeg-a-rheoli-allweddi/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/04-08-क्रिप्टोग्राफी-और-कुंजी-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/04-08-kriptografi-dan-manajemen-kunci/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/04-08-暗号と鍵管理/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-08-暗号と鍵管理/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-08-암호학과-키-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-08-cryptography-and-key-management/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/04-09-cylchred-datblygu-meddalwedd-diogel/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/04-09-secure-software-development-lifecycle/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/04-09-secure-software-development-lifecycle/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/04-09-ciclo-de-vida-de-desarrollo-de-software-seguro/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/04-09-सुरक्षित-सॉफ़्टवेयर-विकास-जीवनचक्र/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/04-09-安全软件开发生命周期/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/04-09-安全软件开发生命周期/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/04-09-دورة-حياة-تطوير-البرمجيات-الآمن/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/04-09-sicherer-software-entwicklungslebenszyklus/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/04-09-sicherer-software-entwicklungslebenszyklus/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/04-09-cycle-vie-developpement-logiciel-securise/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/04-09-নিরাপদ-সফটওয়্যার-উন্নয়ন-জীবনচক্র/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/04-09-cylchred-datblygu-meddalwedd-diogel/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/04-09-सुरक्षित-सॉफ़्टवेयर-विकास-जीवनचक्र/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-09-セキュアなソフトウェア開発ライフサイクル/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-09-보안-소프트웨어-개발-수명주기/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-09-secure-software-development-lifecycle/"/>
   </url>
 </urlset>

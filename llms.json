@@ -15188,6 +15188,16 @@
      "number": "4.7",
      "title": "Identitets- och åtkomsthantering",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-07-identitets-och-åtkomsthantering/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kryptografi och nyckelhantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-08-kryptografi-och-nyckelhantering/"
+    },
+    {
+     "number": "4.9",
+     "title": "Livscykeln för säker programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-09-säker-programvaruutvecklingslivscykel/"
     }
    ]
   }
