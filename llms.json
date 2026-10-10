@@ -15528,6 +15528,16 @@
      "number": "10.16",
      "title": "Intressenthantering och kommunikation",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-16-intressenthantering-och-kommunikation/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisk förändringsledning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-17-organisatorisk-förändringsledning/"
+    },
+    {
+     "number": "10.18",
+     "title": "Kontor för öppen källkod (OSPO) och bidrag uppströms",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-18-kontor-för-öppen-källkod/"
     }
    ]
   }
