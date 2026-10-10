@@ -16939,6 +16939,16 @@
      "number": "10.1",
      "title": "Portfolio- en programmamanagement",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-01-portfolio-en-programmamanagement/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risico, audit en assurance",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-02-risico-audit-en-assurance/"
+    },
+    {
+     "number": "10.3",
+     "title": "Inkoop, open source en licenties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"
     }
    ]
   }
