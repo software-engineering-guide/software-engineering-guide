@@ -15518,6 +15518,16 @@
      "number": "10.14",
      "title": "Produktledning och discovery",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-14-produktledning-och-upptäckt/"
+    },
+    {
+     "number": "10.15",
+     "title": "Uppskattning och prognoser",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-15-uppskattning-och-prognoser/"
+    },
+    {
+     "number": "10.16",
+     "title": "Intressenthantering och kommunikation",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-16-intressenthantering-och-kommunikation/"
     }
    ]
   }
