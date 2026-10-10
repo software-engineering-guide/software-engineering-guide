@@ -16744,6 +16744,16 @@
      "number": "5.10",
      "title": "Ontwerp van datavisualisaties",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-10-ontwerp-van-datavisualisaties/"
+    },
+    {
+     "number": "6.0",
+     "title": "Inleiding op deel 6: Kunstmatige intelligentie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-00-kunstmatige-intelligentie/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI-strategie en gereedheid",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-01-ai-strategie-en-gereedheid/"
     }
    ]
   }
