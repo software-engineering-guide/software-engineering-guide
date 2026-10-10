@@ -17980,6 +17980,16 @@
      "number": "2.11",
      "title": "Hugbúnaðargæði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-11-hugbúnaðargæði/"
+    },
+    {
+     "number": "2.12",
+     "title": "Líkön og aðferðir hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-12-líkön-og-aðferðir-hugbúnaðar/"
+    },
+    {
+     "number": "2.13",
+     "title": "Grunnur í tölvunarfræði, stærðfræði og verkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-13-grunnur-í-tölvunarfræði-stærðfræði-og-verkfræði/"
     }
    ]
   }
