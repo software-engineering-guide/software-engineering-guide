@@ -17009,6 +17009,16 @@
      "number": "10.15",
      "title": "Schatten en voorspellen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-15-schatten-en-voorspellen/"
+    },
+    {
+     "number": "10.16",
+     "title": "Stakeholdermanagement en communicatie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-16-stakeholdermanagement-en-communicatie/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisch veranderingsmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-17-organisatorisch-veranderingsmanagement/"
     }
    ]
   }
