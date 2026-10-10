@@ -14938,6 +14938,16 @@
      "number": "1.11",
      "title": "Ledarskap inom utveckling",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-11-ledarskap-inom-utveckling/"
+    },
+    {
+     "number": "1.12",
+     "title": "Mångfald, jämlikhet, inkludering och tillhörighet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-12-mångfald-jämlikhet-inkludering-och-tillhörighet/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentorskap, coachning och kunskapsdelning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-13-mentorskap-coachning-och-kunskapsdelning/"
     }
    ]
   }
