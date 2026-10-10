@@ -13552,6 +13552,16 @@
      "number": "2.17",
      "title": "동시성과 병렬성",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"
+    },
+    {
+     "number": "2.18",
+     "title": "의존성과 공급망 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-18-의존성과-공급망-관리/"
+    },
+    {
+     "number": "2.19",
+     "title": "리팩터링과 기술 부채",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-19-리팩터링과-기술-부채/"
     }
    ]
   }
