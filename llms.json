@@ -15498,6 +15498,16 @@
      "number": "10.10",
      "title": "Ekonomi inom programvaruutveckling",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-10-ekonomi-inom-programvaruutveckling/"
+    },
+    {
+     "number": "10.11",
+     "title": "Digital suveränitet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-11-digital-suveränitet/"
+    },
+    {
+     "number": "10.12",
+     "title": "Öppen källkod mot sluten källkod",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-12-öppen-källkod-mot-sluten-källkod/"
     }
    ]
   }
