@@ -12366,6 +12366,16 @@
      "number": "7.5",
      "title": "意思決定科学とデータに基づく文化",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-05-意思決定科学とデータ文化/"
+    },
+    {
+     "number": "7.6",
+     "title": "リアルタイムデータとストリーミングデータ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-06-リアルタイムデータとストリーミングデータ/"
+    },
+    {
+     "number": "7.7",
+     "title": "データモデリングとセマンティックレイヤー",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-07-データモデリングとセマンティックレイヤー/"
     }
    ]
   }
