@@ -15573,6 +15573,26 @@
      "number": "11.6",
      "title": "Värdeflödeskartläggning och fördröjningskostnad",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-06-värdeflödeskartläggning-och-fördröjningskostnad/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bilagor",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-00-bilagor/"
+    },
+    {
+     "number": "12.1",
+     "title": "Ordlista",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-01-ordlista/"
+    },
+    {
+     "number": "12.2",
+     "title": "Checklistor",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-02-checklistor/"
+    },
+    {
+     "number": "12.3",
+     "title": "Mallar",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/12-03-mallar/"
     }
    ]
   }
