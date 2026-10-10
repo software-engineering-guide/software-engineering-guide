@@ -16874,6 +16874,16 @@
      "number": "8.5",
      "title": "Test- en procesautomatisering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-05-test-en-procesautomatisering/"
+    },
+    {
+     "number": "8.6",
+     "title": "Releasemanagement en progressieve oplevering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-06-releasemanagement-en-progressieve-oplevering/"
+    },
+    {
+     "number": "8.7",
+     "title": "Buildsystemen en artefactbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-07-buildsystemen-en-artefactbeheer/"
     }
    ]
   }
