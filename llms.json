@@ -13792,6 +13792,16 @@
      "number": "6.3",
      "title": "생성형 AI와 LLM 애플리케이션",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-03-생성형-AI와-LLM-애플리케이션/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI 지원 소프트웨어 개발",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-04-AI-지원-소프트웨어-개발/"
+    },
+    {
+     "number": "6.5",
+     "title": "책임 있고 신뢰할 수 있는 AI",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-05-책임-있고-신뢰할-수-있는-AI/"
     }
    ]
   }
