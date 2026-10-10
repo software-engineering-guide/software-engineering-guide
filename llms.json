@@ -17890,6 +17890,16 @@
      "number": "1.7",
      "title": "Verkfræðistaðlar og undanþágur",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-07-verkfræðistaðlar-og-undanþágur/"
+    },
+    {
+     "number": "1.8",
+     "title": "Ráðningar, viðtöl og móttaka",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-08-ráðningar-viðtöl-og-móttaka/"
+    },
+    {
+     "number": "1.9",
+     "title": "Dreifð vinna og fjarvinna",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-09-dreifð-og-fjarvinna/"
     }
    ]
   }
