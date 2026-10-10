@@ -17059,6 +17059,16 @@
      "number": "11.6",
      "title": "Value stream mapping en kosten van vertraging",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-06-waardestroomanalyse-en-vertragingskosten/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bijlagen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-00-bijlagen/"
+    },
+    {
+     "number": "12.1",
+     "title": "Woordenlijst",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-01-woordenlijst/"
     }
    ]
   }
