@@ -13602,6 +13602,16 @@
      "number": "3.5",
      "title": "확장성, 성능, 복원력",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"
+    },
+    {
+     "number": "3.6",
+     "title": "레거시 현대화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-06-레거시-현대화/"
+    },
+    {
+     "number": "3.7",
+     "title": "소프트웨어 유지보수",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-07-소프트웨어-유지보수/"
     }
    ]
   }
