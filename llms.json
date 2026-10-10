@@ -13862,6 +13862,16 @@
      "number": "7.7",
      "title": "데이터 모델링과 시맨틱 계층",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"
+    },
+    {
+     "number": "7.8",
+     "title": "데이터 품질과 관측 가능성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-08-데이터-품질과-관측-가능성/"
+    },
+    {
+     "number": "7.9",
+     "title": "마스터 데이터와 참조 데이터 관리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-09-마스터-데이터와-참조-데이터-관리/"
     }
    ]
   }
