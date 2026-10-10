@@ -12456,6 +12456,21 @@
      "number": "9.5",
      "title": "災害復旧と事業継続",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-05-災害復旧と事業継続/"
+    },
+    {
+     "number": "9.6",
+     "title": "カオスエンジニアリングとレジリエンステスト",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"
+    },
+    {
+     "number": "9.7",
+     "title": "キャパシティ計画と需要予測",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"
+    },
+    {
+     "number": "9.8",
+     "title": "オンコールと運用準備",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"
     }
    ]
   }

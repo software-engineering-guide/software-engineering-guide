@@ -2337,6 +2337,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -2357,6 +2358,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -2377,6 +2379,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -5396,6 +5399,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -5416,6 +5420,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -5436,6 +5441,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -8455,6 +8461,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -8475,6 +8482,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -8495,6 +8503,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -11514,6 +11523,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -11534,6 +11544,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -11554,6 +11565,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -14573,6 +14585,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -14593,6 +14606,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -14613,6 +14627,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -17632,6 +17647,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -17652,6 +17668,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -17672,6 +17689,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -20691,6 +20709,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -20711,6 +20730,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -20731,6 +20751,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -23750,6 +23771,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -23770,6 +23792,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -23790,6 +23813,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -26809,6 +26833,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -26829,6 +26854,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -26849,6 +26875,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -29868,6 +29895,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -29888,6 +29916,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -29908,6 +29937,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -32927,6 +32957,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -32947,6 +32978,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -32967,6 +32999,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -35986,6 +36019,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -36006,6 +36040,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -36026,6 +36061,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -39045,6 +39081,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -39065,6 +39102,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -39085,6 +39123,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -42104,6 +42143,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -42124,6 +42164,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -42144,6 +42185,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -45163,6 +45205,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -45183,6 +45226,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -45203,6 +45247,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -48222,6 +48267,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
   </url>
   <url>
@@ -48242,6 +48288,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
   </url>
   <url>
@@ -48262,6 +48309,7 @@
     <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
     <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
   <url>
@@ -51262,5 +51310,68 @@
     <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-05-pemulihan-bencana-dan-kesinambungan-bisnis/"/>
     <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-05-災害復旧と事業継続/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-05-disaster-recovery-and-business-continuity/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/09-06-chaos-engineering-and-resilience-testing/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/09-06-chaos-engineering-and-resilience-testing/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/09-06-ingeniería-del-caos-y-pruebas-de-resiliencia/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/09-06-混沌工程与弹性测试/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/09-06-混沌工程与弹性测试/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/09-06-هندسة-الفوضى-واختبار-المرونة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/09-06-chaos-engineering-und-resilienztesten/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/09-06-chaos-engineering-und-resilienztesten/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/09-06-ingenierie-chaos-test-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/09-06-কেওস-প্রকৌশল-ও-স্থিতিস্থাপকতা-টেস্টিং/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-06-peirianneg-anhrefn-a-phrofi-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-06-कैओस-इंजीनियरिंग-और-रेज़िलिएंस-परीक्षण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-06-カオスエンジニアリングとレジリエンステスト/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-06-chaos-engineering-and-resilience-testing/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/09-07-capacity-planning-and-demand-forecasting/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/09-07-capacity-planning-and-demand-forecasting/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/09-07-planificación-de-capacidad-y-pronóstico-de-demanda/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/09-07-容量规划与需求预测/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/09-07-容量规划与需求预测/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/09-07-تخطيط-السعة-والتنبؤ-بالطلب/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/09-07-kapazitaetsplanung-und-bedarfsprognose/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/09-07-kapazitaetsplanung-und-bedarfsprognose/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/09-07-planification-capacite-prevision-demande/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/09-07-ক্ষমতা-পরিকল্পনা-ও-চাহিদা-পূর্বাভাস/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-07-cynllunio-capasiti-a-rhagolygu-galw/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-07-क्षमता-योजना-और-मांग-पूर्वानुमान/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-07-キャパシティ計画と需要予測/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-07-capacity-planning-and-demand-forecasting/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/09-08-on-call-and-operational-readiness/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/09-08-on-call-and-operational-readiness/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/09-08-guardia-y-preparación-operacional/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/09-08-待命与运营就绪/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/09-08-待命与运营就绪/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/09-08-المناوبة-والجاهزية-التشغيلية/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/09-08-bereitschaftsdienst-und-operative-bereitschaft/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/09-08-bereitschaftsdienst-und-operative-bereitschaft/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/09-08-astreinte-preparation-operationnelle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/09-08-অন-কল-ও-পরিচালনগত-প্রস্তুতি/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-08-gwaith-galw-a-pharodrwydd-gweithredol/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-08-ऑन-कॉल-और-परिचालन-तत्परता/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-08-on-call-dan-kesiapan-operasional/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-08-オンコールと運用準備/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-08-on-call-and-operational-readiness/"/>
   </url>
 </urlset>
