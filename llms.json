@@ -16684,6 +16684,16 @@
      "number": "4.9",
      "title": "Veilige softwareontwikkelingscyclus",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-09-veilige-softwareontwikkelingscyclus/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetratietesten en red teaming",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-10-penetratietesten-en-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Inleiding op deel 5: UI/UX-ontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/05-00-ui-ux-ontwerp/"
     }
    ]
   }
