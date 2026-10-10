@@ -15328,6 +15328,16 @@
      "number": "7.3",
      "title": "Analys och business intelligence",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-03-analys-och-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Produktanalys och experimentering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-04-produktanalys-och-experimentering/"
+    },
+    {
+     "number": "7.5",
+     "title": "Beslutsvetenskap och databaserad kultur",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-05-beslutsvetenskap-och-datakultur/"
     }
    ]
   }
