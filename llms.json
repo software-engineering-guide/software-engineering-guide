@@ -14948,6 +14948,16 @@
      "number": "1.13",
      "title": "Mentorskap, coachning och kunskapsdelning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-13-mentorskap-coachning-och-kunskapsdelning/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introduktion till del 2: Programmering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kodstandarder och kodstil",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"
     }
    ]
   }
