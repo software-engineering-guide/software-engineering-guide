@@ -12386,6 +12386,16 @@
      "number": "7.9",
      "title": "マスターデータと参照データの管理",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-09-マスターデータと参照データの管理/"
+    },
+    {
+     "number": "8.0",
+     "title": "第8部の導入: 自動化",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-00-自動化/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CDとデリバリー",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-01-CICDとデリバリー/"
     }
    ]
   }
