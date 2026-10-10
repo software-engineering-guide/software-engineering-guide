@@ -13712,6 +13712,16 @@
      "number": "4.9",
      "title": "보안 소프트웨어 개발 수명 주기",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-09-보안-소프트웨어-개발-수명주기/"
+    },
+    {
+     "number": "4.10",
+     "title": "침투 테스트와 레드팀",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/04-10-침투-테스트와-레드팀/"
+    },
+    {
+     "number": "5.0",
+     "title": "5부 소개: UI/UX 디자인",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-00-UI-UX-디자인/"
     }
    ]
   }
