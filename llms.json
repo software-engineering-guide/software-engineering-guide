@@ -12006,6 +12006,16 @@
      "number": "2.5",
      "title": "コードレビューと協働",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-05-コードレビューと協働/"
+    },
+    {
+     "number": "2.6",
+     "title": "バージョン管理とソース管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-06-バージョン管理とソース管理/"
+    },
+    {
+     "number": "2.7",
+     "title": "ドキュメント",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-07-ドキュメント/"
     }
    ]
   }
