@@ -13652,6 +13652,16 @@
      "number": "3.15",
      "title": "캐싱과 콘텐츠 전송",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-15-캐싱과-콘텐츠-전송/"
+    },
+    {
+     "number": "3.16",
+     "title": "API 게이트웨이와 서비스 메시",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-16-API-게이트웨이와-서비스-메시/"
+    },
+    {
+     "number": "3.17",
+     "title": "검색과 정보 검색",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-17-검색과-정보-검색/"
     }
    ]
   }
