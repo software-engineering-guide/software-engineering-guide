@@ -15248,6 +15248,16 @@
      "number": "5.8",
      "title": "Designforskning och användbarhetstestning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-08-designforskning-och-användbarhetstestning/"
+    },
+    {
+     "number": "5.9",
+     "title": "Tjänstedesign",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-09-tjänstedesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Design av datavisualisering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-10-design-av-datavisualisering/"
     }
    ]
   }
