@@ -17950,6 +17950,16 @@
      "number": "2.5",
      "title": "Kóðarýni og samvinna",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-05-kóðarýni-og-samvinna/"
+    },
+    {
+     "number": "2.6",
+     "title": "Útgáfustýring og frumkóðastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-06-útgáfustýring-og-frumkóðastjórnun/"
+    },
+    {
+     "number": "2.7",
+     "title": "Skjölun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-07-skjölun/"
     }
    ]
   }
