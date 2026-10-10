@@ -15538,6 +15538,16 @@
      "number": "10.18",
      "title": "Kontor för öppen källkod (OSPO) och bidrag uppströms",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-18-kontor-för-öppen-källkod/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introduktion till del 11: Flöde: upptäckts- och leveransflöden",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-00-flöde-upptäckt-och-leverans/"
+    },
+    {
+     "number": "11.1",
+     "title": "Upptäcktsflödet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/11-01-upptäcktsflödet/"
     }
    ]
   }
