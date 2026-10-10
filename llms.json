@@ -18030,6 +18030,16 @@
      "number": "2.21",
      "title": "Tagakerfi og kyrrstæð greining",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/02-21-tagakerfi-og-kyrrstæð-greining/"
+    },
+    {
+     "number": "3.0",
+     "title": "Inngangur að 3. hluta: Kerfi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-00-kerfi/"
+    },
+    {
+     "number": "3.1",
+     "title": "Grunnatriði arkitektúrs",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-01-grunnatriði-arkitektúrs/"
     }
    ]
   }
