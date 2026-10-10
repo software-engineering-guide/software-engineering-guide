@@ -17870,6 +17870,16 @@
      "number": "1.3",
      "title": "Hlutverk, starfsstigar og vöxtur",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-03-hlutverk-starfsframi-og-vöxtur/"
+    },
+    {
+     "number": "1.4",
+     "title": "Vinnubrögð",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-04-vinnubrögð/"
+    },
+    {
+     "number": "1.5",
+     "title": "Ákvarðanataka og stjórnarhættir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-05-ákvarðanataka-og-stjórnarhættir/"
     }
    ]
   }
