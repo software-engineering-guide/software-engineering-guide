@@ -14928,6 +14928,16 @@
      "number": "1.9",
      "title": "Distribuerat arbete och distansarbete",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-09-distribuerat-arbete-och-distansarbete/"
+    },
+    {
+     "number": "1.10",
+     "title": "Teknisk effektivitet och utvecklarproduktivitet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-10-teknisk-effektivitet-och-utvecklarproduktivitet/"
+    },
+    {
+     "number": "1.11",
+     "title": "Ledarskap inom utveckling",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-11-ledarskap-inom-utveckling/"
     }
    ]
   }
