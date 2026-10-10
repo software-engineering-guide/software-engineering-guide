@@ -13742,6 +13742,16 @@
      "number": "5.4",
      "title": "콘텐츠와 커뮤니케이션 디자인",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-04-콘텐츠와-커뮤니케이션-디자인/"
+    },
+    {
+     "number": "5.5",
+     "title": "국제화와 현지화",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-05-국제화와-현지화/"
+    },
+    {
+     "number": "5.6",
+     "title": "프런트엔드 엔지니어링",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/05-06-프런트엔드-엔지니어링/"
     }
    ]
   }
