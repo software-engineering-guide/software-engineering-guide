@@ -16544,6 +16544,16 @@
      "number": "2.21",
      "title": "Typesystemen en statische analyse",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-21-typesystemen-en-statische-analyse/"
+    },
+    {
+     "number": "3.0",
+     "title": "Inleiding op deel 3: Systemen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-00-systemen/"
+    },
+    {
+     "number": "3.1",
+     "title": "Architectuurfundamenten",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-01-architectuurfundamenten/"
     }
    ]
   }
