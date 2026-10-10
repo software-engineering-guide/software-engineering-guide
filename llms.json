@@ -18050,6 +18050,16 @@
      "number": "3.3",
      "title": "Dreifð kerfi",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-03-dreifð-kerfi/"
+    },
+    {
+     "number": "3.4",
+     "title": "Gagnaarkitektúr og geymsla",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-04-gagnaarkitektúr-og-geymsla/"
+    },
+    {
+     "number": "3.5",
+     "title": "Stigvöxtur, afköst og seigla",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-05-stigvöxtur-afköst-og-seigla/"
     }
    ]
   }
