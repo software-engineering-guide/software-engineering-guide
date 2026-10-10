@@ -13992,6 +13992,16 @@
      "number": "10.6",
      "title": "프로젝트 관리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-06-프로젝트-관리/"
+    },
+    {
+     "number": "10.7",
+     "title": "애자일",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-07-애자일/"
+    },
+    {
+     "number": "10.8",
+     "title": "성숙도 모델",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-08-성숙도-모델/"
     }
    ]
   }
