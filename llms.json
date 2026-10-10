@@ -15038,6 +15038,16 @@
      "number": "2.17",
      "title": "Samtidighet och parallellism",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-17-samtidighet-och-parallellism/"
+    },
+    {
+     "number": "2.18",
+     "title": "Beroende- och leveranskedjehantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-18-beroende-och-leverantörskedjehantering/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refaktorisering och teknisk skuld",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-19-refaktorisering-och-teknisk-skuld/"
     }
    ]
   }
