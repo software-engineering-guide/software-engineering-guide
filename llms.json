@@ -14022,6 +14022,16 @@
      "number": "10.12",
      "title": "오픈 소스 대 클로즈드 소스",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-12-오픈-소스-대-클로즈드-소스/"
+    },
+    {
+     "number": "10.13",
+     "title": "조직 간 협업",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-13-조직-간-협업/"
+    },
+    {
+     "number": "10.14",
+     "title": "제품 관리와 디스커버리",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-14-제품-관리와-디스커버리/"
     }
    ]
   }
