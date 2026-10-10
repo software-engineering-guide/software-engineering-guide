@@ -15238,6 +15238,16 @@
      "number": "5.6",
      "title": "Frontendutveckling",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-06-frontendutveckling/"
+    },
+    {
+     "number": "5.7",
+     "title": "Utveckling av mobilapplikationer",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-07-utveckling-av-mobilapplikationer/"
+    },
+    {
+     "number": "5.8",
+     "title": "Designforskning och användbarhetstestning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/05-08-designforskning-och-användbarhetstestning/"
     }
    ]
   }
