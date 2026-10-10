@@ -16604,6 +16604,16 @@
      "number": "3.11",
      "title": "Cloudarchitectuur",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-11-cloudarchitectuur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Gebeurtenisgedreven architectuur en berichtenverkeer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-12-gebeurtenisgedreven-architectuur-en-berichtenverkeer/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netwerken en connectiviteit",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-13-netwerken-en-connectiviteit/"
     }
    ]
   }
