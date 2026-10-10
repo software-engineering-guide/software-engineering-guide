@@ -12066,6 +12066,16 @@
      "number": "2.17",
      "title": "並行性と並列性",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-17-並行性と並列性/"
+    },
+    {
+     "number": "2.18",
+     "title": "依存関係とサプライチェーンの管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-18-依存関係とサプライチェーンの管理/"
+    },
+    {
+     "number": "2.19",
+     "title": "リファクタリングと技術的負債",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-19-リファクタリングと技術的負債/"
     }
    ]
   }
