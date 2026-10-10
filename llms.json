@@ -16794,6 +16794,16 @@
      "number": "6.9",
      "title": "Promptengineering en contextontwerp",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-09-promptengineering-en-contextontwerp/"
+    },
+    {
+     "number": "7.0",
+     "title": "Inleiding op deel 7: Data, analytics en inzicht",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-00-data-en-analytics/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datastrategie en datagovernance",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-01-datastrategie-en-datagovernance/"
     }
    ]
   }
