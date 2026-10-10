@@ -12531,6 +12531,16 @@
      "number": "10.11",
      "title": "デジタル主権",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-11-デジタル主権/"
+    },
+    {
+     "number": "10.12",
+     "title": "オープンソース対クローズドソース",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-12-オープンソース対クローズドソース/"
+    },
+    {
+     "number": "10.13",
+     "title": "組織間協働",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-13-組織間協働/"
     }
    ]
   }
