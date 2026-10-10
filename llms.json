@@ -15288,6 +15288,16 @@
      "number": "6.5",
      "title": "Ansvarsfull och pålitlig AI",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-05-ansvarsfull-och-pålitlig-ai/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI-infrastruktur och drift",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-06-ai-infrastruktur-och-drift/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI-agenter och agentiska system",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-07-ai-agenter-och-agentiska-system/"
     }
    ]
   }
