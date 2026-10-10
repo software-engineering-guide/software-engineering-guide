@@ -15158,6 +15158,16 @@
      "number": "4.1",
      "title": "Säkerhetens grunder och kultur",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-01-säkerhetens-grunder-och-kultur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Applikationssäkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-02-applikationssäkerhet/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastruktur- och molnsäkerhet",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-03-infrastruktur-och-molnsäkerhet/"
     }
    ]
   }
