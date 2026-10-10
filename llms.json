@@ -12116,6 +12116,16 @@
      "number": "3.5",
      "title": "スケーラビリティ、パフォーマンス、レジリエンス",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"
+    },
+    {
+     "number": "3.6",
+     "title": "レガシーのモダナイゼーション",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-06-レガシーのモダナイゼーション/"
+    },
+    {
+     "number": "3.7",
+     "title": "ソフトウェア保守",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/03-07-ソフトウェア保守/"
     }
    ]
   }
