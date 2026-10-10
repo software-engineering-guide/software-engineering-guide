@@ -12186,6 +12186,16 @@
      "number": "4.1",
      "title": "セキュリティの基礎と文化",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-01-セキュリティの基礎と文化/"
+    },
+    {
+     "number": "4.2",
+     "title": "アプリケーションセキュリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-02-アプリケーションセキュリティ/"
+    },
+    {
+     "number": "4.3",
+     "title": "インフラストラクチャとクラウドのセキュリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-03-インフラストラクチャとクラウドのセキュリティ/"
     }
    ]
   }
