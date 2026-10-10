@@ -1031,6 +1031,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -1055,6 +1056,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -4608,6 +4610,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -4632,6 +4635,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -8185,6 +8189,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -8209,6 +8214,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -11762,6 +11768,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -11786,6 +11793,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -15339,6 +15347,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -15363,6 +15372,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -18916,6 +18926,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -18940,6 +18951,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -22493,6 +22505,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -22517,6 +22530,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -26070,6 +26084,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -26094,6 +26109,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -29647,6 +29663,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -29671,6 +29688,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -33224,6 +33242,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -33248,6 +33267,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -36801,6 +36821,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -36825,6 +36846,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -40378,6 +40400,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -40402,6 +40425,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -43955,6 +43979,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -43979,6 +44004,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -47532,6 +47558,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -47556,6 +47583,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -51109,6 +51137,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -51133,6 +51162,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -54686,6 +54716,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -54710,6 +54741,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -58263,6 +58295,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -58287,6 +58320,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -61840,6 +61874,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -61864,6 +61899,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -65417,6 +65453,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -65441,6 +65478,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -68994,6 +69032,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
   </url>
   <url>
@@ -69018,6 +69057,7 @@
     <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
     <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
   <url>
@@ -72548,5 +72588,55 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-03-분산-시스템/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-03-distributed-systems/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-04-pensaernïaeth-data-a-storio/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-04-data-architecture-and-storage/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-04-data-architecture-and-storage/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-04-arquitectura-de-datos-y-almacenamiento/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-04-डेटा-आर्किटेक्चर-और-भंडारण/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-04-数据架构与存储/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-04-数据架构与存储/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-04-عمارة-البيانات-والتخزين/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-04-datenarchitektur-und-speicherung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-04-datenarchitektur-und-speicherung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-04-architecture-donnees-stockage/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-04-ডেটা-স্থাপত্য-ও-সংরক্ষণ/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-04-pensaernïaeth-data-a-storio/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-04-डेटा-आर्किटेक्चर-और-भंडारण/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-04-arsitektur-data-dan-penyimpanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-04-データアーキテクチャとストレージ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-04-データアーキテクチャとストレージ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-04-데이터-아키텍처와-저장소/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-04-data-architecture-and-storage/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/03-05-graddoldeb-perfformiad-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/03-05-scalability-performance-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/03-05-scalability-performance-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/03-05-escalabilidad-rendimiento-y-resiliencia/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/03-05-स्केलेबिलिटी-प्रदर्शन-और-लचीलापन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/03-05-可扩展性-性能与弹性/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/03-05-可扩展性-性能与弹性/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/03-05-قابلية-التوسع-والأداء-والمرونة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/03-05-skalierbarkeit-performance-resilienz/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/03-05-skalierbarkeit-performance-resilienz/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/03-05-evolutivite-performance-resilience/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/03-05-স্কেলেবিলিটি-পারফরম্যান্স-ও-স্থিতিস্থাপকতা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/03-05-graddoldeb-perfformiad-gwydnwch/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/03-05-स्केलेबिलिटी-प्रदर्शन-और-लचीलापन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/03-05-skalabilitas-kinerja-dan-ketahanan/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/03-05-スケーラビリティとパフォーマンスとレジリエンス/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/03-05-확장성과-성능과-복원력/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/03-05-scalability-performance-resilience/"/>
   </url>
 </urlset>

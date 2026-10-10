@@ -15078,6 +15078,16 @@
      "number": "3.3",
      "title": "Distribuerade system",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-03-distribuerade-system/"
+    },
+    {
+     "number": "3.4",
+     "title": "Dataarkitektur och lagring",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-04-dataarkitektur-och-lagring/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalbarhet, prestanda och motståndskraft",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-05-skalbarhet-prestanda-och-motståndskraft/"
     }
    ]
   }
