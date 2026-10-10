@@ -15378,6 +15378,16 @@
      "number": "8.3",
      "title": "Containrar, orkestrering och molnnativt",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-03-containrar-orkestrering-och-molnnativt/"
+    },
+    {
+     "number": "8.4",
+     "title": "Plattformsteknik och utvecklarupplevelse",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-04-plattformsteknik-och-utvecklarupplevelse/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test- och processautomatisering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-05-test-och-processautomatisering/"
     }
    ]
   }
