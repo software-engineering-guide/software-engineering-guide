@@ -15478,6 +15478,16 @@
      "number": "10.6",
      "title": "Projektledning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-06-projektledning/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agil",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-07-agilt/"
+    },
+    {
+     "number": "10.8",
+     "title": "Mognadsmodeller",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-08-mognadsmodeller/"
     }
    ]
   }
