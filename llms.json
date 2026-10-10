@@ -16494,6 +16494,16 @@
      "number": "2.11",
      "title": "Softwarekwaliteit",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-11-softwarekwaliteit/"
+    },
+    {
+     "number": "2.12",
+     "title": "Softwaremodellen en -methoden",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-12-softwaremodellen-en-methoden/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fundamenten van informatica, wiskunde en engineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-13-fundamenten-van-informatica-wiskunde-en-engineering/"
     }
    ]
   }
