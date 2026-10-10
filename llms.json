@@ -13452,6 +13452,16 @@
      "number": "1.11",
      "title": "엔지니어링 관리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-11-엔지니어링-관리/"
+    },
+    {
+     "number": "1.12",
+     "title": "다양성, 형평성, 포용, 소속감",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-12-다양성과-형평성과-포용과-소속감/"
+    },
+    {
+     "number": "1.13",
+     "title": "멘토링, 코칭, 지식 공유",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/01-13-멘토링과-코칭과-지식-공유/"
     }
    ]
   }
