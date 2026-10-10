@@ -12581,6 +12581,16 @@
      "number": "11.2",
      "title": "デリバリーパイプライン",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-02-デリバリーパイプライン/"
+    },
+    {
+     "number": "11.3",
+     "title": "待ち行列理論",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-03-待ち行列理論/"
+    },
+    {
+     "number": "11.4",
+     "title": "目標と主要な結果(OKR)",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/11-04-目標と主要な成果OKR/"
     }
    ]
   }
