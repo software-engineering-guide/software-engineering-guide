@@ -16894,6 +16894,16 @@
      "number": "9.1",
      "title": "Site reliability engineering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observeerbaarheid en telemetrie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"
+    },
+    {
+     "number": "9.3",
+     "title": "Incidentmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"
     }
    ]
   }
