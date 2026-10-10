@@ -16854,6 +16854,16 @@
      "number": "8.1",
      "title": "CI/CD en oplevering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-01-ci-cd-en-oplevering/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastructure as code en configuratie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-02-infrastructure-as-code-en-configuratie/"
+    },
+    {
+     "number": "8.3",
+     "title": "Containers, orkestratie en cloud-native",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-03-containers-orkestratie-en-cloudnative/"
     }
    ]
   }
