@@ -15358,6 +15358,16 @@
      "number": "7.9",
      "title": "Hantering av masterdata och referensdata",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/07-09-hantering-av-masterdata-och-referensdata/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introduktion till del 8: Automatisering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-00-automatisering/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD och leverans",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/08-01-ci-cd-och-leverans/"
     }
    ]
   }
