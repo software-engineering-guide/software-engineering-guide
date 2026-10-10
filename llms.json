@@ -14032,6 +14032,16 @@
      "number": "10.14",
      "title": "제품 관리와 디스커버리",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-14-제품-관리와-디스커버리/"
+    },
+    {
+     "number": "10.15",
+     "title": "추정과 예측",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-15-추정과-예측/"
+    },
+    {
+     "number": "10.16",
+     "title": "이해관계자 관리와 커뮤니케이션",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/10-16-이해관계자-관리와-커뮤니케이션/"
     }
    ]
   }
