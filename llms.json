@@ -14908,6 +14908,16 @@
      "number": "1.5",
      "title": "Beslutsfattande och styrning",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-05-beslutsfattande-och-styrning/"
+    },
+    {
+     "number": "1.6",
+     "title": "Beslutsloggar",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-06-beslutsloggar/"
+    },
+    {
+     "number": "1.7",
+     "title": "Tekniska standarder och undantag",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-07-tekniska-standarder-och-undantag/"
     }
    ]
   }
