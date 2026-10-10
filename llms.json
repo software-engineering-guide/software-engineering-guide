@@ -15508,6 +15508,16 @@
      "number": "10.12",
      "title": "Öppen källkod mot sluten källkod",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-12-öppen-källkod-mot-sluten-källkod/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samarbete mellan organisationer",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-13-samarbete-mellan-organisationer/"
+    },
+    {
+     "number": "10.14",
+     "title": "Produktledning och discovery",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-14-produktledning-och-upptäckt/"
     }
    ]
   }
