@@ -12511,6 +12511,16 @@
      "number": "10.7",
      "title": "アジャイル",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-07-アジャイル/"
+    },
+    {
+     "number": "10.8",
+     "title": "成熟度モデル",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-08-成熟度モデル/"
+    },
+    {
+     "number": "10.9",
+     "title": "イノベーションパートナーシップ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/10-09-イノベーションパートナーシップ/"
     }
    ]
   }
