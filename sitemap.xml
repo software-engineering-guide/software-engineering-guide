@@ -411,6 +411,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -437,6 +438,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -4256,6 +4258,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -4282,6 +4285,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -8101,6 +8105,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -8127,6 +8132,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -11946,6 +11952,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -11972,6 +11979,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -15791,6 +15799,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -15817,6 +15826,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -19636,6 +19646,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -19662,6 +19673,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -23481,6 +23493,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -23507,6 +23520,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -27326,6 +27340,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -27352,6 +27367,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -31171,6 +31187,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -31197,6 +31214,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -35016,6 +35034,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -35042,6 +35061,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -38861,6 +38881,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -38887,6 +38908,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -42706,6 +42728,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -42732,6 +42755,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -46551,6 +46575,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -46577,6 +46602,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -50396,6 +50422,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -50422,6 +50449,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -54241,6 +54269,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -54267,6 +54296,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -58086,6 +58116,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -58112,6 +58143,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -61931,6 +61963,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -61957,6 +61990,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -65776,6 +65810,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -65802,6 +65837,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -69621,6 +69657,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -69647,6 +69684,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -73466,6 +73504,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -73492,6 +73531,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -77311,6 +77351,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -77337,6 +77378,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -81156,6 +81198,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
   </url>
   <url>
@@ -81182,6 +81225,7 @@
     <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
     <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
   <url>
@@ -84976,5 +85020,59 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/01-13-mentorskap-coachning-och-kunskapsdelning/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-13-mentoring-coaching-en-kennisdeling/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/01-13-mentoring-coaching-knowledge-sharing/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-00-rhaglennu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-00-programación-de-software/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-00-软件编程/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-00-软件编程/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-00-برمجة-البرمجيات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-00-softwareprogrammierung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-00-softwareprogrammierung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-00-programmation-logicielle/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-00-সফটওয়্যার-প্রোগ্রামিং/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-00-rhaglennu-meddalwedd/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-00-सॉफ़्टवेयर-प्रोग्रामिंग/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-00-pemrograman-perangkat-lunak/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/02-00-ソフトウェアプログラミング/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-00-ソフトウェアプログラミング/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-00-소프트웨어-프로그래밍/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-00-소프트웨어-프로그래밍/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-00-programmering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-00-software-programming/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/02-01-safonau-a-arddull-codio/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/02-01-estándares-y-estilo-de-codificación/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/02-01-编码标准与风格/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/02-01-编码标准与风格/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/02-01-معايير-الترميز-والأسلوب/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/02-01-codierstandards-und-stil/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/02-01-codierstandards-und-stil/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/02-01-normes-codage-style/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/02-01-কোডিং-মান-ও-শৈলী/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/02-01-safonau-a-arddull-codio/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/02-01-कोडिंग-मानक-और-शैली/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/02-01-standar-pengodean-dan-gaya/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/02-01-コーディング標準とスタイル/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/02-01-コーディング標準とスタイル/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/02-01-코딩-표준과-스타일/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/02-01-코딩-표준과-스타일/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/02-01-kodstandarder-och-kodstil/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/02-01-coding-standards-and-style/"/>
   </url>
 </urlset>

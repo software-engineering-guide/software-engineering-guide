@@ -16434,6 +16434,16 @@
      "number": "1.13",
      "title": "Mentoring, coaching en kennisdeling",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-13-mentoring-coaching-en-kennisdeling/"
+    },
+    {
+     "number": "2.0",
+     "title": "Inleiding op deel 2: Softwareprogrammeren",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-00-softwareprogrammeren/"
+    },
+    {
+     "number": "2.1",
+     "title": "Codeerstandaarden en stijl",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-01-codeerstandaarden-en-stijl/"
     }
    ]
   }
