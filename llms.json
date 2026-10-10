@@ -18060,6 +18060,16 @@
      "number": "3.5",
      "title": "Stigvöxtur, afköst og seigla",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-05-stigvöxtur-afköst-og-seigla/"
+    },
+    {
+     "number": "3.6",
+     "title": "Nútímavæðing eldri kerfa",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-06-nútímavæðing-gamalla-kerfa/"
+    },
+    {
+     "number": "3.7",
+     "title": "Viðhald hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-07-viðhald-hugbúnaðar/"
     }
    ]
   }
