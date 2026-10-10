@@ -14918,6 +14918,16 @@
      "number": "1.7",
      "title": "Tekniska standarder och undantag",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-07-tekniska-standarder-och-undantag/"
+    },
+    {
+     "number": "1.8",
+     "title": "Rekrytering, intervjuer och introduktion",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-08-rekrytering-intervjuer-och-introduktion/"
+    },
+    {
+     "number": "1.9",
+     "title": "Distribuerat arbete och distansarbete",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/01-09-distribuerat-arbete-och-distansarbete/"
     }
    ]
   }
