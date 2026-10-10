@@ -17027,8 +17027,18 @@
     },
     {
      "number": "11.0",
-     "title": "Inleiding op deel 11: Flow: Discovery- en leveringspijplijnen",
+     "title": "Inleiding op deel 11: Flow: Discovery- en opleveringspijplijnen",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-00-flow-discovery-en-oplevering/"
+    },
+    {
+     "number": "11.1",
+     "title": "De discoverypijplijn",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-01-discoverypijplijn/"
+    },
+    {
+     "number": "11.2",
+     "title": "De opleveringspijplijn",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/11-02-opleveringspijplijn/"
     }
    ]
   }
