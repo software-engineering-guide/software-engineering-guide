@@ -16474,6 +16474,16 @@
      "number": "2.7",
      "title": "Documentatie",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-07-documentatie/"
+    },
+    {
+     "number": "2.8",
+     "title": "Softwarevereisten",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-08-softwarevereisten/"
+    },
+    {
+     "number": "2.9",
+     "title": "Softwareconstructie",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-09-softwareconstructie/"
     }
    ]
   }
