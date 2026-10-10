@@ -16634,6 +16634,16 @@
      "number": "3.17",
      "title": "Zoeken en informatieopvraging",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/03-17-zoeken-en-informatieopvraging/"
+    },
+    {
+     "number": "4.0",
+     "title": "Inleiding op deel 4: Beveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-00-beveiliging/"
+    },
+    {
+     "number": "4.1",
+     "title": "Beveiligingsfundamenten en cultuur",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-01-beveiligingsfundamenten-en-cultuur/"
     }
    ]
   }
