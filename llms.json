@@ -13592,6 +13592,16 @@
      "number": "3.3",
      "title": "분산 시스템",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-03-분산-시스템/"
+    },
+    {
+     "number": "3.4",
+     "title": "데이터 아키텍처와 저장소",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-04-데이터-아키텍처와-저장소/"
+    },
+    {
+     "number": "3.5",
+     "title": "확장성, 성능, 복원력",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/03-05-확장성과-성능과-복원력/"
     }
    ]
   }
