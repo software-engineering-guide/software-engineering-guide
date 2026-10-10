@@ -12416,6 +12416,16 @@
      "number": "8.5",
      "title": "テストとプロセスの自動化",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-05-テストとプロセスの自動化/"
+    },
+    {
+     "number": "8.6",
+     "title": "リリース管理とプログレッシブデリバリー",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-06-リリース管理とプログレッシブデリバリー/"
+    },
+    {
+     "number": "8.7",
+     "title": "ビルドシステムと成果物管理",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-07-ビルドシステムと成果物管理/"
     }
    ]
   }
