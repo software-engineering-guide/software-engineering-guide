@@ -12016,6 +12016,16 @@
      "number": "2.7",
      "title": "ドキュメント",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-07-ドキュメント/"
+    },
+    {
+     "number": "2.8",
+     "title": "ソフトウェア要求",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-08-ソフトウェア要求/"
+    },
+    {
+     "number": "2.9",
+     "title": "ソフトウェア構築",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-09-ソフトウェア構築/"
     }
    ]
   }
