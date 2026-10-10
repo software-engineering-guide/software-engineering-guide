@@ -12356,6 +12356,16 @@
      "number": "7.3",
      "title": "分析とビジネスインテリジェンス",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-03-分析とビジネスインテリジェンス/"
+    },
+    {
+     "number": "7.4",
+     "title": "プロダクト分析と実験",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-04-プロダクト分析と実験/"
+    },
+    {
+     "number": "7.5",
+     "title": "意思決定科学とデータに基づく文化",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/07-05-意思決定科学とデータ文化/"
     }
    ]
   }
