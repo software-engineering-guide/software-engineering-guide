@@ -15278,6 +15278,16 @@
      "number": "6.3",
      "title": "Generativ AI och LLM-applikationer",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-03-generativ-ai-och-llm-applikationer/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-stödd programvaruutveckling",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-04-ai-stödd-programvaruutveckling/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ansvarsfull och pålitlig AI",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/06-05-ansvarsfull-och-pålitlig-ai/"
     }
    ]
   }
