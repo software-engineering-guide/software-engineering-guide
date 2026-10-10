@@ -16374,6 +16374,16 @@
      "number": "1.1",
      "title": "Waarden van software engineering",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-01-waarden-van-software-engineering/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teamtopologieën en organisatieontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-02-teamtopologieen/"
+    },
+    {
+     "number": "1.3",
+     "title": "Rollen, loopbaanladders en groei",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/01-03-rollen-loopbaanladders-en-groei/"
     }
    ]
   }
