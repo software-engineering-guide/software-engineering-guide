@@ -11996,6 +11996,16 @@
      "number": "2.3",
      "title": "APIとインターフェース設計",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-03-APIとインターフェース設計/"
+    },
+    {
+     "number": "2.4",
+     "title": "テスト戦略",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-04-テスト戦略/"
+    },
+    {
+     "number": "2.5",
+     "title": "コードレビューと協働",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/02-05-コードレビューと協働/"
     }
    ]
   }
