@@ -16774,6 +16774,16 @@
      "number": "6.5",
      "title": "Verantwoorde en betrouwbare AI",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-05-verantwoorde-en-betrouwbare-ai/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI-infrastructuur en -beheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-06-ai-infrastructuur-en-beheer/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI-agents en agentische systemen",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/06-07-ai-agents-en-agentische-systemen/"
     }
    ]
   }
