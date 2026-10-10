@@ -16824,6 +16824,16 @@
      "number": "7.5",
      "title": "Beslissingswetenschap en datagedreven cultuur",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-05-beslissingswetenschap-en-datacultuur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Realtime- en streamingdata",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-06-realtime-en-streamingdata/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datamodellering en de semantische laag",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-07-datamodellering-en-semantische-laag/"
     }
    ]
   }
