@@ -16959,6 +16959,16 @@
      "number": "10.5",
      "title": "Ethiek, verantwoording en publiek belang",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-05-ethiek-verantwoording-en-publiek-belang/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projectmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-06-projectmanagement/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-07-agile/"
     }
    ]
   }
