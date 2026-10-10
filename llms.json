@@ -16989,6 +16989,16 @@
      "number": "10.11",
      "title": "Digitale soevereiniteit",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-11-digitale-soevereiniteit/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open source tegenover closed source",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-12-open-source-versus-closed-source/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samenwerking tussen organisaties",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-13-samenwerking-tussen-organisaties/"
     }
    ]
   }
