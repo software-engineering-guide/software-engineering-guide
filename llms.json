@@ -11916,6 +11916,16 @@
      "number": "1.1",
      "title": "ソフトウェアエンジニアリングの価値観",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-01-ソフトウェアエンジニアリングの価値観/"
+    },
+    {
+     "number": "1.2",
+     "title": "チームトポロジーと組織設計",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-02-チームトポロジー/"
+    },
+    {
+     "number": "1.3",
+     "title": "役割、キャリアラダー、成長",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/01-03-役割とキャリアラダーと成長/"
     }
    ]
   }
