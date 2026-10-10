@@ -17860,6 +17860,16 @@
      "number": "1.1",
      "title": "Gildi hugbúnaðarverkfræði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-01-gildi-hugbúnaðarverkfræði/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teymisskipan og skipulagshönnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-02-teymisskipan/"
+    },
+    {
+     "number": "1.3",
+     "title": "Hlutverk, starfsstigar og vöxtur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-03-hlutverk-starfsframi-og-vöxtur/"
     }
    ]
   }
