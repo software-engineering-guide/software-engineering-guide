@@ -13852,6 +13852,16 @@
      "number": "7.5",
      "title": "의사결정 과학과 데이터 기반 문화",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-05-의사결정-과학과-데이터-문화/"
+    },
+    {
+     "number": "7.6",
+     "title": "실시간 및 스트리밍 데이터",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-06-실시간-데이터와-스트리밍-데이터/"
+    },
+    {
+     "number": "7.7",
+     "title": "데이터 모델링과 시맨틱 계층",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/07-07-데이터-모델링과-시맨틱-계층/"
     }
    ]
   }
