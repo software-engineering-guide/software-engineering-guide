@@ -16864,6 +16864,16 @@
      "number": "8.3",
      "title": "Containers, orkestratie en cloud-native",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-03-containers-orkestratie-en-cloudnative/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platform engineering en ontwikkelaarservaring",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-04-platformengineering-en-ontwikkelaarservaring/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test- en procesautomatisering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/08-05-test-en-procesautomatisering/"
     }
    ]
   }
