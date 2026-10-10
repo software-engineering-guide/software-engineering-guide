@@ -16804,6 +16804,16 @@
      "number": "7.1",
      "title": "Datastrategie en datagovernance",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-01-datastrategie-en-datagovernance/"
+    },
+    {
+     "number": "7.2",
+     "title": "Data-engineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-02-data-engineering/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analytics en business intelligence",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/07-03-analytics-en-business-intelligence/"
     }
    ]
   }
