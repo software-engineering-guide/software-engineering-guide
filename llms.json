@@ -12396,6 +12396,16 @@
      "number": "8.1",
      "title": "CI/CDとデリバリー",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-01-CICDとデリバリー/"
+    },
+    {
+     "number": "8.2",
+     "title": "コードとしてのインフラストラクチャと構成",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-02-コードとしてのインフラストラクチャと構成/"
+    },
+    {
+     "number": "8.3",
+     "title": "コンテナ、オーケストレーション、クラウドネイティブ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-03-コンテナとオーケストレーションとクラウドネイティブ/"
     }
    ]
   }
