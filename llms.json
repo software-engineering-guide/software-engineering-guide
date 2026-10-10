@@ -16514,6 +16514,16 @@
      "number": "2.15",
      "title": "Debuggen en storingzoeken",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-15-debuggen-en-storingzoeken/"
+    },
+    {
+     "number": "2.16",
+     "title": "Performance engineering",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-16-performance-engineering/"
+    },
+    {
+     "number": "2.17",
+     "title": "Gelijktijdigheid en parallellisme",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-17-gelijktijdigheid-en-parallellisme/"
     }
    ]
   }
