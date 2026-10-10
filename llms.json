@@ -12246,6 +12246,16 @@
      "number": "5.2",
      "title": "UIデザインとデザインシステム",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-02-UIデザインとデザインシステム/"
+    },
+    {
+     "number": "5.3",
+     "title": "アクセシビリティ",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-03-アクセシビリティ/"
+    },
+    {
+     "number": "5.4",
+     "title": "コンテンツとコミュニケーションのデザイン",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-04-コンテンツとコミュニケーションのデザイン/"
     }
    ]
   }
