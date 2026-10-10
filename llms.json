@@ -17101,6 +17101,749 @@
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-07-register/"
     }
    ]
+  },
+  {
+   "code": "nl-001",
+   "label": "Nederlands",
+   "home": "https://software-engineering-guide.github.io/nl-001/",
+   "topicsSegment": "onderwerpen",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Inleiding op deel 1: Mensen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-00-mensen/"
+    },
+    {
+     "number": "1.1",
+     "title": "Waarden van software engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-01-waarden-van-software-engineering/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teamtopologieën en organisatieontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-02-teamtopologieen/"
+    },
+    {
+     "number": "1.3",
+     "title": "Rollen, loopbaanladders en groei",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-03-rollen-loopbaanladders-en-groei/"
+    },
+    {
+     "number": "1.4",
+     "title": "Werkwijzen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-04-werkwijzen/"
+    },
+    {
+     "number": "1.5",
+     "title": "Besluitvorming en governance",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-05-besluitvorming-en-governance/"
+    },
+    {
+     "number": "1.6",
+     "title": "Besluitenlogboeken",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-06-besluitenlogboeken/"
+    },
+    {
+     "number": "1.7",
+     "title": "Engineeringstandaarden en uitzonderingen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-07-engineeringstandaarden-en-uitzonderingen/"
+    },
+    {
+     "number": "1.8",
+     "title": "Werving, selectiegesprekken en onboarding",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-08-werving-selectiegesprekken-en-onboarding/"
+    },
+    {
+     "number": "1.9",
+     "title": "Gedistribueerd en thuiswerken",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-09-gedistribueerd-en-thuiswerken/"
+    },
+    {
+     "number": "1.10",
+     "title": "Engineeringeffectiviteit en ontwikkelaarsproductiviteit",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-10-engineeringeffectiviteit-en-ontwikkelaarsproductiviteit/"
+    },
+    {
+     "number": "1.11",
+     "title": "Engineeringmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-11-engineeringmanagement/"
+    },
+    {
+     "number": "1.12",
+     "title": "Diversiteit, gelijkwaardigheid, inclusie en erbij horen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-12-diversiteit-gelijkwaardigheid-inclusie-en-erbij-horen/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, coaching en kennisdeling",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/01-13-mentoring-coaching-en-kennisdeling/"
+    },
+    {
+     "number": "2.0",
+     "title": "Inleiding op deel 2: Softwareprogrammeren",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-00-softwareprogrammeren/"
+    },
+    {
+     "number": "2.1",
+     "title": "Codeerstandaarden en stijl",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-01-codeerstandaarden-en-stijl/"
+    },
+    {
+     "number": "2.2",
+     "title": "Ontwerpprincipes voor software",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-02-ontwerpprincipes-voor-software/"
+    },
+    {
+     "number": "2.3",
+     "title": "API's en interfaceontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-03-api-s-en-interfaceontwerp/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-04-teststrategie/"
+    },
+    {
+     "number": "2.5",
+     "title": "Codereview en samenwerking",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-05-codereview-en-samenwerking/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versiebeheer en broncodebeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-06-versiebeheer-en-broncodebeheer/"
+    },
+    {
+     "number": "2.7",
+     "title": "Documentatie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-07-documentatie/"
+    },
+    {
+     "number": "2.8",
+     "title": "Softwarevereisten",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-08-softwarevereisten/"
+    },
+    {
+     "number": "2.9",
+     "title": "Softwareconstructie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-09-softwareconstructie/"
+    },
+    {
+     "number": "2.10",
+     "title": "Softwareconfiguratiebeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-10-softwareconfiguratiebeheer/"
+    },
+    {
+     "number": "2.11",
+     "title": "Softwarekwaliteit",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-11-softwarekwaliteit/"
+    },
+    {
+     "number": "2.12",
+     "title": "Softwaremodellen en -methoden",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-12-softwaremodellen-en-methoden/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fundamenten van informatica, wiskunde en engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-13-fundamenten-van-informatica-wiskunde-en-engineering/"
+    },
+    {
+     "number": "2.14",
+     "title": "Project- en repositorystructuur",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-14-project-en-repositorystructuur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debuggen en storingzoeken",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-15-debuggen-en-storingzoeken/"
+    },
+    {
+     "number": "2.16",
+     "title": "Performance engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-16-performance-engineering/"
+    },
+    {
+     "number": "2.17",
+     "title": "Gelijktijdigheid en parallellisme",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-17-gelijktijdigheid-en-parallellisme/"
+    },
+    {
+     "number": "2.18",
+     "title": "Afhankelijkheden en toeleveringsketenbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-18-afhankelijkheden-en-toeleveringsketenbeheer/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refactoring en technische schuld",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-19-refactoring-en-technische-schuld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Foutafhandeling en veerkrachtpatronen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-20-foutafhandeling-en-veerkrachtpatronen/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typesystemen en statische analyse",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/02-21-typesystemen-en-statische-analyse/"
+    },
+    {
+     "number": "3.0",
+     "title": "Inleiding op deel 3: Systemen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-00-systemen/"
+    },
+    {
+     "number": "3.1",
+     "title": "Architectuurfundamenten",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-01-architectuurfundamenten/"
+    },
+    {
+     "number": "3.2",
+     "title": "Architectuurstijlen en -patronen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-02-architectuurstijlen-en-patronen/"
+    },
+    {
+     "number": "3.3",
+     "title": "Gedistribueerde systemen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-03-gedistribueerde-systemen/"
+    },
+    {
+     "number": "3.4",
+     "title": "Dataarchitectuur en opslag",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-04-dataarchitectuur-en-opslag/"
+    },
+    {
+     "number": "3.5",
+     "title": "Schaalbaarheid, prestaties en veerkracht",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-05-schaalbaarheid-prestaties-en-veerkracht/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisering van legacy",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-06-modernisering-van-legacy/"
+    },
+    {
+     "number": "3.7",
+     "title": "Softwareonderhoud",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-07-softwareonderhoud/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabiliteit en open standaarden",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-08-interoperabiliteit-en-open-standaarden/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systeemengineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-09-systeemengineering/"
+    },
+    {
+     "number": "3.10",
+     "title": "Embedded en realtimesystemen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-10-embedded-en-realtimesystemen/"
+    },
+    {
+     "number": "3.11",
+     "title": "Cloudarchitectuur",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-11-cloudarchitectuur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Gebeurtenisgedreven architectuur en berichtenverkeer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-12-gebeurtenisgedreven-architectuur-en-berichtenverkeer/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netwerken en connectiviteit",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-13-netwerken-en-connectiviteit/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multitenancy en SaaS-architectuur",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-14-multitenancy-en-saas-architectuur/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching en contentlevering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-15-caching-en-contentlevering/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gateways en service mesh",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-16-api-gateways-en-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Zoeken en informatieopvraging",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/03-17-zoeken-en-informatieopvraging/"
+    },
+    {
+     "number": "4.0",
+     "title": "Inleiding op deel 4: Beveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-00-beveiliging/"
+    },
+    {
+     "number": "4.1",
+     "title": "Beveiligingsfundamenten en cultuur",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-01-beveiligingsfundamenten-en-cultuur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Applicatiebeveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastructuur- en cloudbeveiliging",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"
+    },
+    {
+     "number": "4.4",
+     "title": "Beveiligingsoperaties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-04-beveiligingsoperaties/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privacy en gegevensbescherming",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-05-privacy-en-gegevensbescherming/"
+    },
+    {
+     "number": "4.6",
+     "title": "Compliance en governance",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-06-compliance-en-governance/"
+    },
+    {
+     "number": "4.7",
+     "title": "Identiteits- en toegangsbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-07-identiteits-en-toegangsbeheer/"
+    },
+    {
+     "number": "4.8",
+     "title": "Cryptografie en sleutelbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-08-cryptografie-en-sleutelbeheer/"
+    },
+    {
+     "number": "4.9",
+     "title": "Veilige softwareontwikkelingscyclus",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-09-veilige-softwareontwikkelingscyclus/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetratietesten en red teaming",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/04-10-penetratietesten-en-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Inleiding op deel 5: UI/UX-ontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-00-ui-ux-ontwerp/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-fundamenten",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-01-ux-fundamenten/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-ontwerp en designsystemen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-02-ui-ontwerp-en-designsystemen/"
+    },
+    {
+     "number": "5.3",
+     "title": "Toegankelijkheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-03-toegankelijkheid/"
+    },
+    {
+     "number": "5.4",
+     "title": "Content- en communicatieontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-04-content-en-communicatieontwerp/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internationalisering en lokalisering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-05-internationalisering-en-lokalisering/"
+    },
+    {
+     "number": "5.6",
+     "title": "Frontend-engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-06-frontendengineering/"
+    },
+    {
+     "number": "5.7",
+     "title": "Ontwikkeling van mobiele applicaties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-07-ontwikkeling-van-mobiele-applicaties/"
+    },
+    {
+     "number": "5.8",
+     "title": "Ontwerponderzoek en usabilitytesten",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-08-ontwerponderzoek-en-usabilitytesten/"
+    },
+    {
+     "number": "5.9",
+     "title": "Servicedesign",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-09-servicedesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Ontwerp van datavisualisaties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/05-10-ontwerp-van-datavisualisaties/"
+    },
+    {
+     "number": "6.0",
+     "title": "Inleiding op deel 6: Kunstmatige intelligentie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-00-kunstmatige-intelligentie/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI-strategie en gereedheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-01-ai-strategie-en-gereedheid/"
+    },
+    {
+     "number": "6.2",
+     "title": "Machine-learningengineering (MLOps)",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generatieve AI en LLM-toepassingen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-03-generatieve-ai-en-llm-toepassingen/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-ondersteunde softwareontwikkeling",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-04-ai-ondersteunde-softwareontwikkeling/"
+    },
+    {
+     "number": "6.5",
+     "title": "Verantwoorde en betrouwbare AI",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-05-verantwoorde-en-betrouwbare-ai/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI-infrastructuur en -beheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-06-ai-infrastructuur-en-beheer/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI-agents en agentische systemen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-07-ai-agents-en-agentische-systemen/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI-evaluatie en -testen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-08-ai-evaluatie-en-testen/"
+    },
+    {
+     "number": "6.9",
+     "title": "Promptengineering en contextontwerp",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/06-09-promptengineering-en-contextontwerp/"
+    },
+    {
+     "number": "7.0",
+     "title": "Inleiding op deel 7: Data, analytics en inzicht",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-00-data-en-analytics/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datastrategie en datagovernance",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-01-datastrategie-en-datagovernance/"
+    },
+    {
+     "number": "7.2",
+     "title": "Data-engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-02-data-engineering/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analytics en business intelligence",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-03-analytics-en-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Productanalytics en experimenteren",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-04-productanalytics-en-experimenteren/"
+    },
+    {
+     "number": "7.5",
+     "title": "Beslissingswetenschap en datagedreven cultuur",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-05-beslissingswetenschap-en-datacultuur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Realtime- en streamingdata",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-06-realtime-en-streamingdata/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datamodellering en de semantische laag",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-07-datamodellering-en-semantische-laag/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datakwaliteit en observeerbaarheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-08-datakwaliteit-en-observeerbaarheid/"
+    },
+    {
+     "number": "7.9",
+     "title": "Beheer van stamdata en referentiedata",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/07-09-beheer-van-stamdata-en-referentiedata/"
+    },
+    {
+     "number": "8.0",
+     "title": "Inleiding op deel 8: Automatisering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-00-automatisering/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD en oplevering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-01-ci-cd-en-oplevering/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastructure as code en configuratie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-02-infrastructure-as-code-en-configuratie/"
+    },
+    {
+     "number": "8.3",
+     "title": "Containers, orkestratie en cloud-native",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-03-containers-orkestratie-en-cloudnative/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platform engineering en ontwikkelaarservaring",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-04-platformengineering-en-ontwikkelaarservaring/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test- en procesautomatisering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-05-test-en-procesautomatisering/"
+    },
+    {
+     "number": "8.6",
+     "title": "Releasemanagement en progressieve oplevering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-06-releasemanagement-en-progressieve-oplevering/"
+    },
+    {
+     "number": "8.7",
+     "title": "Buildsystemen en artefactbeheer",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/08-07-buildsystemen-en-artefactbeheer/"
+    },
+    {
+     "number": "9.0",
+     "title": "Inleiding op deel 9: Beheer, betrouwbaarheid en observeerbaarheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-00-beheer-en-betrouwbaarheid/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observeerbaarheid en telemetrie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"
+    },
+    {
+     "number": "9.3",
+     "title": "Incidentmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kosten, duurzaamheid en groene software",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-04-kosten-duurzaamheid-en-groene-software/"
+    },
+    {
+     "number": "9.5",
+     "title": "Disaster recovery en bedrijfscontinuïteit",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-05-disaster-recovery-en-bedrijfscontinuiteit/"
+    },
+    {
+     "number": "9.6",
+     "title": "Chaos engineering en veerkrachttesten",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-06-chaos-engineering-en-veerkrachttesten/"
+    },
+    {
+     "number": "9.7",
+     "title": "Capaciteitsplanning en vraagvoorspelling",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-07-capaciteitsplanning-en-vraagvoorspelling/"
+    },
+    {
+     "number": "9.8",
+     "title": "Bereikbaarheidsdienst en operationele gereedheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/09-08-bereikbaarheidsdienst-en-operationele-gereedheid/"
+    },
+    {
+     "number": "10.0",
+     "title": "Inleiding op deel 10: Project-, product- en programmamanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-00-project-product-en-programmamanagement/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portfolio- en programmamanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-01-portfolio-en-programmamanagement/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risico, audit en assurance",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-02-risico-audit-en-assurance/"
+    },
+    {
+     "number": "10.3",
+     "title": "Inkoop, open source en licenties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"
+    },
+    {
+     "number": "10.4",
+     "title": "Grote en langlevende systemen in stand houden",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"
+    },
+    {
+     "number": "10.5",
+     "title": "Ethiek, verantwoording en publiek belang",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-05-ethiek-verantwoording-en-publiek-belang/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projectmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-06-projectmanagement/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Volwassenheidsmodellen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-08-volwassenheidsmodellen/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovatiepartnerschap",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-09-innovatiepartnerschap/"
+    },
+    {
+     "number": "10.10",
+     "title": "Economie van software-engineering",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-10-economie-van-software-engineering/"
+    },
+    {
+     "number": "10.11",
+     "title": "Digitale soevereiniteit",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-11-digitale-soevereiniteit/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open source tegenover closed source",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-12-open-source-versus-closed-source/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samenwerking tussen organisaties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-13-samenwerking-tussen-organisaties/"
+    },
+    {
+     "number": "10.14",
+     "title": "Productmanagement en discovery",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-14-productmanagement-en-discovery/"
+    },
+    {
+     "number": "10.15",
+     "title": "Schatten en voorspellen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-15-schatten-en-voorspellen/"
+    },
+    {
+     "number": "10.16",
+     "title": "Stakeholdermanagement en communicatie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-16-stakeholdermanagement-en-communicatie/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisch veranderingsmanagement",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-17-organisatorisch-veranderingsmanagement/"
+    },
+    {
+     "number": "10.18",
+     "title": "Open source program office (OSPO) en bijdragen aan upstream",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/10-18-open-source-programmabureau/"
+    },
+    {
+     "number": "11.0",
+     "title": "Inleiding op deel 11: Flow: Discovery- en opleveringspijplijnen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-00-flow-discovery-en-oplevering/"
+    },
+    {
+     "number": "11.1",
+     "title": "De discoverypijplijn",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-01-discoverypijplijn/"
+    },
+    {
+     "number": "11.2",
+     "title": "De opleveringspijplijn",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-02-opleveringspijplijn/"
+    },
+    {
+     "number": "11.3",
+     "title": "Wachtrijtheorie",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-03-wachtrijtheorie/"
+    },
+    {
+     "number": "11.4",
+     "title": "Objectives en key results (OKR's)",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-04-doelen-en-sleutelresultaten-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Key performance indicators (KPI's)",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-05-kritieke-prestatie-indicatoren-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Value stream mapping en kosten van vertraging",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/11-06-waardestroomanalyse-en-vertragingskosten/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bijlagen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-00-bijlagen/"
+    },
+    {
+     "number": "12.1",
+     "title": "Woordenlijst",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-01-woordenlijst/"
+    },
+    {
+     "number": "12.2",
+     "title": "Checklists",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-02-checklists/"
+    },
+    {
+     "number": "12.3",
+     "title": "Sjablonen",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-03-sjablonen/"
+    },
+    {
+     "number": "12.4",
+     "title": "Zelfbeoordeling volwassenheid",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-04-zelfbeoordeling-volwassenheid/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referenties",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-05-referenties/"
+    },
+    {
+     "number": "12.6",
+     "title": "Invoeringsroutekaart",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-06-invoeringsroutekaart/"
+    },
+    {
+     "number": "12.7",
+     "title": "Register",
+     "url": "https://software-engineering-guide.github.io/nl-001/onderwerpen/12-07-register/"
+    }
+   ]
   }
  ]
 }

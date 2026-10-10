@@ -30,6 +30,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locales `sv-se` and `sv-001` (Swedish): all 147 chapters translated by hand, with Swedish
   directory segments under `ämnen/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`.
+- Locales `nl-nl` and `nl-001` (Dutch): all 147 chapters translated by hand, with Dutch
+  directory segments under `onderwerpen/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
 
 ### Fixed
 
