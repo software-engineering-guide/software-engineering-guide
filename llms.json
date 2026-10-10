@@ -13542,6 +13542,16 @@
      "number": "2.15",
      "title": "디버깅과 문제 해결",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-15-디버깅과-문제-해결/"
+    },
+    {
+     "number": "2.16",
+     "title": "성능 엔지니어링",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-16-성능-엔지니어링/"
+    },
+    {
+     "number": "2.17",
+     "title": "동시성과 병렬성",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/02-17-동시성과-병렬성/"
     }
    ]
   }
