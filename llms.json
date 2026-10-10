@@ -12196,6 +12196,16 @@
      "number": "4.3",
      "title": "インフラストラクチャとクラウドのセキュリティ",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-03-インフラストラクチャとクラウドのセキュリティ/"
+    },
+    {
+     "number": "4.4",
+     "title": "セキュリティ運用",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-04-セキュリティ運用/"
+    },
+    {
+     "number": "4.5",
+     "title": "プライバシーとデータ保護",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/04-05-プライバシーとデータ保護/"
     }
    ]
   }
