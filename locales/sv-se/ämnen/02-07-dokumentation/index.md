@@ -105,7 +105,7 @@ Vad kostar dokumentation? Författande- och underhållsinsats. Vad kostar det at
 - **Dokumentationsfragmentering:** kunskap utspridd över många verktyg och wikis så att inget går att hitta.
 - **Att blanda dokumentationstyper:** handledningar, referens och förklaring trasslade på en sida, vilket inte tjänar någon läsare väl.
 - **Handunderhåll av genererbart innehåll:** manuellt skriven API-dokumentation som oundvikligen avviker från det faktiska gränssnittet.
-- **Tyst kunskap som tribal:** kritisk förståelse som bara finns i människors huvuden och chatthistorik och går förlorad när de slutar.
+- **Stamkunskap:** kritisk förståelse som bara finns i människors huvuden och chatthistorik och går förlorad när de slutar.
 - **Dokumentation som eftertanke:** skriven i slutet, om alls, snarare än vid sidan av ändringen.
 - **Inget ägarskap:** dokument utan ansvarig ägare ruttnar eftersom att uppdatera dem är ingens jobb.
 

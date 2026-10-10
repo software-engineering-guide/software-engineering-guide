@@ -14988,6 +14988,16 @@
      "number": "2.7",
      "title": "Dokumentation",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-07-dokumentation/"
+    },
+    {
+     "number": "2.8",
+     "title": "Programvarukrav",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-08-programvarukrav/"
+    },
+    {
+     "number": "2.9",
+     "title": "Programvarukonstruktion",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/02-09-programvarukonstruktion/"
     }
    ]
   }
