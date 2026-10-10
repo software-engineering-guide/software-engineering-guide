@@ -15118,6 +15118,16 @@
      "number": "3.11",
      "title": "Molnarkitektur",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-11-molnarkitektur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Händelsedriven arkitektur och meddelandehantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-12-händelsedriven-arkitektur-och-meddelandehantering/"
+    },
+    {
+     "number": "3.13",
+     "title": "Nätverk och uppkoppling",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/03-13-nätverk-och-uppkoppling/"
     }
    ]
   }
