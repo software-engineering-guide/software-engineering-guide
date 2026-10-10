@@ -13802,6 +13802,16 @@
      "number": "6.5",
      "title": "책임 있고 신뢰할 수 있는 AI",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-05-책임-있고-신뢰할-수-있는-AI/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI 인프라와 운영",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-06-AI-인프라와-운영/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI 에이전트와 에이전트 시스템",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/06-07-AI-에이전트와-에이전트-시스템/"
     }
    ]
   }
