@@ -16484,6 +16484,16 @@
      "number": "2.9",
      "title": "Softwareconstructie",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-09-softwareconstructie/"
+    },
+    {
+     "number": "2.10",
+     "title": "Softwareconfiguratiebeheer",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-10-softwareconfiguratiebeheer/"
+    },
+    {
+     "number": "2.11",
+     "title": "Softwarekwaliteit",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/02-11-softwarekwaliteit/"
     }
    ]
   }
