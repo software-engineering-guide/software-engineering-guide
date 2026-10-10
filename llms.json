@@ -17900,6 +17900,16 @@
      "number": "1.9",
      "title": "Dreifð vinna og fjarvinna",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-09-dreifð-og-fjarvinna/"
+    },
+    {
+     "number": "1.10",
+     "title": "Skilvirkni verkfræði og framleiðni þróunaraðila",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-10-skilvirkni-verkfræði-og-framleiðni-þróunaraðila/"
+    },
+    {
+     "number": "1.11",
+     "title": "Stjórnun verkfræðiteyma",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/01-11-stjórnun-verkfræðiteyma/"
     }
    ]
   }
