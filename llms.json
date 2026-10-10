@@ -15468,6 +15468,16 @@
      "number": "10.4",
      "title": "Att vidmakthålla stora och långlivade system",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etik, ansvarsskyldighet och allmänintresse",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-05-etik-ansvarsskyldighet-och-allmänintresse/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projektledning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/10-06-projektledning/"
     }
    ]
   }
