@@ -15178,6 +15178,16 @@
      "number": "4.5",
      "title": "Integritet och dataskydd",
      "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-05-integritet-och-dataskydd/"
+    },
+    {
+     "number": "4.6",
+     "title": "Regelefterlevnad och styrning",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-06-regelefterlevnad-och-styrning/"
+    },
+    {
+     "number": "4.7",
+     "title": "Identitets- och åtkomsthantering",
+     "url": "https://software-engineering-guide.github.io/sv-se/ämnen/04-07-identitets-och-åtkomsthantering/"
     }
    ]
   }
