@@ -17089,6 +17089,16 @@
      "number": "12.5",
      "title": "Referenties",
      "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-05-referenties/"
+    },
+    {
+     "number": "12.6",
+     "title": "Invoeringsroutekaart",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-06-invoeringsroutekaart/"
+    },
+    {
+     "number": "12.7",
+     "title": "Register",
+     "url": "https://software-engineering-guide.github.io/nl-nl/onderwerpen/12-07-register/"
     }
    ]
   }

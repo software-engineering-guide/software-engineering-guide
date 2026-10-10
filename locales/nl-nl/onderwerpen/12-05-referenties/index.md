@@ -224,7 +224,7 @@ de actuele versie. De annotaties hieronder beschrijven hun blijvende doel.
 - **Test-Driven Development: By Example**. Kent Beck. De oorspronkelijke, praktische introductie van de red-green-refactorcyclus en test-eerstontwerp.
 - **Working Effectively with Legacy Code**. Michael Feathers. De toonaangevende gereedschapskist om tests toe te voegen aan code die ze niet heeft en die veilig te wijzigen, onmisbaar voor langlevende systemen.
 - **Growing Object-Oriented Software, Guided by Tests**. Steve Freeman and Nat Pryce. Een uitgewerkte demonstratie van outside-in TDD, mocking en het laten evolueren van een ontwerp via tests.
-- **A Philosophy of Software Design**. John Ousterhout. Een scherpe, uuitgesproken behandeling van complexiteit, diepe modules en informatieverberging die enige "clean code"-orthodoxie productief uitdaagt.
+- **A Philosophy of Software Design**. John Ousterhout. Een scherpe, uitgesproken behandeling van complexiteit, diepe modules en informatieverberging die enige "clean code"-orthodoxie productief uitdaagt.
 
 ## Architectuur en systemen
 
@@ -232,7 +232,7 @@ de actuele versie. De annotaties hieronder beschrijven hun blijvende doel.
 - **Fundamentals of Software Architecture: An Engineering Approach**. Mark Richards and Neal Ford. Een brede, actuele verkenning van architectuurstijlen, kenmerken en de rol en besluitvorming van de architect.
 - **Software Architecture: The Hard Parts**. Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani. Een beslissingsgerichte behandeling van afwegingen in gedistribueerde architectuur, servicegranulariteit en data-eigenaarschap.
 - **Building Evolutionary Architectures**. Neal Ford, Rebecca Parsons, Patrick Kua. Introduceert fitnessfuncties en architectuur die ontworpen is om in de loop van de tijd veilig te veranderen.
-- **Domain-Driven Design: Tackling Complexity in the Heart of Software**. Eric Evans. De oorsprong van afgebakende contexten, ubiquitous language en aggregates: het vocabulaire van modern servicontwerp.
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software**. Eric Evans. De oorsprong van afgebakende contexten, ubiquitous language en aggregates: het vocabulaire van modern servicesontwerp.
 - **Building Microservices: Designing Fine-Grained Systems**. Sam Newman. Het naslagwerk voor decompositie, servicegrenzen, deployment en de organisatorische gevolgen van microservices.
 - **Monolith to Microservices**. Sam Newman. Een patroncatalogus voor incrementele decompositie, zoals strangler fig en branch by abstraction, zonder riskante big-bangherschrijving.
 - **Patterns of Enterprise Application Architecture**. Martin Fowler. Het naslagwerk met benoemde patronen (repository, unit of work en meer) dat enterprisesystemen een gedeelde taal gaf.
