@@ -13942,6 +13942,16 @@
      "number": "9.5",
      "title": "재해 복구와 비즈니스 연속성",
      "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-05-재해-복구와-비즈니스-연속성/"
+    },
+    {
+     "number": "9.6",
+     "title": "카오스 엔지니어링과 복원력 테스트",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-06-카오스-엔지니어링과-복원력-테스트/"
+    },
+    {
+     "number": "9.7",
+     "title": "용량 계획과 수요 예측",
+     "url": "https://software-engineering-guide.github.io/ko-kr/주제/09-07-용량-계획과-수요-예측/"
     }
    ]
   }
