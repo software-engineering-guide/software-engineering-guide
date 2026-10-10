@@ -12406,6 +12406,16 @@
      "number": "8.3",
      "title": "コンテナ、オーケストレーション、クラウドネイティブ",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-03-コンテナとオーケストレーションとクラウドネイティブ/"
+    },
+    {
+     "number": "8.4",
+     "title": "プラットフォームエンジニアリングと開発者体験",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-04-プラットフォームエンジニアリングと開発者体験/"
+    },
+    {
+     "number": "8.5",
+     "title": "テストとプロセスの自動化",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/08-05-テストとプロセスの自動化/"
     }
    ]
   }
