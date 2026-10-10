@@ -12446,6 +12446,16 @@
      "number": "9.3",
      "title": "インシデント管理",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-03-インシデント管理/"
+    },
+    {
+     "number": "9.4",
+     "title": "コスト、持続可能性、グリーンソフトウェア",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-04-コストと持続可能性とグリーンソフトウェア/"
+    },
+    {
+     "number": "9.5",
+     "title": "災害復旧と事業継続",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/09-05-災害復旧と事業継続/"
     }
    ]
   }
