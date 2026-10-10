@@ -12266,6 +12266,16 @@
      "number": "5.6",
      "title": "フロントエンドエンジニアリング",
      "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-06-フロントエンドエンジニアリング/"
+    },
+    {
+     "number": "5.7",
+     "title": "モバイルアプリケーション開発",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-07-モバイルアプリケーション開発/"
+    },
+    {
+     "number": "5.8",
+     "title": "デザインリサーチとユーザビリティテスト",
+     "url": "https://software-engineering-guide.github.io/ja-jp/トピック/05-08-デザインリサーチとユーザビリティテスト/"
     }
    ]
   }
