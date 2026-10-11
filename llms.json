@@ -19816,6 +19816,16 @@
      "number": "7.9",
      "title": "Gestão de dados mestres e de referência",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-09-gestão-de-dados-mestres-e-de-referência/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introdução à Parte 8: Automação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-00-automação/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD e entrega",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-01-ci-cd-e-entrega/"
     }
    ]
   }
