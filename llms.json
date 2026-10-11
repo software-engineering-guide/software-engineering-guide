@@ -18500,6 +18500,16 @@
      "number": "10.16",
      "title": "Hagsmunaaðilastjórnun og samskipti",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-16-hagsmunaaðilastjórnun-og-samskipti/"
+    },
+    {
+     "number": "10.17",
+     "title": "Breytingastjórnun í skipulagsheildum",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-17-breytingastjórnun-í-skipulagsheildum/"
+    },
+    {
+     "number": "10.18",
+     "title": "Skrifstofa opins hugbúnaðar (OSPO) og framlög til upprunaverkefna",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-18-skrifstofa-opins-hugbúnaðar/"
     }
    ]
   }
