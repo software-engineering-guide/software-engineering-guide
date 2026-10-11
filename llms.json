@@ -18190,6 +18190,16 @@
      "number": "5.2",
      "title": "Viðmótshönnun og hönnunarkerfi",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-02-viðmótshönnun-og-hönnunarkerfi/"
+    },
+    {
+     "number": "5.3",
+     "title": "Aðgengi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-03-aðgengi/"
+    },
+    {
+     "number": "5.4",
+     "title": "Efnis- og samskiptahönnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-04-efnis-og-samskiptahönnun/"
     }
    ]
   }
