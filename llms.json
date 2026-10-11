@@ -19736,6 +19736,16 @@
      "number": "6.3",
      "title": "IA generativa e aplicações de LLM",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-03-ia-generativa-e-aplicações-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Desenvolvimento de software assistido por IA",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-04-desenvolvimento-de-software-assistido-por-ia/"
+    },
+    {
+     "number": "6.5",
+     "title": "IA responsável e confiável",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-05-ia-responsável-e-confiável/"
     }
    ]
   }
