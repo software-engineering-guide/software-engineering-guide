@@ -19906,6 +19906,16 @@
      "number": "10.0",
      "title": "Introdução à Parte 10: Gestão de projetos, produtos e programas",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-00-gestão-de-projetos-produtos-e-programas/"
+    },
+    {
+     "number": "10.1",
+     "title": "Gestão de portfólio e de programas",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-01-gestão-de-portfólio-e-de-programas/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risco, auditoria e garantia",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-02-risco-auditoria-e-garantia/"
     }
    ]
   }
