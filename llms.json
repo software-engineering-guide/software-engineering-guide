@@ -19996,6 +19996,16 @@
      "number": "10.18",
      "title": "Escritório de programa de código aberto (OSPO) e contribuição upstream",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-18-escritório-de-código-aberto/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/11-00-fluxo-descoberta-e-entrega/"
+    },
+    {
+     "number": "11.1",
+     "title": "O pipeline de descoberta",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/11-01-pipeline-de-descoberta/"
     }
    ]
   }
