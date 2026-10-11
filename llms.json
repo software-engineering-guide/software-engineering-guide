@@ -20051,6 +20051,21 @@
      "number": "12.3",
      "title": "Modelos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-03-modelos/"
+    },
+    {
+     "number": "12.4",
+     "title": "Autoavaliação de maturidade",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-04-autoavaliação-de-maturidade/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referências",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-05-referências/"
+    },
+    {
+     "number": "12.6",
+     "title": "Roteiro de adoção",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-06-roteiro-de-adoção/"
     }
    ]
   }
