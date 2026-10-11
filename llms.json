@@ -19836,6 +19836,16 @@
      "number": "8.3",
      "title": "Contêineres, orquestração e cloud-native",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-03-contêineres-orquestração-e-nativo-da-nuvem/"
+    },
+    {
+     "number": "8.4",
+     "title": "Engenharia de plataforma e experiência do desenvolvedor",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-04-engenharia-de-plataformas-e-experiência-do-programador/"
+    },
+    {
+     "number": "8.5",
+     "title": "Automação de testes e de processos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-05-automação-de-testes-e-de-processos/"
     }
    ]
   }
