@@ -18150,6 +18150,16 @@
      "number": "4.5",
      "title": "Persónuvernd og gagnavernd",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-05-persónuvernd-og-gagnavernd/"
+    },
+    {
+     "number": "4.6",
+     "title": "Regluvarsla og stjórnarhættir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-06-regluvarsla-og-stjórnarhættir/"
+    },
+    {
+     "number": "4.7",
+     "title": "Auðkenna- og aðgangsstýring",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-07-auðkenna-og-aðgangsstýring/"
     }
    ]
   }
