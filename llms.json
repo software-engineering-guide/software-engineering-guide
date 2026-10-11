@@ -18140,6 +18140,16 @@
      "number": "4.3",
      "title": "Öryggi innviða og skýs",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"
+    },
+    {
+     "number": "4.4",
+     "title": "Öryggisrekstur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-04-öryggisrekstur/"
+    },
+    {
+     "number": "4.5",
+     "title": "Persónuvernd og gagnavernd",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-05-persónuvernd-og-gagnavernd/"
     }
    ]
   }
