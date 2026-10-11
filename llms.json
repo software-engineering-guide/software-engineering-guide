@@ -18270,6 +18270,16 @@
      "number": "6.7",
      "title": "Gervigreindarfulltrúar og sjálfstæð kerfi",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-07-gervigreindarfulltrúar-og-sjálfstæð-kerfi/"
+    },
+    {
+     "number": "6.8",
+     "title": "Mat og prófanir á gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-08-mat-og-prófanir-á-gervigreind/"
+    },
+    {
+     "number": "6.9",
+     "title": "Fyrirmælaverkfræði og samhengishönnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-09-fyrirmælahönnun-og-samhengishönnun/"
     }
    ]
   }
