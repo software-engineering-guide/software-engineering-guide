@@ -19806,6 +19806,16 @@
      "number": "7.7",
      "title": "Modelagem de dados e camada semântica",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-07-modelagem-de-dados-e-camada-semântica/"
+    },
+    {
+     "number": "7.8",
+     "title": "Qualidade e observabilidade de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-08-qualidade-e-observabilidade-de-dados/"
+    },
+    {
+     "number": "7.9",
+     "title": "Gestão de dados mestres e de referência",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-09-gestão-de-dados-mestres-e-de-referência/"
     }
    ]
   }
