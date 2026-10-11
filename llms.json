@@ -19616,6 +19616,16 @@
      "number": "4.1",
      "title": "Fundamentos e cultura de segurança",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-01-fundamentos-e-cultura-de-segurança/"
+    },
+    {
+     "number": "4.2",
+     "title": "Segurança de aplicações",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-02-segurança-de-aplicações/"
+    },
+    {
+     "number": "4.3",
+     "title": "Segurança de infraestrutura e de nuvem",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-03-segurança-de-infraestrutura-e-nuvem/"
     }
    ]
   }
