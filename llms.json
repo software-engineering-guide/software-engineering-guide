@@ -19646,6 +19646,16 @@
      "number": "4.7",
      "title": "Gestão de identidades e acessos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-07-gestão-de-identidades-e-acessos/"
+    },
+    {
+     "number": "4.8",
+     "title": "Criptografia e gestão de chaves",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-08-criptografia-e-gestão-de-chaves/"
+    },
+    {
+     "number": "4.9",
+     "title": "Ciclo de vida de desenvolvimento seguro de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-09-ciclo-de-vida-de-desenvolvimento-seguro/"
     }
    ]
   }
