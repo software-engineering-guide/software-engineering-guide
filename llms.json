@@ -18090,6 +18090,16 @@
      "number": "3.11",
      "title": "Skýjaarkitektúr",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-11-skýjaarkitektúr/"
+    },
+    {
+     "number": "3.12",
+     "title": "Atburðadrifinn arkitektúr og skilaboðamiðlun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-12-atburðadrifinn-arkitektúr-og-skilaboð/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netkerfi og tengingar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-13-netkerfi-og-tengingar/"
     }
    ]
   }
