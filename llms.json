@@ -18330,6 +18330,16 @@
      "number": "7.9",
      "title": "Stofngagna- og tilvísunargagnastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-09-stofngögn-og-tilvísunargögn/"
+    },
+    {
+     "number": "8.0",
+     "title": "Inngangur að 8. hluta: Sjálfvirkni",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-00-sjálfvirkni/"
+    },
+    {
+     "number": "8.1",
+     "title": "Samfelld samþætting og afhending",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-01-samfelld-samþætting-og-afhending/"
     }
    ]
   }
