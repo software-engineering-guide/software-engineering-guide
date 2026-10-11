@@ -19936,6 +19936,16 @@
      "number": "10.6",
      "title": "Gestão de projetos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-06-gestão-de-projetos/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-07-agilidade/"
+    },
+    {
+     "number": "10.8",
+     "title": "Modelos de maturidade",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-08-modelos-de-maturidade/"
     }
    ]
   }
