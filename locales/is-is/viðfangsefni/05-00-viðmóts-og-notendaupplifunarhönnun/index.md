@@ -14,7 +14,7 @@ Fyrirtæki og hið opinbera hækka hagsmunina enn frekar. Fyrirtækjahugbúnaðu
 - **5.4 Efnis- og samskiptahönnun**: Að móta orðin, skilaboðin og samskiptin sem vara notar til að hjálpa fólki að bregðast við, á látlausu máli og samfelldri rödd, því orð eru viðmót.
 - **5.5 Alþjóðavæðing og staðfærsla**: Arkitektúrinn sem leyfir hugbúnaði að aðlagast hverju tungumáli og svæði og vinnuflæðið sem þýðir hann og aðlagar menningarlega fyrir hvert málsvæði.
 - **5.6 Framendaverkfræði**: Að smíða notendasnúna lagið fyrir umhverfi sem þú stýrir ekki, með athygli á langlífi ramma, birtingarstefnu, afköstum og seiglu.
-- **5.7 Farsímaforritaþróun**: Að smíða fyrir farsíma, nær yfir innlendar, þverpallaaðferðir og framsæknar vefaðferðir. Hönnunarleiðbeiningar vettvanga. Skorður um ótengda notkun, rafhlöðu og sundrun. Dreifingu í forritabúðum og öryggi og aðgengi í farsímum.
+- **5.7 Smáforritaþróun**: Að smíða fyrir farsíma, nær yfir innlendar, þverpallaaðferðir og framsæknar vefaðferðir. Hönnunarleiðbeiningar vettvanga. Skorður um ótengda notkun, rafhlöðu og sundrun. Dreifingu í forritabúðum og öryggi og aðgengi í farsímum.
 
 - **5.8 Hönnunarrannsóknir og nothæfisprófanir**: Að minnka hættuna á að smíða ranga hlutinn með mynd- og matsrannsóknum, réttri aðferð fyrir hverja spurningu, nothæfisprófunum gerðum vel, fulltrúaráðningu og samantekt sem í raun breytir ákvörðunum.
 - **5.9 Þjónustuhönnun**: Að hanna alla þjónustuna sem manneskja upplifir yfir rásir og tíma, framsvið og bakvið, með þjónustuuppdráttum og ferðakortum og samstilla skipulagsheildina að baki þjónustunni, ekki bara einum skjá.

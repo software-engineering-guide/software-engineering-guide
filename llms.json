@@ -18210,6 +18210,16 @@
      "number": "5.6",
      "title": "Framendaverkfræði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-06-framendaverkfræði/"
+    },
+    {
+     "number": "5.7",
+     "title": "Smáforritaþróun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-07-smáforritaþróun/"
+    },
+    {
+     "number": "5.8",
+     "title": "Hönnunarrannsóknir og nothæfisprófanir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-08-hönnunarrannsóknir-og-nothæfisprófanir/"
     }
    ]
   }
