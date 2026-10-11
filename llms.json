@@ -18360,6 +18360,16 @@
      "number": "8.5",
      "title": "Prófana- og ferlasjálfvirkni",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-05-prófana-og-ferlasjálfvirkni/"
+    },
+    {
+     "number": "8.6",
+     "title": "Útgáfustjórnun og stigvaxandi afhending",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-06-útgáfustjórnun-og-stigvaxandi-afhending/"
+    },
+    {
+     "number": "8.7",
+     "title": "Smíðakerfi og afurðastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-07-smíðakerfi-og-afurðastjórnun/"
     }
    ]
   }
