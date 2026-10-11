@@ -36,6 +36,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locales `is-is` and `is-001` (Icelandic): all 147 chapters translated by hand, with Icelandic
   directory segments under `viðfangsefni/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`.
+- Locale `pt-001` (Portuguese): all 147 chapters translated by hand, with Portuguese
+  directory segments under `tópicos/` and matching `.locale-peer-id` files; registered in
+  `locales.tsv`.
 
 ### Fixed
 
