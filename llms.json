@@ -19536,6 +19536,16 @@
      "number": "3.3",
      "title": "Sistemas distribuídos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-03-sistemas-distribuídos/"
+    },
+    {
+     "number": "3.4",
+     "title": "Arquitetura de dados e armazenamento",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-04-arquitetura-de-dados-e-armazenamento/"
+    },
+    {
+     "number": "3.5",
+     "title": "Escalabilidade, desempenho e resiliência",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-05-escalabilidade-desempenho-e-resiliência/"
     }
    ]
   }
