@@ -20036,6 +20036,21 @@
      "number": "12.0",
      "title": "Apêndices",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-00-apêndices/"
+    },
+    {
+     "number": "12.1",
+     "title": "Glossário",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-01-glossário/"
+    },
+    {
+     "number": "12.2",
+     "title": "Listas de verificação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-02-listas-de-verificação/"
+    },
+    {
+     "number": "12.3",
+     "title": "Modelos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-03-modelos/"
     }
    ]
   }
