@@ -18250,6 +18250,16 @@
      "number": "6.3",
      "title": "Skapandi gervigreind og forrit byggð á stórum mállíkönum",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-03-skapandi-gervigreind-og-lmm-forrit/"
+    },
+    {
+     "number": "6.4",
+     "title": "Gervigreindaraðstoð við hugbúnaðarþróun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-04-gervigreindaraðstoð-við-hugbúnaðarþróun/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ábyrg og traustverð gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-05-ábyrg-og-áreiðanleg-gervigreind/"
     }
    ]
   }
