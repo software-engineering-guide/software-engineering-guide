@@ -18480,6 +18480,16 @@
      "number": "10.12",
      "title": "Opinn hugbúnaður á móti lokuðum",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-12-opinn-hugbúnaður-á-móti-lokuðum/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samstarf milli skipulagsheilda",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-13-samstarf-milli-stofnana/"
+    },
+    {
+     "number": "10.14",
+     "title": "Vörustjórnun og uppgötvun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-14-vörustjórnun-og-uppgötvun/"
     }
    ]
   }
