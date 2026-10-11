@@ -18570,6 +18570,16 @@
      "number": "12.4",
      "title": "Þroskasjálfsmat",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-04-sjálfsmat-á-þroska/"
+    },
+    {
+     "number": "12.5",
+     "title": "Heimildir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-05-heimildir/"
+    },
+    {
+     "number": "12.6",
+     "title": "Upptökuvegvísir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-06-innleiðingarvegvísir/"
     }
    ]
   }
