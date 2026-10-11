@@ -19556,6 +19556,16 @@
      "number": "3.7",
      "title": "Manutenção de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-07-manutenção-de-software/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilidade e padrões abertos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-08-interoperabilidade-e-padrões-abertos/"
+    },
+    {
+     "number": "3.9",
+     "title": "Engenharia de sistemas",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-09-engenharia-de-sistemas/"
     }
    ]
   }
