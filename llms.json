@@ -18350,6 +18350,16 @@
      "number": "8.3",
      "title": "Gámar, stýring og skýjabyggð tækni",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-03-gámar-stýring-og-skýjatækni/"
+    },
+    {
+     "number": "8.4",
+     "title": "Vettvangsverkfræði og þróunarupplifun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-04-vettvangsverkfræði-og-þróunarupplifun/"
+    },
+    {
+     "number": "8.5",
+     "title": "Prófana- og ferlasjálfvirkni",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-05-prófana-og-ferlasjálfvirkni/"
     }
    ]
   }
