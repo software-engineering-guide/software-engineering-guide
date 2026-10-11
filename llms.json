@@ -19416,6 +19416,16 @@
      "number": "2.1",
      "title": "Padrões de codificação e estilo",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-01-padrões-de-codificação-e-estilo/"
+    },
+    {
+     "number": "2.2",
+     "title": "Princípios de design de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-02-princípios-de-design-de-software/"
+    },
+    {
+     "number": "2.3",
+     "title": "APIs e design de interfaces",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-03-apis-e-design-de-interfaces/"
     }
    ]
   }
