@@ -18420,6 +18420,16 @@
      "number": "10.0",
      "title": "Inngangur að 10. hluta: Verkefna-, vöru- og áætlanastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-00-verkefna-vöru-og-áætlanastjórnun/"
+    },
+    {
+     "number": "10.1",
+     "title": "Eignasafns- og áætlanastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-01-eignasafns-og-áætlanastjórnun/"
+    },
+    {
+     "number": "10.2",
+     "title": "Áhætta, úttekt og trygging",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-02-áhætta-úttekt-og-trygging/"
     }
    ]
   }
