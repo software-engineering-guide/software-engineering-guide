@@ -19566,6 +19566,16 @@
      "number": "3.9",
      "title": "Engenharia de sistemas",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-09-engenharia-de-sistemas/"
+    },
+    {
+     "number": "3.10",
+     "title": "Sistemas embarcados e de tempo real",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-10-sistemas-embarcados-e-de-tempo-real/"
+    },
+    {
+     "number": "3.11",
+     "title": "Arquitetura na nuvem",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-11-arquitetura-na-nuvem/"
     }
    ]
   }
