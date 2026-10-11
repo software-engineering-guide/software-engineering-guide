@@ -18370,6 +18370,16 @@
      "number": "8.7",
      "title": "Smíðakerfi og afurðastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-07-smíðakerfi-og-afurðastjórnun/"
+    },
+    {
+     "number": "9.0",
+     "title": "Inngangur að 9. hluta: Rekstur, áreiðanleiki og vöktun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-00-rekstur-og-áreiðanleiki/"
+    },
+    {
+     "number": "9.1",
+     "title": "Áreiðanleikaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-01-áreiðanleikaverkfræði/"
     }
    ]
   }
