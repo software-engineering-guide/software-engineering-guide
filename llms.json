@@ -19856,6 +19856,16 @@
      "number": "8.7",
      "title": "Sistemas de build e gestão de artefatos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-07-sistemas-de-build-e-gestão-de-artefatos/"
+    },
+    {
+     "number": "9.0",
+     "title": "Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-00-operações-e-confiabilidade/"
+    },
+    {
+     "number": "9.1",
+     "title": "Engenharia de confiabilidade de sites",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-01-engenharia-de-confiabilidade-de-sites/"
     }
    ]
   }
