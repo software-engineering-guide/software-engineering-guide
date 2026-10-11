@@ -19876,6 +19876,16 @@
      "number": "9.3",
      "title": "Gestão de incidentes",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-03-gestão-de-incidentes/"
+    },
+    {
+     "number": "9.4",
+     "title": "Custo, sustentabilidade e software verde",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-04-custos-sustentabilidade-e-software-verde/"
+    },
+    {
+     "number": "9.5",
+     "title": "Recuperação de desastres e continuidade de negócio",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-05-recuperação-de-desastres-e-continuidade-de-negócio/"
     }
    ]
   }
