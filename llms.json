@@ -19686,6 +19686,16 @@
      "number": "5.4",
      "title": "Design de conteúdo e comunicação",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-04-design-de-conteúdo-e-comunicação/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internacionalização e localização",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-05-internacionalização-e-localização/"
+    },
+    {
+     "number": "5.6",
+     "title": "Engenharia de front-end",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-06-engenharia-de-front-end/"
     }
    ]
   }
