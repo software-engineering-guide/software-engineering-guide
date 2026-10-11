@@ -19606,6 +19606,16 @@
      "number": "3.17",
      "title": "Pesquisa e recuperação de informação",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-17-pesquisa-e-recuperação-de-informação/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introdução à Parte 4: Segurança",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-00-segurança/"
+    },
+    {
+     "number": "4.1",
+     "title": "Fundamentos e cultura de segurança",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-01-fundamentos-e-cultura-de-segurança/"
     }
    ]
   }
