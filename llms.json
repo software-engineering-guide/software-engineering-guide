@@ -19726,6 +19726,16 @@
      "number": "6.1",
      "title": "Estratégia e prontidão para IA",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-01-estratégia-e-prontidão-para-ia/"
+    },
+    {
+     "number": "6.2",
+     "title": "Engenharia de aprendizado de máquina (MLOps)",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "IA generativa e aplicações de LLM",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-03-ia-generativa-e-aplicações-llm/"
     }
    ]
   }
