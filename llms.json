@@ -18373,13 +18373,23 @@
     },
     {
      "number": "9.0",
-     "title": "Inngangur að 9. hluta: Rekstur, áreiðanleiki og vöktun",
+     "title": "Inngangur að 9. hluta: Rekstur, áreiðanleiki og sýnileiki",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-00-rekstur-og-áreiðanleiki/"
     },
     {
      "number": "9.1",
      "title": "Áreiðanleikaverkfræði",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-01-áreiðanleikaverkfræði/"
+    },
+    {
+     "number": "9.2",
+     "title": "Sýnileiki og fjarmælingar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"
+    },
+    {
+     "number": "9.3",
+     "title": "Atvikastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"
     }
    ]
   }

@@ -3109,6 +3109,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -3137,6 +3138,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -7340,6 +7342,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -7368,6 +7371,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -11571,6 +11575,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -11599,6 +11604,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -15802,6 +15808,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -15830,6 +15837,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -20033,6 +20041,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -20061,6 +20070,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -24264,6 +24274,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -24292,6 +24303,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -28495,6 +28507,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -28523,6 +28536,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -32726,6 +32740,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -32754,6 +32769,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -36957,6 +36973,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -36985,6 +37002,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -41188,6 +41206,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -41216,6 +41235,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -45419,6 +45439,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -45447,6 +45468,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -49650,6 +49672,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -49678,6 +49701,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -53881,6 +53905,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -53909,6 +53934,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -58112,6 +58138,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -58140,6 +58167,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -62343,6 +62371,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -62371,6 +62400,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -66574,6 +66604,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -66602,6 +66633,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -70805,6 +70837,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -70833,6 +70866,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -75036,6 +75070,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -75064,6 +75099,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -79267,6 +79303,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -79295,6 +79332,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -83498,6 +83536,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -83526,6 +83565,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -87729,6 +87769,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -87757,6 +87798,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -91960,6 +92002,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -91988,6 +92031,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -96191,6 +96235,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -96219,6 +96264,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -100422,6 +100468,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
   </url>
   <url>
@@ -100450,6 +100497,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
   <url>
@@ -104626,5 +104674,63 @@
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-01-site-reliability-engineering/"/>
     <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-01-áreiðanleikaverkfræði/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-01-site-reliability-engineering/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/09-02-arsylladwyedd-a-thelemetreg/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/09-02-observability-and-telemetry/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/09-02-observability-and-telemetry/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/09-02-observabilidad-y-telemetría/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/09-02-ऑब्ज़र्वेबिलिटी-और-टेलीमेट्री/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/09-02-可观测性与遥测/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/09-02-可观测性与遥测/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/09-02-قابلية-المراقبة-والقياس-عن-بعد/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/09-02-beobachtbarkeit-und-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/09-02-beobachtbarkeit-und-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/09-02-observabilite-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/09-02-পর্যবেক্ষণযোগ্যতা-ও-টেলিমেট্রি/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-02-arsylladwyedd-a-thelemetreg/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-02-ऑब्ज़र्वेबिलिटी-और-टेलीमेट्री/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-02-observabilitas-dan-telemetri/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-02-オブザーバビリティとテレメトリ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/09-02-オブザーバビリティとテレメトリ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/09-02-관측-가능성과-텔레메트리/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/09-02-관측-가능성과-텔레메트리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/09-02-observerbarhet-och-telemetri/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-02-observerbarhet-och-telemetri/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-02-observeerbaarheid-en-telemetrie/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-02-observability-and-telemetry/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/09-03-rheoli-digwyddiadau/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/09-03-incident-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/09-03-incident-management/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/09-03-gestión-de-incidentes/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/09-03-इंसिडेंट-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/09-03-事件管理/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/09-03-事件管理/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/09-03-إدارة-الحوادث/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/09-03-vorfallmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/09-03-vorfallmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/09-03-gestion-incident/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/09-03-ঘটনা-ব্যবস্থাপনা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/09-03-rheoli-digwyddiadau/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/09-03-इंसिडेंट-प्रबंधन/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/09-03-manajemen-insiden/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/09-03-インシデント管理/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/09-03-インシデント管理/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/09-03-인시던트-관리/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/09-03-인시던트-관리/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/09-03-incidenthantering/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/09-03-incidenthantering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/09-03-incidentmanagement/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/09-03-incident-management/"/>
   </url>
 </urlset>

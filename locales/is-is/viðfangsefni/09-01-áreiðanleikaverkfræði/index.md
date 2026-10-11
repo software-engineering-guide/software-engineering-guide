@@ -8,7 +8,7 @@ Fyrir stór teymi skiptir þetta máli því stærð hækkar bæði verðmæti �
 
 Fyrirtækja- og opinbert umhverfi bætir við frekara vægi. Regluverkaðar atvinnugreinar eins og bankar, heilbrigðisþjónusta og opinber þjónusta bera oft lagalegar eða samningsbundnar aðgengisskuldbindingar, úttektarkröfur og lítið þol fyrir rofum sem hafa áhrif á borgara eða öryggi. Opinber stafræn þjónusta birtir í auknum mæli áreiðanleikamarkmið sín og afkastagögn opinberlega. SRE gefur þér strangan, sönnunarbyggðan hátt til að skilgreina hvað „nógu áreiðanlegt“ þýðir, mæla það heiðarlega og verja verkfræðiforgangsröðun fyrir forystu og eftirlitsaðilum með gögnum frekar en skoðun.
 
-*Sjá einnig:* kafla 9.2 (vöktun og eftirlit), kafla 9.3 (atvikastjórnun) og kafla 3.5 (stigvöxtur, afköst og seigla).
+*Sjá einnig:* kafla 9.2 (sýnileiki og fjarmælingar), kafla 9.3 (atvikastjórnun) og kafla 3.5 (stigvöxtur, afköst og seigla).
 
 ## Meginreglur
 
@@ -86,7 +86,7 @@ Ekkert eitt rétt skipulag er til. **Miðlægt** SRE-teymi gefur þér samræmi,
 
 **Sprotafyrirtæki.** Tíu manna sprotafyrirtæki rekur eitt vefforrit og deilir bakvakt yfir þrjá verkfræðinga. Frekar en að byggja áreiðanleikateymi sem það hefur ekki efni á velur það eitt marktækt SLO: 99,5 prósent árangur á innskráningar-að-mælaborði flæðinu, mælt af raunverulegum notendabeiðnum. Þegar óstöðugt API þriðja aðila byrjar að éta þá fjárhagsáætlun eyðir teymið föstudegi í að bæta við endurtilraun og skyndiminni í stað þess að afhenda næsta eiginleika, skrifar síðan tveggja málsgreina eftirmálsrýni í sameiginlegt skjal svo lagfæringin festist.
 
-**Stórfyrirtæki.** Alþjóðlegt greiðslufyrirtæki setur 99,99 prósent aðgengis-SLO fyrir færslu-API sitt, sem gefur villufjárhagsáætlun upp á um fjórar mínútur á mánuði. Miðlægt SRE-vettvangsteymi á sameiginlega [vöktun](https://en.wikipedia.org/wiki/Observability_(software)), atvikaverkfæri og villufjárhagsáætlunarstefnuna, á meðan innbyggðir áreiðanleikaverkfræðingar vinna inni í hverjum vöruhóp. Þegar nýr svikagreiningareiginleiki brennir hálfri mánaðarfjárhagsáætlun á viku frystir fyrirfram samþykkt stefna óbrýnar útgáfur þar til áreiðanleikavinna endurheimtir svigrúm. Stjórnendur sætta sig við þetta án deilu, því þeir staðfestu stefnuna fyrirfram.
+**Stórfyrirtæki.** Alþjóðlegt greiðslufyrirtæki setur 99,99 prósent aðgengis-SLO fyrir færslu-API sitt, sem gefur villufjárhagsáætlun upp á um fjórar mínútur á mánuði. Miðlægt SRE-vettvangsteymi á sameiginlegan [sýnileika](https://en.wikipedia.org/wiki/Observability_(software)), atvikaverkfæri og villufjárhagsáætlunarstefnuna, á meðan innbyggðir áreiðanleikaverkfræðingar vinna inni í hverjum vöruhóp. Þegar nýr svikagreiningareiginleiki brennir hálfri mánaðarfjárhagsáætlun á viku frystir fyrirfram samþykkt stefna óbrýnar útgáfur þar til áreiðanleikavinna endurheimtir svigrúm. Stjórnendur sætta sig við þetta án deilu, því þeir staðfestu stefnuna fyrirfram.
 
 **Hið opinbera.** Landsbundið skattyfirvald rekur netframtalsþjónustu með miklum árstíðabundnum toppum í kringum árlega frestinn. SRE-teymi þess spáir eftirspurn úr fyrri árum auk mannfjölda- og stefnubreytinga, álagsprófar upp í margfalt eðlilegt hámark og útvegar afkastagetu vikum fyrirfram. Opinber SLO fyrir aðgengi og síðutöf fara á stöðumælaborð. Menning eftirmálsrýni án sakbendingar (að rýna bilanir til að bæta kerfi frekar en að kenna einstaklingum) og sjálfvirknivæðingarumboð skera jafnt og þétt handvirk inngrip sem áður réðu framtalstímabilinu og losa starfsfólk til að bæta kerfið frekar en að hjúkra því gegnum hvern frest.
 
