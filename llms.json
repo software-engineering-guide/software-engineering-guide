@@ -19456,6 +19456,16 @@
      "number": "2.9",
      "title": "Construção de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-09-construção-de-software/"
+    },
+    {
+     "number": "2.10",
+     "title": "Gestão de configuração de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-10-gestão-de-configuração-de-software/"
+    },
+    {
+     "number": "2.11",
+     "title": "Qualidade de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-11-qualidade-de-software/"
     }
    ]
   }
