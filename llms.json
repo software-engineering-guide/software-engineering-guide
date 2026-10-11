@@ -19966,6 +19966,16 @@
      "number": "10.12",
      "title": "Código aberto versus código fechado",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-12-código-aberto-versus-código-fechado/"
+    },
+    {
+     "number": "10.13",
+     "title": "Colaboração entre organizações",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-13-colaboração-entre-organizações/"
+    },
+    {
+     "number": "10.14",
+     "title": "Gestão de produto e descoberta",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-14-gestão-de-produto-e-descoberta/"
     }
    ]
   }
