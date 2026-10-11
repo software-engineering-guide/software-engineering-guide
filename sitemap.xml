@@ -1659,6 +1659,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -1687,6 +1688,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -5840,6 +5842,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -5868,6 +5871,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -10021,6 +10025,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -10049,6 +10054,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -14202,6 +14208,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -14230,6 +14237,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -18383,6 +18391,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -18411,6 +18420,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -22564,6 +22574,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -22592,6 +22603,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -26745,6 +26757,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -26773,6 +26786,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -30926,6 +30940,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -30954,6 +30969,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -35107,6 +35123,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -35135,6 +35152,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -39288,6 +39306,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -39316,6 +39335,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -43469,6 +43489,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -43497,6 +43518,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -47650,6 +47672,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -47678,6 +47701,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -51831,6 +51855,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -51859,6 +51884,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -56012,6 +56038,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -56040,6 +56067,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -60193,6 +60221,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -60221,6 +60250,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -64374,6 +64404,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -64402,6 +64433,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -68555,6 +68587,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -68583,6 +68616,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -72736,6 +72770,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -72764,6 +72799,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -76917,6 +76953,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -76945,6 +76982,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -81098,6 +81136,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -81126,6 +81165,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -85279,6 +85319,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -85307,6 +85348,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -89460,6 +89502,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -89488,6 +89531,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -93641,6 +93685,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -93669,6 +93714,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -97822,6 +97868,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
   </url>
   <url>
@@ -97850,6 +97897,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
   <url>
@@ -101976,5 +102024,63 @@
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-01-beveiligingsfundamenten-en-cultuur/"/>
     <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-01-öryggisgrunnur-og-menning/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-01-security-foundations-and-culture/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/04-02-diogelwch-cymwysiadau/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/04-02-application-security/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/04-02-application-security/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/04-02-seguridad-de-aplicaciones/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/04-02-एप्लिकेशन-सुरक्षा/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/04-02-应用安全/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/04-02-应用安全/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/04-02-أمان-التطبيقات/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/04-02-anwendungssicherheit/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/04-02-anwendungssicherheit/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/04-02-securite-applicative/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/04-02-অ্যাপ্লিকেশন-নিরাপত্তা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/04-02-diogelwch-cymwysiadau/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/04-02-एप्लिकेशन-सुरक्षा/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/04-02-keamanan-aplikasi/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/04-02-アプリケーションセキュリティ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-02-アプリケーションセキュリティ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-02-애플리케이션-보안/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-02-애플리케이션-보안/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-02-applikationssäkerhet/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-02-applikationssäkerhet/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-02-applicatiebeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-02-application-security/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/04-03-diogelwch-seilwaith-a-chwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/04-03-infrastructure-and-cloud-security/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/04-03-infrastructure-and-cloud-security/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/04-03-seguridad-de-infraestructura-y-nube/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/04-03-इंफ्रास्ट्रक्चर-और-क्लाउड-सुरक्षा/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/04-03-基础设施与云安全/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/04-03-基础设施与云安全/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/04-03-أمان-البنية-التحتية-والسحابة/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/04-03-infrastruktur-und-cloud-sicherheit/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/04-03-infrastruktur-und-cloud-sicherheit/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/04-03-securite-infrastructure-cloud/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/04-03-অবকাঠামো-ও-ক্লাউড-নিরাপত্তা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/04-03-diogelwch-seilwaith-a-chwmwl/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/04-03-इंफ्रास्ट्रक्चर-और-क्लाउड-सुरक्षा/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/04-03-keamanan-infrastruktur-dan-cloud/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/04-03-インフラストラクチャとクラウドのセキュリティ/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/04-03-インフラストラクチャとクラウドのセキュリティ/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/04-03-인프라와-클라우드-보안/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/04-03-인프라와-클라우드-보안/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/04-03-infrastruktur-och-molnsäkerhet/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/04-03-infrastructuur-en-cloudbeveiliging/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/04-03-infrastructure-and-cloud-security/"/>
   </url>
 </urlset>

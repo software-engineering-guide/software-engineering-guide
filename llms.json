@@ -18130,6 +18130,16 @@
      "number": "4.1",
      "title": "Öryggisgrunnur og menning",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-01-öryggisgrunnur-og-menning/"
+    },
+    {
+     "number": "4.2",
+     "title": "Forritaöryggi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-02-forritaöryggi/"
+    },
+    {
+     "number": "4.3",
+     "title": "Öryggi innviða og skýs",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-03-öryggi-innviða-og-skýs/"
     }
    ]
   }
