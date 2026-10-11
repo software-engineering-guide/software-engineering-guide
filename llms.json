@@ -19476,6 +19476,16 @@
      "number": "2.13",
      "title": "Fundamentos de computação, matemática e engenharia",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-13-fundamentos-de-computação-matemática-e-engenharia/"
+    },
+    {
+     "number": "2.14",
+     "title": "Estrutura de projetos e repositórios",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-14-estrutura-de-projetos-e-repositórios/"
+    },
+    {
+     "number": "2.15",
+     "title": "Depuração e resolução de problemas",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-15-depuração-e-resolução-de-problemas/"
     }
    ]
   }
