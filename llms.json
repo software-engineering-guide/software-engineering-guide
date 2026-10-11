@@ -19976,6 +19976,16 @@
      "number": "10.14",
      "title": "Gestão de produto e descoberta",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-14-gestão-de-produto-e-descoberta/"
+    },
+    {
+     "number": "10.15",
+     "title": "Estimativa e previsão",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-15-estimativa-e-previsão/"
+    },
+    {
+     "number": "10.16",
+     "title": "Gestão de partes interessadas e comunicação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-16-gestão-de-partes-interessadas-e-comunicação/"
     }
    ]
   }
