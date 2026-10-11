@@ -18320,6 +18320,16 @@
      "number": "7.7",
      "title": "Gagnalíkön og merkingarlagið",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-07-gagnalíkön-og-merkingarlag/"
+    },
+    {
+     "number": "7.8",
+     "title": "Gagnagæði og gagnavöktun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-08-gagnagæði-og-sýnileiki/"
+    },
+    {
+     "number": "7.9",
+     "title": "Stofngagna- og tilvísunargagnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-09-stofngögn-og-tilvísunargögn/"
     }
    ]
   }
