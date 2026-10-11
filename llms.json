@@ -19866,6 +19866,16 @@
      "number": "9.1",
      "title": "Engenharia de confiabilidade de sites",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-01-engenharia-de-confiabilidade-de-sites/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observabilidade e telemetria",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-02-observabilidade-e-telemetria/"
+    },
+    {
+     "number": "9.3",
+     "title": "Gestão de incidentes",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-03-gestão-de-incidentes/"
     }
    ]
   }
