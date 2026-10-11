@@ -18160,6 +18160,16 @@
      "number": "4.7",
      "title": "Auðkenna- og aðgangsstýring",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-07-auðkenna-og-aðgangsstýring/"
+    },
+    {
+     "number": "4.8",
+     "title": "Dulritun og lyklastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-08-dulritun-og-lyklastjórnun/"
+    },
+    {
+     "number": "4.9",
+     "title": "Öruggur hugbúnaðarlífsferill",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/04-09-öruggur-hugbúnaðarlífsferill/"
     }
    ]
   }
