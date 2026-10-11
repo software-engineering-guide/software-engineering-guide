@@ -18290,6 +18290,16 @@
      "number": "7.1",
      "title": "Gagnastefna og gagnastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-01-gagnastefna-og-gagnastjórnun/"
+    },
+    {
+     "number": "7.2",
+     "title": "Gagnaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-02-gagnaverkfræði/"
+    },
+    {
+     "number": "7.3",
+     "title": "Greining og viðskiptagreind",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-03-greining-og-viðskiptagreind/"
     }
    ]
   }
