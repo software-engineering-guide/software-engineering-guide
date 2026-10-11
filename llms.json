@@ -19926,6 +19926,16 @@
      "number": "10.4",
      "title": "Sustentação de sistemas grandes e de vida longa",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-04-sustentação-de-sistemas-grandes-e-duradouros/"
+    },
+    {
+     "number": "10.5",
+     "title": "Ética, responsabilização e interesse público",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-05-ética-responsabilização-e-interesse-público/"
+    },
+    {
+     "number": "10.6",
+     "title": "Gestão de projetos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-06-gestão-de-projetos/"
     }
    ]
   }
