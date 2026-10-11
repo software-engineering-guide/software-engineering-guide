@@ -18280,6 +18280,16 @@
      "number": "6.9",
      "title": "Fyrirmælaverkfræði og samhengishönnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-09-fyrirmælahönnun-og-samhengishönnun/"
+    },
+    {
+     "number": "7.0",
+     "title": "Inngangur að 7. hluta: Gögn, greining og innsýn",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-00-gögn-og-greining/"
+    },
+    {
+     "number": "7.1",
+     "title": "Gagnastefna og gagnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-01-gagnastefna-og-gagnastjórnun/"
     }
    ]
   }
