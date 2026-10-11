@@ -18260,6 +18260,16 @@
      "number": "6.5",
      "title": "Ábyrg og traustverð gervigreind",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-05-ábyrg-og-áreiðanleg-gervigreind/"
+    },
+    {
+     "number": "6.6",
+     "title": "Innviðir og rekstur gervigreindar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-06-innviðir-og-rekstur-gervigreindar/"
+    },
+    {
+     "number": "6.7",
+     "title": "Gervigreindarfulltrúar og sjálfstæð kerfi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-07-gervigreindarfulltrúar-og-sjálfstæð-kerfi/"
     }
    ]
   }
