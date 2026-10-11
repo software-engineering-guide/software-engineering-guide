@@ -18240,6 +18240,16 @@
      "number": "6.1",
      "title": "Stefna og viðbúnaður í gervigreind",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-01-stefna-og-viðbúnaður-í-gervigreind/"
+    },
+    {
+     "number": "6.2",
+     "title": "Vélnámsverkfræði (MLOps)",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Skapandi gervigreind og forrit byggð á stórum mállíkönum",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-03-skapandi-gervigreind-og-lmm-forrit/"
     }
    ]
   }
