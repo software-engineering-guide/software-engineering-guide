@@ -18540,6 +18540,16 @@
      "number": "11.5",
      "title": "Lykilárangursvísar (KPI)",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-05-lykilframmistöðumælikvarðar/"
+    },
+    {
+     "number": "11.6",
+     "title": "Verðmætastraumskortlagning og kostnaður seinkunar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-06-virðisstraumskortlagning-og-kostnaður-tafar/"
+    },
+    {
+     "number": "12.0",
+     "title": "Viðaukar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-00-viðaukar/"
     }
    ]
   }

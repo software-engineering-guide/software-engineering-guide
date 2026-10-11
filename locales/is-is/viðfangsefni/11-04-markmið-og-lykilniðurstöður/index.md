@@ -35,7 +35,7 @@ Samstilling gengur báðar leiðir. Í **niðurflæðandi (ofan-frá) samstillin
 
 ### Keyrðu agaðan takt: settu, rýndu, gefðu einkunn
 
-Keyrðu OKR á takti, oftast **ársfjórðungslega** fyrir teymi innan **árlegs** fyrirtækjaramma. **Setning** semur drög aða, semur og birtir, svo hvert teymi sjái OKR hvers annars teymis. **Rýni á miðri lotu** sameinar létta vikulega stöðuathugun við formlegan miðpunkt, rekur traust hvers teymis og dregur fram hindranir á meðan enn er tími til að bregðast við. Lykilniðurstaða sem stefnir í rautt á miðri lotu ætti að ræsa stjórnarháttaákvörðun (kafli 1.5), ekki óvænta uppákomu í lok ársfjórðungs. **Einkunnagjöf** gefur hverri lykilniðurstöðu heiðarlega einkunn á skalanum 0,0 til 1,0, þar sem einkunnin er nokkurn veginn brotið af markmiðinu sem náðist. Stutt afturlit ákveður síðan hvort markmiðið heldur áfram, breytist eða er lagt niður.
+Keyrðu OKR á takti, oftast **ársfjórðungslega** fyrir teymi innan **árlegs** fyrirtækjaramma. **Setning** semur drög, semur um og birtir, svo hvert teymi sjái OKR hvers annars teymis. **Rýni á miðri lotu** sameinar létta vikulega stöðuathugun við formlegan miðpunkt, rekur traust hvers teymis og dregur fram hindranir á meðan enn er tími til að bregðast við. Lykilniðurstaða sem stefnir í rautt á miðri lotu ætti að ræsa stjórnarháttaákvörðun (kafli 1.5), ekki óvænta uppákomu í lok ársfjórðungs. **Einkunnagjöf** gefur hverri lykilniðurstöðu heiðarlega einkunn á skalanum 0,0 til 1,0, þar sem einkunnin er nokkurn veginn brotið af markmiðinu sem náðist. Stutt afturlit ákveður síðan hvort markmiðið heldur áfram, breytist eða er lagt niður.
 
 ### Aðgreindu metnaðarfull frá skuldbundnum OKR
 
