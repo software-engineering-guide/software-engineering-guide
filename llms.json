@@ -19436,6 +19436,16 @@
      "number": "2.5",
      "title": "Revisão de código e colaboração",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-05-revisão-de-código-e-colaboração/"
+    },
+    {
+     "number": "2.6",
+     "title": "Controle de versões e gestão de código-fonte",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-06-controle-de-versões-e-gestão-de-código-fonte/"
+    },
+    {
+     "number": "2.7",
+     "title": "Documentação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-07-documentação/"
     }
    ]
   }
