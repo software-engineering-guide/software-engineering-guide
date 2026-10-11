@@ -19786,6 +19786,16 @@
      "number": "7.3",
      "title": "Análises e inteligência de negócio",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-03-análises-e-inteligência-de-negócio/"
+    },
+    {
+     "number": "7.4",
+     "title": "Análises de produto e experimentação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-04-análises-de-produto-e-experimentação/"
+    },
+    {
+     "number": "7.5",
+     "title": "Ciência de decisão e cultura de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-05-ciência-de-decisão-e-cultura-de-dados/"
     }
    ]
   }
