@@ -19586,6 +19586,16 @@
      "number": "3.13",
      "title": "Redes e conectividade",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-13-redes-e-conectividade/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multilocação e arquitetura SaaS",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-14-multilocação-e-arquitetura-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Cache e distribuição de conteúdo",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-15-cache-e-distribuição-de-conteúdo/"
     }
    ]
   }
