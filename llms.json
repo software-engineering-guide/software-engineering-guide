@@ -19896,6 +19896,16 @@
      "number": "9.7",
      "title": "Planejamento de capacidade e previsão de demanda",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-07-planejamento-de-capacidade-e-previsão-de-demanda/"
+    },
+    {
+     "number": "9.8",
+     "title": "Sobreaviso e prontidão operacional",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-08-sobreaviso-e-prontidão-operacional/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introdução à Parte 10: Gestão de projetos, produtos e programas",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-00-gestão-de-projetos-produtos-e-programas/"
     }
    ]
   }
