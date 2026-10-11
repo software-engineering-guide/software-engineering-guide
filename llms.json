@@ -19446,6 +19446,16 @@
      "number": "2.7",
      "title": "Documentação",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-07-documentação/"
+    },
+    {
+     "number": "2.8",
+     "title": "Requisitos de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-08-requisitos-de-software/"
+    },
+    {
+     "number": "2.9",
+     "title": "Construção de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-09-construção-de-software/"
     }
    ]
   }
