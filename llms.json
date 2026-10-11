@@ -18510,6 +18510,16 @@
      "number": "10.18",
      "title": "Skrifstofa opins hugbúnaðar (OSPO) og framlög til upprunaverkefna",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-18-skrifstofa-opins-hugbúnaðar/"
+    },
+    {
+     "number": "11.0",
+     "title": "Inngangur að 11. hluta: Flæði: Uppgötvunar- og afhendingarleiðslur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-00-flæði-uppgötvun-og-afhending/"
+    },
+    {
+     "number": "11.1",
+     "title": "Uppgötvunarferlið",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-01-uppgötvunarferli/"
     }
    ]
   }
