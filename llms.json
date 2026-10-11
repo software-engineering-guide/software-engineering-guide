@@ -18230,6 +18230,16 @@
      "number": "5.10",
      "title": "Hönnun gagnasjónrænnar framsetningar",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-10-hönnun-gagnasjónrænnar-framsetningar/"
+    },
+    {
+     "number": "6.0",
+     "title": "Inngangur að 6. hluta: Gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-00-gervigreind/"
+    },
+    {
+     "number": "6.1",
+     "title": "Stefna og viðbúnaður í gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/06-01-stefna-og-viðbúnaður-í-gervigreind/"
     }
    ]
   }
