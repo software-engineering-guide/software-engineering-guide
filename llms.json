@@ -18390,6 +18390,16 @@
      "number": "9.3",
      "title": "Atvikastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-03-atvikastjórnun/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kostnaður, sjálfbærni og græn hugbúnaðargerð",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-04-kostnaður-sjálfbærni-og-græn-hugbúnaðargerð/"
+    },
+    {
+     "number": "9.5",
+     "title": "Hamfarabati og samfella í rekstri",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-05-hamfarabati-og-samfella-í-rekstri/"
     }
    ]
   }
