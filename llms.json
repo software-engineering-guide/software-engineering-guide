@@ -19796,6 +19796,16 @@
      "number": "7.5",
      "title": "Ciência de decisão e cultura de dados",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-05-ciência-de-decisão-e-cultura-de-dados/"
+    },
+    {
+     "number": "7.6",
+     "title": "Dados em tempo real e streaming",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-06-dados-em-tempo-real-e-streaming/"
+    },
+    {
+     "number": "7.7",
+     "title": "Modelagem de dados e camada semântica",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-07-modelagem-de-dados-e-camada-semântica/"
     }
    ]
   }
