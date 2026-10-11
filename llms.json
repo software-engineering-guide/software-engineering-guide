@@ -19496,6 +19496,16 @@
      "number": "2.17",
      "title": "Concorrência e paralelismo",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-17-concorrência-e-paralelismo/"
+    },
+    {
+     "number": "2.18",
+     "title": "Gestão de dependências e da cadeia de suprimentos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refatoração e dívida técnica",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-19-refatoração-e-dívida-técnica/"
     }
    ]
   }
