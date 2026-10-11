@@ -18220,6 +18220,16 @@
      "number": "5.8",
      "title": "Hönnunarrannsóknir og nothæfisprófanir",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-08-hönnunarrannsóknir-og-nothæfisprófanir/"
+    },
+    {
+     "number": "5.9",
+     "title": "Þjónustuhönnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-09-þjónustuhönnun/"
+    },
+    {
+     "number": "5.10",
+     "title": "Hönnun gagnasjónrænnar framsetningar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-10-hönnun-gagnasjónrænnar-framsetningar/"
     }
    ]
   }
