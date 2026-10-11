@@ -19346,6 +19346,16 @@
      "number": "1.1",
      "title": "Valores da engenharia de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-01-valores-da-engenharia-de-software/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topologias de equipes e desenho organizacional",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-02-topologias-de-equipes/"
+    },
+    {
+     "number": "1.3",
+     "title": "Funções, escadas de carreira e crescimento",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-03-funções-carreiras-e-crescimento/"
     }
    ]
   }
