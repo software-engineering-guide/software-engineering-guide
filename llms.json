@@ -19526,6 +19526,16 @@
      "number": "3.1",
      "title": "Fundamentos de arquitetura",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-01-fundamentos-de-arquitetura/"
+    },
+    {
+     "number": "3.2",
+     "title": "Estilos e padrões arquiteturais",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-02-estilos-e-padrões-arquiteturais/"
+    },
+    {
+     "number": "3.3",
+     "title": "Sistemas distribuídos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-03-sistemas-distribuídos/"
     }
    ]
   }
