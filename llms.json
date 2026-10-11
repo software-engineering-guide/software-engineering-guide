@@ -19656,6 +19656,16 @@
      "number": "4.9",
      "title": "Ciclo de vida de desenvolvimento seguro de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-09-ciclo-de-vida-de-desenvolvimento-seguro/"
+    },
+    {
+     "number": "4.10",
+     "title": "Testes de intrusão e red teaming",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-10-testes-de-intrusão-e-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introdução à Parte 5: Design de UI e UX",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-00-design-de-ui-e-ux/"
     }
    ]
   }
