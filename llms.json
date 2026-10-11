@@ -19466,6 +19466,16 @@
      "number": "2.11",
      "title": "Qualidade de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-11-qualidade-de-software/"
+    },
+    {
+     "number": "2.12",
+     "title": "Modelos e métodos de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-12-modelos-e-métodos-de-software/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fundamentos de computação, matemática e engenharia",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-13-fundamentos-de-computação-matemática-e-engenharia/"
     }
    ]
   }
