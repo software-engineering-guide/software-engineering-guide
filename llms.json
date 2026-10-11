@@ -19426,6 +19426,16 @@
      "number": "2.3",
      "title": "APIs e design de interfaces",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-03-apis-e-design-de-interfaces/"
+    },
+    {
+     "number": "2.4",
+     "title": "Estratégia de testes",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-04-estratégia-de-testes/"
+    },
+    {
+     "number": "2.5",
+     "title": "Revisão de código e colaboração",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-05-revisão-de-código-e-colaboração/"
     }
    ]
   }
