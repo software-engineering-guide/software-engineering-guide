@@ -18310,6 +18310,16 @@
      "number": "7.5",
      "title": "Ákvörðunarvísindi og gagnaupplýst menning",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-05-ákvörðunarvísindi-og-gagnamenning/"
+    },
+    {
+     "number": "7.6",
+     "title": "Rauntíma- og straumgögn",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-06-rauntíma-og-straumgögn/"
+    },
+    {
+     "number": "7.7",
+     "title": "Gagnalíkön og merkingarlagið",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-07-gagnalíkön-og-merkingarlag/"
     }
    ]
   }
