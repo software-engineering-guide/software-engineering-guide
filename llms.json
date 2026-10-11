@@ -18200,6 +18200,16 @@
      "number": "5.4",
      "title": "Efnis- og samskiptahönnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-04-efnis-og-samskiptahönnun/"
+    },
+    {
+     "number": "5.5",
+     "title": "Alþjóðavæðing og staðfærsla",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-05-alþjóðavæðing-og-staðfærsla/"
+    },
+    {
+     "number": "5.6",
+     "title": "Framendaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/05-06-framendaverkfræði/"
     }
    ]
   }
