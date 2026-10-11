@@ -19376,6 +19376,16 @@
      "number": "1.7",
      "title": "Padrões de engenharia e exceções",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-07-padrões-de-engenharia-e-exceções/"
+    },
+    {
+     "number": "1.8",
+     "title": "Contratação, entrevistas e integração",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-08-contratação-entrevistas-e-integração/"
+    },
+    {
+     "number": "1.9",
+     "title": "Trabalho distribuído e remoto",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-09-trabalho-distribuído-e-remoto/"
     }
    ]
   }
