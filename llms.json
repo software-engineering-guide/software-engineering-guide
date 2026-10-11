@@ -19546,6 +19546,16 @@
      "number": "3.5",
      "title": "Escalabilidade, desempenho e resiliência",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-05-escalabilidade-desempenho-e-resiliência/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernização de sistemas legados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-06-modernização-de-sistemas-legados/"
+    },
+    {
+     "number": "3.7",
+     "title": "Manutenção de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/03-07-manutenção-de-software/"
     }
    ]
   }
