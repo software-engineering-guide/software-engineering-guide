@@ -19506,6 +19506,16 @@
      "number": "2.19",
      "title": "Refatoração e dívida técnica",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-19-refatoração-e-dívida-técnica/"
+    },
+    {
+     "number": "2.20",
+     "title": "Tratamento de erros e padrões de resiliência",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-20-tratamento-de-erros-e-padrões-de-resiliência/"
+    },
+    {
+     "number": "2.21",
+     "title": "Sistemas de tipos e análise estática",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-21-sistemas-de-tipos-e-análise-estática/"
     }
    ]
   }
