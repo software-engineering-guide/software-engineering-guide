@@ -19666,6 +19666,16 @@
      "number": "5.0",
      "title": "Introdução à Parte 5: Design de UI e UX",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-00-design-de-ui-e-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Fundamentos de UX",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-01-fundamentos-de-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Design de UI e sistemas de design",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-02-design-de-ui-e-sistemas-de-design/"
     }
    ]
   }
