@@ -30,7 +30,7 @@ Matsdrifin þróun breytir hegðun teymis. Þegar skilgreining á góðu er skri
 
 Óbeintengt mat keyrir fast gagnasafn gegnum kerfið þitt í stýrðu umhverfi, hratt, ódýrt og endurtakanlega, svo þú getir borið saman útgáfur áður en nokkuð fer í loftið. Beintengt mat mælir lifandi kerfið með raunverulegum notendum gegnum mælikvarða eins og verklok, stigmögnunarhlutfall, þumal upp og þumal niður endurgjöf og viðskiptaniðurstöður síðar í ferlinu. Óbeintengt segir þér hvort breyting sé líkleg til að vera örugg. Beintengt segir þér hvort hún virkaði í raun. Þú þarft hvort tveggja, því óbeintengd söfn ná aldrei fullkomlega raunveruleikanum og beintengd merki berast of seint til að vera eini varnarveggurinn þinn.
 
-Tengdu þetta tvennt í lykkju. Þegar beintengdir mælikvarðar dýfa eða notendur merkja slæmt svar skaltu fanga það tilvik, merkja það og fella það inn í óbeintengda safnið. Leiddu tilraunir gegnum sama stýrða samanburð og þú notar fyrir allar vörubreytingar, sem er svið vöruaðgreiningar og tilrauna (kafli 7.4). A/B-prófun sem sýnir að nýtt líkan lyftir verkárangri er meira virði en nokkur óbeintengd einkunn, samt er það óbeintengda einkunnin sem lét þig þora að keyra prófið.
+Tengdu þetta tvennt í lykkju. Þegar beintengdir mælikvarðar dýfa eða notendur merkja slæmt svar skaltu fanga það tilvik, merkja það og fella það inn í óbeintengda safnið. Leiddu tilraunir gegnum sama stýrða samanburð og þú notar fyrir allar vörubreytingar, sem er svið vörugreiningar og tilrauna (kafli 7.4). A/B-prófun sem sýnir að nýtt líkan lyftir verkárangri er meira virði en nokkur óbeintengd einkunn, samt er það óbeintengda einkunnin sem lét þig þora að keyra prófið.
 
 ### Smíðaðu dæmigerð matssöfn og varðu þau gegn mengun
 

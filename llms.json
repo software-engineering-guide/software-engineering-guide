@@ -18300,6 +18300,16 @@
      "number": "7.3",
      "title": "Greining og viðskiptagreind",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-03-greining-og-viðskiptagreind/"
+    },
+    {
+     "number": "7.4",
+     "title": "Vörugreining og tilraunir",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-04-vörugreining-og-tilraunir/"
+    },
+    {
+     "number": "7.5",
+     "title": "Ákvörðunarvísindi og gagnaupplýst menning",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/07-05-ákvörðunarvísindi-og-gagnamenning/"
     }
    ]
   }
