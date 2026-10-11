@@ -19916,6 +19916,16 @@
      "number": "10.2",
      "title": "Risco, auditoria e garantia",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-02-risco-auditoria-e-garantia/"
+    },
+    {
+     "number": "10.3",
+     "title": "Contratação, código aberto e licenciamento",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-03-aquisições-código-aberto-e-licenciamento/"
+    },
+    {
+     "number": "10.4",
+     "title": "Sustentação de sistemas grandes e de vida longa",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-04-sustentação-de-sistemas-grandes-e-duradouros/"
     }
    ]
   }
