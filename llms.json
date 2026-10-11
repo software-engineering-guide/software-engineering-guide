@@ -18450,6 +18450,16 @@
      "number": "10.6",
      "title": "Verkefnastjórnun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-06-verkefnastjórnun/"
+    },
+    {
+     "number": "10.7",
+     "title": "Lipur aðferðafræði",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-07-lipur-aðferðafræði/"
+    },
+    {
+     "number": "10.8",
+     "title": "Þroskalíkön",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-08-þroskalíkön/"
     }
    ]
   }
