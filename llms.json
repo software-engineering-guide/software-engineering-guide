@@ -19406,6 +19406,16 @@
      "number": "1.13",
      "title": "Mentoria, coaching e compartilhamento de conhecimento",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-13-mentoria-coaching-e-compartilhamento-de-conhecimento/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introdução à Parte 2: Programação de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-00-programação-de-software/"
+    },
+    {
+     "number": "2.1",
+     "title": "Padrões de codificação e estilo",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-01-padrões-de-codificação-e-estilo/"
     }
    ]
   }
