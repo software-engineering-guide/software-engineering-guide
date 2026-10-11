@@ -19636,6 +19636,16 @@
      "number": "4.5",
      "title": "Privacidade e proteção de dados",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-05-privacidade-e-proteção-de-dados/"
+    },
+    {
+     "number": "4.6",
+     "title": "Conformidade e governança",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-06-conformidade-e-governança/"
+    },
+    {
+     "number": "4.7",
+     "title": "Gestão de identidades e acessos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-07-gestão-de-identidades-e-acessos/"
     }
    ]
   }
