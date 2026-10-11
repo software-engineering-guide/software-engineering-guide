@@ -18490,6 +18490,16 @@
      "number": "10.14",
      "title": "Vörustjórnun og uppgötvun",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-14-vörustjórnun-og-uppgötvun/"
+    },
+    {
+     "number": "10.15",
+     "title": "Áætlanagerð og spár",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-15-áætlanagerð-og-spár/"
+    },
+    {
+     "number": "10.16",
+     "title": "Hagsmunaaðilastjórnun og samskipti",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-16-hagsmunaaðilastjórnun-og-samskipti/"
     }
    ]
   }
