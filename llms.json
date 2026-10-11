@@ -19986,6 +19986,16 @@
      "number": "10.16",
      "title": "Gestão de partes interessadas e comunicação",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-16-gestão-de-partes-interessadas-e-comunicação/"
+    },
+    {
+     "number": "10.17",
+     "title": "Gestão da mudança organizacional",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-17-gestão-da-mudança-organizacional/"
+    },
+    {
+     "number": "10.18",
+     "title": "Escritório de programa de código aberto (OSPO) e contribuição upstream",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-18-escritório-de-código-aberto/"
     }
    ]
   }

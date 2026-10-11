@@ -1,0 +1,155 @@
+# 10.17 Gestão da mudança organizacional
+
+## Visão geral e motivação
+
+A [gestão da mudança](https://en.wikipedia.org/wiki/Change_management) é a disciplina de ajudar as pessoas a adotar novas formas de trabalhar. Notem a ênfase: pessoas. Não é a mudança técnica em si, a nova plataforma, a reorganização, a migração para o desenvolvimento baseado em trunk. É a metade humana desse trabalho, a parte que decide se a coisa nova e reluzente que vocês entregaram de fato é usada, ou apodrece em silêncio enquanto todos continuam fazendo o que faziam antes. Vocês podem implantar uma ferramenta numa tarde. Fazer mil engenheiros mudarem um hábito leva meses, e não acontece por acidente.
+
+Isso importa para grandes equipes porque a escala multiplica o custo humano da mudança. Uma startup de cinco pessoas pode mudar de direção durante o almoço. Uma empresa de cinco mil pessoas não pode, e no entanto muda o tempo todo: novas arquiteturas, novos regimes de conformidade, novos modelos operacionais, novos líderes com novas prioridades. A maioria desses esforços rende menos que o prometido, e a razão raramente é a tecnologia. É a resistência que nunca foi trazida à tona, a comunicação que nunca aterrissou, o patrocínio que se evaporou e o reforço que nunca veio, de modo que as pessoas voltaram ao jeito antigo no instante em que a atenção seguiu adiante. Se vocês lideram mudança técnica e ignoram o lado humano, estão apostando o orçamento na esperança.
+
+Os contextos corporativo e governamental elevam ainda mais as apostas. Uma grande empresa pode rodar dezenas de programas de transformação ao mesmo tempo, saturando as pessoas de mudança até elas deixarem de responder a qualquer uma. O governo acrescenta restrições que as empresas privadas raramente enfrentam: a liderança muda com os ciclos políticos, as regras de contratação limitam a velocidade de comprar ou construir, as forças de trabalho sindicalizadas têm proteções negociadas sobre como o trabalho muda e todo passo em falso está sujeito à prestação de contas públicas. Em todos esses contextos, tratar a gestão da mudança como uma disciplina real, com plano, donos e métricas próprios, separa uma transformação que pega de um anúncio caro que se apaga.
+
+## Princípios fundamentais
+
+- **Mudem as pessoas, não só o sistema.** Implantação não é adoção. O trabalho está feito quando o comportamento muda.
+- **Liderem a mudança e gerenciem-na.** A visão e a energia põem as pessoas em movimento. O plano e o reforço fazem-nas ficar.
+- **O patrocínio é oxigênio.** Uma mudança sem um patrocinador sênior e comprometido morre em silêncio, sempre.
+- **Expliquem o porquê antes do quê.** As pessoas adotam mudanças que entendem e resistem às impostas a elas.
+- **Lancem de forma incremental, meçam a adoção.** Piloto, aprender, expandir. Acompanhem o uso, não apenas o lançamento.
+- **Reforcem ou revertam.** Sem acompanhamento, as pessoas voltam ao jeito antigo. Sustentar é a parte difícil.
+- **A cultura é a camada mais profunda.** A estrutura e o processo mudam mais depressa que as crenças. Planejem para isso.
+
+## Recomendações
+
+### Trate a adoção, não a implantação, como a linha de chegada
+
+A falha mais comum na mudança técnica é declarar vitória no go-live. A ferramenta está instalada, o anúncio foi enviado, o programa foi marcado de verde e todos seguem em frente. Seis meses depois, metade das equipes ainda está no fluxo antigo e os benefícios prometidos nunca se materializaram. O problema é que a implantação é um evento e a adoção é um processo. Definam o sucesso em termos de comportamento: o que as pessoas vão de fato fazer de diferente, quantas delas e até quando. Se vocês estão lançando um novo pipeline de implantação, o objetivo não é “o pipeline existe”, é “oitenta por cento dos serviços implantam por ele, e o prazo médio de entrega caiu”. Escrevam isso antes de começar.
+
+Esse reenquadramento se liga diretamente a como vocês medem. As métricas de implantação (instalado, lançado, licenciado) são fáceis e enganosas. As métricas de adoção (usuários ativos, fluxos migrados, caminhos antigos aposentados) dizem a verdade. Relacionem os resultados da mudança ao fluxo de descoberta à entrega do capítulo 11.1 para ver se a mudança de fato moveu os resultados que prometeu e não meramente aconteceu.
+
+### Construa uma coalizão orientadora e garanta um patrocínio real
+
+Nenhuma mudança significativa sobrevive ao entusiasmo de um só campeão. Vocês precisam de uma coalizão: um grupo com autoridade, credibilidade e alcance multifuncional suficientes para levar a mudança pelas partes da organização que resistirão a ela. Essa ideia fica no centro do modelo de mudança popularizado por [John Kotter](https://en.wikipedia.org/wiki/John_Kotter), cujo framework de oito passos abre com estabelecer a urgência e construir uma coalizão orientadora justamente porque os reformadores solitários são isolados e vencidos.
+
+O patrocínio é a parte em que as pessoas menos investem. Um patrocinador é um líder sênior que visivelmente quer a mudança, gasta o próprio capital político nela, remove obstáculos e continua aparecendo depois do lançamento. Um patrocinador que empresta o nome a um e-mail de abertura e depois some é pior que nenhum, porque o silêncio dele sinaliza que a mudança não importa de verdade. Antes de começar, nomeiem o seu patrocinador, obtenham um compromisso concreto sobre o que ele fará e por quanto tempo e tenham um plano para o que acontece se ele sair, o que em contextos de alta rotatividade vocês devem presumir que acontecerá.
+
+### Comunique um “porquê” convincente, repetidamente
+
+As pessoas não resistem tanto à mudança quanto resistem a ser mudadas sem explicação. O modo mais confiável de reduzir a resistência é fazer a razão da mudança ser genuinamente compreendida e não apenas anunciada. Esse é o “A” e o “D” do modelo ADKAR, que enquadra a mudança individual como uma sequência: Awareness (consciência) do porquê, Desire (desejo) de participar, Knowledge (conhecimento) do como, Ability (habilidade) de fazê-lo e Reinforcement (reforço) para sustentá-lo. A ordem importa. Se vocês pulam para treinar as pessoas (Conhecimento) antes de elas entenderem por que a mudança as ajuda (Consciência e Desejo), o treinamento não pega.
+
+Comuniquem o porquê mais vezes do que parece necessário. As pessoas precisam ouvir uma mensagem muitas vezes, por vários canais, antes de acreditar que é real e permanente. Digam em reuniões gerais, em reuniões diárias, por escrito e, acima de tudo, pelo comportamento visível dos líderes. Tratem diretamente do “o que isso significa para mim”, com honestidade, inclusive as partes de que as pessoas não vão gostar. Uma comunicação de mudança que só lista benefícios e esconde custos ensina as pessoas a não confiar na próxima.
+
+### Lance de forma incremental e faça piloto antes de escalar
+
+Os lançamentos de tudo de uma vez, em que todos trocam no mesmo dia, são sedutores e perigosos. Concentram todo o risco num único momento, não dão chance de aprender e não deixam plano alternativo quando algo quebra. Prefiram o lançamento incremental: pilotem com algumas equipes dispostas, aprendam o que dá errado, consertem e expandam em ondas. Cada onda dá evidências, clientes de referência dentro das suas próprias paredes e uma base crescente de pessoas que podem ajudar o grupo seguinte. Esse é o esteio prático de um roteiro de adoção, coberto no capítulo 12.6, e combina naturalmente com o pensamento de modelos de maturidade do capítulo 10.8: vocês estão subindo grupos numa escada deliberadamente, não virando uma chave.
+
+O piloto também protege a sua credibilidade. A primeira onda trará à tona problemas que vocês não anteciparam, e é muito melhor topar com eles junto a cinquenta usuários amistosos do que a cinco mil céticos. Escolham os primeiros pilotos pela disposição e pela influência, para que o sucesso deles vire uma história em que a próxima onda acredite.
+
+### Reforce e sustente, ou veja reverter
+
+A fase mais difícil e mais negligenciada da mudança é a que vem depois do lançamento, quando a atenção naturalmente deriva para a próxima iniciativa. Sem reforço, as pessoas revertem. O fluxo antigo ainda está na memória muscular, o novo ainda exige esforço e o caminho de menor resistência as puxa de volta. O modelo clássico associado ao psicólogo social [Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin) capta isso em três fases: descongelar o jeito atual, mudar para o novo e recongelar para que o novo jeito vire o padrão. A maioria das organizações faz as duas primeiras e pula a terceira.
+
+Recongelar é trabalho concreto. Aposentem o caminho antigo para que deixe de ser uma opção (muitas vezes a alavanca isolada mais eficaz). Embutam o novo comportamento em integração de novos membros, padrões, listas de verificação e ferramentas para que os recém-chegados nunca aprendam o jeito antigo. Celebrem e tornem visíveis as equipes que adotaram bem. Continuem medindo a adoção por meses depois do lançamento e tratem um declínio como um problema vivo a consertar e não um assunto encerrado. A mudança que não é reforçada é a mudança que vocês pagarão duas vezes.
+
+### Alinhe a estrutura e a cultura à mudança
+
+Duas camadas mais profundas determinam se uma mudança consegue se sustentar. A primeira é a estrutura. Se vocês pedem às equipes que trabalhem de um jeito novo mas deixam as linhas de reporte, os incentivos e as fronteiras de equipe que produziram o jeito antigo, a estrutura vencerá. A ideia captada pela [lei de Conway](https://en.wikipedia.org/wiki/Conway%27s_law), de que os sistemas espelham as estruturas de comunicação das organizações que os constroem, corta nos dois sentidos: para mudar como o software é construído, muitas vezes é preciso mudar como as equipes são desenhadas, tema desenvolvido no capítulo 1.2. A segunda e mais profunda camada é a [cultura organizacional](https://en.wikipedia.org/wiki/Organizational_culture), as suposições e valores compartilhados de que o capítulo 1.1 trata. A cultura muda mais devagar que todo o resto, porque vive no que as pessoas acreditam e não no que lhes dizem. Vocês não conseguem decretá-la; deslocam-na mudando o que os líderes recompensam, toleram e modelam, e depois esperando. Planejem o cronograma de acordo: processo em semanas, estrutura em meses, cultura em anos.
+
+## Compromissos: prós e contras
+
+| Abordagem | Prós | Contras |
+|---|---|---|
+| **Lançamento de tudo de uma vez (big-bang)** | Rápido. Uma única virada. Sem custo de execução em paralelo | Risco concentrado. Sem ciclo de aprendizado. Difícil reverter |
+| **Lançamento incremental** | Aprende ao longo do caminho. Contém o risco. Constrói defensores internos | Mais lento. Sobrecarga de execução em paralelo. A mudança pode empacar no meio |
+| **Seguir de perto um modelo nomeado (Kotter, ADKAR, Lewin)** | Vocabulário compartilhado. Nada é esquecido. Crível para as partes interessadas | Ritual acima da substância. Falsa confiança. Mau ajuste se aplicado de modo rígido |
+| **Abordagem pragmática informada por modelos** | Ajusta-se ao seu contexto. Foca a energia onde importa | Exige julgamento. Fácil pular os passos inconvenientes |
+| **Função dedicada de gestão da mudança** | Consistência. Capacidade. Protege da saturação de mudanças | Sobrecarga. Pode virar portão de caixinha. Distância do trabalho |
+
+A tensão central é entre velocidade e aderência. Os lançamentos de tudo de uma vez e o reforço pulado parecem rápidos porque comprimem o trabalho visível, mas empurram o custo para o futuro como adoção fracassada e retrabalho. O lançamento incremental com reforço real parece lento porque vocês pagam o custo de início, em pilotos, comunicação e acompanhamento, e é o único jeito confiável de fazer a mudança se sustentar. Resolvam a tensão antecipando deliberadamente o trabalho humano: orcem-no, dotem-no de pessoal e meçam a adoção muito depois do lançamento que vocês foram tentados a chamar de fim. Usem os modelos nomeados como lista de verificação contra o esquecimento e não como roteiro a encenar.
+
+## Perguntas para discutir com sua equipe
+
+1. **Como saberemos que esta mudança foi adotada e não apenas implantada, e quem estará vigiando essa métrica daqui a seis meses?** A maioria das equipes sabe dizer a data de lançamento e quase nenhuma sabe dizer a curva de adoção um trimestre depois. Antes de começar, combinem o comportamento específico que conta como sucesso, a métrica que o capta e a pessoa responsável por acompanhá-lo bem depois do go-live. Levem à discussão as suas últimas três mudanças significativas e perguntem com honestidade que fração do público pretendido de fato mudou de comportamento e continua assim. Se vocês não conseguem responder isso para mudanças passadas, vocês vêm medindo implantação e chamando de adoção. A resposta deve remodelar como vocês definem “pronto” para o esforço atual e quem permanece responsável depois da comemoração.
+
+2. **Quem é o patrocinador comprometido desta mudança, o que exatamente ele concordou em fazer e o que acontece se ele sair?** O patrocínio é o maior preditor isolado de se a mudança pega, e é a coisa que as equipes mais presumem em vez de garantir. Sejam específicos: um patrocinador não é um nome num slide, é um líder sênior gastando capital político, desimpedindo obstáculos e aparecendo repetidamente depois do lançamento. Em organizações com frequente rotatividade de liderança, especialmente no governo ao longo dos ciclos políticos, vocês precisam planejar que o patrocinador mude no meio do voo e construir uma coalizão ampla o bastante para sobreviver a isso. Levem à reunião o compromisso real, por escrito se puderem, e testem-no sob estresse: o que acontece com esta mudança se essa pessoa for realocada no próximo trimestre? Se a resposta honesta é que ela colapsa, vocês têm um ponto único de falha a consertar agora.
+
+3. **Quantas mudanças estamos pedindo a essas mesmas pessoas que absorvam ao mesmo tempo, e já passamos do ponto de saturação de mudanças?** Toda iniciativa compete pela mesma atenção e boa vontade finitas, e as grandes organizações rotineiramente rodam tantas ao mesmo tempo que as pessoas deixam de responder a qualquer uma. Isso é a fadiga de mudança, e é a razão pela qual uma mudança perfeitamente boa pode fracassar por motivos que nada têm a ver com seus méritos. Inventariem toda mudança significativa que hoje aterrissa nas equipes em questão, não só a de vocês, e contem-nas do ponto de vista de quem recebe. Levem evidências de como as últimas mudanças foram recebidas, se as pessoas estão engajadas ou esperando em silêncio que a última novidade passe. Se as equipes estão saturadas, o movimento certo pode ser sequenciar, pausar ou consolidar em vez de comunicar com mais força.
+
+4. **Qual é o nosso plano de reforço para os seis a doze meses depois do lançamento, e qual caminho antigo nos comprometemos a aposentar para que as pessoas não possam voltar?** O recongelamento é a fase mais negligenciada, porque a atenção já passou para a próxima iniciativa enquanto o fluxo antigo ainda está na memória muscular e o novo ainda exige esforço. Para uma grande equipe, aposentar o caminho legado costuma ser a alavanca isolada mais forte e também a de maior atrito político, já que sempre há um grupo com uma razão para o jeito antigo continuar aberto um pouco mais. Levem a data concreta em que vocês pretendem desativar o sistema antigo, a lista de resistentes e suas razões declaradas e o limiar de adoção que condicionará o desligamento. Pesem o risco de puxar o caminho antigo cedo demais, isto é, quebra e reação, contra o risco de deixá-lo aberto indefinidamente, isto é, execução paralela permanente e reversão silenciosa. Em contextos corporativos e governamentais, em que um sistema legado pode ainda alimentar relatórios de conformidade ou se apoiar em procedimentos negociados com sindicatos, nomeiem quem tem autoridade para aprovar a aposentadoria e com quanta antecedência o pessoal afetado precisa ser consultado.
+
+5. **Estamos lançando de forma incremental com um piloto de verdade, ou planejamos em silêncio uma virada de uma só vez porque parece mais rápida?** Uma virada única concentra todo risco num só momento e não dá chance de aprender, e no entanto continua sendo escolhida porque o lançamento incremental parece mais lento no plano. Para uma grande organização, as ondas também criam equipes de referência internas cujo sucesso convence o grupo seguinte, algo que uma virada única jamais produz. Levem a sequência proposta de lançamento, os critérios para escolher as primeiras equipes-piloto (disposição e influência, não conveniência) e o plano alternativo para quando uma onda falhar. Pesem a sobrecarga de execução em paralelo e o prazo mais longo das ondas contra o risco concentrado e difícil de reverter de trocar todos de uma vez. Em contextos regulados ou governamentais, em que a virada fracassada de um sistema voltado ao cidadão ou relevante à segurança é publicamente visível e difícil de desfazer, um lançamento faseado por região ou serviço a serviço costuma ser a única escolha defensável, e vocês devem conseguir dizer por quê.
+
+6. **Estamos mudando a estrutura e os incentivos que produziram o comportamento antigo, ou apenas pedindo que as pessoas se comportem de outro modo dentro do mesmo sistema?** O comportamento segue a estrutura: se as linhas de reporte, os incentivos e as fronteiras de equipe ainda recompensam o jeito antigo, a estrutura vence e a mudança se erode por melhor que vocês comuniquem. Para uma grande equipe, essa é a diferença entre uma mudança que se sustenta e uma que reverte em silêncio assim que o holofote se move, porque a estrutura e a cultura são as camadas mais lentas e mais profundas de deslocar. Levem um mapa honesto de quais incentivos, métricas e fronteiras de equipe hoje puxam contra o jeito novo e de quem é dono de mudar cada um. Pesem a ruptura e o custo de tempo de reestruturar contra a futilidade de exigir novo comportamento dentro de um sistema inalterado. Em contextos corporativos e governamentais, em que as fronteiras de equipe, as descrições de cargo e os papéis do serviço público ou sindicais são formalizados e lentos de alterar, identifiquem cedo quais mudanças estruturais exigem negociação ou aprovação, já que esses prazos, e não a tecnologia, definirão o seu cronograma real.
+
+## Perspectiva por setor
+
+**Startup.** A mudança é barata e informal no seu tamanho, então gastem o escasso esforço na alavanca que mais importa: aposentem o caminho antigo no instante em que o novo funcionar. Deixem um engenheiro respeitado pilotar a mudança e deixem a adoção se espalhar pelo exemplo e não por decreto. Pulem os slides formais de patrocinador e os planos de comunicação multicanal; um fundador se comprometendo publicamente e uma data rígida de exclusão fazem o mesmo trabalho com quase nenhuma sobrecarga.
+
+**Pequena empresa.** Sem especialista dedicado em mudança e com pouca folga, apoiem-se nas ferramentas que vocês já compram: adotem mudanças que os fornecedores projetaram para ligar com facilidade e prefiram padrões e integração que façam do jeito novo o caminho de menor resistência. Mantenham o “porquê” curto e ligado a um custo ou dor de cabeça que a sua equipe já sente. Não rodem mais de uma mudança significativa por vez, porque vocês não conseguem absorver a queda de produtividade de várias ao mesmo tempo.
+
+**Grande empresa.** O seu problema central é a saturação de mudanças em nível de portfólio entre muitas equipes rodando muitas iniciativas ao mesmo tempo. Montem capacidade de gestão da mudança suficiente para sequenciar esforços concorrentes, padronizar as expectativas de patrocinador e de coalizão e medir a adoção muito depois do lançamento em vez de contar implantações. Protejam a disciplina de virar um portão de caixinha: sua finalidade é proteger o valor de grandes investimentos técnicos, e os rastros de auditoria devem mostrar que a adoção de fato aconteceu e não apenas que passos foram executados.
+
+**Governo.** As regras de contratação definem o ritmo, a liderança muda com os ciclos políticos e as forças de trabalho sindicalizadas têm proteções negociadas sobre como o trabalho muda. Engajem sindicatos e funcionários como participantes genuínos da coalizão em vez de apresentar um plano acabado, façam o lançamento em fases para respeitar as restrições de treinamento e de pessoal e documentem a adoção para a prestação de contas públicas e a auditoria. Acima de tudo, projetem a mudança para sobreviver a uma transição de liderança, embutindo-a em procedimentos operacionais padrão e em papéis do serviço público e não em um funcionário nomeado que pode sair depois da próxima eleição.
+
+## Exemplos
+
+**Startup.** Uma startup de quarenta pessoas decide passar de implantações ad hoc para um pipeline padronizado de entrega contínua. Em vez de impô-lo, os dois engenheiros mais respeitados o pilotam nos próprios serviços por duas semanas, consertam as arestas e demonstram na reunião geral o tempo de implantação pela metade. O fundador (o patrocinador) se compromete publicamente que todos os novos serviços usarão o pipeline e que os scripts antigos serão apagados em noventa dias. A adoção se espalha por inveja e prazo e não por decreto, e como o caminho antigo é genuinamente aposentado, ninguém volta atrás. Todo o esforço de “gestão da mudança” é leve e em grande parte informal, o que é exatamente certo nesse tamanho.
+
+**Grande empresa.** Uma empresa de serviços financeiros com três mil engenheiros lança uma migração de plataforma ao lado de outros quatro programas de transformação. Uma pequena função central de gestão da mudança nota que as equipes estão saturadas e sequencia os programas em vez de rodá-los em paralelo, dando a cada um uma janela clara. Para a migração em si, nomeiam um patrocinador executivo, constroem uma coalizão de diretores de engenharia, comunicam repetidamente o “porquê” (risco regulatório e custo) e lançam em ondas de dez equipes. Acompanham fluxos migrados e sistemas antigos desativados, não licenças compradas, e continuam relatando a curva de adoção por um ano. Os programas que foram sequenciados aterrissam; um anterior, rodado de uma só vez e nunca reforçado, tinha revertido em silêncio.
+
+**Governo.** Uma agência nacional moderniza um sistema de gestão de casos de décadas usado por uma força de trabalho sindicalizada. A mudança aqui é limitada por realidades que uma startup nunca vê: as regras de contratação ditam o ritmo de comprar, os acordos sindicais governam como os papéis de trabalho podem mudar e exigem consulta genuína, e todo o programa responde ao público e aos auditores. A equipe engaja o sindicato cedo como parte da coalizão em vez de apresentar um plano acabado, faz o lançamento região por região para respeitar as restrições de treinamento e de pessoal e documenta a adoção para a prestação de contas públicas. Crucialmente, projetam a mudança para sobreviver a uma transição de liderança, embutindo-a em procedimentos operacionais padrão e em papéis do serviço público e não apoiando-a num único funcionário nomeado que pode sair depois da próxima eleição.
+
+## Justificativa de negócio: motivações, ROI e TCO
+
+O argumento de negócio da gestão da mudança é desconfortável porque seu retorno aparece como uma perda evitada e não como um ganho visível. Considerem o denominador que a maioria dos líderes nunca calcula: o dinheiro já gasto em ferramentas, plataformas e reorganizações que foram implantadas e nunca adotadas. Isso é puro desperdício, e é enorme nas grandes organizações. A gestão da mudança converte esse gasto em valor realizado. O retorno do investimento é direto: um investimento modesto e deliberado em patrocínio, comunicação, piloto e reforço eleva dramaticamente a probabilidade de que o investimento técnico, muito maior, se pague. Gastar dez por cento a mais para fazer os outros noventa pegarem é obviamente vantajoso, e no entanto é rotineiramente cortado primeiro.
+
+No custo total de propriedade, a contabilidade honesta inclui os custos humanos que raramente aparecem num orçamento: a queda de produtividade durante a transição, o período de execução em paralelo em que o sistema antigo e o novo operam, o treinamento e o reforço contínuo. São reais e devem ser planejados, mas são anulados pelo custo da adoção fracassada: o investimento de capital desperdiçado, o retrabalho e o efeito corrosivo sobre a confiança, porque toda mudança fracassada torna a seguinte mais difícil de vender. Para defender o caso junto à liderança, reenquadrem a escolha: a pergunta não é se gastar em gestão da mudança, e sim se proteger o valor de um investimento muito maior ou apostá-lo na esperança. Mostrem-lhes o cemitério de implantações passadas que nunca foram adotadas, e o argumento se faz sozinho.
+
+## Antipadrões e armadilhas
+
+- **Declarar vitória no go-live:** tratar a implantação como linha de chegada, de modo que a adoção nunca é conduzida nem medida e a mudança fracassa em silêncio.
+- **Patrocinador só no nome:** um líder sênior que empresta o nome ao lançamento e depois some, sinalizando que a mudança não importa de verdade.
+- **Tudo de uma vez:** trocar todos de uma só vez, concentrando todo o risco num só momento, sem ciclo de aprendizado nem plano alternativo.
+- **Só benefícios, nenhum custo:** comunicação que só vende a vantagem, o que ensina as pessoas a não confiar no próximo anúncio.
+- **Saturação de mudanças:** empilhar tantas iniciativas sobre as mesmas pessoas que elas deixam de responder a qualquer uma e depois culpar a resistência.
+- **Pular o recongelamento:** lançar e seguir em frente sem aposentar o caminho antigo nem embutir o novo, de modo que as pessoas revertem.
+- **Modelo como ritual:** executar os oito passos ou as cinco letras do ADKAR como cerimônia perdendo a substância por baixo.
+- **Ignorar estrutura e cultura:** pedir novo comportamento deixando intactos os incentivos, as fronteiras de equipe e as crenças que produziram o comportamento antigo.
+
+## Modelo de maturidade
+
+- **Nível 1, Iniciar:** A mudança é só técnica e tratada ad hoc. Novas ferramentas e reorganizações são anunciadas e implantadas; a adoção é presumida e não medida; as mudanças fracassadas são atribuídas a pessoas resistentes. Não há papel de patrocinador, nem plano de comunicação, nem reforço.
+- **Nível 2, Desenvolver:** Aparecem práticas básicas, mas variam de equipe para equipe. Algumas mudanças recebem um patrocinador e um plano de comunicação, e os lançamentos às vezes são pilotados e não de uma só vez. A adoção é acompanhada informalmente para esforços de grande visibilidade, mas o reforço é fraco e a reversão é comum. A saturação de mudanças não é gerida, e o que uma equipe faz bem a seguinte reinventa do zero.
+- **Nível 3, Padronizar:** Uma abordagem consistente é documentada e esperada em toda a organização, informada por modelos estabelecidos mas aplicada de modo pragmático. As mudanças significativas exigem um patrocinador nomeado e uma coalizão, um “porquê” claro, lançamento incremental e métricas de adoção. O reforço é planejado e o portfólio de mudanças concorrentes é visível e sequenciado, de modo que a mesma disciplina se aplica seja qual for a equipe que lidera a mudança.
+- **Nível 4, Gerenciar:** A adoção é medida e controlada em relação a linhas de base em vez de presumida. As curvas de adoção, o tempo até a adoção-alvo, as taxas de reversão e a carga de saturação de mudanças por equipe são acompanhados em painéis. Os limiares de pausa e de interrupção são definidos de antemão e impostos com base em evidências, os compromissos de patrocinadores e o reforço pós-lançamento são auditados e cada mudança é conferida contra sua métrica pretendida de mudança de comportamento antes de alguém chamá-la de pronta.
+- **Nível 5, Orquestrar:** A capacidade de mudança é uma força organizacional integrada à estratégia e ao planejamento de portfólio. A saturação é equilibrada continuamente em toda a organização. A estrutura e a cultura são tratadas como parte de toda mudança. O patrocínio sobrevive à rotatividade de liderança por projeto. As lições de cada mudança retroalimentam a melhoria da seguinte. E a organização resequencia e redefine de forma adaptativa o escopo de seu portfólio de mudanças conforme as prioridades mudam.
+
+## Ideias para discussão
+
+1. Olhem as suas últimas cinco mudanças significativas. Quantas foram genuinamente adotadas, e como vocês saberiam? O que o número honesto diz sobre a sua definição padrão de “pronto”?
+2. Onde na sua organização a fadiga de mudanças é maior agora, e o que seria preciso para pausar ou consolidar em vez de acrescentar outra iniciativa?
+3. Qual modelo nomeado, se algum, se ajusta melhor à sua cultura, e vocês o usam como lista de verificação contra o esquecimento ou o executam como ritual?
+4. Quando um patrocinador sai no meio da mudança, o que acontece? Alguma mudança atual repousa num ponto único de falha que vocês deveriam ampliar agora?
+5. Que caminhos antigos vocês ainda deixam abertos que permitem às pessoas reverter, e o que custaria aposentá-los de vez?
+6. Por quanto tempo depois de um lançamento vocês continuam medindo a adoção, e o que mudaria se dobrassem essa janela?
+
+## Principais conclusões
+
+- A gestão da mudança trata de pessoas adotando novas formas de trabalhar, distinta da mudança técnica em si. Implantação não é adoção.
+- Os esforços de mudança fracassam por causas humanas previsíveis: patrocínio ausente, “porquê” não explicado, risco de tudo de uma vez, saturação de mudanças e reforço ausente, raramente pela tecnologia.
+- Usem os modelos estabelecidos (Kotter, ADKAR, Lewin) de modo pragmático, como lista de verificação contra o esquecimento e não como ritual a encenar.
+- Construam uma coalizão, garantam um patrocinador comprometido, comuniquem o porquê repetidamente, lancem de forma incremental (capítulo 12.6) e meçam a adoção e não só a implantação (capítulo 11.1).
+- Reforcem sem trégua ou vejam as equipes reverterem. Aposentem o caminho antigo e embutam o novo nos padrões.
+- Alinhem a estrutura (capítulo 1.2) e a cultura (capítulo 1.1) à mudança. A cultura é a camada mais lenta e não pode ser decretada.
+- Na empresa, gerenciem todo o portfólio para evitar a saturação de mudanças; no governo, projetem a mudança para sobreviver a ciclos políticos, limites de contratação e consulta sindical.
+
+## Referências e leitura complementar
+
+- John P. Kotter, *Leading Change*.
+- John P. Kotter, "Leading Change: Why Transformation Efforts Fail," *Harvard Business Review*.
+- Jeff Hiatt, *ADKAR: A Model for Change in Business, Government and Our Community* (Prosci).
+- Kurt Lewin, *Field Theory in Social Science*.
+- Chip Heath and Dan Heath, *Switch: How to Change Things When Change Is Hard*.
+- William Bridges, *Managing Transitions: Making the Most of Change*.
+- Everett M. Rogers, *Diffusion of Innovations*.
+- Edgar H. Schein, *Organizational Culture and Leadership*.
+- Todd Jick and Maury Peiperl, *Managing Change: Cases and Concepts*.
