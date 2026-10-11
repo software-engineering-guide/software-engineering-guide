@@ -18587,6 +18587,749 @@
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-07-atriðisorðaskrá/"
     }
    ]
+  },
+  {
+   "code": "is-001",
+   "label": "Íslenska",
+   "home": "https://software-engineering-guide.github.io/is-001/",
+   "topicsSegment": "viðfangsefni",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Inngangur að 1. hluta: Fólk",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-00-fólk/"
+    },
+    {
+     "number": "1.1",
+     "title": "Gildi hugbúnaðarverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-01-gildi-hugbúnaðarverkfræði/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teymisskipan og skipulagshönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-02-teymisskipan/"
+    },
+    {
+     "number": "1.3",
+     "title": "Hlutverk, starfsstigar og vöxtur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-03-hlutverk-starfsframi-og-vöxtur/"
+    },
+    {
+     "number": "1.4",
+     "title": "Vinnubrögð",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-04-vinnubrögð/"
+    },
+    {
+     "number": "1.5",
+     "title": "Ákvarðanataka og stjórnarhættir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-05-ákvarðanataka-og-stjórnarhættir/"
+    },
+    {
+     "number": "1.6",
+     "title": "Ákvörðunarskrár",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-06-ákvörðunarskrár/"
+    },
+    {
+     "number": "1.7",
+     "title": "Verkfræðistaðlar og undanþágur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-07-verkfræðistaðlar-og-undanþágur/"
+    },
+    {
+     "number": "1.8",
+     "title": "Ráðningar, viðtöl og móttaka",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-08-ráðningar-viðtöl-og-móttaka/"
+    },
+    {
+     "number": "1.9",
+     "title": "Dreifð vinna og fjarvinna",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-09-dreifð-og-fjarvinna/"
+    },
+    {
+     "number": "1.10",
+     "title": "Skilvirkni verkfræði og framleiðni þróunaraðila",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-10-skilvirkni-verkfræði-og-framleiðni-þróunaraðila/"
+    },
+    {
+     "number": "1.11",
+     "title": "Stjórnun verkfræðiteyma",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-11-stjórnun-verkfræðiteyma/"
+    },
+    {
+     "number": "1.12",
+     "title": "Fjölbreytni, jafnrétti, þátttaka og tilheyrsla",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-12-fjölbreytni-jafnrétti-og-þátttaka/"
+    },
+    {
+     "number": "1.13",
+     "title": "Leiðsögn, þjálfun og þekkingarmiðlun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/01-13-leiðsögn-þjálfun-og-þekkingarmiðlun/"
+    },
+    {
+     "number": "2.0",
+     "title": "Inngangur að 2. hluta: Hugbúnaðarforritun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-00-hugbúnaðarforritun/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kóðunarstaðlar og stíll",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-01-kóðunarstaðlar-og-stíll/"
+    },
+    {
+     "number": "2.2",
+     "title": "Hönnunarreglur hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-02-hönnunarreglur-hugbúnaðar/"
+    },
+    {
+     "number": "2.3",
+     "title": "Forritaskil og viðmótshönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-03-forritaskil-og-viðmótshönnun/"
+    },
+    {
+     "number": "2.4",
+     "title": "Prófunarstefna",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-04-prófunarstefna/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kóðarýni og samvinna",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-05-kóðarýni-og-samvinna/"
+    },
+    {
+     "number": "2.6",
+     "title": "Útgáfustýring og frumkóðastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-06-útgáfustýring-og-frumkóðastjórnun/"
+    },
+    {
+     "number": "2.7",
+     "title": "Skjölun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-07-skjölun/"
+    },
+    {
+     "number": "2.8",
+     "title": "Hugbúnaðarkröfur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-08-hugbúnaðarkröfur/"
+    },
+    {
+     "number": "2.9",
+     "title": "Hugbúnaðarsmíði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-09-hugbúnaðarsmíði/"
+    },
+    {
+     "number": "2.10",
+     "title": "Stillingarstjórnun hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-10-stillingarstjórnun-hugbúnaðar/"
+    },
+    {
+     "number": "2.11",
+     "title": "Hugbúnaðargæði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-11-hugbúnaðargæði/"
+    },
+    {
+     "number": "2.12",
+     "title": "Líkön og aðferðir hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-12-líkön-og-aðferðir-hugbúnaðar/"
+    },
+    {
+     "number": "2.13",
+     "title": "Grunnur í tölvunarfræði, stærðfræði og verkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-13-grunnur-í-tölvunarfræði-stærðfræði-og-verkfræði/"
+    },
+    {
+     "number": "2.14",
+     "title": "Skipulag verkefna og hugbúnaðarsafna",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-14-skipulag-verkefna-og-hugbúnaðarsafna/"
+    },
+    {
+     "number": "2.15",
+     "title": "Villuleit og bilanagreining",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-15-villuleit-og-bilanagreining/"
+    },
+    {
+     "number": "2.16",
+     "title": "Afkastaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-16-afkastaverkfræði/"
+    },
+    {
+     "number": "2.17",
+     "title": "Samtími og hliðrun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-17-samtími-og-hliðrun/"
+    },
+    {
+     "number": "2.18",
+     "title": "Stjórnun ósjálfstæðis og aðfangakeðju",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-18-stjórnun-ósjálfstæðis-og-aðfangakeðju/"
+    },
+    {
+     "number": "2.19",
+     "title": "Endurbygging og tæknileg skuld",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-19-endurbygging-og-tæknileg-skuld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Villumeðhöndlun og seigluminstur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-20-villumeðhöndlun-og-seigluminstur/"
+    },
+    {
+     "number": "2.21",
+     "title": "Tagakerfi og kyrrstæð greining",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/02-21-tagakerfi-og-kyrrstæð-greining/"
+    },
+    {
+     "number": "3.0",
+     "title": "Inngangur að 3. hluta: Kerfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-00-kerfi/"
+    },
+    {
+     "number": "3.1",
+     "title": "Grunnatriði arkitektúrs",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-01-grunnatriði-arkitektúrs/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arkitektúrstílar og mynstur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-02-arkitektúrstílar-og-mynstur/"
+    },
+    {
+     "number": "3.3",
+     "title": "Dreifð kerfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-03-dreifð-kerfi/"
+    },
+    {
+     "number": "3.4",
+     "title": "Gagnaarkitektúr og geymsla",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-04-gagnaarkitektúr-og-geymsla/"
+    },
+    {
+     "number": "3.5",
+     "title": "Stigvöxtur, afköst og seigla",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-05-stigvöxtur-afköst-og-seigla/"
+    },
+    {
+     "number": "3.6",
+     "title": "Nútímavæðing eldri kerfa",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-06-nútímavæðing-gamalla-kerfa/"
+    },
+    {
+     "number": "3.7",
+     "title": "Viðhald hugbúnaðar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-07-viðhald-hugbúnaðar/"
+    },
+    {
+     "number": "3.8",
+     "title": "Samvirkni og opnir staðlar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-08-samvirkni-og-opnir-staðlar/"
+    },
+    {
+     "number": "3.9",
+     "title": "Kerfisverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-09-kerfisverkfræði/"
+    },
+    {
+     "number": "3.10",
+     "title": "Innbyggð kerfi og rauntímakerfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-10-innbyggð-kerfi-og-rauntímakerfi/"
+    },
+    {
+     "number": "3.11",
+     "title": "Skýjaarkitektúr",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-11-skýjaarkitektúr/"
+    },
+    {
+     "number": "3.12",
+     "title": "Atburðadrifinn arkitektúr og skilaboðamiðlun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-12-atburðadrifinn-arkitektúr-og-skilaboð/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netkerfi og tengingar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-13-netkerfi-og-tengingar/"
+    },
+    {
+     "number": "3.14",
+     "title": "Fjölleiga og SaaS-arkitektúr",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-14-fjölleigu-og-saas-arkitektúr/"
+    },
+    {
+     "number": "3.15",
+     "title": "Skyndiminni og efnisdreifing",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-15-skyndiminni-og-efnisdreifing/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gáttir og þjónustunet",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-16-api-gáttir-og-þjónustunet/"
+    },
+    {
+     "number": "3.17",
+     "title": "Leit og upplýsingaleit",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/03-17-leit-og-upplýsingaleit/"
+    },
+    {
+     "number": "4.0",
+     "title": "Inngangur að 4. hluta: Öryggi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-00-öryggi/"
+    },
+    {
+     "number": "4.1",
+     "title": "Öryggisgrunnur og menning",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-01-öryggisgrunnur-og-menning/"
+    },
+    {
+     "number": "4.2",
+     "title": "Forritaöryggi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-02-forritaöryggi/"
+    },
+    {
+     "number": "4.3",
+     "title": "Öryggi innviða og skýs",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-03-öryggi-innviða-og-skýs/"
+    },
+    {
+     "number": "4.4",
+     "title": "Öryggisrekstur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-04-öryggisrekstur/"
+    },
+    {
+     "number": "4.5",
+     "title": "Persónuvernd og gagnavernd",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-05-persónuvernd-og-gagnavernd/"
+    },
+    {
+     "number": "4.6",
+     "title": "Regluvarsla og stjórnarhættir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-06-regluvarsla-og-stjórnarhættir/"
+    },
+    {
+     "number": "4.7",
+     "title": "Auðkenna- og aðgangsstýring",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-07-auðkenna-og-aðgangsstýring/"
+    },
+    {
+     "number": "4.8",
+     "title": "Dulritun og lyklastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-08-dulritun-og-lyklastjórnun/"
+    },
+    {
+     "number": "4.9",
+     "title": "Öruggur hugbúnaðarlífsferill",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-09-öruggur-hugbúnaðarlífsferill/"
+    },
+    {
+     "number": "4.10",
+     "title": "Innbrotspróf og rautt lið",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/04-10-innbrotspróf-og-rautt-lið/"
+    },
+    {
+     "number": "5.0",
+     "title": "Inngangur að 5. hluta: Viðmóts- og notendaupplifunarhönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-00-viðmóts-og-notendaupplifunarhönnun/"
+    },
+    {
+     "number": "5.1",
+     "title": "Grunnur notendaupplifunar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-01-grunnur-notendaupplifunar/"
+    },
+    {
+     "number": "5.2",
+     "title": "Viðmótshönnun og hönnunarkerfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-02-viðmótshönnun-og-hönnunarkerfi/"
+    },
+    {
+     "number": "5.3",
+     "title": "Aðgengi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-03-aðgengi/"
+    },
+    {
+     "number": "5.4",
+     "title": "Efnis- og samskiptahönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-04-efnis-og-samskiptahönnun/"
+    },
+    {
+     "number": "5.5",
+     "title": "Alþjóðavæðing og staðfærsla",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-05-alþjóðavæðing-og-staðfærsla/"
+    },
+    {
+     "number": "5.6",
+     "title": "Framendaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-06-framendaverkfræði/"
+    },
+    {
+     "number": "5.7",
+     "title": "Smáforritaþróun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-07-smáforritaþróun/"
+    },
+    {
+     "number": "5.8",
+     "title": "Hönnunarrannsóknir og nothæfisprófanir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-08-hönnunarrannsóknir-og-nothæfisprófanir/"
+    },
+    {
+     "number": "5.9",
+     "title": "Þjónustuhönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-09-þjónustuhönnun/"
+    },
+    {
+     "number": "5.10",
+     "title": "Hönnun gagnasjónrænnar framsetningar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/05-10-hönnun-gagnasjónrænnar-framsetningar/"
+    },
+    {
+     "number": "6.0",
+     "title": "Inngangur að 6. hluta: Gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-00-gervigreind/"
+    },
+    {
+     "number": "6.1",
+     "title": "Stefna og viðbúnaður í gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-01-stefna-og-viðbúnaður-í-gervigreind/"
+    },
+    {
+     "number": "6.2",
+     "title": "Vélnámsverkfræði (MLOps)",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Skapandi gervigreind og forrit byggð á stórum mállíkönum",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-03-skapandi-gervigreind-og-lmm-forrit/"
+    },
+    {
+     "number": "6.4",
+     "title": "Gervigreindaraðstoð við hugbúnaðarþróun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-04-gervigreindaraðstoð-við-hugbúnaðarþróun/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ábyrg og traustverð gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-05-ábyrg-og-áreiðanleg-gervigreind/"
+    },
+    {
+     "number": "6.6",
+     "title": "Innviðir og rekstur gervigreindar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-06-innviðir-og-rekstur-gervigreindar/"
+    },
+    {
+     "number": "6.7",
+     "title": "Gervigreindarfulltrúar og sjálfstæð kerfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-07-gervigreindarfulltrúar-og-sjálfstæð-kerfi/"
+    },
+    {
+     "number": "6.8",
+     "title": "Mat og prófanir á gervigreind",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-08-mat-og-prófanir-á-gervigreind/"
+    },
+    {
+     "number": "6.9",
+     "title": "Fyrirmælaverkfræði og samhengishönnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/06-09-fyrirmælahönnun-og-samhengishönnun/"
+    },
+    {
+     "number": "7.0",
+     "title": "Inngangur að 7. hluta: Gögn, greining og innsýn",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-00-gögn-og-greining/"
+    },
+    {
+     "number": "7.1",
+     "title": "Gagnastefna og gagnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-01-gagnastefna-og-gagnastjórnun/"
+    },
+    {
+     "number": "7.2",
+     "title": "Gagnaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-02-gagnaverkfræði/"
+    },
+    {
+     "number": "7.3",
+     "title": "Greining og viðskiptagreind",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-03-greining-og-viðskiptagreind/"
+    },
+    {
+     "number": "7.4",
+     "title": "Vörugreining og tilraunir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-04-vörugreining-og-tilraunir/"
+    },
+    {
+     "number": "7.5",
+     "title": "Ákvörðunarvísindi og gagnaupplýst menning",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-05-ákvörðunarvísindi-og-gagnamenning/"
+    },
+    {
+     "number": "7.6",
+     "title": "Rauntíma- og straumgögn",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-06-rauntíma-og-straumgögn/"
+    },
+    {
+     "number": "7.7",
+     "title": "Gagnalíkön og merkingarlagið",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-07-gagnalíkön-og-merkingarlag/"
+    },
+    {
+     "number": "7.8",
+     "title": "Gagnagæði og gagnavöktun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-08-gagnagæði-og-sýnileiki/"
+    },
+    {
+     "number": "7.9",
+     "title": "Stofngagna- og tilvísunargagnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/07-09-stofngögn-og-tilvísunargögn/"
+    },
+    {
+     "number": "8.0",
+     "title": "Inngangur að 8. hluta: Sjálfvirkni",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-00-sjálfvirkni/"
+    },
+    {
+     "number": "8.1",
+     "title": "Samfelld samþætting og afhending",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-01-samfelld-samþætting-og-afhending/"
+    },
+    {
+     "number": "8.2",
+     "title": "Innviðir sem kóði og stillingar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-02-innviðir-sem-kóði-og-stillingar/"
+    },
+    {
+     "number": "8.3",
+     "title": "Gámar, stýring og skýjabyggð tækni",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-03-gámar-stýring-og-skýjatækni/"
+    },
+    {
+     "number": "8.4",
+     "title": "Vettvangsverkfræði og þróunarupplifun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-04-vettvangsverkfræði-og-þróunarupplifun/"
+    },
+    {
+     "number": "8.5",
+     "title": "Prófana- og ferlasjálfvirkni",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-05-prófana-og-ferlasjálfvirkni/"
+    },
+    {
+     "number": "8.6",
+     "title": "Útgáfustjórnun og stigvaxandi afhending",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-06-útgáfustjórnun-og-stigvaxandi-afhending/"
+    },
+    {
+     "number": "8.7",
+     "title": "Smíðakerfi og afurðastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/08-07-smíðakerfi-og-afurðastjórnun/"
+    },
+    {
+     "number": "9.0",
+     "title": "Inngangur að 9. hluta: Rekstur, áreiðanleiki og sýnileiki",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-00-rekstur-og-áreiðanleiki/"
+    },
+    {
+     "number": "9.1",
+     "title": "Áreiðanleikaverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-01-áreiðanleikaverkfræði/"
+    },
+    {
+     "number": "9.2",
+     "title": "Sýnileiki og fjarmælingar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-02-sýnileiki-og-fjarmælingar/"
+    },
+    {
+     "number": "9.3",
+     "title": "Atvikastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-03-atvikastjórnun/"
+    },
+    {
+     "number": "9.4",
+     "title": "Kostnaður, sjálfbærni og græn hugbúnaðargerð",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-04-kostnaður-sjálfbærni-og-græn-hugbúnaðargerð/"
+    },
+    {
+     "number": "9.5",
+     "title": "Hamfarabati og samfella í rekstri",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-05-hamfarabati-og-samfella-í-rekstri/"
+    },
+    {
+     "number": "9.6",
+     "title": "Glundroðaverkfræði og seigluprófanir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-06-glundroðaverkfræði-og-seigluprófanir/"
+    },
+    {
+     "number": "9.7",
+     "title": "Afkastagetuáætlun og eftirspurnarspá",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-07-afkastagetuáætlun-og-eftirspurnarspá/"
+    },
+    {
+     "number": "9.8",
+     "title": "Bakvaktir og rekstrarviðbúnaður",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/09-08-bakvaktir-og-rekstrarviðbúnaður/"
+    },
+    {
+     "number": "10.0",
+     "title": "Inngangur að 10. hluta: Verkefna-, vöru- og áætlanastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-00-verkefna-vöru-og-áætlanastjórnun/"
+    },
+    {
+     "number": "10.1",
+     "title": "Eignasafns- og áætlanastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-01-eignasafns-og-áætlanastjórnun/"
+    },
+    {
+     "number": "10.2",
+     "title": "Áhætta, úttekt og trygging",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-02-áhætta-úttekt-og-trygging/"
+    },
+    {
+     "number": "10.3",
+     "title": "Innkaup, opinn hugbúnaður og leyfi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"
+    },
+    {
+     "number": "10.4",
+     "title": "Viðhald stórra og langlífra kerfa",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"
+    },
+    {
+     "number": "10.5",
+     "title": "Siðfræði, ábyrgð og almannahagur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-05-siðfræði-ábyrgð-og-almannahagur/"
+    },
+    {
+     "number": "10.6",
+     "title": "Verkefnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-06-verkefnastjórnun/"
+    },
+    {
+     "number": "10.7",
+     "title": "Lipur aðferðafræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-07-lipur-aðferðafræði/"
+    },
+    {
+     "number": "10.8",
+     "title": "Þroskalíkön",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-08-þroskalíkön/"
+    },
+    {
+     "number": "10.9",
+     "title": "Nýsköpunarsamstarf",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-09-nýsköpun-og-samstarf/"
+    },
+    {
+     "number": "10.10",
+     "title": "Hagfræði hugbúnaðarverkfræði",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-10-hagfræði-hugbúnaðarverkfræði/"
+    },
+    {
+     "number": "10.11",
+     "title": "Stafrænt fullveldi",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-11-stafrænt-fullveldi/"
+    },
+    {
+     "number": "10.12",
+     "title": "Opinn hugbúnaður á móti lokuðum",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-12-opinn-hugbúnaður-á-móti-lokuðum/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samstarf milli skipulagsheilda",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-13-samstarf-milli-stofnana/"
+    },
+    {
+     "number": "10.14",
+     "title": "Vörustjórnun og uppgötvun",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-14-vörustjórnun-og-uppgötvun/"
+    },
+    {
+     "number": "10.15",
+     "title": "Áætlanagerð og spár",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-15-áætlanagerð-og-spár/"
+    },
+    {
+     "number": "10.16",
+     "title": "Hagsmunaaðilastjórnun og samskipti",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-16-hagsmunaaðilastjórnun-og-samskipti/"
+    },
+    {
+     "number": "10.17",
+     "title": "Breytingastjórnun í skipulagsheildum",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-17-breytingastjórnun-í-skipulagsheildum/"
+    },
+    {
+     "number": "10.18",
+     "title": "Skrifstofa opins hugbúnaðar (OSPO) og framlög til upprunaverkefna",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/10-18-skrifstofa-opins-hugbúnaðar/"
+    },
+    {
+     "number": "11.0",
+     "title": "Inngangur að 11. hluta: Flæði: Uppgötvunar- og afhendingarleiðslur",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-00-flæði-uppgötvun-og-afhending/"
+    },
+    {
+     "number": "11.1",
+     "title": "Uppgötvunarferlið",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-01-uppgötvunarferli/"
+    },
+    {
+     "number": "11.2",
+     "title": "Afhendingarleiðslan",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-02-afhendingarferli/"
+    },
+    {
+     "number": "11.3",
+     "title": "Biðraðakenning",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-03-biðraðafræði/"
+    },
+    {
+     "number": "11.4",
+     "title": "Markmið og lykilniðurstöður (OKR)",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-04-markmið-og-lykilniðurstöður/"
+    },
+    {
+     "number": "11.5",
+     "title": "Lykilárangursvísar (KPI)",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-05-lykilframmistöðumælikvarðar/"
+    },
+    {
+     "number": "11.6",
+     "title": "Verðmætastraumskortlagning og kostnaður seinkunar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/11-06-virðisstraumskortlagning-og-kostnaður-tafar/"
+    },
+    {
+     "number": "12.0",
+     "title": "Viðaukar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-00-viðaukar/"
+    },
+    {
+     "number": "12.1",
+     "title": "Orðasafn",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-01-orðasafn/"
+    },
+    {
+     "number": "12.2",
+     "title": "Gátlistar",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-02-gátlistar/"
+    },
+    {
+     "number": "12.3",
+     "title": "Sniðmát",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-03-sniðmát/"
+    },
+    {
+     "number": "12.4",
+     "title": "Þroskasjálfsmat",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-04-sjálfsmat-á-þroska/"
+    },
+    {
+     "number": "12.5",
+     "title": "Heimildir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-05-heimildir/"
+    },
+    {
+     "number": "12.6",
+     "title": "Upptökuvegvísir",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-06-innleiðingarvegvísir/"
+    },
+    {
+     "number": "12.7",
+     "title": "Atriðisorðaskrá",
+     "url": "https://software-engineering-guide.github.io/is-001/viðfangsefni/12-07-atriðisorðaskrá/"
+    }
+   ]
   }
  ]
 }

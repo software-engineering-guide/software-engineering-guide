@@ -33,6 +33,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locales `nl-nl` and `nl-001` (Dutch): all 147 chapters translated by hand, with Dutch
   directory segments under `onderwerpen/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`.
+- Locales `is-is` and `is-001` (Icelandic): all 147 chapters translated by hand, with Icelandic
+  directory segments under `viðfangsefni/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
 
 ### Fixed
 
