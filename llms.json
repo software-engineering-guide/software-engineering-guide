@@ -18430,6 +18430,16 @@
      "number": "10.2",
      "title": "Áhætta, úttekt og trygging",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-02-áhætta-úttekt-og-trygging/"
+    },
+    {
+     "number": "10.3",
+     "title": "Innkaup, opinn hugbúnaður og leyfi",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"
+    },
+    {
+     "number": "10.4",
+     "title": "Viðhald stórra og langlífra kerfa",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"
     }
    ]
   }

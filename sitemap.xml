@@ -3399,6 +3399,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -3427,6 +3428,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -7640,6 +7642,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -7668,6 +7671,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -11881,6 +11885,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -11909,6 +11914,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -16122,6 +16128,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -16150,6 +16157,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -20363,6 +20371,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -20391,6 +20400,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -24604,6 +24614,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -24632,6 +24643,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -28845,6 +28857,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -28873,6 +28886,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -33086,6 +33100,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -33114,6 +33129,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -37327,6 +37343,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -37355,6 +37372,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -41568,6 +41586,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -41596,6 +41615,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -45809,6 +45829,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -45837,6 +45858,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -50050,6 +50072,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -50078,6 +50101,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -54291,6 +54315,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -54319,6 +54344,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -58532,6 +58558,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -58560,6 +58587,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -62773,6 +62801,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -62801,6 +62830,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -67014,6 +67044,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -67042,6 +67073,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -71255,6 +71287,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -71283,6 +71316,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -75496,6 +75530,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -75524,6 +75559,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -79737,6 +79773,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -79765,6 +79802,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -83978,6 +84016,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -84006,6 +84045,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -88219,6 +88259,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -88247,6 +88288,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -92460,6 +92502,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -92488,6 +92531,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -96701,6 +96745,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -96729,6 +96774,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -100942,6 +100988,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
   </url>
   <url>
@@ -100970,6 +101017,7 @@
     <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
   <url>
@@ -105156,5 +105204,63 @@
     <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-02-risico-audit-en-assurance/"/>
     <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-02-áhætta-úttekt-og-trygging/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-02-risk-audit-and-assurance/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/10-03-caffael-cod-agored-a-thrwyddedu/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/10-03-procurement-open-source-and-licensing/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/10-03-procurement-open-source-and-licensing/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/10-03-contratación-pública-código-abierto-y-licenciamiento/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/10-03-खरीद-ओपन-सोर्स-और-लाइसेंसिंग/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/10-03-采购-开源与许可/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/10-03-采购-开源与许可/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/10-03-المشتريات-والمصدر-المفتوح-والترخيص/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/10-03-beschaffung-open-source-und-lizenzierung/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/10-03-beschaffung-open-source-und-lizenzierung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/10-03-marches-publics-code-source-ouvert-licences/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/10-03-ক্রয়-ওপেন-সোর্স-ও-লাইসেন্সিং/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/10-03-caffael-cod-agored-a-thrwyddedu/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/10-03-खरीद-ओपन-सोर्स-और-लाइसेंसिंग/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/10-03-pengadaan-sumber-terbuka-dan-lisensi/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/10-03-調達とオープンソースとライセンス/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/10-03-調達とオープンソースとライセンス/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/10-03-조달과-오픈-소스와-라이선스/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/10-03-조달과-오픈-소스와-라이선스/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-03-upphandling-öppen-källkod-och-licensiering/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-03-inkoop-open-source-en-licenties/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-03-innkaup-opinn-hugbúnaður-og-leyfi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-03-procurement-open-source-and-licensing/"/>
+  </url>
+  <url>
+    <loc>https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/</loc>
+    <xhtml:link rel="alternate" hreflang="cy-001" href="https://software-engineering-guide.github.io/cy-001/pynciau/10-04-cynnal-systemau-mawr-hirhoedlog/"/>
+    <xhtml:link rel="alternate" hreflang="en-001" href="https://software-engineering-guide.github.io/en-001/topics/10-04-sustaining-large-and-long-lived-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://software-engineering-guide.github.io/en-gb/topics/10-04-sustaining-large-and-long-lived-systems/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
+    <xhtml:link rel="alternate" hreflang="es-001" href="https://software-engineering-guide.github.io/es-001/temas/10-04-sostener-sistemas-grandes-y-de-larga-vida/"/>
+    <xhtml:link rel="alternate" hreflang="hi-001" href="https://software-engineering-guide.github.io/hi-001/विषय/10-04-बड़ी-और-दीर्घजीवी-प्रणालियों-का-रखरखाव/"/>
+    <xhtml:link rel="alternate" hreflang="zh-001" href="https://software-engineering-guide.github.io/zh-001/主题/10-04-大型长生命周期系统的维系/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://software-engineering-guide.github.io/zh-cn/主题/10-04-大型长生命周期系统的维系/"/>
+    <xhtml:link rel="alternate" hreflang="ar-001" href="https://software-engineering-guide.github.io/ar-001/المواضيع/10-04-صون-الأنظمة-الكبيرة-وطويلة-العمر/"/>
+    <xhtml:link rel="alternate" hreflang="de-001" href="https://software-engineering-guide.github.io/de-001/themen/10-04-grosse-und-langlebige-systeme-am-laufen-halten/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://software-engineering-guide.github.io/de-de/themen/10-04-grosse-und-langlebige-systeme-am-laufen-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr-001" href="https://software-engineering-guide.github.io/fr-001/sujets/10-04-soutenir-systemes-grands-longue-duree/"/>
+    <xhtml:link rel="alternate" hreflang="bn-001" href="https://software-engineering-guide.github.io/bn-001/বিষয়/10-04-বড়-ও-দীর্ঘজীবী-সিস্টেম-টিকিয়ে-রাখা/"/>
+    <xhtml:link rel="alternate" hreflang="cy-gb" href="https://software-engineering-guide.github.io/cy-gb/pynciau/10-04-cynnal-systemau-mawr-hirhoedlog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-in" href="https://software-engineering-guide.github.io/hi-in/विषय/10-04-बड़ी-और-दीर्घजीवी-प्रणालियों-का-रखरखाव/"/>
+    <xhtml:link rel="alternate" hreflang="id-001" href="https://software-engineering-guide.github.io/id-001/topik/10-04-merawat-sistem-besar-dan-berumur-panjang/"/>
+    <xhtml:link rel="alternate" hreflang="ja-jp" href="https://software-engineering-guide.github.io/ja-jp/トピック/10-04-大規模で長寿命なシステムの維持/"/>
+    <xhtml:link rel="alternate" hreflang="ja-001" href="https://software-engineering-guide.github.io/ja-001/トピック/10-04-大規模で長寿命なシステムの維持/"/>
+    <xhtml:link rel="alternate" hreflang="ko-kr" href="https://software-engineering-guide.github.io/ko-kr/주제/10-04-대규모-장수-시스템의-지속/"/>
+    <xhtml:link rel="alternate" hreflang="ko-001" href="https://software-engineering-guide.github.io/ko-001/주제/10-04-대규모-장수-시스템의-지속/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://software-engineering-guide.github.io/sv-se/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
+    <xhtml:link rel="alternate" hreflang="sv-001" href="https://software-engineering-guide.github.io/sv-001/ämnen/10-04-att-vidmakthålla-stora-och-långlivade-system/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://software-engineering-guide.github.io/nl-nl/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="nl-001" href="https://software-engineering-guide.github.io/nl-001/onderwerpen/10-04-onderhoud-van-grote-en-langlevende-systemen/"/>
+    <xhtml:link rel="alternate" hreflang="is-is" href="https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://software-engineering-guide.github.io/en-us/topics/10-04-sustaining-large-and-long-lived-systems/"/>
   </url>
 </urlset>
