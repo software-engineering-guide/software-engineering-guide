@@ -19696,6 +19696,16 @@
      "number": "5.6",
      "title": "Engenharia de front-end",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-06-engenharia-de-front-end/"
+    },
+    {
+     "number": "5.7",
+     "title": "Desenvolvimento de aplicativos móveis",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-07-desenvolvimento-de-aplicativos-móveis/"
+    },
+    {
+     "number": "5.8",
+     "title": "Pesquisa de design e testes de usabilidade",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-08-pesquisa-de-design-e-testes-de-usabilidade/"
     }
    ]
   }
