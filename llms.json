@@ -19826,6 +19826,16 @@
      "number": "8.1",
      "title": "CI/CD e entrega",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-01-ci-cd-e-entrega/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infraestrutura como código e configuração",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-02-infraestrutura-como-código-e-configuração/"
+    },
+    {
+     "number": "8.3",
+     "title": "Contêineres, orquestração e cloud-native",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-03-contêineres-orquestração-e-nativo-da-nuvem/"
     }
    ]
   }
