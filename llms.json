@@ -20006,6 +20006,16 @@
      "number": "11.1",
      "title": "O pipeline de descoberta",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/11-01-pipeline-de-descoberta/"
+    },
+    {
+     "number": "11.2",
+     "title": "O pipeline de entrega",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/11-02-pipeline-de-entrega/"
+    },
+    {
+     "number": "11.3",
+     "title": "Teoria das filas",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/11-03-teoria-das-filas/"
     }
    ]
   }
