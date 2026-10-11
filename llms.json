@@ -19396,6 +19396,16 @@
      "number": "1.11",
      "title": "Gestão de engenharia",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-11-gestão-de-engenharia/"
+    },
+    {
+     "number": "1.12",
+     "title": "Diversidade, equidade, inclusão e pertencimento",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-12-diversidade-equidade-inclusão-e-pertencimento/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoria, coaching e compartilhamento de conhecimento",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-13-mentoria-coaching-e-compartilhamento-de-conhecimento/"
     }
    ]
   }
