@@ -18440,6 +18440,16 @@
      "number": "10.4",
      "title": "Viðhald stórra og langlífra kerfa",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-04-viðhald-stórra-og-langlífra-kerfa/"
+    },
+    {
+     "number": "10.5",
+     "title": "Siðfræði, ábyrgð og almannahagur",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-05-siðfræði-ábyrgð-og-almannahagur/"
+    },
+    {
+     "number": "10.6",
+     "title": "Verkefnastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-06-verkefnastjórnun/"
     }
    ]
   }
