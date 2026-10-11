@@ -19676,6 +19676,16 @@
      "number": "5.2",
      "title": "Design de UI e sistemas de design",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-02-design-de-ui-e-sistemas-de-design/"
+    },
+    {
+     "number": "5.3",
+     "title": "Acessibilidade",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-03-acessibilidade/"
+    },
+    {
+     "number": "5.4",
+     "title": "Design de conteúdo e comunicação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-04-design-de-conteúdo-e-comunicação/"
     }
    ]
   }
