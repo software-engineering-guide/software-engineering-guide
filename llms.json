@@ -18110,6 +18110,16 @@
      "number": "3.15",
      "title": "Skyndiminni og efnisdreifing",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-15-skyndiminni-og-efnisdreifing/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gáttir og þjónustunet",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-16-api-gáttir-og-þjónustunet/"
+    },
+    {
+     "number": "3.17",
+     "title": "Leit og upplýsingaleit",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/03-17-leit-og-upplýsingaleit/"
     }
    ]
   }
