@@ -18550,6 +18550,16 @@
      "number": "12.0",
      "title": "Viðaukar",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-00-viðaukar/"
+    },
+    {
+     "number": "12.1",
+     "title": "Orðasafn",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-01-orðasafn/"
+    },
+    {
+     "number": "12.2",
+     "title": "Gátlistar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/12-02-gátlistar/"
     }
    ]
   }
