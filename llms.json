@@ -19886,6 +19886,16 @@
      "number": "9.5",
      "title": "Recuperação de desastres e continuidade de negócio",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-05-recuperação-de-desastres-e-continuidade-de-negócio/"
+    },
+    {
+     "number": "9.6",
+     "title": "Engenharia do caos e testes de resiliência",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-06-engenharia-do-caos-e-testes-de-resiliência/"
+    },
+    {
+     "number": "9.7",
+     "title": "Planejamento de capacidade e previsão de demanda",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/09-07-planejamento-de-capacidade-e-previsão-de-demanda/"
     }
    ]
   }
