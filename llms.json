@@ -19766,6 +19766,16 @@
      "number": "6.9",
      "title": "Engenharia de prompts e design de contexto",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-09-engenharia-de-prompts-e-design-de-contexto/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introdução à Parte 7: Dados, análises e percepção",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-00-dados-e-análises/"
+    },
+    {
+     "number": "7.1",
+     "title": "Estratégia e governança de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-01-estratégia-e-governança-de-dados/"
     }
    ]
   }
