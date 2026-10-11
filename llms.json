@@ -19386,6 +19386,16 @@
      "number": "1.9",
      "title": "Trabalho distribuído e remoto",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-09-trabalho-distribuído-e-remoto/"
+    },
+    {
+     "number": "1.10",
+     "title": "Eficácia da engenharia e produtividade dos desenvolvedores",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores/"
+    },
+    {
+     "number": "1.11",
+     "title": "Gestão de engenharia",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-11-gestão-de-engenharia/"
     }
    ]
   }
