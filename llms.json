@@ -19776,6 +19776,16 @@
      "number": "7.1",
      "title": "Estratégia e governança de dados",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-01-estratégia-e-governança-de-dados/"
+    },
+    {
+     "number": "7.2",
+     "title": "Engenharia de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-02-engenharia-de-dados/"
+    },
+    {
+     "number": "7.3",
+     "title": "Análises e inteligência de negócio",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/07-03-análises-e-inteligência-de-negócio/"
     }
    ]
   }
