@@ -19946,6 +19946,16 @@
      "number": "10.8",
      "title": "Modelos de maturidade",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-08-modelos-de-maturidade/"
+    },
+    {
+     "number": "10.9",
+     "title": "Parceria de inovação",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-09-parceria-de-inovação/"
+    },
+    {
+     "number": "10.10",
+     "title": "Economia da engenharia de software",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-10-economia-da-engenharia-de-software/"
     }
    ]
   }
