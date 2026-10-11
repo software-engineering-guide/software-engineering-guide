@@ -19366,6 +19366,16 @@
      "number": "1.5",
      "title": "Tomada de decisão e governança",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-05-tomada-de-decisão-e-governança/"
+    },
+    {
+     "number": "1.6",
+     "title": "Registros de decisão",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-06-registros-de-decisão/"
+    },
+    {
+     "number": "1.7",
+     "title": "Padrões de engenharia e exceções",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/01-07-padrões-de-engenharia-e-exceções/"
     }
    ]
   }
