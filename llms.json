@@ -18340,6 +18340,16 @@
      "number": "8.1",
      "title": "Samfelld samþætting og afhending",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-01-samfelld-samþætting-og-afhending/"
+    },
+    {
+     "number": "8.2",
+     "title": "Innviðir sem kóði og stillingar",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-02-innviðir-sem-kóði-og-stillingar/"
+    },
+    {
+     "number": "8.3",
+     "title": "Gámar, stýring og skýjabyggð tækni",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/08-03-gámar-stýring-og-skýjatækni/"
     }
    ]
   }
