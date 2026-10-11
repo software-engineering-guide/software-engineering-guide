@@ -19956,6 +19956,16 @@
      "number": "10.10",
      "title": "Economia da engenharia de software",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-10-economia-da-engenharia-de-software/"
+    },
+    {
+     "number": "10.11",
+     "title": "Soberania digital",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-11-soberania-digital/"
+    },
+    {
+     "number": "10.12",
+     "title": "Código aberto versus código fechado",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/10-12-código-aberto-versus-código-fechado/"
     }
    ]
   }
