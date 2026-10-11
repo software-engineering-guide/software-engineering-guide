@@ -18520,6 +18520,16 @@
      "number": "11.1",
      "title": "Uppgötvunarferlið",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-01-uppgötvunarferli/"
+    },
+    {
+     "number": "11.2",
+     "title": "Afhendingarleiðslan",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-02-afhendingarferli/"
+    },
+    {
+     "number": "11.3",
+     "title": "Biðraðakenning",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/11-03-biðraðafræði/"
     }
    ]
   }
