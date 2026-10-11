@@ -19846,6 +19846,16 @@
      "number": "8.5",
      "title": "Automação de testes e de processos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-05-automação-de-testes-e-de-processos/"
+    },
+    {
+     "number": "8.6",
+     "title": "Gestão de lançamentos e entrega progressiva",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-06-gestão-de-lançamentos-e-entrega-progressiva/"
+    },
+    {
+     "number": "8.7",
+     "title": "Sistemas de build e gestão de artefatos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/08-07-sistemas-de-build-e-gestão-de-artefatos/"
     }
    ]
   }
