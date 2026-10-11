@@ -1,0 +1,173 @@
+# 9.8 Bakvaktir og rekstrarviðbúnaður
+
+## Yfirlit og tilgangur
+
+Einhver er vakandi núna því kerfið þitt gæti kallað á hann. Bakvakt er mannlega fyrirkomulagið sem kemur hæfum einstaklingi í færi við vandamál í framleiðslu á hvaða tíma sólarhrings sem er og rekstrarviðbúnaður er vinnan sem þú vinnur fyrirfram svo sá einstaklingur eigi raunverulegan möguleika. Þessi kafli fjallar um þann viðbúnað og það mannlega kerfi: hvernig þú hannar vaktaskipulag sem fólk getur haldið út árum saman, hvernig þú ákveður hvað er þess virði að vekja einhvern fyrir og hvernig þú tryggir að þjónusta sé sannarlega tilbúin til reksturs áður en þú leyfir henni að bera raunverulega umferð.
+
+Haltu þessu aðgreindu frá tveimur nágrönnum. Kafli 9.3 fjallar um atvikastjórnun, viðbragðsferlið þegar eitthvað er bilað í raun: stjórnunarhlutverk, alvarleikastig, samhæfingu og eftirmálsrýni. Kafli 9.1 fjallar um [áreiðanleikaverkfræði](https://en.wikipedia.org/wiki/Site_reliability_engineering) (SRE), víðtækari agann að verkfræða áreiðanleika með þjónustustigsmarkmiðum og villufjárhagsáætlunum. Þessi kafli situr á undan atvikinu og samhliða agaða. Hann spyr þrengri og persónulegri spurningar: er þjónustan tilbúin til reksturs og er sá sem ber boðtækið settur upp til að ganga vel frekar en að þjást? Skipulagsheild getur haft framúrskarandi atvikaferli og samt brennt út verkfræðinga sína, því sársauki bakvaktar ræðst löngu fyrir nokkurt atvik, af gæðum viðvarana, ástandi keyrsluhandbóka og mannúð vaktaskrárinnar.
+
+Fyrir stór teymi hættir bakvakt að vera óformlegur greiði og verður innviðir. Vettvangur hundraða þjónusta og tuga teyma getur ekki reitt sig á þann eina sem veit hvernig allt virkar. Hann þarf vaktaskipulag, stigmögnunarleiðir og viðbúnaðarstaðla sem standa þegar upphaflegu höfundarnir eru farnir. Í fyrirtækja- og opinberu umhverfi hækka húfin enn frekar. Regluverkaðar þjónustur bera aðgengisskuldbindingar og umönnunarskyldu gagnvart starfsfólkinu sem rekur þær. Bóta- eða heilbrigðiskerfi fyrir borgara getur ekki farið í myrkur yfir nótt af því að sá eini sem skildi það var í fríi. Rekstrarviðbúnaður er hvernig stofnun stendur við loforð sín eftir að opnunarveislunni lýkur og mannúðleg bakvakt er hvernig hún heldur fólkinu sem heldur þau loforð.
+
+## Meginreglur
+
+- Kallaðu á manneskju aðeins vegna vandamála sem eru brýn, framkvæmanleg og raunveruleg.
+- Hannaðu vaktaskipulagið fyrir manneskju sem á líf, ekki fyrir sífellt tiltæka vél.
+- Sannaðu að þjónusta sé tilbúin til reksturs áður en hún ber framleiðsluumferð.
+- Varaðu við einkennum sem notendur sjá og SLO, ekki við hverja innri orsök.
+- Líttu á keyrsluhandbækur og viðbúnaðarrýni sem lifandi skjöl sem eru notuð, ekki skjalfest og gleymd.
+- Hver sem smíðar þjónustu ætti að hjálpa til við að reka hana, innan mannúðlegra og studdra marka.
+- Mældu heilsu bakvakta og skerðu leiðindavinnu svo álagið þróist niður á við, ekki upp.
+
+## Ráðleggingar
+
+### Hannaðu mannúðlegt og sjálfbært vaktaskipulag
+
+Byrjaðu á lögun vaktaskrárinnar, því hún ræður meiru um sjálfbærni en nokkurt verkfæri. Algengt mynstur er vikuleg vaktaskipti með aðalviðbragðsaðila sem tekur fyrstu köllin og varamanni sem er til vara þegar aðalmaðurinn kvittar ekki eða þarf hjálp. Hafðu hópinn nógu stóran til að hver verkfræðingur sé á bakvakt í mesta lagi eina viku af hverjum fjórum og helst eina af sex eða fleiri. Vaktaskipulag með fjórum eða færri er viðvörunarmerki: veikindi, frí og starfsmannavelta munu hrynja það saman í sömu tvær örmagna hetjurnar.
+
+Þar sem þú starfar yfir tímabelti skaltu kjósa [fylgdu-sólinni](https://en.wikipedia.org/wiki/Follow-the-sun) líkan, þar sem teymi á ólíkum svæðum sinna hvert sínum dagsbirtutímum svo enginn sé reglulega vakinn klukkan þrjú um nótt. Það virðir [sólarhringstakt](https://en.wikipedia.org/wiki/Circadian_rhythm), innri svefn- og vökulotu líkamans, þar sem truflun er beinn heilsukostnaður, ekki smávægileg óþægindi. Þegar fylgdu-sólinni er ekki mögulegt skaltu þjappa sársaukanum saman: styttri næturvaktablokkir, tryggðan hvíldartíma eftir slæma nótt og skýra reglu um að verkfræðingur sem var mikið vakinn um nóttina skuldi ekki heilan dag af eiginleikavinnu næsta morgun.
+
+Stigmögnun er öryggisnetið undir vaktaskipulaginu. Skilgreindu skriflega hvað gerist þegar aðalmaðurinn kvittar ekki fyrir kalli innan ákveðins glugga: það færist til varamannsins, síðan til teymisstjóra eða stjórnanda, síðan til víðari hóps. [Stigmögnunarstefna](https://en.wikipedia.org/wiki/Escalation) sem er sjálfvirk og vel skilin þýðir að ekkert kall fellur þegjandi á gólfið og engin ein þreytt manneskja er eina varnarlínan.
+
+### Láttu kallastefnu snúast um framkvæmanleg, brýn og raunveruleg vandamál
+
+Fljótlegasta leiðin til að eyðileggja bakvaktarskipulag er að kalla á fólk vegna hluta sem það getur ekki eða þarf ekki að bregðast við. Taktu upp eina reglu og verðu hana af hörku: kall er fullyrðing um að manneskja þurfi að gera eitthvað núna. Ef viðvörun stenst ekki öll þrjú prófin, brýn, framkvæmanleg og lýsir raunverulegu vandamáli sem notendur sjá, á hún ekki skilið kall. Beindu henni í staðinn í miða, mælaborð eða daglegt yfirlit.
+
+Óvinurinn hér er [viðvörunarþreyta](https://en.wikipedia.org/wiki/Alarm_fatigue), vel skjalfest fyrirbæri þar sem fólk sem verður fyrir tíðum viðvörunum sljóvgast og byrjar að hunsa þær, líka þær sem skipta máli. Það er öryggishugtak sjúklinga úr sjúkrahúsum og það flyst nákvæmlega yfir í hugbúnað. Þegar hver vakt færir tuttugu köll og nítján eru hávaði læra viðbragðsaðilar að strjúka þau burt hálfsofandi og tuttugasta, það sem var raunverulegt, fær sömu viðbragðshreyfinguna. Sérhver hávær viðvörun sem þú umber er lítill skattur á trúverðugleika allra annarra viðvarana.
+
+Líttu á gæði viðvarana sem fyrsta flokks verkfræðiafurð. Raktu hlutfallið kvittun-í-aðgerð: af köllunum sem kviknuðu, hve mörg leiddu til þess að manneskja gerði eitthvað sem skipti máli? Viðvörun sem krafðist aldrei aðgerðar heilan ársfjórðung er kandídat til eyðingar eða niðurfellingar. Rýndu viðvaranir þínar á reglulegum takti og gefðu hverjum verkfræðingi rétt til að véfengja háværa. Markmiðið er vaktaskipulag þar sem kall er nógu sjaldgæft til að það merki enn eitthvað.
+
+### Varaðu við einkennum og SLO, ekki orsökum
+
+Áhrifaríkasta leiðin til að skera hávaða er að breyta því sem þú varar við. Að vara við orsökum, svo sem miklum örgjörvanotkun, fullum diski eða stöku endurræstu ferli, framleiðir flóð kalla vegna ástands sem gæti aldrei haft áhrif á notanda og kerfið læknar oft sjálft. Varaðu í staðinn við einkennum: gerir þjónustan það sem notendur þurfa? Bindu kallviðvaranir þínar við [þjónustustigsmarkmið](https://en.wikipedia.org/wiki/Service-level_objective) (SLO), tölulegu áreiðanleikamarkmiðin sem skilgreind eru í kafla 9.1, og kallaðu þegar þú brennir villufjárhagsáætlun nógu hratt til að missa af markmiðinu, eða þegar mælikvarði sem notendur sjá, svo sem töf eða árangurshlutfall, fer yfir línu sem fólk raunverulega finnur.
+
+Þessi einkennamiðaða, SLO-drifna nálgun byggir á sýnileikanum og fjarmælingum í kafla 9.2, því brunahraðaviðvaranir virka aðeins þegar mælikvarðar, skrár og rakningar eru skipulagðar og áreiðanlegar. Ávinningurinn er mikill: handfylli innihaldsríkra einkennaviðvarana kemur í stað hundraða orsakaviðvarana og kall tengist aftur vandamáli sem er þess virði að vekja fyrir. Orsakir skipta enn máli, en þær tilheyra greiningarmælaborðunum sem viðbragðsaðilinn skoðar eftir að einkennaviðvörun kviknar, ekki í kallferlinu.
+
+### Krefstu rekstrarviðbúnaðar fyrir opnun
+
+Þjónusta ætti að vinna sér inn leið sína í framleiðslu. Áður en hún ber raunverulega umferð skaltu keyra hana gegnum framleiðsluviðbúnaðarrýni: skipulagða athugun, helst af einhverjum utan smíðateymisins, á að hægt sé í raun að reka þjónustuna. Festu rýnina í gátlista sem verður sameiginlegur staðall milli teyma. Sterkur listi nær yfir vöktun og SLO, viðvaranir sem uppfylla kallastefnuna, mælaborð, keyrsluhandbækur fyrir líklegar bilanir, skilgreint eignarhald og bakvaktarskipulag, væntingar um afkastagetu og álag, greiningu á ósjálfstæði og bilunarháttum, afritun og endurheimt, öryggi og aðgangsstýringar og afturköllunaráætlun.
+
+Rýnin er samtal, ekki hlið til að leika á. Gildi hennar er að hún neyðir smíðateymið til að horfast í augu við rekstrarhæfni á meðan það hefur enn samhengið, frekar en að uppgötva klukkan tvö um nótt sex mánuðum síðar að enginn skrifaði keyrsluhandbók eða setti upp viðvörun. Tengdu viðbúnað við seigluprófanirnar í kafla 9.6: þjónusta sem hefur aldrei fengið ósjálfstæðisbilun sprautaða fyrir opnun gefur óprófað loforð um hvernig hún bilar. Fyrir áhættusamar opnanir í fyrirtækjum og hjá hinu opinbera skaltu gera viðbúnaðarrýnina að skyldubundnu, skjalfestu skrefi, því kostnaður óviðbúinnar borgarþjónustu sem bilar opinberlega er mældur í trausti jafnt sem peningum.
+
+### Skrifaðu keyrsluhandbækur og leiðbeiningar sem eru í raun notaðar
+
+Keyrsluhandbók er skref-fyrir-skref rekstrarskjal: hvernig á að endurræsa þessa þjónustu, skipta um þetta skilríki, tæma þessa biðröð, túlka þessa viðvörun. Verkferill er víðtækari viðbragðsleiðbeining fyrir flokk aðstæðna. Hvort tveggja er einskis virði ef enginn les það og flestar keyrsluhandbækur eru ólesnar því þær eru úreltar, óljósar eða ómögulegar að finna klukkan þrjú um nótt. Lagaðu bilunarhættina beint. Tengdu keyrsluhandbókina úr viðvöruninni sjálfri, svo viðbragðsaðili nái henni með einum smelli úr kallinu. Hafðu keyrsluhandbækur í útgáfustýringu við hlið kóðans, eins og skjölunarvenjur kafla 2.7 mæla með, svo þær séu rýndar og uppfærðar eins og hver önnur afurð. Skrifaðu þær fyrir stressaðan, syfjaðan ókunnugan, með áþreifanlegum skipunum og væntanlegum úttökum, ekki texta sem gerir ráð fyrir samhengi höfundarins.
+
+Prófið á keyrsluhandbók er hvort einhver annar en höfundurinn geti fylgt henni með góðum árangri undir álagi. Staðfestu það við inngöngu og á leikdögum og uppfærðu keyrsluhandbókina um leið og atvik afhjúpar að hún var röng. Keyrsluhandbók sem lýgur er verri en engin, því hún sendir þreyttan viðbragðsaðila fullviss í ranga átt.
+
+### Berðu ábyrgð á því sem þú smíðar, innan mannúðlegra marka
+
+[DevOps](https://en.wikipedia.org/wiki/DevOps) hreyfingin gerði „þú smíðar það, þú rekur það“ vinsælt: teymið sem skrifar þjónustu ber líka boðtæki hennar. Ávinningurinn er raunverulegur og þess virði að verja. Þegar smiðir finna eigin köll fjárfesta þeir í áreiðanleika, laga háværar viðvaranir og hanna fyrir rekstrarhæfni, því endurgjöfarlykkjan nær til þeirra persónulega frekar en að lenda á aðskildu rekstrarteymi sem getur ekki lagað rótina.
+
+Líkanið hefur takmörk sem þú verður að virða. Það krefst þess að teymi séu í raun búin til að reka þjónustur sínar: fái verkfærin, vettvanginn, þjálfunina og tímann til að sinna rekstri vel, eins og skilvirkni verkfræði í kafla 1.10 og vinnulag í kafla 1.4 krefjast bæði. Fullt eignarhald er grimmt þegar það er lagt á teymi sem er of lítið til að manna vaktaskipulag, eða án vettvangsstuðnings sem gerir bakvakt bærilega. Sumar skipulagsheildir reka blendingsmódel þar sem miðlægt SRE- eða vettvangsteymi á hluta erfiðustu laganna eða veitir utan-vinnutíma þekju fyrir þjónustur sem uppfylla hátt áreiðanleikaviðmið, sem frelsar vöruteymi frá venjubundnum næturköllum. Meginreglan sem á að halda er endurgjöfarlykkjan. Lögunin getur sveigst að stærð teymisins, þroska og mannúð álagsins.
+
+### Þjálfaðu bakvaktarverkfræðinga af ásetningi og haltu leikdaga
+
+Enginn ætti að taka boðtækið í fyrsta sinn einn og óundirbúinn. Byggðu inngönguleið: að fylgja reyndum viðbragðsaðila eina vakt, öfugt fylgd þar sem nýliðinn leiðir með leiðbeinanda að horfa, yfirferð yfir mælaborð og keyrsluhandbækur og skýrt kort af hverjum á að stigmagna til. Gerðu viðbúnað til að fara á bakvakt að skýrum áfanga, ekki forsendu.
+
+Leikdagar eru æfingin sem gerir bakvakt raunverulega. Á leikdegi æfir þú viljandi bilun, helst í raunsæju umhverfi, og lætur bakvaktarverkfræðinginn bregðast við með aðeins þeim verkfærum og keyrsluhandbókum sem hann hefði í raunverulegu atviki. Þar uppgötvarðu að keyrsluhandbókin er úrelt, mælaborðið vantar merki eða viðvörunin kviknar aldrei. Leikdagar byggja vöðvaminnið og sjálfstraustið sem breyta fyrsta raunverulega kallinu úr skelfingu í verklag og þeir tengjast eðlilega glundroðaverkfræðinni í kafla 9.6.
+
+### Haltu hreinar afhendingar og mældu heilsu bakvakta
+
+Afhendingin milli vakta er þar sem samhengi lekur. Settu upp stutta, skipulagða afhendingu: hvað er skert núna, hvaða viðvaranir kviknuðu og voru bældar, hvaða breytingar eru í gangi, hverju á að fylgjast með. Paraðu hana við grunnhreinlæti bakvakta, þar á meðal reglu um að fráfarandi viðbragðsaðili skilji ekki eftir sóðaskap fyrir þann sem tekur við og að allt sem er hálflagað sé skrifað niður.
+
+Umfram allt skaltu mæla. Þú getur ekki stýrt álagi sem þú sérð ekki. Raktu köll á vakt, hlutfall kalla sem lenda utan vinnutíma (kvöld, nætur, helgar), tíma til kvittunar og hve oft varamaður og stigmögnunarlög eru ræst. Fylgstu með þróuninni, ekki bara tölunni: vaktaskipulag þar sem köll utan vinnutíma aukast ársfjórðung eftir ársfjórðung stefnir í kulnun óháð núverandi heildarfjölda. Fóðraðu þessa mælikvarða inn í reglulega rekstrarrýni þar sem teymið ákveður hvaða leiðindavinnu á að sjálfvirknivæða burt, hvaða viðvaranir á að drepa og hvar viðbúnaður brást. Að draga úr leiðindavinnu, endurtekinni handvirkri rekstrarvinnu sem skalast með umferð frekar en að vera lagfærð einu sinni, er hvernig þú heldur bakvaktarálaginu flötu á meðan kerfið vex.
+
+## Málamiðlanir: kostir og gallar
+
+| Val | Kostir | Gallar |
+|---|---|---|
+| Þú smíðar það, þú rekur það | Þétt áreiðanleikaendurgjöf. Eigendur laga rót vandans | Grimmt fyrir illa mönnuð eða örlítil teymi. Ójafnt næturálag |
+| Miðlæg SRE- eða vettvangsbakvakt | Ver vöruteymi gegn venjubundnum næturköllum. Djúp rekstrarfærni | Veikir endurgjöf smiða. Getur orðið ruslakista |
+| Fylgdu-sólinni vaktaskipulag | Enginn vakinn um nætur. Mannúðlegt og heilbrigt | Þarf starfsfólk á mörgum svæðum. Meiri afhendingarkostnaður |
+| Lítið staðbundið vaktaskipulag | Einfalt. Allir þekkja kerfið | Hrynur við veikindi eða starfsmannaveltu. Hröð kulnun |
+| Einkenna- og SLO-viðvaranir | Fá, innihaldsrík köll. Lítil þreyta | Þarf þroskaðar fjarmælingar. Getur misst hægt vaxandi orsakir |
+| Orsakamiðaðar viðvaranir | Grípur vandamál snemma og sértækt | Flæðir yfir viðbragðsaðila. Knýr viðvörunarþreytu |
+| Strangar viðbúnaðarrýnir | Færri leiðinleg óvænt atvik í framleiðslu | Hægir á opnunum. Getur virkað skrifræðislegt ef leikið á |
+
+Kjarnaspennan er milli þekju og mannúðar. Þrýstu á hámarksþekju og þú færð stór vaktaskipulög, ágengar viðvaranir og fullt eignarhald alls staðar, sem ver kerfið á meðan það malar fólkið niður. Fínstilltu eingöngu fyrir þægindi viðbragðsaðilans og þú átt á hættu göt þar sem raunverulegt vandamál bíður án eftirlits. Leystu það ekki með því að skipta muninum heldur með því að hækka gæðin: framúrskarandi viðvaranir, virkar keyrsluhandbækur og tilbúnar þjónustur leyfa minna, rólegra vaktaskipulagi að þekja meira svæði á öruggan hátt. Skipulagsheildirnar sem reka best eru yfirleitt þær þar sem viðbragðsaðilar eru sjaldnast kallaðir, því þær fjárfestu í viðbúnaði frekar en úthaldi. Hver klukkustund sem fer í að fjarlægja háværa viðvörun eða laga keyrsluhandbók kaupir til baka margar klukkustundir af mannlegri athygli og ver trúverðugleika alls kerfisins.
+
+## Spurningar til að ræða með teyminu
+
+1. **Værir þú persónulega tilbúin(n) að bera þetta vaktaskipulag í ár og hverju myndir þú breyta ef svarið er nei?** Þessi spurning sker gegnum óhlutbundið því hún gerir álagið persónulegt. Komdu með raunverulegu tölurnar í samtalið: hve mörg köll kviknuðu í síðasta mánuði, hve mörg lentu eftir miðnætti eða um helgi og hve langan tíma meðalkvittun tók. Spyrðu hvern á vaktaskipulaginu hvort núverandi lögun sé sú sem hann getur haldið út án þess að kvíða bakvaktarviku sinni og hlustaðu eftir hljóðu svörunum jafnt og háværu. Ef heiðarlega svarið er að vaktaskipulagið sé aðeins lífvænlegt því nokkrar hetjur taka á sig það versta, hefurðu fundið brothættni sem brotnar í fyrsta sinn sem ein þeirra fer. Úttakið sem þú vilt er áþreifanlegur listi breytinga, hvort sem það er stærri hópur, fylgdu-sólinni skipting, fækkun næturkalla eða viðvörunarhreinsun, með eiganda og dagsetningu á hverri.
+
+2. **Getur þú nefnt aðgerðina sem viðbragðsaðilinn á að grípa til fyrir hverja viðvörun sem getur kallað á manneskju?** Flest vaktaskipulög hafa aldrei úttekt á þessu og æfingin er afhjúpandi. Dragðu fram allan listann yfir kallviðvaranir og spurðu fyrir hverja hvað viðbragðsaðili á að gera þegar hún kviknar og hve oft hún kviknaði án þess að leiða til raunverulegrar aðgerðar síðasta ársfjórðung. Viðvaranir sem falla á prófinu, þær sem enginn getur tengt aðgerð við, eða leysast stöðugt sjálfar áður en nokkur snertir þær, eru hávaðinn sem rýrir traust á öllum öðrum viðvörunum. Komdu með kvittun-í-aðgerð gögnin ef þú átt þau og vertu tilbúin(n) að eyða eða fella niður ákaft. Markmiðið er kallferli þar sem hver viðvörun er raunveruleg beiðni um mannlega hjálp og fundurinn ætti að enda með styttri, skarpari viðvörunarlista en hann byrjaði með.
+
+3. **Þegar nýr verkfræðingur gengur í þetta vaktaskipulag, hvað undirbýr hann nákvæmlega og hafið þið prófað að það virki?** Inngöngu á bakvakt er oft gert ráð fyrir frekar en hún hönnuð og gatið sést í fyrsta sinn sem nýliði er kallaður einn inn í bilun sem hann hefur aldrei séð. Gangið í gegnum raunverulega leið nýs viðbragðsaðila: hverju hann fylgir, hvaða keyrsluhandbækur hann les, hvort einhver hefur nýlega fylgt þeim keyrsluhandbókum til að staðfesta að þær virki enn og hverjum hann stigmagnar til þegar hann er fastur. Prófaðu að velja raunverulegt nýlegt atvik og spyrja hvort nýráðinn, vopnaður aðeins núverandi keyrsluhandbókum og mælaborðum, hefði getað leyst það. Heiðarlega svarið afhjúpar yfirleitt úrelt skjöl og vantandi merki, sem er nákvæmlega það sem leikdagar eiga að draga fram áður en raunverulegt atvik gerir það. Farðu með skilgreindan viðbúnaðaráfanga fyrir bakvakt og áætlun leikdaga sem halda honum heiðarlegum.
+
+4. **Hvar lenda köll utan vinnutíma í raun og erum við tilbúin að breyta mönnun eða þekju til að vernda svefn fólks?** Næturköll og helgarköll bera heilsukostnað sem hrár kallfjöldi felur, svo vaktaskipulag sem lítur þolanlegt út að meðaltali getur samt hljóðlega verið að eyðileggja fáeina sem lenda á þriggja um nótt bilununum. Komdu með sundurliðun kalla eftir klukkustund og vikudegi, skipt eftir þjónustu og viðbragðsaðila, og leitaðu að samþjöppuninni frekar en meðaltalinu. Samkeppnisvegna er raunveruleg: fylgdu-sólinni þekja þarf starfsfólk á fleiri en einu svæði og bætir við afhendingarkostnaði, á meðan lítið staðbundið vaktaskipulag er einfaldara en skilur einhvern eftir sem á næturnar. Ákveddu af ásetningi hvort lagfæringin er annað svæðisvaktaskipulag, miðlægt vettvangsteymi sem tekur utan-vinnutíma lögin, styttri næturblokkir með tryggðum hvíldartíma eða viðvörunarhreinsun sem fjarlægir næturhávaðann við upptök. Fyrir fyrirtækja- og opinbera rekstraraðila skaltu líta á umönnunarskyldu gagnvart bakvaktarstarfsfólki sem formlega skyldu með eiganda og skýrðum mælikvarða, ekki vellíðunarslagorð, því eftirlitsaðili eða starfsmannaráð gæti á endanum beðið þig að sýna hana.
+
+5. **Er framleiðsluviðbúnaðarrýnin okkar raunverulegt samtal um hvernig þjónustan bilar, eða gátlisti sem leikið er á til að komast í gegnum hliðið?** Viðbúnaðarrýni borgar sig aðeins ef hún breytir því sem afhent er og bilunarhátturinn er eyðublað fyllt út síðdegis fyrir opnun til að fullnægja ferli sem enginn trúir á. Komdu með síðustu fáu kláruðu rýnirnar og spyrðu hvað hver þeirra greip í raun: vantandi keyrsluhandbók, óprófaða afturköllun, viðvörun sem kviknaði aldrei eða ekkert. Spennan er milli opnunarhraða og rekstrarstrangleika og rýni sem finnst eins og skrifræði verður leikið á á meðan sú sem afhjúpar raunverulega bilunarhætti verður óvinsæl þar til í fyrsta sinn sem hún bjargar nótt einhvers. Ákveddu hver keyrir rýnina, hvort það sé einhver utan smíðateymisins og hvaða sönnunargögn, svo sem sprautuð ósjálfstæðisbilun eða keyrsluhandbók sem ókunnugur fylgdi, teljast sem staðið. Í fyrirtækja- og opinberum opnunum skaltu geyma kláruðu rýnina sem úttektarafurð og tengja hana við seigluprófanir kafla 9.6, því óviðbúin borgarþjónusta sem bilar opinberlega kostar traust sem engin afturköllun endurheimtir.
+
+6. **Hvar þjónar „þú smíðar það, þú rekur það“ okkur í raun og hvar er það hljóðlega grimmt við teymi sem við höfum ekki mannað til að reka þjónustu sína?** Fullt eignarhald skapar endurgjöfarlykkjuna sem fær smiði til að laga háværar viðvaranir og hanna fyrir rekstrarhæfni, en lagt á teymi sem er of lítið til að manna mannúðlegt vaktaskipulag verður það hæg kulnunarvél klædd sem ábyrgð. Komdu með kort af því hvaða teymi eiga hvaða boðtæki, hve stórt hvert vaktaskipulag er í raun þegar þú fjarlægir fólkið sem tekur aldrei erfitt kall og hvaða vettvang, verkfæri og þjálfun hvert teymi hefur til að sinna rekstri vel. Samkeppnistogið er milli hreinu meginreglunnar um almennt eignarhald og sóðalega raunveruleikans að sum lög þurfa miðlægt SRE- eða vettvangsteymi til að eiga erfiðustu áreiðanleikavinnuna með eða veita utan-vinnutíma þekju. Úttakið sem þú vilt er heiðarleg flokkun hverrar þjónustu í fulleign, samleign eða miðlæga þekju, með mönnunargatið nefnt fyrir hvert teymi sem þú biður um að reka eitthvað sem það getur ekki haldið út. Fyrir stóra eða opinbera skipulagsheild skaltu bæta við innkaupa- og ráðningarleiðtímum fyrir vettvangsstuðninginn og mannskapinn sem mannúðlegt eignarhald gerir ráð fyrir, því teymi sem þú getur ekki mannað innan viðeigandi glugga er teymi sem þú ert að búa undir að mistakast.
+
+## Sjónarhorn eftir geirum
+
+**Sprotafyrirtæki.** Með handfylli verkfræðinga eru allir á bakvakt og ekkert rými fyrir hetjuvaktaskipulag til að fela sig í. Eyddu knappa tímanum þínum í tvær breytingar sem borga sig hraðast: eyddu orsakamiðuðum viðvörunum og kallaðu aðeins vegna fárra SLO sem fylgja kjarnaflæðinu þínu og tengdu einnar blaðsíðu keyrsluhandbók úr hverri viðvörun sem eftir er. Slepptu flóknum verkfærum og fylgdu-sólinni. Sameiginlegur töflureiknir, sjálfvirk stigmögnun frá aðalmanni til varamanns og hörð regla um að slæm nótt kaupi næsta morgun frían fleytir þér lengra en nokkur vettvangskaup.
+
+**Lítið fyrirtæki.** Þú hefur líklega engan sérstakan SRE og getur ekki mannað næturvaktaskipulag, svo hallaðu þér að því sem þú kaupir frekar en því sem þú smíðar. Kjóstu stýrðar þjónustur og hýsingu þar sem veitan ber djúpu innviðaköllin og notaðu hýst kallaverkfæri frekar en að smíða eigin stigmögnun. Rammaðu viðbúnað sem stuttan gátlista og handfylli innihaldsríkra viðvarana tengdra því sem viðskiptavinur myndi taka eftir og vertu heiðarleg(ur) með að sumar þjónustur ættu einfaldlega ekki að kalla á manneskju yfir nótt þegar morgunmiði dugar.
+
+**Stórfyrirtæki.** Vandinn er samræmi milli margra teyma: sameiginleg framleiðsluviðbúnaðarrýni, sameiginleg kallastefna og keyrsluhandbókasafn í útgáfustýringu svo verkfræðingur sem færist milli teyma skilji bakvaktarkerfið strax. Gerðu heilsu bakvakta að stýrðum mælikvarða með þröskuldum fyrir köll utan vinnutíma sem ræsa rýni, staðlaðu stigmögnun og afhendingu svo ekkert kall falli þegjandi og láttu miðlægt vettvangsteymi eiga erfiðustu lögin með. Stýrðu safni vaktaskipulaga eins og þú stýrir safni þjónusta, með gögnum um leiðindavinnu, kallálag og kulnunaráhættu sem fóðra reglulega rekstrarrýni.
+
+**Hið opinbera.** Innkaupareglur, gagnsæi og umönnunarskylda móta fyrirkomulagið. Líttu á heilsu bakvaktarstarfsfólks sem formlega, úttektarhæfa kröfu og þar sem næturmönnun er takmörkuð skaltu semja við fylgdu-sólinni rekstrarsamstarfsaðila svo enginn opinber starfsmaður sé reglulega vakinn klukkan þrjú um nótt. Geymdu hverja kláraða viðbúnaðarrýni sem úttektarafurð, skrifaðu keyrsluhandbækur til að þeim sé fylgt af viðbragðsaðila sem smíðaði ekki kerfið, því fólkið sem rekur það eftir fimm ár verða ekki höfundar þess, og æfðu árstíðabundna toppinn með leikdögum áður en borgarar mæta honum í raun.
+
+## Dæmi
+
+**Sprotafyrirtæki.** Tólf manna sprotafyrirtæki setur á markað fyrstu greiddu vöru sína og setur alla sex verkfræðingana á vikulegt vaktaskipulag með aðalmanni og varamanni. Fyrsta mánuðinn kviknar boðtækið á hverri nóttu, aðallega vegna örgjörva- og diskaviðvarana sem leysast sjálfar, og tveir verkfræðingar byrja hljóðlega að leita að vinnu. Teymið stoppar og endurbyggir: þau eyða hverri orsakamiðaðri viðvörun, skilgreina tvö SLO fyrir greiðslu og leit og kalla aðeins vegna bruna villufjárhagsáætlunar. Köll falla úr um fjörutíu á viku í þrjú. Þau bæta við einnar blaðsíðu viðbúnaðargátlista sem hver ný þjónusta verður að standast og tengja hverja keyrsluhandbók beint úr viðvörun sinni. Bakvakt fer úr því að vera ástæða þess að fólk fer í að vera viðráðanlegur hluti starfsins og þau gerðu það með töflureikni og aga frekar en dýru verkfæri.
+
+**Stórfyrirtæki.** Alþjóðlegt greiðslufyrirtæki rekur hundruð þjónusta samkvæmt „þú smíðar það, þú rekur það“ líkani, studdu af miðlægu vettvangsteymi sem veitir kallakerfið, viðbúnaðarrýniferlið og sameiginlegt keyrsluhandbókasafn í útgáfustýringu. Hver þjónusta stenst skjalfesta framleiðsluviðbúnaðarrýni fyrir opnun, sem nær yfir SLO, viðvaranir, keyrsluhandbækur, afkastagetu og afturköllun. Heilsa bakvakta er rakinn mælikvarði: teymi þar sem köll utan vinnutíma fara yfir þröskuld ræsa sjálfvirka rýni og vettvangsteymið býðst til að eiga áreiðanleikavinnuna með þeim þar til álagið lækkar. Leikdagar eru keyrðir ársfjórðungslega gegn raunsærri bilanasprautun. Því staðallinn er samræmdur og verkfærin sameiginleg getur verkfræðingur færst milli teyma og skilið bakvaktarkerfið strax og forysta getur séð, á hvert teymi, hvort mannlega álagið sé sjálfbært.
+
+**Hið opinbera.** Landsbundið skattyfirvald rekur framtalskerfi með hörðum árstíðatoppum og lagalega skyldu til að vera aðgengilegt borgurum. Því vinnuaflið er samþjappað í einu tímabelti og næturmönnun takmörkuð semur stofnunin um fylgdu-sólinni fyrirkomulag við rekstrarsamstarfsaðila svo enginn opinber starfsmaður sé reglulega vakinn um miðja nótt og lítur á heilsu og umönnunarskyldu bakvaktarstarfsfólks sem formlega kröfu. Sérhver þjónustubreyting stenst rekstrarviðbúnaðarrýni fyrir útsetningu, með gátlistann geymdan fyrir úttekt. Keyrsluhandbækur eru skrifaðar til að þeim sé fylgt af viðbragðsaðila sem smíðaði ekki kerfið, því fólkið sem rekur það eftir fimm ár verður ekki fólkið sem skrifaði það. Á framtalsvertíð keyrir stofnunin leikdaga gegn topplagssviðsmyndinni, svo viðbragðsaðilar mæti aukningunni á æfingu áður en þeir mæta henni í raun.
+
+## Viðskiptarök: hvatar, ávöxtun fjárfestingar og heildarkostnaður
+
+Ávöxtun rekstrarviðbúnaðar og mannúðlegrar bakvaktar birtist í tveimur bókum: áreiðanleika kerfisins og starfsmannahaldi teymisins. Hvað áreiðanleika varðar bila þjónustur sem standast viðbúnaðarrýni og bera einkennamiðaðar viðvaranir sjaldnar og jafna sig hraðar, því keyrsluhandbókin er til, viðvörunin er innihaldsrík og viðbragðsaðilinn var þjálfaður. Bæði meðaltími til kvittunar og meðaltími til endurheimtar lækka þegar kall nær undirbúinni manneskju með tengda keyrsluhandbók frekar en ringlaðri sem leitar að samhengi. Hvað mannlega hliðina varðar er bakvakt leiðandi orsök brotthvarfs verkfræðinga og að skipta út reyndum verkfræðingi kostar stórt margfeldi af fjárfestingunni sem hefði þurft til að laga vaktaskipulagið. [Starfskulnun](https://en.wikipedia.org/wiki/Occupational_burnout), ástand langvinnrar vinnuþreytu sem Alþjóðaheilbrigðismálastofnunin viðurkennir sem starfstengt fyrirbæri, er dýr einmitt vegna þess að hún tekur reyndustu starfsmenn þína, þá sem skilja kerfið, og rekur þá burt.
+
+Upptökukostnaðurinn er aðallega einskiptis og hóflegur. Þú skrifar viðbúnaðargátlista, flytur viðvaranir frá orsökum yfir í einkenni, setur keyrsluhandbækur í útgáfustýringu og kemur upp mælikvörðum um heilsu bakvakta. Endurtekni kostnaðurinn er agi þess að rýna viðvaranir, halda leikdaga og virða mannúðlega vaktaskipan. Kostnaður vanrækslu safnast hljóðlega upp: háværar viðvaranir ala á þreytu, þreyta elur af sér misst raunveruleg atvik og brotthvarf og hvert brotthvarf tekur rekstrarþekkingu með sér, sem eykur álagið á þá sem eftir eru. Til að færa rök við forystu skaltu tengja heilsu bakvakta við mælikvarða sem þeir fylgjast þegar með: tíðni og lengd atvika, tíma til kvittunar, óáætlað brotthvarf og þróun kalla utan vinnutíma. Vaktaskipulag þar sem köll utan vinnutíma fækka á meðan kerfið vex er bein sönnun þess að áreiðanleikafjárfesting þín virkar og að verkfræðingar þínir verða enn hér að ári.
+
+## Andmynstur og gildrur
+
+- **Hetjuvaktaskipulagið:** tveir eða þrír hljóðlega taka á sig hvert erfitt kall, svo vaktaskráin lítur vel út á pappír og hrynur um leið og einn þeirra fer.
+- **Köll vegna orsaka:** viðvaranir um örgjörva, minni og disk frekar en einkenni sem notendur sjá, sem flæða yfir viðbragðsaðila með köllum sem þurftu aldrei manneskju.
+- **Viðvörunarþreyta umborin:** þekktar háværar viðvaranir látnar vera í kallferlinu mánuðum saman því eyðing virðist áhættusöm, þar til viðbragðsaðilar hunsa allt.
+- **Keyrsluhandbókarrotnun:** skjöl skrifuð einu sinni við opnun, aldrei uppfærð og fullviss röng þegar þreyttur viðbragðsaðili fylgir þeim klukkan þrjú um nótt.
+- **Eignarhald án stuðnings:** að leggja „þú smíðar það, þú rekur það“ á teymi sem er of lítið til að manna vaktaskipulag eða skortir vettvang og verkfæri til að reka það mannúðlega.
+- **Viðbúnaðarleikhús:** rýnigátlisti fylltur út til að komast í gegnum hliðið frekar en til að horfast í augu við hvernig þjónustan bilar.
+- **Opna og yfirgefa:** að afhenda þjónustu án vaktaskipulags, án viðvarana og án keyrsluhandbóka og uppgötva gatið í fyrsta rofi.
+- **Ómælt álag:** engin gögn um köll á vakt eða köll utan vinnutíma, svo kulnun er ósýnileg þar til fólk hættir.
+- **Fyrsta kall, engin æfing:** að setja nýjan verkfræðing á bakvakt án þess að hann fylgi öðrum og án leikdags og láta svo undrandi þegar hann frýs.
+
+## Þroskalíkan
+
+- **Stig 1, Upphaf:** Bakvakt er óformleg og viðbragðsdrifin. Hringt er í fáeina þegar eitthvað bilar, viðvaranir kvikna á orsökum og eru mestmegnis hávaði, keyrsluhandbækur vantar eða eru úreltar, þjónustur opna án viðbúnaðarathugunar og enginn mælir mannlega álagið fyrr en einhver brennur út eða hættir.
+- **Stig 2, Þróun:** Grunnvinnubrögð birtast en eru ólík eftir teymum. Sum vaktaskipulög hafa skilgreindan aðalmann, varamann og stigmögnun, sumar viðvaranir eru stilltar og sumar keyrsluhandbækur skrifaðar og viðbúnaðargátlisti er til en beitt ósamræmt. Köll eru talin hjá teymunum sem nenna því, næturköll eru algeng og inngangan á bakvakt er spunnin frekar en hönnuð.
+- **Stig 3, Stöðlun:** Viðbúnaðarrýni er skjalfest skref fyrir opnun, framfylgt milli teyma. Köll eru einkenna- og SLO-miðuð samkvæmt sameiginlegri stefnu, keyrsluhandbækur eru í útgáfustýringu og tengdar úr viðvörunum, innganga felur í sér fylgd og leikdaga, afhendingar fylgja skipulögðu sniði og stigmögnun er nógu samræmd til að verkfræðingur sem færist milli teyma þekki kerfið strax.
+- **Stig 4, Stjórnun:** Bakvakt er mæld og stýrð gegn grunnlínum. Köll á vakt, hlutfall utan vinnutíma, tími til kvittunar, tíðni stigmögnunar og kvittun-í-aðgerð hlutfall eru rakin á teymi og borin saman við markmið, svo vaktaskipulag sem rekur í átt að kulnun sést áður en fólk hættir frekar en eftir. Þröskuldar ræsa rýni, gæði viðvarana eru úttekin á sönnunargögnum um hvaða köll leiddu til raunverulegrar aðgerðar og ákvarðanir um mönnun og eignarhald eru knúnar af gögnum frekar en sögusögnum.
+- **Stig 5, Samhæfing:** Heilsa bakvakta er stöðugt bætt útkoma samþætt um skipulagsheildina. Köll og þróun utan vinnutíma lækka þegar kerfið vex, leiðindavinna er kerfisbundið sjálfvirknivædd burt, fylgdu-sólinni eða sambærilegt ver svefn, leikdagar og bilanasprautun eru rútína og skipulagsheildin aðlagar eignarhald, þekju og viðbúnaðarstaðla eftir því sem hún lærir af hverri vakt, endurjafnar álag milli teyma og svæða eftir því sem áhættumyndin breytist.
+
+## Hugmyndir til umræðu
+
+1. Hvert er núverandi hlutfall kalla sem leiddu til raunverulegrar aðgerðar á móti köllum sem leystust sjálf og hvað þyrfti til að mæla það?
+2. Ef fróðasti viðbragðsaðilinn ykkar færi á morgun, hvaða þjónustur yrðu óöruggar í rekstri og hvers vegna?
+3. Hvar þjónar „þú smíðar það, þú rekur það“ ykkur vel og hvar er það hljóðlega grimmt við illa mannað teymi?
+4. Hvenær horfðuð þið síðast á nýjan verkfræðing fylgja einni af keyrsluhandbókum ykkar við raunsæjar aðstæður og hvað brotnaði?
+5. Eru köll ykkar utan vinnutíma að aukast eða fækka síðustu fjóra ársfjórðunga og á einhver þá tölu?
+6. Hvaða atriði viðbúnaðarrýni, ef þið framfylgduð því strangt, hefði komið í veg fyrir nýjustu slæmu opnun ykkar?
+
+## Helstu atriði
+
+- Bakvaktarviðbúnaður ræðst fyrir nokkurt atvik, af gæðum viðvarana, keyrsluhandbóka og vaktaskipulags, ekki af hetjudáðum í rofinu.
+- Kallaðu á manneskju aðeins vegna vandamála sem eru brýn, framkvæmanleg og sýnileg notendum. Varaðu við einkennum og SLO og beindu öllu öðru í miða og mælaborð.
+- Hannaðu vaktaskipulag fyrir fólk sem á líf: nógu stóra hópa, fylgdu-sólinni þar sem hægt er, sjálfvirka stigmögnun og virtan hvíldartíma.
+- Sannaðu þjónustur tilbúnar fyrir opnun með framleiðsluviðbúnaðarrýni, hafðu keyrsluhandbækur í útgáfustýringu og tengdar úr viðvörunum og æfðu með leikdögum.
+- Mældu heilsu bakvakta, sérstaklega köll utan vinnutíma og tíma til kvittunar, og keyrðu álagið niður með því að skera leiðindavinnu og hávaða frekar en að biðja fólk að þola meira.
+
+## Heimildir og frekari lestur
+
+- Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (eds.), *Site Reliability Engineering: How Google Runs Production Systems*
+- Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, and Stephen Thorne (eds.), *The Site Reliability Workbook: Practical Ways to Implement SRE*
+- Rob Ewaschuk, "My Philosophy on Alerting," in *Site Reliability Engineering* appendix
+- John Allspaw and Jesse Robbins (eds.), *Web Operations: Keeping the Data on Time*
+- Nicole Forsgren, Jez Humble, and Gene Kim, *Accelerate: The Science of Lean Software and DevOps*
+- Gene Kim, Jez Humble, Patrick Debois, and John Willis, *The DevOps Handbook*
+- Michael T. Nygard, *Release It! Design and Deploy Production-Ready Software*
+- World Health Organisation, *ICD-11*, entry on burn-out as an occupational phenomenon

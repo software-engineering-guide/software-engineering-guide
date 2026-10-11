@@ -18410,6 +18410,16 @@
      "number": "9.7",
      "title": "Afkastagetuáætlun og eftirspurnarspá",
      "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-07-afkastagetuáætlun-og-eftirspurnarspá/"
+    },
+    {
+     "number": "9.8",
+     "title": "Bakvaktir og rekstrarviðbúnaður",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/09-08-bakvaktir-og-rekstrarviðbúnaður/"
+    },
+    {
+     "number": "10.0",
+     "title": "Inngangur að 10. hluta: Verkefna-, vöru- og áætlanastjórnun",
+     "url": "https://software-engineering-guide.github.io/is-is/viðfangsefni/10-00-verkefna-vöru-og-áætlanastjórnun/"
     }
    ]
   }
