@@ -19746,6 +19746,16 @@
      "number": "6.5",
      "title": "IA responsável e confiável",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-05-ia-responsável-e-confiável/"
+    },
+    {
+     "number": "6.6",
+     "title": "Infraestrutura e operações de IA",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-06-infraestrutura-e-operações-de-ia/"
+    },
+    {
+     "number": "6.7",
+     "title": "Agentes de IA e sistemas agênticos",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-07-agentes-de-ia-e-sistemas-agênticos/"
     }
    ]
   }
