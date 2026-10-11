@@ -19706,6 +19706,16 @@
      "number": "5.8",
      "title": "Pesquisa de design e testes de usabilidade",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-08-pesquisa-de-design-e-testes-de-usabilidade/"
+    },
+    {
+     "number": "5.9",
+     "title": "Design de serviços",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-09-design-de-serviços/"
+    },
+    {
+     "number": "5.10",
+     "title": "Design de visualização de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/05-10-design-de-visualização-de-dados/"
     }
    ]
   }
