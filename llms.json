@@ -19756,6 +19756,16 @@
      "number": "6.7",
      "title": "Agentes de IA e sistemas agênticos",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-07-agentes-de-ia-e-sistemas-agênticos/"
+    },
+    {
+     "number": "6.8",
+     "title": "Avaliação e testes de IA",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-08-avaliação-e-testes-de-ia/"
+    },
+    {
+     "number": "6.9",
+     "title": "Engenharia de prompts e design de contexto",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/06-09-engenharia-de-prompts-e-design-de-contexto/"
     }
    ]
   }
