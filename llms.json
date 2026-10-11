@@ -19486,6 +19486,16 @@
      "number": "2.15",
      "title": "Depuração e resolução de problemas",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-15-depuração-e-resolução-de-problemas/"
+    },
+    {
+     "number": "2.16",
+     "title": "Engenharia de desempenho",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-16-engenharia-de-desempenho/"
+    },
+    {
+     "number": "2.17",
+     "title": "Concorrência e paralelismo",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/02-17-concorrência-e-paralelismo/"
     }
    ]
   }
