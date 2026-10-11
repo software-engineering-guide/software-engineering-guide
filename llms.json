@@ -19626,6 +19626,16 @@
      "number": "4.3",
      "title": "Segurança de infraestrutura e de nuvem",
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-03-segurança-de-infraestrutura-e-nuvem/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operações de segurança",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-04-operações-de-segurança/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privacidade e proteção de dados",
+     "url": "https://software-engineering-guide.github.io/pt-001/tópicos/04-05-privacidade-e-proteção-de-dados/"
     }
    ]
   }
