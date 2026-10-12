@@ -20644,6 +20644,101 @@
      "number": "9.8",
      "title": "Дежурства и эксплуатационная готовность",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/09-08-дежурства-и-эксплуатационная-готовность/"
+    },
+    {
+     "number": "10.0",
+     "title": "Введение к части 10: Управление проектами, продуктами и программами",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-00-управление-проектами-продуктами-и-программами/"
+    },
+    {
+     "number": "10.1",
+     "title": "Управление портфелем и программами",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-01-управление-портфелем-и-программами/"
+    },
+    {
+     "number": "10.2",
+     "title": "Риски, аудит и гарантии",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-02-риски-аудит-и-гарантии/"
+    },
+    {
+     "number": "10.3",
+     "title": "Закупки, открытый исходный код и лицензирование",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-03-закупки-открытый-исходный-код-и-лицензирование/"
+    },
+    {
+     "number": "10.4",
+     "title": "Поддержка больших и долгоживущих систем",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-04-поддержка-больших-и-долгоживущих-систем/"
+    },
+    {
+     "number": "10.5",
+     "title": "Этика, подотчётность и общественный интерес",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-05-этика-подотчётность-общественный-интерес/"
+    },
+    {
+     "number": "10.6",
+     "title": "Управление проектами",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-06-управление-проектами/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Модели зрелости",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-08-модели-зрелости/"
+    },
+    {
+     "number": "10.9",
+     "title": "Партнёрство в инновациях",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-09-инновации-и-партнёрство/"
+    },
+    {
+     "number": "10.10",
+     "title": "Экономика программной инженерии",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-10-экономика-программной-инженерии/"
+    },
+    {
+     "number": "10.11",
+     "title": "Цифровой суверенитет",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-11-цифровой-суверенитет/"
+    },
+    {
+     "number": "10.12",
+     "title": "Открытый и закрытый исходный код",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-12-открытый-и-закрытый-исходный-код/"
+    },
+    {
+     "number": "10.13",
+     "title": "Межорганизационное сотрудничество",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-13-межорганизационное-сотрудничество/"
+    },
+    {
+     "number": "10.14",
+     "title": "Управление продуктом и исследование",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-14-управление-продуктом-и-исследование/"
+    },
+    {
+     "number": "10.15",
+     "title": "Оценка и прогнозирование",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-15-оценка-и-прогнозирование/"
+    },
+    {
+     "number": "10.16",
+     "title": "Управление заинтересованными сторонами и коммуникация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-16-управление-заинтересованными-сторонами-и-коммуникация/"
+    },
+    {
+     "number": "10.17",
+     "title": "Управление организационными изменениями",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-17-управление-организационными-изменениями/"
+    },
+    {
+     "number": "10.18",
+     "title": "Офис программы открытого исходного кода (OSPO) и вклад вверх по течению",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/10-18-офис-программы-открытого-исходного-кода/"
     }
    ]
   }
