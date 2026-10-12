@@ -21342,6 +21342,51 @@
      "number": "8.7",
      "title": "بلڈ سسٹمز اور آرٹیفیکٹ مینجمنٹ",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-07-بلڈ-سسٹمز-اور-آرٹیفیکٹ-مینجمنٹ/"
+    },
+    {
+     "number": "9.0",
+     "title": "حصہ 9 کا تعارف: آپریشنز، قابل اعتمادی، اور مشاہدہ پذیری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-00-آپریشنز-اور-قابل-اعتمادی/"
+    },
+    {
+     "number": "9.1",
+     "title": "سائٹ ریلائیبلٹی انجینئرنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-01-سائٹ-ریلائیبلٹی-انجینئرنگ/"
+    },
+    {
+     "number": "9.2",
+     "title": "مشاہدہ پذیری اور ٹیلی میٹری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-02-مشاہدہ-پذیری-اور-ٹیلی-میٹری/"
+    },
+    {
+     "number": "9.3",
+     "title": "واقعہ مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-03-واقعہ-مینجمنٹ/"
+    },
+    {
+     "number": "9.4",
+     "title": "لاگت، پائیداری، اور گرین سافٹ ویئر",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-04-لاگت-پائیداری-اور-گرین-سافٹ-ویئر/"
+    },
+    {
+     "number": "9.5",
+     "title": "آفت سے بحالی اور کاروباری تسلسل",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-05-آفت-سے-بحالی-اور-کاروباری-تسلسل/"
+    },
+    {
+     "number": "9.6",
+     "title": "کیاوس انجینئرنگ اور لچک کی جانچ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-06-کیاوس-انجینئرنگ-اور-لچک-کی-جانچ/"
+    },
+    {
+     "number": "9.7",
+     "title": "صلاحیت کی منصوبہ بندی اور طلب کی پیش گوئی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-07-صلاحیت-کی-منصوبہ-بندی-اور-طلب-کی-پیش-گوئی/"
+    },
+    {
+     "number": "9.8",
+     "title": "آن کال اور آپریشنل تیاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-08-آن-کال-اور-آپریشنل-تیاری/"
     }
    ]
   }
