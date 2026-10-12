@@ -20559,6 +20559,46 @@
      "number": "7.9",
      "title": "Управление мастер-данными и справочными данными",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/07-09-управление-мастер-данными-и-справочными-данными/"
+    },
+    {
+     "number": "8.0",
+     "title": "Введение к части 8: Автоматизация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-00-автоматизация/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD и поставка",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-01-ci-cd-и-поставка/"
+    },
+    {
+     "number": "8.2",
+     "title": "Инфраструктура как код и конфигурация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-02-инфраструктура-как-код-и-конфигурация/"
+    },
+    {
+     "number": "8.3",
+     "title": "Контейнеры, оркестрация и облачные технологии",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-03-контейнеры-оркестрация-облачные-технологии/"
+    },
+    {
+     "number": "8.4",
+     "title": "Платформенная инженерия и опыт разработчика",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-04-платформенная-инженерия-и-опыт-разработчика/"
+    },
+    {
+     "number": "8.5",
+     "title": "Автоматизация тестов и процессов",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-05-автоматизация-тестов-и-процессов/"
+    },
+    {
+     "number": "8.6",
+     "title": "Управление релизами и прогрессивная поставка",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-06-управление-релизами-и-прогрессивная-поставка/"
+    },
+    {
+     "number": "8.7",
+     "title": "Системы сборки и управление артефактами",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/08-07-системы-сборки-и-управление-артефактами/"
     }
    ]
   }
