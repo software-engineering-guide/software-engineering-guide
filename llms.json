@@ -20739,6 +20739,41 @@
      "number": "10.18",
      "title": "Офис программы открытого исходного кода (OSPO) и вклад вверх по течению",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/10-18-офис-программы-открытого-исходного-кода/"
+    },
+    {
+     "number": "11.0",
+     "title": "Введение в Часть 11: Поток: конвейеры исследования и поставки",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-00-поток-исследование-и-поставка/"
+    },
+    {
+     "number": "11.1",
+     "title": "Конвейер исследования",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-01-конвейер-исследования/"
+    },
+    {
+     "number": "11.2",
+     "title": "Конвейер поставки",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-02-конвейер-поставки/"
+    },
+    {
+     "number": "11.3",
+     "title": "Теория массового обслуживания",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-03-теория-массового-обслуживания/"
+    },
+    {
+     "number": "11.4",
+     "title": "Цели и ключевые результаты (OKR)",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-04-цели-и-ключевые-результаты/"
+    },
+    {
+     "number": "11.5",
+     "title": "Ключевые показатели эффективности (KPI)",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-05-ключевые-показатели-эффективности/"
+    },
+    {
+     "number": "11.6",
+     "title": "Картирование потока создания ценности и стоимость задержки",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/11-06-картирование-потока-создания-ценности-и-стоимость-задержки/"
     }
    ]
   }
