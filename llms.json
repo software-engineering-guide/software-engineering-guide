@@ -21302,6 +21302,46 @@
      "number": "7.9",
      "title": "ماسٹر ڈیٹا اور ریفرنس ڈیٹا کا انتظام",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-09-ماسٹر-ڈیٹا-اور-ریفرنس-ڈیٹا-کا-انتظام/"
+    },
+    {
+     "number": "8.0",
+     "title": "حصہ 8 کا تعارف: خودکاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-00-خودکاری/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD اور ترسیل",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-01-سی-آئی-سی-ڈی-اور-ترسیل/"
+    },
+    {
+     "number": "8.2",
+     "title": "کوڈ کی صورت میں انفراسٹرکچر اور کنفیگریشن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-02-کوڈ-کی-صورت-میں-انفراسٹرکچر-اور-کنفیگریشن/"
+    },
+    {
+     "number": "8.3",
+     "title": "کنٹینرز، آرکسٹریشن، اور کلاؤڈ نیٹو",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-03-کنٹینرز-آرکسٹریشن-اور-کلاؤڈ-نیٹو/"
+    },
+    {
+     "number": "8.4",
+     "title": "پلیٹ فارم انجینئرنگ اور ڈویلپر تجربہ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-04-پلیٹ-فارم-انجینئرنگ-اور-ڈویلپر-تجربہ/"
+    },
+    {
+     "number": "8.5",
+     "title": "ٹیسٹ اور عمل کی خودکاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-05-ٹیسٹ-اور-عمل-کی-خودکاری/"
+    },
+    {
+     "number": "8.6",
+     "title": "ریلیز مینجمنٹ اور بتدریج ترسیل",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-06-ریلیز-مینجمنٹ-اور-بتدریج-ترسیل/"
+    },
+    {
+     "number": "8.7",
+     "title": "بلڈ سسٹمز اور آرٹیفیکٹ مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/08-07-بلڈ-سسٹمز-اور-آرٹیفیکٹ-مینجمنٹ/"
     }
    ]
   }
