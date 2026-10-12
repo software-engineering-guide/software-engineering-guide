@@ -20349,6 +20349,61 @@
      "number": "3.17",
      "title": "Поиск и информационный поиск",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/03-17-поиск-и-информационный-поиск/"
+    },
+    {
+     "number": "4.0",
+     "title": "Введение к части 4: Безопасность",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-00-безопасность/"
+    },
+    {
+     "number": "4.1",
+     "title": "Основы безопасности и культура",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-01-основы-и-культура-безопасности/"
+    },
+    {
+     "number": "4.2",
+     "title": "Безопасность приложений",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-02-безопасность-приложений/"
+    },
+    {
+     "number": "4.3",
+     "title": "Безопасность инфраструктуры и облака",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-03-безопасность-инфраструктуры-и-облака/"
+    },
+    {
+     "number": "4.4",
+     "title": "Операции безопасности",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-04-операции-безопасности/"
+    },
+    {
+     "number": "4.5",
+     "title": "Приватность и защита данных",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-05-приватность-и-защита-данных/"
+    },
+    {
+     "number": "4.6",
+     "title": "Соответствие требованиям и управление",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-06-соответствие-требованиям-и-управление/"
+    },
+    {
+     "number": "4.7",
+     "title": "Управление идентификацией и доступом",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-07-управление-идентификацией-и-доступом/"
+    },
+    {
+     "number": "4.8",
+     "title": "Криптография и управление ключами",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-08-криптография-и-управление-ключами/"
+    },
+    {
+     "number": "4.9",
+     "title": "Жизненный цикл безопасной разработки программного обеспечения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-09-жизненный-цикл-безопасной-разработки/"
+    },
+    {
+     "number": "4.10",
+     "title": "Тестирование на проникновение и «красные команды»",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/04-10-тестирование-на-проникновение-и-красные-команды/"
     }
    ]
   }
