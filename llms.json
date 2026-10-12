@@ -20459,6 +20459,56 @@
      "number": "5.10",
      "title": "Дизайн визуализации данных",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/05-10-дизайн-визуализации-данных/"
+    },
+    {
+     "number": "6.0",
+     "title": "Введение к части 6: Искусственный интеллект",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-00-искусственный-интеллект/"
+    },
+    {
+     "number": "6.1",
+     "title": "Стратегия и готовность к ИИ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-01-стратегия-и-готовность-к-ии/"
+    },
+    {
+     "number": "6.2",
+     "title": "Инженерия машинного обучения (MLOps)",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Генеративный ИИ и приложения на основе LLM",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-03-генеративный-ии-и-приложения-на-основе-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Разработка программ с помощью ИИ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-04-разработка-программ-с-помощью-ии/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ответственный и надёжный ИИ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-05-ответственный-и-надёжный-ии/"
+    },
+    {
+     "number": "6.6",
+     "title": "Инфраструктура и эксплуатация ИИ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-06-инфраструктура-и-эксплуатация-ии/"
+    },
+    {
+     "number": "6.7",
+     "title": "ИИ-агенты и агентные системы",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-07-ии-агенты-и-агентные-системы/"
+    },
+    {
+     "number": "6.8",
+     "title": "Оценка и тестирование ИИ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-08-оценка-и-тестирование-ии/"
+    },
+    {
+     "number": "6.9",
+     "title": "Промпт-инженерия и проектирование контекста",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/06-09-промпт-инженерия-и-проектирование-контекста/"
     }
    ]
   }
