@@ -21002,6 +21002,96 @@
      "number": "2.21",
      "title": "ٹائپ سسٹمز اور اسٹیٹک تجزیہ",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-21-ٹائپ-سسٹمز-اور-اسٹیٹک-تجزیہ/"
+    },
+    {
+     "number": "3.0",
+     "title": "حصہ 3 کا تعارف: نظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-00-نظام/"
+    },
+    {
+     "number": "3.1",
+     "title": "فن تعمیر کی بنیادیں",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-01-فن-تعمیر-کی-بنیادیں/"
+    },
+    {
+     "number": "3.2",
+     "title": "فن تعمیر کے اسالیب اور نمونے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-02-فن-تعمیر-کے-اسالیب-اور-نمونے/"
+    },
+    {
+     "number": "3.3",
+     "title": "تقسیم شدہ نظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-03-تقسیم-شدہ-نظام/"
+    },
+    {
+     "number": "3.4",
+     "title": "ڈیٹا کا فن تعمیر اور ذخیرہ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-04-ڈیٹا-آرکیٹیکچر-اور-ذخیرہ/"
+    },
+    {
+     "number": "3.5",
+     "title": "وسعت پذیری، کارکردگی، اور لچک",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-05-وسعت-پذیری-کارکردگی-اور-لچک/"
+    },
+    {
+     "number": "3.6",
+     "title": "پرانے نظاموں کی جدید کاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-06-پرانے-نظاموں-کی-جدید-کاری/"
+    },
+    {
+     "number": "3.7",
+     "title": "سافٹ ویئر کی دیکھ بھال",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-07-سافٹ-ویئر-کی-دیکھ-بھال/"
+    },
+    {
+     "number": "3.8",
+     "title": "باہمی عملیت اور کھلے معیارات",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-08-باہمی-عملیت-اور-کھلے-معیارات/"
+    },
+    {
+     "number": "3.9",
+     "title": "سسٹمز انجینئرنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-09-سسٹمز-انجینئرنگ/"
+    },
+    {
+     "number": "3.10",
+     "title": "ایمبیڈڈ اور ریئل ٹائم نظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-10-ایمبیڈڈ-اور-ریئل-ٹائم-نظام/"
+    },
+    {
+     "number": "3.11",
+     "title": "کلاؤڈ فن تعمیر",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-11-کلاؤڈ-آرکیٹیکچر/"
+    },
+    {
+     "number": "3.12",
+     "title": "ایونٹ پر مبنی فن تعمیر اور پیغام رسانی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-12-ایونٹ-پر-مبنی-آرکیٹیکچر-اور-پیغام-رسانی/"
+    },
+    {
+     "number": "3.13",
+     "title": "نیٹ ورکنگ اور رابطہ کاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-13-نیٹ-ورکنگ-اور-رابطہ-کاری/"
+    },
+    {
+     "number": "3.14",
+     "title": "ملٹی ٹیننسی اور SaaS فن تعمیر",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-14-ملٹی-ٹیننسی-اور-سیس-آرکیٹیکچر/"
+    },
+    {
+     "number": "3.15",
+     "title": "کیشنگ اور مواد کی ترسیل",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-15-کیشنگ-اور-مواد-کی-ترسیل/"
+    },
+    {
+     "number": "3.16",
+     "title": "API گیٹ ویز اور سروس میش",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-16-اے-پی-آئی-گیٹ-ویز-اور-سروس-میش/"
+    },
+    {
+     "number": "3.17",
+     "title": "تلاش اور معلومات کی بازیافت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/03-17-تلاش-اور-معلومات-کی-بازیافت/"
     }
    ]
   }
