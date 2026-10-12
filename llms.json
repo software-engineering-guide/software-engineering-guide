@@ -21387,6 +21387,101 @@
      "number": "9.8",
      "title": "آن کال اور آپریشنل تیاری",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/09-08-آن-کال-اور-آپریشنل-تیاری/"
+    },
+    {
+     "number": "10.0",
+     "title": "حصہ 10 کا تعارف: پراجیکٹ/پروڈکٹ/پروگرام مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-00-پراجیکٹ-پروڈکٹ-پروگرام-مینجمنٹ/"
+    },
+    {
+     "number": "10.1",
+     "title": "پورٹ فولیو اور پروگرام مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-01-پورٹ-فولیو-اور-پروگرام-مینجمنٹ/"
+    },
+    {
+     "number": "10.2",
+     "title": "خطرہ، آڈٹ، اور یقین دہانی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-02-خطرہ-آڈٹ-اور-یقین-دہانی/"
+    },
+    {
+     "number": "10.3",
+     "title": "خریداری، اوپن سورس، اور لائسنسنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-03-خریداری-اوپن-سورس-اور-لائسنسنگ/"
+    },
+    {
+     "number": "10.4",
+     "title": "بڑے اور طویل العمر نظاموں کی پائیداری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-04-بڑے-اور-طویل-العمر-نظاموں-کی-پائیداری/"
+    },
+    {
+     "number": "10.5",
+     "title": "اخلاقیات، جوابدہی، اور عوامی مفاد",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-05-اخلاقیات-جوابدہی-اور-عوامی-مفاد/"
+    },
+    {
+     "number": "10.6",
+     "title": "پراجیکٹ مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-06-پراجیکٹ-مینجمنٹ/"
+    },
+    {
+     "number": "10.7",
+     "title": "ایجائل",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-07-ایجائل/"
+    },
+    {
+     "number": "10.8",
+     "title": "پختگی کے ماڈلز",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-08-پختگی-کے-ماڈلز/"
+    },
+    {
+     "number": "10.9",
+     "title": "اختراعی شراکت داری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-09-اختراعی-شراکت-داری/"
+    },
+    {
+     "number": "10.10",
+     "title": "سافٹ ویئر انجینئرنگ کی معاشیات",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-10-سافٹ-ویئر-انجینئرنگ-کی-معاشیات/"
+    },
+    {
+     "number": "10.11",
+     "title": "ڈیجیٹل خودمختاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-11-ڈیجیٹل-خودمختاری/"
+    },
+    {
+     "number": "10.12",
+     "title": "اوپن سورس بمقابلہ کلوزڈ سورس",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-12-اوپن-سورس-بمقابلہ-کلوزڈ-سورس/"
+    },
+    {
+     "number": "10.13",
+     "title": "بین تنظیمی تعاون",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-13-بین-تنظیمی-تعاون/"
+    },
+    {
+     "number": "10.14",
+     "title": "پروڈکٹ مینجمنٹ اور دریافت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-14-پروڈکٹ-مینجمنٹ-اور-دریافت/"
+    },
+    {
+     "number": "10.15",
+     "title": "تخمینہ اور پیش گوئی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-15-تخمینہ-اور-پیش-گوئی/"
+    },
+    {
+     "number": "10.16",
+     "title": "اسٹیک ہولڈر مینجمنٹ اور ابلاغ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-16-اسٹیک-ہولڈر-مینجمنٹ-اور-ابلاغ/"
+    },
+    {
+     "number": "10.17",
+     "title": "تنظیمی تبدیلی کا انتظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-17-تنظیمی-تبدیلی-کا-انتظام/"
+    },
+    {
+     "number": "10.18",
+     "title": "اوپن سورس پروگرام آفس (OSPO) اور اپ اسٹریم شراکت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-18-اوپن-سورس-پروگرام-آفس-اور-اپ-اسٹریم-شراکت/"
     }
    ]
   }
