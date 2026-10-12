@@ -21202,6 +21202,56 @@
      "number": "5.10",
      "title": "ڈیٹا کی بصری ڈیزائن",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-10-ڈیٹا-بصری-ڈیزائن/"
+    },
+    {
+     "number": "6.0",
+     "title": "حصہ 6 کا تعارف: مصنوعی ذہانت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-00-مصنوعی-ذہانت/"
+    },
+    {
+     "number": "6.1",
+     "title": "اے آئی حکمت عملی اور تیاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-01-اے-آئی-حکمت-عملی-اور-تیاری/"
+    },
+    {
+     "number": "6.2",
+     "title": "مشین لرننگ انجینئرنگ (MLOps)",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-02-مشین-لرننگ-انجینئرنگ-ایم-ایل-اوپس/"
+    },
+    {
+     "number": "6.3",
+     "title": "جنریٹو اے آئی اور ایل ایل ایم ایپلیکیشنز",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-03-جنریٹو-اے-آئی-اور-ایل-ایل-ایم-ایپلیکیشنز/"
+    },
+    {
+     "number": "6.4",
+     "title": "اے آئی کی معاونت سے سافٹ ویئر ڈیولپمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-04-اے-آئی-کی-معاونت-سے-سافٹ-ویئر-ڈیولپمنٹ/"
+    },
+    {
+     "number": "6.5",
+     "title": "ذمہ دار اور قابل اعتماد اے آئی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-05-ذمہ-دار-اور-قابل-اعتماد-اے-آئی/"
+    },
+    {
+     "number": "6.6",
+     "title": "اے آئی انفراسٹرکچر اور آپریشنز",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-06-اے-آئی-انفراسٹرکچر-اور-آپریشنز/"
+    },
+    {
+     "number": "6.7",
+     "title": "اے آئی ایجنٹس اور ایجنٹی نظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-07-اے-آئی-ایجنٹس-اور-ایجنٹی-نظام/"
+    },
+    {
+     "number": "6.8",
+     "title": "اے آئی کی جانچ اور ٹیسٹنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-08-اے-آئی-کی-جانچ-اور-ٹیسٹنگ/"
+    },
+    {
+     "number": "6.9",
+     "title": "پرامپٹ انجینئرنگ اور سیاق کا ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-09-پرامپٹ-انجینئرنگ-اور-سیاق-کا-ڈیزائن/"
     }
    ]
   }
