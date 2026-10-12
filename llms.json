@@ -20816,6 +20816,84 @@
      "url": "https://software-engineering-guide.github.io/ru-001/темы/12-07-предметный-указатель/"
     }
    ]
+  },
+  {
+   "code": "ur-001",
+   "label": "اردو",
+   "home": "https://software-engineering-guide.github.io/ur-001/",
+   "topicsSegment": "موضوعات",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "حصہ 1 کا تعارف: لوگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-00-لوگ/"
+    },
+    {
+     "number": "1.1",
+     "title": "سافٹ ویئر انجینئرنگ کی اقدار",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-01-سافٹ-ویئر-انجینئرنگ-کی-اقدار/"
+    },
+    {
+     "number": "1.2",
+     "title": "ٹیم ٹاپولوجیز اور تنظیمی ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-02-ٹیم-ٹاپولوجیز-اور-تنظیمی-ڈیزائن/"
+    },
+    {
+     "number": "1.3",
+     "title": "کردار، کیریئر کی سیڑھیاں اور نشوونما",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-03-کردار-کیریئر-کی-سیڑھیاں-اور-نشوونما/"
+    },
+    {
+     "number": "1.4",
+     "title": "کام کے طریقے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-04-کام-کے-طریقے/"
+    },
+    {
+     "number": "1.5",
+     "title": "فیصلہ سازی اور نظم و نسق",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-05-فیصلہ-سازی-اور-نظم-و-نسق/"
+    },
+    {
+     "number": "1.6",
+     "title": "فیصلوں کے ریکارڈ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-06-فیصلوں-کے-ریکارڈ/"
+    },
+    {
+     "number": "1.7",
+     "title": "انجینئرنگ معیارات اور استثنا",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-07-انجینئرنگ-معیارات-اور-استثنا/"
+    },
+    {
+     "number": "1.8",
+     "title": "بھرتی، انٹرویو اور آغاز کار",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-08-بھرتی-انٹرویو-اور-آغاز-کار/"
+    },
+    {
+     "number": "1.9",
+     "title": "تقسیم شدہ اور دور دراز کام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-09-تقسیم-شدہ-اور-دور-دراز-کام/"
+    },
+    {
+     "number": "1.10",
+     "title": "انجینئرنگ کی اثر انگیزی اور ڈویلپر پیداواریت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-10-انجینئرنگ-کی-اثر-انگیزی-اور-ڈویلپر-پیداواریت/"
+    },
+    {
+     "number": "1.11",
+     "title": "انجینئرنگ مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-11-انجینئرنگ-مینجمنٹ/"
+    },
+    {
+     "number": "1.12",
+     "title": "تنوع، مساوات، شمولیت اور وابستگی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-12-تنوع-مساوات-شمولیت-اور-وابستگی/"
+    },
+    {
+     "number": "1.13",
+     "title": "رہنمائی، کوچنگ اور علم کی شراکت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-13-رہنمائی-کوچنگ-اور-علم-کی-شراکت/"
+    }
+   ]
   }
  ]
 }
