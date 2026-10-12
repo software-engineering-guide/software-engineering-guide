@@ -39,6 +39,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 - Locale `pt-001` (Portuguese): all 147 chapters translated by hand, with Portuguese
   directory segments under `tópicos/` and matching `.locale-peer-id` files; registered in
   `locales.tsv`.
+- Locale `ru-001` (Russian): all 147 chapters translated by hand, with Russian
+  directory segments under `темы/` and matching `.locale-peer-id` files; registered in
+  `locales.tsv`.
 
 ### Fixed
 
