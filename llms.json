@@ -20892,6 +20892,116 @@
      "number": "1.13",
      "title": "رہنمائی، کوچنگ اور علم کی شراکت",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/01-13-رہنمائی-کوچنگ-اور-علم-کی-شراکت/"
+    },
+    {
+     "number": "2.0",
+     "title": "حصہ 2 کا تعارف: سافٹ ویئر پروگرامنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-00-سافٹ-ویئر-پروگرامنگ/"
+    },
+    {
+     "number": "2.1",
+     "title": "کوڈنگ معیارات اور اسلوب",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-01-کوڈنگ-معیارات-اور-اسلوب/"
+    },
+    {
+     "number": "2.2",
+     "title": "سافٹ ویئر ڈیزائن کے اصول",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-02-سافٹ-ویئر-ڈیزائن-کے-اصول/"
+    },
+    {
+     "number": "2.3",
+     "title": "APIs اور انٹرفیس ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-03-اے-پی-آئی-اور-انٹرفیس-ڈیزائن/"
+    },
+    {
+     "number": "2.4",
+     "title": "ٹیسٹنگ حکمت عملی",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-04-ٹیسٹنگ-حکمت-عملی/"
+    },
+    {
+     "number": "2.5",
+     "title": "کوڈ ریویو اور تعاون",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-05-کوڈ-ریویو-اور-تعاون/"
+    },
+    {
+     "number": "2.6",
+     "title": "ورژن کنٹرول اور سورس مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-06-ورژن-کنٹرول-اور-سورس-مینجمنٹ/"
+    },
+    {
+     "number": "2.7",
+     "title": "دستاویزات",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-07-دستاویزات/"
+    },
+    {
+     "number": "2.8",
+     "title": "سافٹ ویئر تقاضے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-08-سافٹ-ویئر-تقاضے/"
+    },
+    {
+     "number": "2.9",
+     "title": "سافٹ ویئر تعمیر",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-09-سافٹ-ویئر-تعمیر/"
+    },
+    {
+     "number": "2.10",
+     "title": "سافٹ ویئر کنفیگریشن مینجمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-10-سافٹ-ویئر-کنفیگریشن-مینجمنٹ/"
+    },
+    {
+     "number": "2.11",
+     "title": "سافٹ ویئر معیار",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-11-سافٹ-ویئر-معیار/"
+    },
+    {
+     "number": "2.12",
+     "title": "سافٹ ویئر ماڈلز اور طریقے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-12-سافٹ-ویئر-ماڈلز-اور-طریقے/"
+    },
+    {
+     "number": "2.13",
+     "title": "کمپیوٹنگ، ریاضیاتی اور انجینئرنگ بنیادیں",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-13-کمپیوٹنگ-ریاضیاتی-اور-انجینئرنگ-بنیادیں/"
+    },
+    {
+     "number": "2.14",
+     "title": "پراجیکٹ اور ریپوزٹری کی ساخت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-14-پراجیکٹ-اور-ریپوزٹری-کی-ساخت/"
+    },
+    {
+     "number": "2.15",
+     "title": "ڈی بگنگ اور خرابی کی تشخیص",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-15-ڈی-بگنگ-اور-خرابی-کی-تشخیص/"
+    },
+    {
+     "number": "2.16",
+     "title": "کارکردگی کی انجینئرنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-16-کارکردگی-کی-انجینئرنگ/"
+    },
+    {
+     "number": "2.17",
+     "title": "ہم زمانیت اور متوازیت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-17-ہم-زمانیت-اور-متوازیت/"
+    },
+    {
+     "number": "2.18",
+     "title": "انحصارات اور سپلائی چین کا انتظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-18-انحصارات-اور-سپلائی-چین-کا-انتظام/"
+    },
+    {
+     "number": "2.19",
+     "title": "ری فیکٹرنگ اور تکنیکی قرض",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-19-ری-فیکٹرنگ-اور-تکنیکی-قرض/"
+    },
+    {
+     "number": "2.20",
+     "title": "خرابی سے نمٹنا اور لچک کے نمونے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-20-خرابی-سے-نمٹنا-اور-لچک-کے-نمونے/"
+    },
+    {
+     "number": "2.21",
+     "title": "ٹائپ سسٹمز اور اسٹیٹک تجزیہ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/02-21-ٹائپ-سسٹمز-اور-اسٹیٹک-تجزیہ/"
     }
    ]
   }
