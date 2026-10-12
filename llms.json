@@ -21252,6 +21252,56 @@
      "number": "6.9",
      "title": "پرامپٹ انجینئرنگ اور سیاق کا ڈیزائن",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/06-09-پرامپٹ-انجینئرنگ-اور-سیاق-کا-ڈیزائن/"
+    },
+    {
+     "number": "7.0",
+     "title": "حصہ 7 کا تعارف: ڈیٹا، تجزیات، اور بصیرت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-00-ڈیٹا-اور-تجزیات/"
+    },
+    {
+     "number": "7.1",
+     "title": "ڈیٹا حکمت عملی اور نظم و نسق",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-01-ڈیٹا-حکمت-عملی-اور-نظم-و-نسق/"
+    },
+    {
+     "number": "7.2",
+     "title": "ڈیٹا انجینئرنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-02-ڈیٹا-انجینئرنگ/"
+    },
+    {
+     "number": "7.3",
+     "title": "تجزیات اور بزنس انٹیلی جنس",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-03-تجزیات-اور-بزنس-انٹیلی-جنس/"
+    },
+    {
+     "number": "7.4",
+     "title": "پروڈکٹ تجزیات اور تجربات",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-04-پروڈکٹ-تجزیات-اور-تجربات/"
+    },
+    {
+     "number": "7.5",
+     "title": "فیصلہ سائنس اور ڈیٹا پر مبنی ثقافت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-05-فیصلہ-سائنس-اور-ڈیٹا-پر-مبنی-ثقافت/"
+    },
+    {
+     "number": "7.6",
+     "title": "ریئل ٹائم اور اسٹریمنگ ڈیٹا",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-06-ریئل-ٹائم-اور-اسٹریمنگ-ڈیٹا/"
+    },
+    {
+     "number": "7.7",
+     "title": "ڈیٹا ماڈلنگ اور سیمانٹک پرت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-07-ڈیٹا-ماڈلنگ-اور-سیمانٹک-پرت/"
+    },
+    {
+     "number": "7.8",
+     "title": "ڈیٹا کا معیار اور مشاہدہ پذیری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-08-ڈیٹا-کا-معیار-اور-مشاہدہ-پذیری/"
+    },
+    {
+     "number": "7.9",
+     "title": "ماسٹر ڈیٹا اور ریفرنس ڈیٹا کا انتظام",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/07-09-ماسٹر-ڈیٹا-اور-ریفرنس-ڈیٹا-کا-انتظام/"
     }
    ]
   }
