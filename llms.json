@@ -20073,6 +20073,84 @@
      "url": "https://software-engineering-guide.github.io/pt-001/tópicos/12-07-índice-remissivo/"
     }
    ]
+  },
+  {
+   "code": "ru-001",
+   "label": "Русский",
+   "home": "https://software-engineering-guide.github.io/ru-001/",
+   "topicsSegment": "темы",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Введение к части 1: Люди",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-00-люди/"
+    },
+    {
+     "number": "1.1",
+     "title": "Ценности программной инженерии",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-01-ценности-программной-инженерии/"
+    },
+    {
+     "number": "1.2",
+     "title": "Топологии команд и организационное проектирование",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-02-топологии-команд/"
+    },
+    {
+     "number": "1.3",
+     "title": "Роли, карьерные лестницы и рост",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-03-роли-карьерные-лестницы-и-рост/"
+    },
+    {
+     "number": "1.4",
+     "title": "Способы работы",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-04-способы-работы/"
+    },
+    {
+     "number": "1.5",
+     "title": "Принятие решений и управление",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-05-принятие-решений-и-управление/"
+    },
+    {
+     "number": "1.6",
+     "title": "Записи о решениях",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-06-записи-о-решениях/"
+    },
+    {
+     "number": "1.7",
+     "title": "Инженерные стандарты и исключения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-07-инженерные-стандарты-и-исключения/"
+    },
+    {
+     "number": "1.8",
+     "title": "Найм, собеседования и адаптация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-08-найм-собеседования-и-адаптация/"
+    },
+    {
+     "number": "1.9",
+     "title": "Распределённая и удалённая работа",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-09-распределённая-и-удалённая-работа/"
+    },
+    {
+     "number": "1.10",
+     "title": "Эффективность инженерии и продуктивность разработчиков",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-10-эффективность-инженерии-и-продуктивность-разработчиков/"
+    },
+    {
+     "number": "1.11",
+     "title": "Управление разработкой",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-11-управление-разработкой/"
+    },
+    {
+     "number": "1.12",
+     "title": "Разнообразие, равенство, инклюзивность и принадлежность",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-12-разнообразие-равенство-инклюзивность-и-принадлежность/"
+    },
+    {
+     "number": "1.13",
+     "title": "Наставничество, коучинг и обмен знаниями",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/01-13-наставничество-коучинг-и-обмен-знаниями/"
+    }
+   ]
   }
  ]
 }

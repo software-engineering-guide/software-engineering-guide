@@ -221,6 +221,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Íslenska (is-is)](https://software-engineering-guide.github.io/is-is/)
 - [Íslenska (is-001)](https://software-engineering-guide.github.io/is-001/)
 - [Português (pt-001)](https://software-engineering-guide.github.io/pt-001/)
+- [Русский (ru-001)](https://software-engineering-guide.github.io/ru-001/)
 
 ## For contributors and agents
 
