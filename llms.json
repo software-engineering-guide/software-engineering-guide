@@ -20509,6 +20509,56 @@
      "number": "6.9",
      "title": "Промпт-инженерия и проектирование контекста",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/06-09-промпт-инженерия-и-проектирование-контекста/"
+    },
+    {
+     "number": "7.0",
+     "title": "Введение к части 7: Данные, аналитика и озарение",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-00-данные-и-аналитика/"
+    },
+    {
+     "number": "7.1",
+     "title": "Стратегия данных и управление данными",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-01-стратегия-данных-и-управление-данными/"
+    },
+    {
+     "number": "7.2",
+     "title": "Инженерия данных",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-02-инженерия-данных/"
+    },
+    {
+     "number": "7.3",
+     "title": "Аналитика и бизнес-аналитика",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-03-аналитика-и-бизнес-аналитика/"
+    },
+    {
+     "number": "7.4",
+     "title": "Продуктовая аналитика и эксперименты",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-04-продуктовая-аналитика-и-эксперименты/"
+    },
+    {
+     "number": "7.5",
+     "title": "Наука о решениях и культура, опирающаяся на данные",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-05-наука-о-решениях-и-культура-данных/"
+    },
+    {
+     "number": "7.6",
+     "title": "Потоковые данные и данные реального времени",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-06-потоковые-данные-и-данные-реального-времени/"
+    },
+    {
+     "number": "7.7",
+     "title": "Моделирование данных и семантический слой",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-07-моделирование-данных-и-семантический-слой/"
+    },
+    {
+     "number": "7.8",
+     "title": "Качество данных и наблюдаемость",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-08-качество-данных-и-наблюдаемость/"
+    },
+    {
+     "number": "7.9",
+     "title": "Управление мастер-данными и справочными данными",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/07-09-управление-мастер-данными-и-справочными-данными/"
     }
    ]
   }
