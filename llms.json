@@ -20404,6 +20404,61 @@
      "number": "4.10",
      "title": "Тестирование на проникновение и «красные команды»",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/04-10-тестирование-на-проникновение-и-красные-команды/"
+    },
+    {
+     "number": "5.0",
+     "title": "Введение к части 5: Дизайн UI/UX",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-00-дизайн-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Основы UX",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-01-основы-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Дизайн интерфейсов и дизайн-системы",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-02-дизайн-интерфейсов-и-дизайн-системы/"
+    },
+    {
+     "number": "5.3",
+     "title": "Доступность",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-03-доступность/"
+    },
+    {
+     "number": "5.4",
+     "title": "Дизайн контента и коммуникации",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-04-дизайн-контента-и-коммуникации/"
+    },
+    {
+     "number": "5.5",
+     "title": "Интернационализация и локализация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-05-интернационализация-и-локализация/"
+    },
+    {
+     "number": "5.6",
+     "title": "Фронтенд-разработка",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-06-фронтенд-разработка/"
+    },
+    {
+     "number": "5.7",
+     "title": "Разработка мобильных приложений",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-07-разработка-мобильных-приложений/"
+    },
+    {
+     "number": "5.8",
+     "title": "Исследования в дизайне и тестирование удобства использования",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-08-исследования-в-дизайне-и-тестирование-удобства-использования/"
+    },
+    {
+     "number": "5.9",
+     "title": "Проектирование сервисов",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-09-проектирование-сервисов/"
+    },
+    {
+     "number": "5.10",
+     "title": "Дизайн визуализации данных",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/05-10-дизайн-визуализации-данных/"
     }
    ]
   }
