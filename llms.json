@@ -20149,6 +20149,116 @@
      "number": "1.13",
      "title": "Наставничество, коучинг и обмен знаниями",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/01-13-наставничество-коучинг-и-обмен-знаниями/"
+    },
+    {
+     "number": "2.0",
+     "title": "Введение к части 2: Программирование",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-00-программирование/"
+    },
+    {
+     "number": "2.1",
+     "title": "Стандарты кодирования и стиль",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-01-стандарты-кодирования-и-стиль/"
+    },
+    {
+     "number": "2.2",
+     "title": "Принципы проектирования программ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-02-принципы-проектирования-программ/"
+    },
+    {
+     "number": "2.3",
+     "title": "API и проектирование интерфейсов",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-03-api-и-проектирование-интерфейсов/"
+    },
+    {
+     "number": "2.4",
+     "title": "Стратегия тестирования",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-04-стратегия-тестирования/"
+    },
+    {
+     "number": "2.5",
+     "title": "Ревью кода и сотрудничество",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-05-ревью-кода-и-сотрудничество/"
+    },
+    {
+     "number": "2.6",
+     "title": "Контроль версий и управление исходным кодом",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-06-контроль-версий-и-управление-исходным-кодом/"
+    },
+    {
+     "number": "2.7",
+     "title": "Документация",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-07-документация/"
+    },
+    {
+     "number": "2.8",
+     "title": "Требования к программному обеспечению",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-08-требования-к-программному-обеспечению/"
+    },
+    {
+     "number": "2.9",
+     "title": "Конструирование программного обеспечения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-09-конструирование-программного-обеспечения/"
+    },
+    {
+     "number": "2.10",
+     "title": "Управление конфигурацией программного обеспечения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-10-управление-конфигурацией-программного-обеспечения/"
+    },
+    {
+     "number": "2.11",
+     "title": "Качество программного обеспечения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-11-качество-программного-обеспечения/"
+    },
+    {
+     "number": "2.12",
+     "title": "Модели и методы разработки программ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-12-модели-и-методы-разработки-программ/"
+    },
+    {
+     "number": "2.13",
+     "title": "Вычислительные, математические и инженерные основы",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-13-вычислительные-математические-и-инженерные-основы/"
+    },
+    {
+     "number": "2.14",
+     "title": "Структура проекта и репозитория",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-14-структура-проекта-и-репозитория/"
+    },
+    {
+     "number": "2.15",
+     "title": "Отладка и устранение неполадок",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-15-отладка-и-устранение-неполадок/"
+    },
+    {
+     "number": "2.16",
+     "title": "Инженерия производительности",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-16-инженерия-производительности/"
+    },
+    {
+     "number": "2.17",
+     "title": "Конкурентность и параллелизм",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-17-конкурентность-и-параллелизм/"
+    },
+    {
+     "number": "2.18",
+     "title": "Управление зависимостями и цепочкой поставок",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-18-управление-зависимостями-и-цепочкой-поставок/"
+    },
+    {
+     "number": "2.19",
+     "title": "Рефакторинг и технический долг",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-19-рефакторинг-и-технический-долг/"
+    },
+    {
+     "number": "2.20",
+     "title": "Обработка ошибок и паттерны устойчивости",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-20-обработка-ошибок-и-паттерны-устойчивости/"
+    },
+    {
+     "number": "2.21",
+     "title": "Системы типов и статический анализ",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/02-21-системы-типов-и-статический-анализ/"
     }
    ]
   }
