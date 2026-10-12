@@ -21147,6 +21147,61 @@
      "number": "4.10",
      "title": "پینیٹریشن ٹیسٹنگ اور ریڈ ٹیمنگ",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/04-10-پینیٹریشن-ٹیسٹنگ-اور-ریڈ-ٹیمنگ/"
+    },
+    {
+     "number": "5.0",
+     "title": "حصہ 5 کا تعارف: یو آئی/یو ایکس ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-00-یو-آئی-یو-ایکس-ڈیزائن/"
+    },
+    {
+     "number": "5.1",
+     "title": "یو ایکس کی بنیادیں",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-01-یو-ایکس-کی-بنیادیں/"
+    },
+    {
+     "number": "5.2",
+     "title": "یو آئی ڈیزائن اور ڈیزائن سسٹمز",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-02-یو-آئی-ڈیزائن-اور-ڈیزائن-سسٹمز/"
+    },
+    {
+     "number": "5.3",
+     "title": "رسائی پذیری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-03-رسائی-پذیری/"
+    },
+    {
+     "number": "5.4",
+     "title": "مواد اور ابلاغی ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-04-مواد-اور-ابلاغی-ڈیزائن/"
+    },
+    {
+     "number": "5.5",
+     "title": "بین الاقوامیت اور مقامی کاری",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-05-بین-الاقوامیت-اور-مقامی-کاری/"
+    },
+    {
+     "number": "5.6",
+     "title": "فرنٹ اینڈ انجینئرنگ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-06-فرنٹ-اینڈ-انجینئرنگ/"
+    },
+    {
+     "number": "5.7",
+     "title": "موبائل ایپلیکیشن ڈیولپمنٹ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-07-موبائل-ایپلیکیشن-ڈیولپمنٹ/"
+    },
+    {
+     "number": "5.8",
+     "title": "ڈیزائن ریسرچ اور استعمال پذیری کی جانچ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-08-ڈیزائن-ریسرچ-اور-استعمال-پذیری-کی-جانچ/"
+    },
+    {
+     "number": "5.9",
+     "title": "سروس ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-09-سروس-ڈیزائن/"
+    },
+    {
+     "number": "5.10",
+     "title": "ڈیٹا کی بصری ڈیزائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/05-10-ڈیٹا-بصری-ڈیزائن/"
     }
    ]
   }
