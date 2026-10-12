@@ -20774,6 +20774,46 @@
      "number": "11.6",
      "title": "Картирование потока создания ценности и стоимость задержки",
      "url": "https://software-engineering-guide.github.io/ru-001/темы/11-06-картирование-потока-создания-ценности-и-стоимость-задержки/"
+    },
+    {
+     "number": "12.0",
+     "title": "Приложения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-00-приложения/"
+    },
+    {
+     "number": "12.1",
+     "title": "Глоссарий",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-01-глоссарий/"
+    },
+    {
+     "number": "12.2",
+     "title": "Контрольные списки",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-02-контрольные-списки/"
+    },
+    {
+     "number": "12.3",
+     "title": "Шаблоны",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-03-шаблоны/"
+    },
+    {
+     "number": "12.4",
+     "title": "Самооценка зрелости",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-04-самооценка-зрелости/"
+    },
+    {
+     "number": "12.5",
+     "title": "Источники",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-05-источники/"
+    },
+    {
+     "number": "12.6",
+     "title": "Дорожная карта внедрения",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-06-дорожная-карта-внедрения/"
+    },
+    {
+     "number": "12.7",
+     "title": "Предметный указатель",
+     "url": "https://software-engineering-guide.github.io/ru-001/темы/12-07-предметный-указатель/"
     }
    ]
   }
