@@ -22045,6 +22045,46 @@
      "number": "7.9",
      "title": "Stamdata- og referencedatastyring",
      "url": "https://software-engineering-guide.github.io/da-001/emner/07-09-stamdata-og-referencedatastyring/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introduktion til del 8: Automatisering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-00-automatisering/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD og levering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-01-ci-cd-og-levering/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastruktur som kode og konfiguration",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-02-infrastruktur-som-kode-og-konfiguration/"
+    },
+    {
+     "number": "8.3",
+     "title": "Containere, orkestrering og cloud-native",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-03-containere-orkestrering-og-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platformsudvikling og udvikleroplevelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-04-platformsudvikling-og-udvikleroplevelse/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test og procesautomatisering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-05-test-og-procesautomatisering/"
+    },
+    {
+     "number": "8.6",
+     "title": "Releasestyring og progressiv levering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-06-releasestyring-og-progressiv-levering/"
+    },
+    {
+     "number": "8.7",
+     "title": "Buildsystemer og artefaktstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/08-07-buildsystemer-og-artefaktstyring/"
     }
    ]
   }
