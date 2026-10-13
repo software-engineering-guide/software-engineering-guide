@@ -21482,6 +21482,41 @@
      "number": "10.18",
      "title": "اوپن سورس پروگرام آفس (OSPO) اور اپ اسٹریم شراکت",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/10-18-اوپن-سورس-پروگرام-آفس-اور-اپ-اسٹریم-شراکت/"
+    },
+    {
+     "number": "11.0",
+     "title": "حصہ 11 کا تعارف: بہاؤ: دریافت اور ترسیل کی پائپ لائنیں",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-00-بہاؤ-دریافت-اور-ترسیل/"
+    },
+    {
+     "number": "11.1",
+     "title": "دریافت کی پائپ لائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-01-دریافت-کی-پائپ-لائن/"
+    },
+    {
+     "number": "11.2",
+     "title": "ترسیل کی پائپ لائن",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-02-ترسیل-کی-پائپ-لائن/"
+    },
+    {
+     "number": "11.3",
+     "title": "قطار کا نظریہ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-03-قطار-کا-نظریہ/"
+    },
+    {
+     "number": "11.4",
+     "title": "مقاصد اور کلیدی نتائج (OKRs)",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-04-مقاصد-اور-کلیدی-نتائج/"
+    },
+    {
+     "number": "11.5",
+     "title": "کلیدی کارکردگی اشاریے (KPIs)",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-05-کلیدی-کارکردگی-اشاریے/"
+    },
+    {
+     "number": "11.6",
+     "title": "ویلیو اسٹریم میپنگ اور تاخیر کی لاگت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-06-ویلیو-اسٹریم-میپنگ-اور-تاخیر-کی-لاگت/"
     }
    ]
   }
