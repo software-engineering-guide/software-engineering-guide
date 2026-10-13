@@ -22085,6 +22085,51 @@
      "number": "8.7",
      "title": "Buildsystemer og artefaktstyring",
      "url": "https://software-engineering-guide.github.io/da-001/emner/08-07-buildsystemer-og-artefaktstyring/"
+    },
+    {
+     "number": "9.0",
+     "title": "Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-00-drift-pålidelighed-og-observerbarhed/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observerbarhed og telemetri",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-02-observerbarhed-og-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Hændelseshåndtering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-03-hændelseshåndtering/"
+    },
+    {
+     "number": "9.4",
+     "title": "Omkostninger, bæredygtighed og grøn software",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-04-omkostninger-bæredygtighed-og-grøn-software/"
+    },
+    {
+     "number": "9.5",
+     "title": "Katastrofeberedskab og forretningskontinuitet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-05-katastrofeberedskab-og-forretningskontinuitet/"
+    },
+    {
+     "number": "9.6",
+     "title": "Chaos engineering og robusthedstest",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-06-chaos-engineering-og-robusthedstest/"
+    },
+    {
+     "number": "9.7",
+     "title": "Kapacitetsplanlægning og efterspørgselsprognoser",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-07-kapacitetsplanlægning-og-efterspørgselsprognoser/"
+    },
+    {
+     "number": "9.8",
+     "title": "Vagtberedskab og driftsparathed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/09-08-vagtberedskab-og-driftsparathed/"
     }
    ]
   }
