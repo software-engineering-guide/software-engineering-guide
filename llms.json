@@ -21945,6 +21945,56 @@
      "number": "5.10",
      "title": "Design af datavisualisering",
      "url": "https://software-engineering-guide.github.io/da-001/emner/05-10-design-af-datavisualisering/"
+    },
+    {
+     "number": "6.0",
+     "title": "Introduktion til del 6: Kunstig intelligens",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-00-kunstig-intelligens/"
+    },
+    {
+     "number": "6.1",
+     "title": "AI-strategi og parathed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-01-ai-strategi-og-parathed/"
+    },
+    {
+     "number": "6.2",
+     "title": "Maskinlæringsudvikling (MLOps)",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-02-maskinlæringsudvikling-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Generativ AI og LLM-applikationer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-03-generativ-ai-og-llm-applikationer/"
+    },
+    {
+     "number": "6.4",
+     "title": "AI-understøttet softwareudvikling",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-04-ai-understøttet-softwareudvikling/"
+    },
+    {
+     "number": "6.5",
+     "title": "Ansvarlig og troværdig AI",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-05-ansvarlig-og-troværdig-ai/"
+    },
+    {
+     "number": "6.6",
+     "title": "AI-infrastruktur og drift",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-06-ai-infrastruktur-og-drift/"
+    },
+    {
+     "number": "6.7",
+     "title": "AI-agenter og agentiske systemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-07-ai-agenter-og-agentiske-systemer/"
+    },
+    {
+     "number": "6.8",
+     "title": "AI-evaluering og -test",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-08-ai-evaluering-og-test/"
+    },
+    {
+     "number": "6.9",
+     "title": "Promptudvikling og kontekstdesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/06-09-promptudvikling-og-kontekstdesign/"
     }
    ]
   }
