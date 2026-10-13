@@ -21995,6 +21995,56 @@
      "number": "6.9",
      "title": "Promptudvikling og kontekstdesign",
      "url": "https://software-engineering-guide.github.io/da-001/emner/06-09-promptudvikling-og-kontekstdesign/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introduktion til del 7: Data, analyse og indsigt",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-00-data-analyse-og-indsigt/"
+    },
+    {
+     "number": "7.1",
+     "title": "Datastrategi og datastyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-01-datastrategi-og-datastyring/"
+    },
+    {
+     "number": "7.2",
+     "title": "Datateknik",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-02-datateknik/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analyse og business intelligence",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-03-analyse-og-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Produktanalyse og eksperimenter",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-04-produktanalyse-og-eksperimenter/"
+    },
+    {
+     "number": "7.5",
+     "title": "Beslutningsvidenskab og datainformeret kultur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-05-beslutningsvidenskab-og-datainformeret-kultur/"
+    },
+    {
+     "number": "7.6",
+     "title": "Realtids- og streamingdata",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-06-realtids-og-streamingdata/"
+    },
+    {
+     "number": "7.7",
+     "title": "Datamodellering og det semantiske lag",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-07-datamodellering-og-det-semantiske-lag/"
+    },
+    {
+     "number": "7.8",
+     "title": "Datakvalitet og observerbarhed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-08-datakvalitet-og-observerbarhed/"
+    },
+    {
+     "number": "7.9",
+     "title": "Stamdata- og referencedatastyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/07-09-stamdata-og-referencedatastyring/"
     }
    ]
   }
