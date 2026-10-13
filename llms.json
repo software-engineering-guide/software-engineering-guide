@@ -22130,6 +22130,101 @@
      "number": "9.8",
      "title": "Vagtberedskab og driftsparathed",
      "url": "https://software-engineering-guide.github.io/da-001/emner/09-08-vagtberedskab-og-driftsparathed/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introduktion til del 10: Projekt-, produkt- og programstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-00-projekt-produkt-og-programstyring/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portefølje- og programstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-01-portefølje-og-programstyring/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risiko, revision og assurance",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-02-risiko-revision-og-assurance/"
+    },
+    {
+     "number": "10.3",
+     "title": "Indkøb, open source og licenser",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-03-indkøb-open-source-og-licenser/"
+    },
+    {
+     "number": "10.4",
+     "title": "Vedligeholdelse af store og langlivede systemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-04-vedligeholdelse-af-store-og-langlivede-systemer/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etik, ansvarlighed og almenvellet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-05-etik-ansvarlighed-og-almenvellet/"
+    },
+    {
+     "number": "10.6",
+     "title": "Projektstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-06-projektstyring/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agil",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-07-agil/"
+    },
+    {
+     "number": "10.8",
+     "title": "Modenhedsmodeller",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-08-modenhedsmodeller/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovationspartnerskab",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-09-innovationspartnerskab/"
+    },
+    {
+     "number": "10.10",
+     "title": "Softwareudviklingens økonomi",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-10-softwareudviklingens-økonomi/"
+    },
+    {
+     "number": "10.11",
+     "title": "Digital suverænitet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-11-digital-suverænitet/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open source versus closed source",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-12-open-source-versus-closed-source/"
+    },
+    {
+     "number": "10.13",
+     "title": "Samarbejde på tværs af organisationer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-13-samarbejde-på-tværs-af-organisationer/"
+    },
+    {
+     "number": "10.14",
+     "title": "Produktstyring og opdagelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-14-produktstyring-og-opdagelse/"
+    },
+    {
+     "number": "10.15",
+     "title": "Estimering og prognoser",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-15-estimering-og-prognoser/"
+    },
+    {
+     "number": "10.16",
+     "title": "Interessenthåndtering og kommunikation",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-16-interessenthåndtering-og-kommunikation/"
+    },
+    {
+     "number": "10.17",
+     "title": "Organisatorisk forandringsledelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-17-organisatorisk-forandringsledelse/"
+    },
+    {
+     "number": "10.18",
+     "title": "Open source-programkontor (OSPO) og upstream-bidrag",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/10-18-open-source-programkontor-og-upstream-bidrag/"
     }
    ]
   }
