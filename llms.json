@@ -21835,6 +21835,61 @@
      "number": "3.17",
      "title": "Søgning og informationssøgning",
      "url": "https://software-engineering-guide.github.io/da-001/emner/03-17-søgning-og-informationssøgning/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introduktion til del 4: Sikkerhed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-00-sikkerhed/"
+    },
+    {
+     "number": "4.1",
+     "title": "Sikkerhedsgrundlag og kultur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-01-sikkerhedsgrundlag-og-kultur/"
+    },
+    {
+     "number": "4.2",
+     "title": "Applikationssikkerhed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-02-applikationssikkerhed/"
+    },
+    {
+     "number": "4.3",
+     "title": "Infrastruktur- og cloudsikkerhed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-03-infrastruktur-og-cloudsikkerhed/"
+    },
+    {
+     "number": "4.4",
+     "title": "Sikkerhedsdrift",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-04-sikkerhedsdrift/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privatliv og databeskyttelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-05-privatliv-og-databeskyttelse/"
+    },
+    {
+     "number": "4.6",
+     "title": "Compliance og styring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-06-compliance-og-styring/"
+    },
+    {
+     "number": "4.7",
+     "title": "Identitets- og adgangsstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-07-identitets-og-adgangsstyring/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kryptografi og nøglestyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-08-kryptografi-og-nøglestyring/"
+    },
+    {
+     "number": "4.9",
+     "title": "Sikker softwareudviklingslivscyklus",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-09-sikker-softwareudviklingslivscyklus/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetrationstest og red teaming",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/04-10-penetrationstest-og-red-teaming/"
     }
    ]
   }
