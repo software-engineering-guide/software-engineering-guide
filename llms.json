@@ -21745,6 +21745,96 @@
      "number": "2.21",
      "title": "Typesystemer og statisk analyse",
      "url": "https://software-engineering-guide.github.io/da-001/emner/02-21-typesystemer-og-statisk-analyse/"
+    },
+    {
+     "number": "3.0",
+     "title": "Introduktion til del 3: Systemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-00-systemer/"
+    },
+    {
+     "number": "3.1",
+     "title": "Grundlæggende arkitektur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-01-grundlæggende-arkitektur/"
+    },
+    {
+     "number": "3.2",
+     "title": "Arkitekturstilarter og mønstre",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-02-arkitekturstilarter-og-mønstre/"
+    },
+    {
+     "number": "3.3",
+     "title": "Distribuerede systemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-03-distribuerede-systemer/"
+    },
+    {
+     "number": "3.4",
+     "title": "Dataarkitektur og lagring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-04-dataarkitektur-og-lagring/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalerbarhed, ydeevne og robusthed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-05-skalerbarhed-ydeevne-og-robusthed/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisering af ældre systemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-06-modernisering-af-ældre-systemer/"
+    },
+    {
+     "number": "3.7",
+     "title": "Softwarevedligeholdelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-07-softwarevedligeholdelse/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilitet og åbne standarder",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-08-interoperabilitet-og-åbne-standarder/"
+    },
+    {
+     "number": "3.9",
+     "title": "Systemteknik",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-09-systemteknik/"
+    },
+    {
+     "number": "3.10",
+     "title": "Indlejrede systemer og realtidssystemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-10-indlejrede-systemer-og-realtidssystemer/"
+    },
+    {
+     "number": "3.11",
+     "title": "Cloudarkitektur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-11-cloudarkitektur/"
+    },
+    {
+     "number": "3.12",
+     "title": "Hændelsesdrevet arkitektur og beskedudveksling",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-12-hændelsesdrevet-arkitektur-og-messaging/"
+    },
+    {
+     "number": "3.13",
+     "title": "Netværk og konnektivitet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-13-netværk-og-konnektivitet/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multitenancy og SaaS-arkitektur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-14-multitenancy-og-saas-arkitektur/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching og indholdslevering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-15-caching-og-indholdslevering/"
+    },
+    {
+     "number": "3.16",
+     "title": "API-gateways og service mesh",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-16-api-gateways-og-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Søgning og informationssøgning",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/03-17-søgning-og-informationssøgning/"
     }
    ]
   }
