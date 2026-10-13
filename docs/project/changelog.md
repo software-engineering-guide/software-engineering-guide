@@ -44,6 +44,8 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   `locales.tsv`.
 - Locale `ur-001` (Urdu): all 147 chapters translated by hand, with Urdu-script directory
   segments under `موضوعات/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
+- Locale `da-001` (Danish): all 147 chapters translated by hand, with Danish directory segments
+  under `emner/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
 
 ### Fixed
 
