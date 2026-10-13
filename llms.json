@@ -21559,6 +21559,84 @@
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-07-اشاریہ/"
     }
    ]
+  },
+  {
+   "code": "da-001",
+   "label": "Dansk",
+   "home": "https://software-engineering-guide.github.io/da-001/",
+   "topicsSegment": "emner",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Introduktion til del 1: Mennesker",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-00-mennesker/"
+    },
+    {
+     "number": "1.1",
+     "title": "Værdier i softwareudvikling",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-01-værdier-i-softwareudvikling/"
+    },
+    {
+     "number": "1.2",
+     "title": "Teamtopologier og organisationsdesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-02-teamtopologier-og-organisationsdesign/"
+    },
+    {
+     "number": "1.3",
+     "title": "Roller, karrierestiger og vækst",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-03-roller-karrierestiger-og-vækst/"
+    },
+    {
+     "number": "1.4",
+     "title": "Arbejdsmetoder",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-04-arbejdsmetoder/"
+    },
+    {
+     "number": "1.5",
+     "title": "Beslutningstagning og styring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-05-beslutningstagning-og-styring/"
+    },
+    {
+     "number": "1.6",
+     "title": "Beslutningsregistre",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-06-beslutningsregistre/"
+    },
+    {
+     "number": "1.7",
+     "title": "Tekniske standarder og undtagelser",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-07-tekniske-standarder-og-undtagelser/"
+    },
+    {
+     "number": "1.8",
+     "title": "Ansættelse, jobsamtaler og onboarding",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-08-ansættelse-jobsamtaler-og-onboarding/"
+    },
+    {
+     "number": "1.9",
+     "title": "Distribueret arbejde og fjernarbejde",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-09-distribueret-arbejde-og-fjernarbejde/"
+    },
+    {
+     "number": "1.10",
+     "title": "Teknisk effektivitet og udvikleres produktivitet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-10-teknisk-effektivitet-og-udvikleres-produktivitet/"
+    },
+    {
+     "number": "1.11",
+     "title": "Teknisk ledelse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-11-teknisk-ledelse/"
+    },
+    {
+     "number": "1.12",
+     "title": "Mangfoldighed, lighed, inklusion og tilhørsforhold",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentorordning, coaching og vidensdeling",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/01-13-mentorskab-coaching-og-vidensdeling/"
+    }
+   ]
   }
  ]
 }

@@ -223,6 +223,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Português (pt-001)](https://software-engineering-guide.github.io/pt-001/)
 - [Русский (ru-001)](https://software-engineering-guide.github.io/ru-001/)
 - [اردو (ur-001)](https://software-engineering-guide.github.io/ur-001/)
+- [Dansk (da-001)](https://software-engineering-guide.github.io/da-001/)
 
 ## For contributors and agents
 
