@@ -22225,6 +22225,41 @@
      "number": "10.18",
      "title": "Open source-programkontor (OSPO) og upstream-bidrag",
      "url": "https://software-engineering-guide.github.io/da-001/emner/10-18-open-source-programkontor-og-upstream-bidrag/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-00-flow-opdagelse-og-leveringspipelines/"
+    },
+    {
+     "number": "11.1",
+     "title": "Opdagelsespipelinen",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-01-opdagelsespipelinen/"
+    },
+    {
+     "number": "11.2",
+     "title": "Leveringspipelinen",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-02-leveringspipelinen/"
+    },
+    {
+     "number": "11.3",
+     "title": "Køteori",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-03-køteori/"
+    },
+    {
+     "number": "11.4",
+     "title": "Mål og nøgleresultater (OKR'er)",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-04-mål-og-nøgleresultater/"
+    },
+    {
+     "number": "11.5",
+     "title": "Nøgleindikatorer (KPI'er)",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-05-nøgleindikatorer/"
+    },
+    {
+     "number": "11.6",
+     "title": "Værdistrømskortlægning og forsinkelsesomkostning",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/11-06-værdistrømskortlægning-og-forsinkelsesomkostning/"
     }
    ]
   }
