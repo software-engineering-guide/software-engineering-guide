@@ -21517,6 +21517,46 @@
      "number": "11.6",
      "title": "ویلیو اسٹریم میپنگ اور تاخیر کی لاگت",
      "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/11-06-ویلیو-اسٹریم-میپنگ-اور-تاخیر-کی-لاگت/"
+    },
+    {
+     "number": "12.0",
+     "title": "ضمیمے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-00-ضمیمے/"
+    },
+    {
+     "number": "12.1",
+     "title": "لغت",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-01-لغت/"
+    },
+    {
+     "number": "12.2",
+     "title": "چیک لسٹیں",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-02-چیک-لسٹیں/"
+    },
+    {
+     "number": "12.3",
+     "title": "سانچے",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-03-سانچے/"
+    },
+    {
+     "number": "12.4",
+     "title": "پختگی کی خود تشخیص",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-04-پختگی-کی-خود-تشخیص/"
+    },
+    {
+     "number": "12.5",
+     "title": "حوالہ جات",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-05-حوالہ-جات/"
+    },
+    {
+     "number": "12.6",
+     "title": "اپنانے کا روڈ میپ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-06-اپنانے-کا-روڈ-میپ/"
+    },
+    {
+     "number": "12.7",
+     "title": "اشاریہ",
+     "url": "https://software-engineering-guide.github.io/ur-001/موضوعات/12-07-اشاریہ/"
     }
    ]
   }
