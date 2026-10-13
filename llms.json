@@ -21890,6 +21890,61 @@
      "number": "4.10",
      "title": "Penetrationstest og red teaming",
      "url": "https://software-engineering-guide.github.io/da-001/emner/04-10-penetrationstest-og-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introduktion til del 5: UI/UX-design",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-00-ui-ux-design/"
+    },
+    {
+     "number": "5.1",
+     "title": "UX-grundlag",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-01-ux-grundlag/"
+    },
+    {
+     "number": "5.2",
+     "title": "UI-design og designsystemer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-02-ui-design-og-designsystemer/"
+    },
+    {
+     "number": "5.3",
+     "title": "Tilgængelighed",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-03-tilgængelighed/"
+    },
+    {
+     "number": "5.4",
+     "title": "Indholds- og kommunikationsdesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-04-indholds-og-kommunikationsdesign/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internationalisering og lokalisering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-05-internationalisering-og-lokalisering/"
+    },
+    {
+     "number": "5.6",
+     "title": "Frontendudvikling",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-06-frontendudvikling/"
+    },
+    {
+     "number": "5.7",
+     "title": "Udvikling af mobilapplikationer",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-07-udvikling-af-mobilapplikationer/"
+    },
+    {
+     "number": "5.8",
+     "title": "Designresearch og brugbarhedstest",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-08-designforskning-og-brugbarhedstest/"
+    },
+    {
+     "number": "5.9",
+     "title": "Servicedesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-09-servicedesign/"
+    },
+    {
+     "number": "5.10",
+     "title": "Design af datavisualisering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/05-10-design-af-datavisualisering/"
     }
    ]
   }
