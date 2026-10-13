@@ -21635,6 +21635,116 @@
      "number": "1.13",
      "title": "Mentorordning, coaching og vidensdeling",
      "url": "https://software-engineering-guide.github.io/da-001/emner/01-13-mentorskab-coaching-og-vidensdeling/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introduktion til del 2: Softwareprogrammering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-00-softwareprogrammering/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kodestandarder og stil",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-01-kodestandarder-og-stil/"
+    },
+    {
+     "number": "2.2",
+     "title": "Principper for softwaredesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-02-principper-for-softwaredesign/"
+    },
+    {
+     "number": "2.3",
+     "title": "API'er og grænsefladedesign",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-03-api-er-og-grænsefladedesign/"
+    },
+    {
+     "number": "2.4",
+     "title": "Teststrategi",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-04-teststrategi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kodegennemgang og samarbejde",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-05-kodegennemgang-og-samarbejde/"
+    },
+    {
+     "number": "2.6",
+     "title": "Versionsstyring og kildekodestyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-06-versionsstyring-og-kildekodestyring/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentation",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-07-dokumentation/"
+    },
+    {
+     "number": "2.8",
+     "title": "Softwarekrav",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-08-softwarekrav/"
+    },
+    {
+     "number": "2.9",
+     "title": "Softwarekonstruktion",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-09-softwarekonstruktion/"
+    },
+    {
+     "number": "2.10",
+     "title": "Softwarekonfigurationsstyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-10-softwarekonfigurationsstyring/"
+    },
+    {
+     "number": "2.11",
+     "title": "Softwarekvalitet",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-11-softwarekvalitet/"
+    },
+    {
+     "number": "2.12",
+     "title": "Softwaremodeller og metoder",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-12-softwaremodeller-og-metoder/"
+    },
+    {
+     "number": "2.13",
+     "title": "Datalogiske, matematiske og tekniske grundlag",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-13-datalogiske-matematiske-og-tekniske-grundlag/"
+    },
+    {
+     "number": "2.14",
+     "title": "Projekt- og repositoriestruktur",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-14-projekt-og-repositoriestruktur/"
+    },
+    {
+     "number": "2.15",
+     "title": "Fejlsøgning og problemløsning",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-15-fejlsøgning-og-problemløsning/"
+    },
+    {
+     "number": "2.16",
+     "title": "Ydeevneoptimering",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-16-ydeevneoptimering/"
+    },
+    {
+     "number": "2.17",
+     "title": "Samtidighed og parallelisme",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-17-samtidighed-og-parallelisme/"
+    },
+    {
+     "number": "2.18",
+     "title": "Afhængigheds- og forsyningskædestyring",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-18-afhængigheds-og-forsyningskædestyring/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refaktorering og teknisk gæld",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-19-refaktorering-og-teknisk-gæld/"
+    },
+    {
+     "number": "2.20",
+     "title": "Fejlhåndtering og robusthedsmønstre",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-20-fejlhåndtering-og-robusthedsmønstre/"
+    },
+    {
+     "number": "2.21",
+     "title": "Typesystemer og statisk analyse",
+     "url": "https://software-engineering-guide.github.io/da-001/emner/02-21-typesystemer-og-statisk-analyse/"
     }
    ]
   }
