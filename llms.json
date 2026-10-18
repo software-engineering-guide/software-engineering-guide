@@ -22968,6 +22968,41 @@
      "number": "10.18",
      "title": "Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu/"
+    },
+    {
+     "number": "11.0",
+     "title": "Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji/"
+    },
+    {
+     "number": "11.1",
+     "title": "Bomba la ugunduzi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-01-bomba-la-ugunduzi/"
+    },
+    {
+     "number": "11.2",
+     "title": "Bomba la utoaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-02-bomba-la-utoaji/"
+    },
+    {
+     "number": "11.3",
+     "title": "Nadharia ya foleni",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-03-nadharia-ya-foleni/"
+    },
+    {
+     "number": "11.4",
+     "title": "Malengo na matokeo muhimu (OKR)",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-04-malengo-na-matokeo-muhimu/"
+    },
+    {
+     "number": "11.5",
+     "title": "Viashiria muhimu vya utendaji (KPI)",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-05-viashiria-muhimu-vya-utendaji/"
+    },
+    {
+     "number": "11.6",
+     "title": "Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa/"
     }
    ]
   }
