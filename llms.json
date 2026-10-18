@@ -22583,6 +22583,56 @@
      "number": "4.0",
      "title": "Utangulizi wa Sehemu ya 4: Usalama",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/04-00-utangulizi-wa-sehemu-ya-4-usalama/"
+    },
+    {
+     "number": "4.1",
+     "title": "Misingi ya usalama na utamaduni",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-01-misingi-ya-usalama-na-utamaduni/"
+    },
+    {
+     "number": "4.2",
+     "title": "Usalama wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-02-usalama-wa-programu/"
+    },
+    {
+     "number": "4.3",
+     "title": "Usalama wa miundombinu na wingu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-03-usalama-wa-miundombinu-na-wingu/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operesheni za usalama",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-04-operesheni-za-usalama/"
+    },
+    {
+     "number": "4.5",
+     "title": "Faragha na ulinzi wa data",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-05-faragha-na-ulinzi-wa-data/"
+    },
+    {
+     "number": "4.6",
+     "title": "Uzingatiaji na utawala",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-06-uzingatiaji-na-utawala/"
+    },
+    {
+     "number": "4.7",
+     "title": "Usimamizi wa utambulisho na ufikiaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-07-usimamizi-wa-utambulisho-na-ufikiaji/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kriptografia na usimamizi wa funguo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-08-kriptografia-na-usimamizi-wa-funguo/"
+    },
+    {
+     "number": "4.9",
+     "title": "Mzunguko salama wa uendelezaji wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-09-mzunguko-salama-wa-uendelezaji-wa-programu/"
+    },
+    {
+     "number": "4.10",
+     "title": "Majaribio ya kupenya na red teaming",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-10-majaribio-ya-kupenya-na-red-teaming/"
     }
    ]
   }
