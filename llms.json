@@ -22828,6 +22828,51 @@
      "number": "8.7",
      "title": "Mifumo ya ujenzi na usimamizi wa mabaki",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki/"
+    },
+    {
+     "number": "9.0",
+     "title": "Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji/"
+    },
+    {
+     "number": "9.1",
+     "title": "Uhandisi wa kutegemewa wa tovuti",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-01-uhandisi-wa-kutegemewa-wa-tovuti/"
+    },
+    {
+     "number": "9.2",
+     "title": "Uonekanaji na telemetry",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-02-uonekanaji-na-telemetry/"
+    },
+    {
+     "number": "9.3",
+     "title": "Usimamizi wa matukio",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-03-usimamizi-wa-matukio/"
+    },
+    {
+     "number": "9.4",
+     "title": "Gharama, uendelevu, na programu ya kijani",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-04-gharama-uendelevu-na-programu-ya-kijani/"
+    },
+    {
+     "number": "9.5",
+     "title": "Kupona kutoka maafa na mwendelezo wa biashara",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara/"
+    },
+    {
+     "number": "9.6",
+     "title": "Uhandisi wa machafuko na majaribio ya ustahimilivu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu/"
+    },
+    {
+     "number": "9.7",
+     "title": "Upangaji wa uwezo na utabiri wa mahitaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji/"
+    },
+    {
+     "number": "9.8",
+     "title": "Simu ya dharura na utayari wa uendeshaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/09-08-simu-ya-dharura-na-utayari-wa-uendeshaji/"
     }
    ]
   }
