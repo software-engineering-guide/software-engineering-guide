@@ -46,6 +46,8 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
   segments under `موضوعات/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
 - Locale `da-001` (Danish): all 147 chapters translated by hand, with Danish directory segments
   under `emner/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
+- Locale `sw-001` (Swahili): all 147 chapters translated, with Swahili directory segments
+  under `mada/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
 
 ### Fixed
 
