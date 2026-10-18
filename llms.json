@@ -22302,6 +22302,289 @@
      "url": "https://software-engineering-guide.github.io/da-001/emner/12-07-stikordsregister/"
     }
    ]
+  },
+  {
+   "code": "sw-001",
+   "label": "Kiswahili",
+   "home": "https://software-engineering-guide.github.io/sw-001/",
+   "topicsSegment": "mada",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Utangulizi wa Sehemu ya 1: Watu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-00-utangulizi-wa-sehemu-ya-1-watu/"
+    },
+    {
+     "number": "1.1",
+     "title": "Maadili ya uhandisi wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-01-maadili-ya-uhandisi-wa-programu/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topolojia za timu na usanifu wa shirika",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-02-topolojia-za-timu-na-usanifu-wa-shirika/"
+    },
+    {
+     "number": "1.3",
+     "title": "Majukumu, ngazi za taaluma, na ukuaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-03-majukumu-ngazi-za-taaluma-na-ukuaji/"
+    },
+    {
+     "number": "1.4",
+     "title": "Njia za kufanya kazi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-04-njia-za-kufanya-kazi/"
+    },
+    {
+     "number": "1.5",
+     "title": "Kufanya maamuzi na utawala",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-05-kufanya-maamuzi-na-utawala/"
+    },
+    {
+     "number": "1.6",
+     "title": "Rekodi za maamuzi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-06-rekodi-za-maamuzi/"
+    },
+    {
+     "number": "1.7",
+     "title": "Viwango vya uhandisi na vighairi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-07-viwango-vya-uhandisi-na-vighairi/"
+    },
+    {
+     "number": "1.8",
+     "title": "Kuajiri, usaili, na utambulisho",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-08-kuajiri-usaili-na-utambulisho/"
+    },
+    {
+     "number": "1.9",
+     "title": "Kazi iliyosambazwa na ya mbali",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-09-kazi-iliyosambazwa-na-ya-mbali/"
+    },
+    {
+     "number": "1.10",
+     "title": "Ufanisi wa uhandisi na tija ya wasanidi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi/"
+    },
+    {
+     "number": "1.11",
+     "title": "Usimamizi wa uhandisi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-11-usimamizi-wa-uhandisi/"
+    },
+    {
+     "number": "1.12",
+     "title": "Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika/"
+    },
+    {
+     "number": "1.13",
+     "title": "Ushauri, ukocha, na kushiriki maarifa",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/01-13-ushauri-ukocha-na-kushiriki-maarifa/"
+    },
+    {
+     "number": "2.0",
+     "title": "Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu/"
+    },
+    {
+     "number": "2.1",
+     "title": "Viwango vya uandishi wa msimbo na mtindo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo/"
+    },
+    {
+     "number": "2.2",
+     "title": "Kanuni za usanifu wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-02-kanuni-za-usanifu-wa-programu/"
+    },
+    {
+     "number": "2.3",
+     "title": "API na usanifu wa violesura",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-03-api-na-usanifu-wa-violesura/"
+    },
+    {
+     "number": "2.4",
+     "title": "Mkakati wa majaribio",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-04-mkakati-wa-majaribio/"
+    },
+    {
+     "number": "2.5",
+     "title": "Mapitio ya msimbo na ushirikiano",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-05-mapitio-ya-msimbo-na-ushirikiano/"
+    },
+    {
+     "number": "2.6",
+     "title": "Udhibiti wa matoleo na usimamizi wa chanzo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo/"
+    },
+    {
+     "number": "2.7",
+     "title": "Nyaraka",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-07-nyaraka/"
+    },
+    {
+     "number": "2.8",
+     "title": "Mahitaji ya programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-08-mahitaji-ya-programu/"
+    },
+    {
+     "number": "2.9",
+     "title": "Ujenzi wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-09-ujenzi-wa-programu/"
+    },
+    {
+     "number": "2.10",
+     "title": "Usimamizi wa usanidi wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-10-usimamizi-wa-usanidi-wa-programu/"
+    },
+    {
+     "number": "2.11",
+     "title": "Ubora wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-11-ubora-wa-programu/"
+    },
+    {
+     "number": "2.12",
+     "title": "Mifano na mbinu za programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-12-mifano-na-mbinu-za-programu/"
+    },
+    {
+     "number": "2.13",
+     "title": "Misingi ya kompyuta, hisabati, na uhandisi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-13-misingi-ya-kompyuta-hisabati-na-uhandisi/"
+    },
+    {
+     "number": "2.14",
+     "title": "Muundo wa mradi na hazina",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-14-muundo-wa-mradi-na-hazina/"
+    },
+    {
+     "number": "2.15",
+     "title": "Utatuzi wa hitilafu na kutatua matatizo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo/"
+    },
+    {
+     "number": "2.16",
+     "title": "Uhandisi wa utendaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-16-uhandisi-wa-utendaji/"
+    },
+    {
+     "number": "2.17",
+     "title": "Ulinganifu na usambamba",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-17-ulinganifu-na-usambamba/"
+    },
+    {
+     "number": "2.18",
+     "title": "Usimamizi wa utegemezi na mnyororo wa ugavi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi/"
+    },
+    {
+     "number": "2.19",
+     "title": "Urekebishaji wa muundo na deni la kiufundi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi/"
+    },
+    {
+     "number": "2.20",
+     "title": "Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu/"
+    },
+    {
+     "number": "2.21",
+     "title": "Mifumo ya aina na uchambuzi tuli",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/02-21-mifumo-ya-aina-na-uchambuzi-tuli/"
+    },
+    {
+     "number": "3.0",
+     "title": "Utangulizi wa Sehemu ya 3: Mifumo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-00-utangulizi-wa-sehemu-ya-3-mifumo/"
+    },
+    {
+     "number": "3.1",
+     "title": "Misingi ya usanifu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-01-misingi-ya-usanifu/"
+    },
+    {
+     "number": "3.2",
+     "title": "Mitindo na mifumo ya usanifu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-02-mitindo-na-mifumo-ya-usanifu/"
+    },
+    {
+     "number": "3.3",
+     "title": "Mifumo iliyosambazwa",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-03-mifumo-iliyosambazwa/"
+    },
+    {
+     "number": "3.4",
+     "title": "Usanifu wa data na uhifadhi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-04-usanifu-wa-data-na-uhifadhi/"
+    },
+    {
+     "number": "3.5",
+     "title": "Ukubwa, utendaji, na ustahimilivu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-05-ukubwa-utendaji-na-ustahimilivu/"
+    },
+    {
+     "number": "3.6",
+     "title": "Uboreshaji wa mifumo ya urithi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-06-uboreshaji-wa-mifumo-ya-urithi/"
+    },
+    {
+     "number": "3.7",
+     "title": "Matengenezo ya programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-07-matengenezo-ya-programu/"
+    },
+    {
+     "number": "3.8",
+     "title": "Uwezo wa kuingiliana na viwango huria",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-08-uwezo-wa-kuingiliana-na-viwango-huria/"
+    },
+    {
+     "number": "3.9",
+     "title": "Uhandisi wa mifumo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-09-uhandisi-wa-mifumo/"
+    },
+    {
+     "number": "3.10",
+     "title": "Mifumo iliyopachikwa na ya wakati halisi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi/"
+    },
+    {
+     "number": "3.11",
+     "title": "Usanifu wa wingu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-11-usanifu-wa-wingu/"
+    },
+    {
+     "number": "3.12",
+     "title": "Usanifu unaoendeshwa na matukio na ujumbe",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe/"
+    },
+    {
+     "number": "3.13",
+     "title": "Mitandao na muunganisho",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-13-mitandao-na-muunganisho/"
+    },
+    {
+     "number": "3.14",
+     "title": "Wapangaji wengi na usanifu wa SaaS",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-14-wapangaji-wengi-na-usanifu-wa-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Kache na usambazaji wa maudhui",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-15-kache-na-usambazaji-wa-maudhui/"
+    },
+    {
+     "number": "3.16",
+     "title": "Lango la API na mesh ya huduma",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-16-lango-la-api-na-mesh-ya-huduma/"
+    },
+    {
+     "number": "3.17",
+     "title": "Utafutaji na urejeshaji wa taarifa",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/03-17-utafutaji-na-urejeshaji-wa-taarifa/"
+    },
+    {
+     "number": "4.0",
+     "title": "Utangulizi wa Sehemu ya 4: Usalama",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/04-00-utangulizi-wa-sehemu-ya-4-usalama/"
+    }
+   ]
   }
  ]
 }
