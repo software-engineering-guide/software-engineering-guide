@@ -22633,6 +22633,61 @@
      "number": "4.10",
      "title": "Majaribio ya kupenya na red teaming",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/04-10-majaribio-ya-kupenya-na-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Misingi ya UX",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-01-misingi-ya-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Usanifu wa UI na mifumo ya usanifu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-02-usanifu-wa-ui-na-mifumo-ya-usanifu/"
+    },
+    {
+     "number": "5.3",
+     "title": "Ufikivu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-03-ufikivu/"
+    },
+    {
+     "number": "5.4",
+     "title": "Usanifu wa maudhui na mawasiliano",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-04-usanifu-wa-maudhui-na-mawasiliano/"
+    },
+    {
+     "number": "5.5",
+     "title": "Uandaaji wa kimataifa na ulokalishaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-05-uandaaji-wa-kimataifa-na-ulokalishaji/"
+    },
+    {
+     "number": "5.6",
+     "title": "Uhandisi wa frontend",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-06-uhandisi-wa-frontend/"
+    },
+    {
+     "number": "5.7",
+     "title": "Uendelezaji wa programu za simu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-07-uendelezaji-wa-programu-za-simu/"
+    },
+    {
+     "number": "5.8",
+     "title": "Utafiti wa usanifu na majaribio ya utumiaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji/"
+    },
+    {
+     "number": "5.9",
+     "title": "Usanifu wa huduma",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-09-usanifu-wa-huduma/"
+    },
+    {
+     "number": "5.10",
+     "title": "Usanifu wa taswira za data",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/05-10-usanifu-wa-taswira-za-data/"
     }
    ]
   }
