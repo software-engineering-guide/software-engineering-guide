@@ -22688,6 +22688,56 @@
      "number": "5.10",
      "title": "Usanifu wa taswira za data",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/05-10-usanifu-wa-taswira-za-data/"
+    },
+    {
+     "number": "6.0",
+     "title": "Utangulizi wa Sehemu ya 6: Akili Bandia",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-00-utangulizi-wa-sehemu-ya-6-akili-bandia/"
+    },
+    {
+     "number": "6.1",
+     "title": "Mkakati wa AI na utayari",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-01-mkakati-wa-ai-na-utayari/"
+    },
+    {
+     "number": "6.2",
+     "title": "Uhandisi wa kujifunza kwa mashine (MLOps)",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-02-uhandisi-wa-kujifunza-kwa-mashine/"
+    },
+    {
+     "number": "6.3",
+     "title": "AI ya kuzalisha na programu za LLM",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-03-ai-ya-kuzalisha-na-programu-za-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Uendelezaji wa programu unaosaidiwa na AI",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI ya kuwajibika na ya kuaminika",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-05-ai-ya-kuwajibika-na-ya-kuaminika/"
+    },
+    {
+     "number": "6.6",
+     "title": "Miundombinu na operesheni za AI",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-06-miundombinu-na-operesheni-za-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Mawakala wa AI na mifumo ya kiwakala",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala/"
+    },
+    {
+     "number": "6.8",
+     "title": "Tathmini na majaribio ya AI",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-08-tathmini-na-majaribio-ya-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Uhandisi wa maagizo na usanifu wa muktadha",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha/"
     }
    ]
   }
