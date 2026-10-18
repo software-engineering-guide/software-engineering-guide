@@ -22873,6 +22873,101 @@
      "number": "9.8",
      "title": "Simu ya dharura na utayari wa uendeshaji",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/09-08-simu-ya-dharura-na-utayari-wa-uendeshaji/"
+    },
+    {
+     "number": "10.0",
+     "title": "Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu/"
+    },
+    {
+     "number": "10.1",
+     "title": "Usimamizi wa jalada na programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-01-usimamizi-wa-jalada-na-programu/"
+    },
+    {
+     "number": "10.2",
+     "title": "Hatari, ukaguzi, na uhakikisho",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-02-hatari-ukaguzi-na-uhakikisho/"
+    },
+    {
+     "number": "10.3",
+     "title": "Ununuzi, chanzo huria, na leseni",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-03-ununuzi-chanzo-huria-na-leseni/"
+    },
+    {
+     "number": "10.4",
+     "title": "Kudumisha mifumo mikubwa na ya muda mrefu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu/"
+    },
+    {
+     "number": "10.5",
+     "title": "Maadili, uwajibikaji, na maslahi ya umma",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-05-maadili-uwajibikaji-na-maslahi-ya-umma/"
+    },
+    {
+     "number": "10.6",
+     "title": "Usimamizi wa miradi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-06-usimamizi-wa-miradi/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Vielelezo vya ukomavu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-08-vielelezo-vya-ukomavu/"
+    },
+    {
+     "number": "10.9",
+     "title": "Ushirikiano wa ubunifu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-09-ushirikiano-wa-ubunifu/"
+    },
+    {
+     "number": "10.10",
+     "title": "Uchumi wa uhandisi wa programu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-10-uchumi-wa-uhandisi-wa-programu/"
+    },
+    {
+     "number": "10.11",
+     "title": "Enzi ya kidijitali",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-11-enzi-ya-kidijitali/"
+    },
+    {
+     "number": "10.12",
+     "title": "Chanzo huria dhidi ya chanzo funge",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-12-chanzo-huria-dhidi-ya-chanzo-funge/"
+    },
+    {
+     "number": "10.13",
+     "title": "Ushirikiano kati ya mashirika",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-13-ushirikiano-kati-ya-mashirika/"
+    },
+    {
+     "number": "10.14",
+     "title": "Usimamizi wa bidhaa na ugunduzi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-14-usimamizi-wa-bidhaa-na-ugunduzi/"
+    },
+    {
+     "number": "10.15",
+     "title": "Ukadiriaji na utabiri",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-15-ukadiriaji-na-utabiri/"
+    },
+    {
+     "number": "10.16",
+     "title": "Usimamizi wa wadau na mawasiliano",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-16-usimamizi-wa-wadau-na-mawasiliano/"
+    },
+    {
+     "number": "10.17",
+     "title": "Usimamizi wa mabadiliko ya shirika",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-17-usimamizi-wa-mabadiliko-ya-shirika/"
+    },
+    {
+     "number": "10.18",
+     "title": "Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu/"
     }
    ]
   }
