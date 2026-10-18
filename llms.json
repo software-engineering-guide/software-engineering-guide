@@ -22738,6 +22738,56 @@
      "number": "6.9",
      "title": "Uhandisi wa maagizo na usanifu wa muktadha",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha/"
+    },
+    {
+     "number": "7.0",
+     "title": "Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu/"
+    },
+    {
+     "number": "7.1",
+     "title": "Mkakati wa data na utawala",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-01-mkakati-wa-data-na-utawala/"
+    },
+    {
+     "number": "7.2",
+     "title": "Uhandisi wa data",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-02-uhandisi-wa-data/"
+    },
+    {
+     "number": "7.3",
+     "title": "Uchanganuzi na akili ya biashara",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-03-uchanganuzi-na-akili-ya-biashara/"
+    },
+    {
+     "number": "7.4",
+     "title": "Uchanganuzi wa bidhaa na majaribio",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-04-uchanganuzi-wa-bidhaa-na-majaribio/"
+    },
+    {
+     "number": "7.5",
+     "title": "Sayansi ya maamuzi na utamaduni wa data",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data/"
+    },
+    {
+     "number": "7.6",
+     "title": "Data ya wakati halisi na ya kutiririka",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-06-data-ya-wakati-halisi-na-ya-kutiririka/"
+    },
+    {
+     "number": "7.7",
+     "title": "Uundaji wa data na safu ya kisemantiki",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-07-uundaji-wa-data-na-safu-ya-kisemantiki/"
+    },
+    {
+     "number": "7.8",
+     "title": "Ubora wa data na uonekanaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-08-ubora-wa-data-na-uonekanaji/"
+    },
+    {
+     "number": "7.9",
+     "title": "Usimamizi wa data kuu na data ya rejeo",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo/"
     }
    ]
   }
