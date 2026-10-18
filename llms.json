@@ -22788,6 +22788,46 @@
      "number": "7.9",
      "title": "Usimamizi wa data kuu na data ya rejeo",
      "url": "https://software-engineering-guide.github.io/sw-001/mada/07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo/"
+    },
+    {
+     "number": "8.0",
+     "title": "Utangulizi wa Sehemu ya 8: Uotomatishaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD na utoaji",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-01-ci-cd-na-utoaji/"
+    },
+    {
+     "number": "8.2",
+     "title": "Miundombinu-kama-msimbo na usanidi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-02-miundombinu-kama-msimbo-na-usanidi/"
+    },
+    {
+     "number": "8.3",
+     "title": "Kontena, uratibu, na asili ya wingu",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-03-kontena-uratibu-na-asili-ya-wingu/"
+    },
+    {
+     "number": "8.4",
+     "title": "Uhandisi wa jukwaa na uzoefu wa msanidi",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi/"
+    },
+    {
+     "number": "8.5",
+     "title": "Uotomatishaji wa majaribio na mchakato",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-05-uotomatishaji-wa-majaribio-na-mchakato/"
+    },
+    {
+     "number": "8.6",
+     "title": "Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua/"
+    },
+    {
+     "number": "8.7",
+     "title": "Mifumo ya ujenzi na usimamizi wa mabaki",
+     "url": "https://software-engineering-guide.github.io/sw-001/mada/08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki/"
     }
    ]
   }
