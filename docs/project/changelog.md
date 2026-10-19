@@ -5,6 +5,11 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ## [Unreleased]
 
+### Added
+
+- Swahili (Tanzania) locale `sw-tz`, a copy of `sw-001`; per-locale `sitemap.xml`
+  for `ru-001` and `sw-001`; the missing `mada/.locale-peer-id` in `sw-001`.
+
 ### Removed
 
 - The Zensical build tooling (`zensical.toml`, `pyproject.toml`, `uv.lock`,
