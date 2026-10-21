@@ -24314,6 +24314,51 @@
      "number": "8.7",
      "title": "Hệ thống xây dựng và quản lý artifact",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-07-hệ-thống-xây-dựng-và-quản-lý-artifact/"
+    },
+    {
+     "number": "9.0",
+     "title": "Giới thiệu Phần 9: Vận hành, độ tin cậy và khả năng quan sát",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-00-vận-hành-và-độ-tin-cậy/"
+    },
+    {
+     "number": "9.1",
+     "title": "Kỹ thuật độ tin cậy hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-01-kỹ-thuật-độ-tin-cậy-hệ-thống/"
+    },
+    {
+     "number": "9.2",
+     "title": "Khả năng quan sát và đo từ xa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-02-khả-năng-quan-sát-và-đo-từ-xa/"
+    },
+    {
+     "number": "9.3",
+     "title": "Quản lý sự cố",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-03-quản-lý-sự-cố/"
+    },
+    {
+     "number": "9.4",
+     "title": "Chi phí, bền vững và phần mềm xanh",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-04-chi-phí-bền-vững-và-phần-mềm-xanh/"
+    },
+    {
+     "number": "9.5",
+     "title": "Khôi phục thảm họa và liên tục kinh doanh",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-05-khôi-phục-thảm-họa-và-liên-tục-kinh-doanh/"
+    },
+    {
+     "number": "9.6",
+     "title": "Kỹ thuật hỗn loạn và kiểm thử khả năng phục hồi",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-06-kỹ-thuật-hỗn-loạn-và-kiểm-thử-khả-năng-phục-hồi/"
+    },
+    {
+     "number": "9.7",
+     "title": "Hoạch định năng lực và dự báo nhu cầu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-07-hoạch-định-năng-lực-và-dự-báo-nhu-cầu/"
+    },
+    {
+     "number": "9.8",
+     "title": "Trực ca và sẵn sàng vận hành",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-08-trực-ca-và-sẵn-sàng-vận-hành/"
     }
    ]
   }
