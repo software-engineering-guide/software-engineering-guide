@@ -24274,6 +24274,46 @@
      "number": "7.9",
      "title": "Quản lý dữ liệu chủ và dữ liệu tham chiếu",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-09-quản-lý-dữ-liệu-chủ-và-dữ-liệu-tham-chiếu/"
+    },
+    {
+     "number": "8.0",
+     "title": "Giới thiệu Phần 8: Tự động hóa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-00-tự-động-hóa/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD và phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-01-ci-cd-và-phân-phối/"
+    },
+    {
+     "number": "8.2",
+     "title": "Hạ tầng dưới dạng mã và cấu hình",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-02-hạ-tầng-dưới-dạng-mã-và-cấu-hình/"
+    },
+    {
+     "number": "8.3",
+     "title": "Container, điều phối và cloud-native",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-03-container-điều-phối-và-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Kỹ thuật nền tảng và trải nghiệm lập trình viên",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-04-kỹ-thuật-nền-tảng-và-trải-nghiệm-lập-trình-viên/"
+    },
+    {
+     "number": "8.5",
+     "title": "Tự động hóa kiểm thử và quy trình",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-05-tự-động-hóa-kiểm-thử-và-quy-trình/"
+    },
+    {
+     "number": "8.6",
+     "title": "Quản lý phát hành và phân phối tăng dần",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-06-quản-lý-phát-hành-và-phân-phối-tăng-dần/"
+    },
+    {
+     "number": "8.7",
+     "title": "Hệ thống xây dựng và quản lý artifact",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/08-07-hệ-thống-xây-dựng-và-quản-lý-artifact/"
     }
    ]
   }
