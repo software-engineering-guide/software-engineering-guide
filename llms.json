@@ -24119,6 +24119,61 @@
      "number": "4.10",
      "title": "Kiểm thử xâm nhập và đội đỏ",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-10-kiểm-thử-xâm-nhập-và-đội-đỏ/"
+    },
+    {
+     "number": "5.0",
+     "title": "Giới thiệu Phần 5: Thiết kế UI/UX",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-00-thiết-kế-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Nền tảng UX",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-01-nền-tảng-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Thiết kế UI và hệ thống thiết kế",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-02-thiết-kế-ui-và-hệ-thống-thiết-kế/"
+    },
+    {
+     "number": "5.3",
+     "title": "Khả năng tiếp cận",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-03-khả-năng-tiếp-cận/"
+    },
+    {
+     "number": "5.4",
+     "title": "Thiết kế nội dung và truyền thông",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-04-thiết-kế-nội-dung-và-truyền-thông/"
+    },
+    {
+     "number": "5.5",
+     "title": "Quốc tế hóa và địa phương hóa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-05-quốc-tế-hóa-và-địa-phương-hóa/"
+    },
+    {
+     "number": "5.6",
+     "title": "Kỹ thuật giao diện người dùng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-06-kỹ-thuật-giao-diện-người-dùng/"
+    },
+    {
+     "number": "5.7",
+     "title": "Phát triển ứng dụng di động",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-07-phát-triển-ứng-dụng-di-động/"
+    },
+    {
+     "number": "5.8",
+     "title": "Nghiên cứu thiết kế và kiểm thử khả dụng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-08-nghiên-cứu-thiết-kế-và-kiểm-thử-khả-dụng/"
+    },
+    {
+     "number": "5.9",
+     "title": "Thiết kế dịch vụ",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-09-thiết-kế-dịch-vụ/"
+    },
+    {
+     "number": "5.10",
+     "title": "Thiết kế trực quan hóa dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-10-thiết-kế-trực-quan-hóa-dữ-liệu/"
     }
    ]
   }
