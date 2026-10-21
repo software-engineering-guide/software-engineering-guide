@@ -24064,6 +24064,61 @@
      "number": "3.17",
      "title": "Tìm kiếm và truy xuất thông tin",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-17-tìm-kiếm-và-truy-xuất-thông-tin/"
+    },
+    {
+     "number": "4.0",
+     "title": "Giới thiệu Phần 4: Bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-00-bảo-mật/"
+    },
+    {
+     "number": "4.1",
+     "title": "Nền tảng và văn hóa bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-01-nền-tảng-và-văn-hóa-bảo-mật/"
+    },
+    {
+     "number": "4.2",
+     "title": "Bảo mật ứng dụng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-02-bảo-mật-ứng-dụng/"
+    },
+    {
+     "number": "4.3",
+     "title": "Bảo mật hạ tầng và đám mây",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-03-bảo-mật-hạ-tầng-và-đám-mây/"
+    },
+    {
+     "number": "4.4",
+     "title": "Vận hành bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-04-vận-hành-bảo-mật/"
+    },
+    {
+     "number": "4.5",
+     "title": "Quyền riêng tư và bảo vệ dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-05-quyền-riêng-tư-và-bảo-vệ-dữ-liệu/"
+    },
+    {
+     "number": "4.6",
+     "title": "Tuân thủ và quản trị",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-06-tuân-thủ-và-quản-trị/"
+    },
+    {
+     "number": "4.7",
+     "title": "Quản lý danh tính và truy cập",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-07-quản-lý-danh-tính-và-truy-cập/"
+    },
+    {
+     "number": "4.8",
+     "title": "Mật mã học và quản lý khóa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-08-mật-mã-học-và-quản-lý-khóa/"
+    },
+    {
+     "number": "4.9",
+     "title": "Vòng đời phát triển phần mềm an toàn",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-09-vòng-đời-phát-triển-phần-mềm-an-toàn/"
+    },
+    {
+     "number": "4.10",
+     "title": "Kiểm thử xâm nhập và đội đỏ",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/04-10-kiểm-thử-xâm-nhập-và-đội-đỏ/"
     }
    ]
   }
