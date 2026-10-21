@@ -24454,6 +24454,41 @@
      "number": "10.18",
      "title": "Văn phòng chương trình mã nguồn mở (OSPO) và đóng góp ngược dòng",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-18-văn-phòng-chương-trình-mã-nguồn-mở-và-đóng-góp-ngược-dòng/"
+    },
+    {
+     "number": "11.0",
+     "title": "Giới thiệu Phần 11: Dòng chảy: Các quy trình khám phá và phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-00-dòng-chảy-khám-phá-và-phân-phối/"
+    },
+    {
+     "number": "11.1",
+     "title": "Quy trình khám phá",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-01-quy-trình-khám-phá/"
+    },
+    {
+     "number": "11.2",
+     "title": "Quy trình phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-02-quy-trình-phân-phối/"
+    },
+    {
+     "number": "11.3",
+     "title": "Lý thuyết hàng đợi",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-03-lý-thuyết-hàng-đợi/"
+    },
+    {
+     "number": "11.4",
+     "title": "Mục tiêu và kết quả then chốt (OKR)",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-04-mục-tiêu-và-kết-quả-then-chốt/"
+    },
+    {
+     "number": "11.5",
+     "title": "Chỉ số hiệu suất chính (KPI)",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-05-chỉ-số-hiệu-suất-chính/"
+    },
+    {
+     "number": "11.6",
+     "title": "Lập bản đồ dòng giá trị và chi phí trì hoãn",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/11-06-lập-bản-đồ-dòng-giá-trị-và-chi-phí-trì-hoãn/"
     }
    ]
   }
