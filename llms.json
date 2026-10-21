@@ -23788,6 +23788,84 @@
      "url": "https://software-engineering-guide.github.io/sw-tz/mada/12-07-faharasa-ya-mada/"
     }
    ]
+  },
+  {
+   "code": "vi-vn",
+   "label": "Tiếng Việt",
+   "home": "https://software-engineering-guide.github.io/vi-vn/",
+   "topicsSegment": "chủ-đề",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Giới thiệu Phần 1: Con người",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-00-con-người/"
+    },
+    {
+     "number": "1.1",
+     "title": "Giá trị của kỹ thuật phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-01-giá-trị-của-kỹ-thuật-phần-mềm/"
+    },
+    {
+     "number": "1.2",
+     "title": "Cấu trúc đội nhóm và thiết kế tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-02-cấu-trúc-đội-nhóm-và-thiết-kế-tổ-chức/"
+    },
+    {
+     "number": "1.3",
+     "title": "Vai trò, lộ trình nghề nghiệp và phát triển",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-03-vai-trò-lộ-trình-nghề-nghiệp-và-phát-triển/"
+    },
+    {
+     "number": "1.4",
+     "title": "Cách thức làm việc",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-04-cách-thức-làm-việc/"
+    },
+    {
+     "number": "1.5",
+     "title": "Ra quyết định và quản trị",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-05-ra-quyết-định-và-quản-trị/"
+    },
+    {
+     "number": "1.6",
+     "title": "Hồ sơ quyết định",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-06-hồ-sơ-quyết-định/"
+    },
+    {
+     "number": "1.7",
+     "title": "Tiêu chuẩn kỹ thuật và ngoại lệ",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-07-tiêu-chuẩn-kỹ-thuật-và-ngoại-lệ/"
+    },
+    {
+     "number": "1.8",
+     "title": "Tuyển dụng, phỏng vấn và hội nhập",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-08-tuyển-dụng-phỏng-vấn-và-hội-nhập/"
+    },
+    {
+     "number": "1.9",
+     "title": "Làm việc phân tán và từ xa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-09-làm-việc-phân-tán-và-từ-xa/"
+    },
+    {
+     "number": "1.10",
+     "title": "Hiệu quả kỹ thuật và năng suất lập trình viên",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-10-hiệu-quả-kỹ-thuật-và-năng-suất-lập-trình-viên/"
+    },
+    {
+     "number": "1.11",
+     "title": "Quản lý kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-11-quản-lý-kỹ-thuật/"
+    },
+    {
+     "number": "1.12",
+     "title": "Đa dạng, công bằng, hòa nhập và gắn kết",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-12-đa-dạng-công-bằng-hòa-nhập-và-gắn-kết/"
+    },
+    {
+     "number": "1.13",
+     "title": "Cố vấn, huấn luyện và chia sẻ kiến thức",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-13-cố-vấn-huấn-luyện-và-chia-sẻ-kiến-thức/"
+    }
+   ]
   }
  ]
 }
