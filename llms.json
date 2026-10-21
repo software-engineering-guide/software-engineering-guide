@@ -23864,6 +23864,116 @@
      "number": "1.13",
      "title": "Cố vấn, huấn luyện và chia sẻ kiến thức",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/01-13-cố-vấn-huấn-luyện-và-chia-sẻ-kiến-thức/"
+    },
+    {
+     "number": "2.0",
+     "title": "Giới thiệu Phần 2: Lập trình phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-00-lập-trình-phần-mềm/"
+    },
+    {
+     "number": "2.1",
+     "title": "Tiêu chuẩn và phong cách viết mã",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-01-tiêu-chuẩn-và-phong-cách-viết-mã/"
+    },
+    {
+     "number": "2.2",
+     "title": "Nguyên tắc thiết kế phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-02-nguyên-tắc-thiết-kế-phần-mềm/"
+    },
+    {
+     "number": "2.3",
+     "title": "API và thiết kế giao diện",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-03-api-và-thiết-kế-giao-diện/"
+    },
+    {
+     "number": "2.4",
+     "title": "Chiến lược kiểm thử",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-04-chiến-lược-kiểm-thử/"
+    },
+    {
+     "number": "2.5",
+     "title": "Đánh giá mã và cộng tác",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-05-đánh-giá-mã-và-cộng-tác/"
+    },
+    {
+     "number": "2.6",
+     "title": "Quản lý phiên bản và mã nguồn",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-06-quản-lý-phiên-bản-và-mã-nguồn/"
+    },
+    {
+     "number": "2.7",
+     "title": "Tài liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-07-tài-liệu/"
+    },
+    {
+     "number": "2.8",
+     "title": "Yêu cầu phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-08-yêu-cầu-phần-mềm/"
+    },
+    {
+     "number": "2.9",
+     "title": "Xây dựng phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-09-xây-dựng-phần-mềm/"
+    },
+    {
+     "number": "2.10",
+     "title": "Quản lý cấu hình phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-10-quản-lý-cấu-hình-phần-mềm/"
+    },
+    {
+     "number": "2.11",
+     "title": "Chất lượng phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-11-chất-lượng-phần-mềm/"
+    },
+    {
+     "number": "2.12",
+     "title": "Mô hình và phương pháp phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-12-mô-hình-và-phương-pháp-phần-mềm/"
+    },
+    {
+     "number": "2.13",
+     "title": "Nền tảng tin học, toán học và kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-13-nền-tảng-tin-học-toán-học-và-kỹ-thuật/"
+    },
+    {
+     "number": "2.14",
+     "title": "Cấu trúc dự án và kho mã",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-14-cấu-trúc-dự-án-và-kho-mã/"
+    },
+    {
+     "number": "2.15",
+     "title": "Gỡ lỗi và xử lý sự cố",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-15-gỡ-lỗi-và-xử-lý-sự-cố/"
+    },
+    {
+     "number": "2.16",
+     "title": "Kỹ thuật hiệu năng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-16-kỹ-thuật-hiệu-năng/"
+    },
+    {
+     "number": "2.17",
+     "title": "Đồng thời và song song",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-17-đồng-thời-và-song-song/"
+    },
+    {
+     "number": "2.18",
+     "title": "Quản lý phụ thuộc và chuỗi cung ứng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-18-quản-lý-phụ-thuộc-và-chuỗi-cung-ứng/"
+    },
+    {
+     "number": "2.19",
+     "title": "Tái cấu trúc và nợ kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-19-tái-cấu-trúc-và-nợ-kỹ-thuật/"
+    },
+    {
+     "number": "2.20",
+     "title": "Xử lý lỗi và mẫu thiết kế chịu lỗi",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-20-xử-lý-lỗi-và-mẫu-thiết-kế-chịu-lỗi/"
+    },
+    {
+     "number": "2.21",
+     "title": "Hệ thống kiểu và phân tích tĩnh",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-21-hệ-thống-kiểu-và-phân-tích-tĩnh/"
     }
    ]
   }
