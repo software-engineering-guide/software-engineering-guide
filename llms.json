@@ -24224,6 +24224,56 @@
      "number": "6.9",
      "title": "Kỹ thuật prompt và thiết kế ngữ cảnh",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-09-kỹ-thuật-prompt-và-thiết-kế-ngữ-cảnh/"
+    },
+    {
+     "number": "7.0",
+     "title": "Giới thiệu Phần 7: Dữ liệu, phân tích và hiểu biết",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-00-dữ-liệu-và-phân-tích/"
+    },
+    {
+     "number": "7.1",
+     "title": "Chiến lược và quản trị dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-01-chiến-lược-và-quản-trị-dữ-liệu/"
+    },
+    {
+     "number": "7.2",
+     "title": "Kỹ thuật dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-02-kỹ-thuật-dữ-liệu/"
+    },
+    {
+     "number": "7.3",
+     "title": "Phân tích và trí tuệ kinh doanh",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-03-phân-tích-và-trí-tuệ-kinh-doanh/"
+    },
+    {
+     "number": "7.4",
+     "title": "Phân tích sản phẩm và thử nghiệm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-04-phân-tích-sản-phẩm-và-thử-nghiệm/"
+    },
+    {
+     "number": "7.5",
+     "title": "Khoa học quyết định và văn hóa dựa trên dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-05-khoa-học-quyết-định-và-văn-hóa-dữ-liệu/"
+    },
+    {
+     "number": "7.6",
+     "title": "Dữ liệu thời gian thực và dữ liệu luồng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-06-dữ-liệu-thời-gian-thực-và-dữ-liệu-luồng/"
+    },
+    {
+     "number": "7.7",
+     "title": "Mô hình hóa dữ liệu và lớp ngữ nghĩa",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-07-mô-hình-hóa-dữ-liệu-và-lớp-ngữ-nghĩa/"
+    },
+    {
+     "number": "7.8",
+     "title": "Chất lượng và khả năng quan sát dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-08-chất-lượng-và-khả-năng-quan-sát-dữ-liệu/"
+    },
+    {
+     "number": "7.9",
+     "title": "Quản lý dữ liệu chủ và dữ liệu tham chiếu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/07-09-quản-lý-dữ-liệu-chủ-và-dữ-liệu-tham-chiếu/"
     }
    ]
   }
