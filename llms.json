@@ -23974,6 +23974,96 @@
      "number": "2.21",
      "title": "Hệ thống kiểu và phân tích tĩnh",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/02-21-hệ-thống-kiểu-và-phân-tích-tĩnh/"
+    },
+    {
+     "number": "3.0",
+     "title": "Giới thiệu Phần 3: Hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-00-hệ-thống/"
+    },
+    {
+     "number": "3.1",
+     "title": "Nền tảng kiến trúc",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-01-nền-tảng-kiến-trúc/"
+    },
+    {
+     "number": "3.2",
+     "title": "Phong cách và mẫu kiến trúc",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-02-phong-cách-và-mẫu-kiến-trúc/"
+    },
+    {
+     "number": "3.3",
+     "title": "Hệ thống phân tán",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-03-hệ-thống-phân-tán/"
+    },
+    {
+     "number": "3.4",
+     "title": "Kiến trúc và lưu trữ dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-04-kiến-trúc-và-lưu-trữ-dữ-liệu/"
+    },
+    {
+     "number": "3.5",
+     "title": "Khả năng mở rộng, hiệu năng và khả năng phục hồi",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-05-khả-năng-mở-rộng-hiệu-năng-và-khả-năng-phục-hồi/"
+    },
+    {
+     "number": "3.6",
+     "title": "Hiện đại hóa hệ thống cũ",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-06-hiện-đại-hóa-hệ-thống-cũ/"
+    },
+    {
+     "number": "3.7",
+     "title": "Bảo trì phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-07-bảo-trì-phần-mềm/"
+    },
+    {
+     "number": "3.8",
+     "title": "Khả năng tương tác và tiêu chuẩn mở",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-08-khả-năng-tương-tác-và-tiêu-chuẩn-mở/"
+    },
+    {
+     "number": "3.9",
+     "title": "Kỹ thuật hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-09-kỹ-thuật-hệ-thống/"
+    },
+    {
+     "number": "3.10",
+     "title": "Hệ thống nhúng và thời gian thực",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-10-hệ-thống-nhúng-và-thời-gian-thực/"
+    },
+    {
+     "number": "3.11",
+     "title": "Kiến trúc đám mây",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-11-kiến-trúc-đám-mây/"
+    },
+    {
+     "number": "3.12",
+     "title": "Kiến trúc hướng sự kiện và nhắn tin",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-12-kiến-trúc-hướng-sự-kiện-và-nhắn-tin/"
+    },
+    {
+     "number": "3.13",
+     "title": "Mạng và kết nối",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-13-mạng-và-kết-nối/"
+    },
+    {
+     "number": "3.14",
+     "title": "Đa người thuê và kiến trúc SaaS",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-14-đa-người-thuê-và-kiến-trúc-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Bộ nhớ đệm và phân phối nội dung",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-15-bộ-nhớ-đệm-và-phân-phối-nội-dung/"
+    },
+    {
+     "number": "3.16",
+     "title": "Cổng API và lưới dịch vụ",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-16-cổng-api-và-lưới-dịch-vụ/"
+    },
+    {
+     "number": "3.17",
+     "title": "Tìm kiếm và truy xuất thông tin",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/03-17-tìm-kiếm-và-truy-xuất-thông-tin/"
     }
    ]
   }
