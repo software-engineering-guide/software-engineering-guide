@@ -7,6 +7,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Locales `vi-vn` and `vi-001` (Vietnamese): all 147 chapters translated by hand, with Vietnamese
+  directory segments under `chủ-đề/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`, each with a `sitemap.xml`.
 - Swahili (Tanzania) locale `sw-tz`, a copy of `sw-001`; per-locale `sitemap.xml`
   for `ru-001` and `sw-001`; the missing `mada/.locale-peer-id` in `sw-001`.
 

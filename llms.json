@@ -24531,6 +24531,749 @@
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/12-07-chỉ-mục/"
     }
    ]
+  },
+  {
+   "code": "vi-001",
+   "label": "Tiếng Việt",
+   "home": "https://software-engineering-guide.github.io/vi-001/",
+   "topicsSegment": "chủ-đề",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Giới thiệu Phần 1: Con người",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-00-con-người/"
+    },
+    {
+     "number": "1.1",
+     "title": "Giá trị của kỹ thuật phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-01-giá-trị-của-kỹ-thuật-phần-mềm/"
+    },
+    {
+     "number": "1.2",
+     "title": "Cấu trúc đội nhóm và thiết kế tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-02-cấu-trúc-đội-nhóm-và-thiết-kế-tổ-chức/"
+    },
+    {
+     "number": "1.3",
+     "title": "Vai trò, lộ trình nghề nghiệp và phát triển",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-03-vai-trò-lộ-trình-nghề-nghiệp-và-phát-triển/"
+    },
+    {
+     "number": "1.4",
+     "title": "Cách thức làm việc",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-04-cách-thức-làm-việc/"
+    },
+    {
+     "number": "1.5",
+     "title": "Ra quyết định và quản trị",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-05-ra-quyết-định-và-quản-trị/"
+    },
+    {
+     "number": "1.6",
+     "title": "Hồ sơ quyết định",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-06-hồ-sơ-quyết-định/"
+    },
+    {
+     "number": "1.7",
+     "title": "Tiêu chuẩn kỹ thuật và ngoại lệ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-07-tiêu-chuẩn-kỹ-thuật-và-ngoại-lệ/"
+    },
+    {
+     "number": "1.8",
+     "title": "Tuyển dụng, phỏng vấn và hội nhập",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-08-tuyển-dụng-phỏng-vấn-và-hội-nhập/"
+    },
+    {
+     "number": "1.9",
+     "title": "Làm việc phân tán và từ xa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-09-làm-việc-phân-tán-và-từ-xa/"
+    },
+    {
+     "number": "1.10",
+     "title": "Hiệu quả kỹ thuật và năng suất lập trình viên",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-10-hiệu-quả-kỹ-thuật-và-năng-suất-lập-trình-viên/"
+    },
+    {
+     "number": "1.11",
+     "title": "Quản lý kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-11-quản-lý-kỹ-thuật/"
+    },
+    {
+     "number": "1.12",
+     "title": "Đa dạng, công bằng, hòa nhập và gắn kết",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-12-đa-dạng-công-bằng-hòa-nhập-và-gắn-kết/"
+    },
+    {
+     "number": "1.13",
+     "title": "Cố vấn, huấn luyện và chia sẻ kiến thức",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/01-13-cố-vấn-huấn-luyện-và-chia-sẻ-kiến-thức/"
+    },
+    {
+     "number": "2.0",
+     "title": "Giới thiệu Phần 2: Lập trình phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-00-lập-trình-phần-mềm/"
+    },
+    {
+     "number": "2.1",
+     "title": "Tiêu chuẩn và phong cách viết mã",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-01-tiêu-chuẩn-và-phong-cách-viết-mã/"
+    },
+    {
+     "number": "2.2",
+     "title": "Nguyên tắc thiết kế phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-02-nguyên-tắc-thiết-kế-phần-mềm/"
+    },
+    {
+     "number": "2.3",
+     "title": "API và thiết kế giao diện",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-03-api-và-thiết-kế-giao-diện/"
+    },
+    {
+     "number": "2.4",
+     "title": "Chiến lược kiểm thử",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-04-chiến-lược-kiểm-thử/"
+    },
+    {
+     "number": "2.5",
+     "title": "Đánh giá mã và cộng tác",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-05-đánh-giá-mã-và-cộng-tác/"
+    },
+    {
+     "number": "2.6",
+     "title": "Quản lý phiên bản và mã nguồn",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-06-quản-lý-phiên-bản-và-mã-nguồn/"
+    },
+    {
+     "number": "2.7",
+     "title": "Tài liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-07-tài-liệu/"
+    },
+    {
+     "number": "2.8",
+     "title": "Yêu cầu phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-08-yêu-cầu-phần-mềm/"
+    },
+    {
+     "number": "2.9",
+     "title": "Xây dựng phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-09-xây-dựng-phần-mềm/"
+    },
+    {
+     "number": "2.10",
+     "title": "Quản lý cấu hình phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-10-quản-lý-cấu-hình-phần-mềm/"
+    },
+    {
+     "number": "2.11",
+     "title": "Chất lượng phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-11-chất-lượng-phần-mềm/"
+    },
+    {
+     "number": "2.12",
+     "title": "Mô hình và phương pháp phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-12-mô-hình-và-phương-pháp-phần-mềm/"
+    },
+    {
+     "number": "2.13",
+     "title": "Nền tảng tin học, toán học và kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-13-nền-tảng-tin-học-toán-học-và-kỹ-thuật/"
+    },
+    {
+     "number": "2.14",
+     "title": "Cấu trúc dự án và kho mã",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-14-cấu-trúc-dự-án-và-kho-mã/"
+    },
+    {
+     "number": "2.15",
+     "title": "Gỡ lỗi và xử lý sự cố",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-15-gỡ-lỗi-và-xử-lý-sự-cố/"
+    },
+    {
+     "number": "2.16",
+     "title": "Kỹ thuật hiệu năng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-16-kỹ-thuật-hiệu-năng/"
+    },
+    {
+     "number": "2.17",
+     "title": "Đồng thời và song song",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-17-đồng-thời-và-song-song/"
+    },
+    {
+     "number": "2.18",
+     "title": "Quản lý phụ thuộc và chuỗi cung ứng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-18-quản-lý-phụ-thuộc-và-chuỗi-cung-ứng/"
+    },
+    {
+     "number": "2.19",
+     "title": "Tái cấu trúc và nợ kỹ thuật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-19-tái-cấu-trúc-và-nợ-kỹ-thuật/"
+    },
+    {
+     "number": "2.20",
+     "title": "Xử lý lỗi và mẫu thiết kế chịu lỗi",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-20-xử-lý-lỗi-và-mẫu-thiết-kế-chịu-lỗi/"
+    },
+    {
+     "number": "2.21",
+     "title": "Hệ thống kiểu và phân tích tĩnh",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/02-21-hệ-thống-kiểu-và-phân-tích-tĩnh/"
+    },
+    {
+     "number": "3.0",
+     "title": "Giới thiệu Phần 3: Hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-00-hệ-thống/"
+    },
+    {
+     "number": "3.1",
+     "title": "Nền tảng kiến trúc",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-01-nền-tảng-kiến-trúc/"
+    },
+    {
+     "number": "3.2",
+     "title": "Phong cách và mẫu kiến trúc",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-02-phong-cách-và-mẫu-kiến-trúc/"
+    },
+    {
+     "number": "3.3",
+     "title": "Hệ thống phân tán",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-03-hệ-thống-phân-tán/"
+    },
+    {
+     "number": "3.4",
+     "title": "Kiến trúc và lưu trữ dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-04-kiến-trúc-và-lưu-trữ-dữ-liệu/"
+    },
+    {
+     "number": "3.5",
+     "title": "Khả năng mở rộng, hiệu năng và khả năng phục hồi",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-05-khả-năng-mở-rộng-hiệu-năng-và-khả-năng-phục-hồi/"
+    },
+    {
+     "number": "3.6",
+     "title": "Hiện đại hóa hệ thống cũ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-06-hiện-đại-hóa-hệ-thống-cũ/"
+    },
+    {
+     "number": "3.7",
+     "title": "Bảo trì phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-07-bảo-trì-phần-mềm/"
+    },
+    {
+     "number": "3.8",
+     "title": "Khả năng tương tác và tiêu chuẩn mở",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-08-khả-năng-tương-tác-và-tiêu-chuẩn-mở/"
+    },
+    {
+     "number": "3.9",
+     "title": "Kỹ thuật hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-09-kỹ-thuật-hệ-thống/"
+    },
+    {
+     "number": "3.10",
+     "title": "Hệ thống nhúng và thời gian thực",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-10-hệ-thống-nhúng-và-thời-gian-thực/"
+    },
+    {
+     "number": "3.11",
+     "title": "Kiến trúc đám mây",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-11-kiến-trúc-đám-mây/"
+    },
+    {
+     "number": "3.12",
+     "title": "Kiến trúc hướng sự kiện và nhắn tin",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-12-kiến-trúc-hướng-sự-kiện-và-nhắn-tin/"
+    },
+    {
+     "number": "3.13",
+     "title": "Mạng và kết nối",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-13-mạng-và-kết-nối/"
+    },
+    {
+     "number": "3.14",
+     "title": "Đa người thuê và kiến trúc SaaS",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-14-đa-người-thuê-và-kiến-trúc-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Bộ nhớ đệm và phân phối nội dung",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-15-bộ-nhớ-đệm-và-phân-phối-nội-dung/"
+    },
+    {
+     "number": "3.16",
+     "title": "Cổng API và lưới dịch vụ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-16-cổng-api-và-lưới-dịch-vụ/"
+    },
+    {
+     "number": "3.17",
+     "title": "Tìm kiếm và truy xuất thông tin",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/03-17-tìm-kiếm-và-truy-xuất-thông-tin/"
+    },
+    {
+     "number": "4.0",
+     "title": "Giới thiệu Phần 4: Bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-00-bảo-mật/"
+    },
+    {
+     "number": "4.1",
+     "title": "Nền tảng và văn hóa bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-01-nền-tảng-và-văn-hóa-bảo-mật/"
+    },
+    {
+     "number": "4.2",
+     "title": "Bảo mật ứng dụng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-02-bảo-mật-ứng-dụng/"
+    },
+    {
+     "number": "4.3",
+     "title": "Bảo mật hạ tầng và đám mây",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-03-bảo-mật-hạ-tầng-và-đám-mây/"
+    },
+    {
+     "number": "4.4",
+     "title": "Vận hành bảo mật",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-04-vận-hành-bảo-mật/"
+    },
+    {
+     "number": "4.5",
+     "title": "Quyền riêng tư và bảo vệ dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-05-quyền-riêng-tư-và-bảo-vệ-dữ-liệu/"
+    },
+    {
+     "number": "4.6",
+     "title": "Tuân thủ và quản trị",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-06-tuân-thủ-và-quản-trị/"
+    },
+    {
+     "number": "4.7",
+     "title": "Quản lý danh tính và truy cập",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-07-quản-lý-danh-tính-và-truy-cập/"
+    },
+    {
+     "number": "4.8",
+     "title": "Mật mã học và quản lý khóa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-08-mật-mã-học-và-quản-lý-khóa/"
+    },
+    {
+     "number": "4.9",
+     "title": "Vòng đời phát triển phần mềm an toàn",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-09-vòng-đời-phát-triển-phần-mềm-an-toàn/"
+    },
+    {
+     "number": "4.10",
+     "title": "Kiểm thử xâm nhập và đội đỏ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/04-10-kiểm-thử-xâm-nhập-và-đội-đỏ/"
+    },
+    {
+     "number": "5.0",
+     "title": "Giới thiệu Phần 5: Thiết kế UI/UX",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-00-thiết-kế-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Nền tảng UX",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-01-nền-tảng-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Thiết kế UI và hệ thống thiết kế",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-02-thiết-kế-ui-và-hệ-thống-thiết-kế/"
+    },
+    {
+     "number": "5.3",
+     "title": "Khả năng tiếp cận",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-03-khả-năng-tiếp-cận/"
+    },
+    {
+     "number": "5.4",
+     "title": "Thiết kế nội dung và truyền thông",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-04-thiết-kế-nội-dung-và-truyền-thông/"
+    },
+    {
+     "number": "5.5",
+     "title": "Quốc tế hóa và địa phương hóa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-05-quốc-tế-hóa-và-địa-phương-hóa/"
+    },
+    {
+     "number": "5.6",
+     "title": "Kỹ thuật giao diện người dùng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-06-kỹ-thuật-giao-diện-người-dùng/"
+    },
+    {
+     "number": "5.7",
+     "title": "Phát triển ứng dụng di động",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-07-phát-triển-ứng-dụng-di-động/"
+    },
+    {
+     "number": "5.8",
+     "title": "Nghiên cứu thiết kế và kiểm thử khả dụng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-08-nghiên-cứu-thiết-kế-và-kiểm-thử-khả-dụng/"
+    },
+    {
+     "number": "5.9",
+     "title": "Thiết kế dịch vụ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-09-thiết-kế-dịch-vụ/"
+    },
+    {
+     "number": "5.10",
+     "title": "Thiết kế trực quan hóa dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/05-10-thiết-kế-trực-quan-hóa-dữ-liệu/"
+    },
+    {
+     "number": "6.0",
+     "title": "Giới thiệu Phần 6: Trí tuệ nhân tạo",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-00-trí-tuệ-nhân-tạo/"
+    },
+    {
+     "number": "6.1",
+     "title": "Chiến lược và mức độ sẵn sàng AI",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-01-chiến-lược-và-mức-độ-sẵn-sàng-ai/"
+    },
+    {
+     "number": "6.2",
+     "title": "Kỹ thuật học máy (MLOps)",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "AI sinh tạo và ứng dụng LLM",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-03-ai-tạo-sinh-và-ứng-dụng-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Phát triển phần mềm với sự hỗ trợ của AI",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-04-phát-triển-phần-mềm-với-sự-hỗ-trợ-của-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI có trách nhiệm và đáng tin cậy",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-05-ai-có-trách-nhiệm-và-đáng-tin-cậy/"
+    },
+    {
+     "number": "6.6",
+     "title": "Hạ tầng và vận hành AI",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-06-hạ-tầng-và-vận-hành-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Tác tử AI và hệ thống tác tử",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-07-tác-tử-ai-và-hệ-thống-tác-tử/"
+    },
+    {
+     "number": "6.8",
+     "title": "Đánh giá và kiểm thử AI",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-08-đánh-giá-và-kiểm-thử-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Kỹ thuật prompt và thiết kế ngữ cảnh",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/06-09-kỹ-thuật-prompt-và-thiết-kế-ngữ-cảnh/"
+    },
+    {
+     "number": "7.0",
+     "title": "Giới thiệu Phần 7: Dữ liệu, phân tích và hiểu biết",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-00-dữ-liệu-và-phân-tích/"
+    },
+    {
+     "number": "7.1",
+     "title": "Chiến lược và quản trị dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-01-chiến-lược-và-quản-trị-dữ-liệu/"
+    },
+    {
+     "number": "7.2",
+     "title": "Kỹ thuật dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-02-kỹ-thuật-dữ-liệu/"
+    },
+    {
+     "number": "7.3",
+     "title": "Phân tích và trí tuệ kinh doanh",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-03-phân-tích-và-trí-tuệ-kinh-doanh/"
+    },
+    {
+     "number": "7.4",
+     "title": "Phân tích sản phẩm và thử nghiệm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-04-phân-tích-sản-phẩm-và-thử-nghiệm/"
+    },
+    {
+     "number": "7.5",
+     "title": "Khoa học quyết định và văn hóa dựa trên dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-05-khoa-học-quyết-định-và-văn-hóa-dữ-liệu/"
+    },
+    {
+     "number": "7.6",
+     "title": "Dữ liệu thời gian thực và dữ liệu luồng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-06-dữ-liệu-thời-gian-thực-và-dữ-liệu-luồng/"
+    },
+    {
+     "number": "7.7",
+     "title": "Mô hình hóa dữ liệu và lớp ngữ nghĩa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-07-mô-hình-hóa-dữ-liệu-và-lớp-ngữ-nghĩa/"
+    },
+    {
+     "number": "7.8",
+     "title": "Chất lượng và khả năng quan sát dữ liệu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-08-chất-lượng-và-khả-năng-quan-sát-dữ-liệu/"
+    },
+    {
+     "number": "7.9",
+     "title": "Quản lý dữ liệu chủ và dữ liệu tham chiếu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/07-09-quản-lý-dữ-liệu-chủ-và-dữ-liệu-tham-chiếu/"
+    },
+    {
+     "number": "8.0",
+     "title": "Giới thiệu Phần 8: Tự động hóa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-00-tự-động-hóa/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD và phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-01-ci-cd-và-phân-phối/"
+    },
+    {
+     "number": "8.2",
+     "title": "Hạ tầng dưới dạng mã và cấu hình",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-02-hạ-tầng-dưới-dạng-mã-và-cấu-hình/"
+    },
+    {
+     "number": "8.3",
+     "title": "Container, điều phối và cloud-native",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-03-container-điều-phối-và-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Kỹ thuật nền tảng và trải nghiệm lập trình viên",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-04-kỹ-thuật-nền-tảng-và-trải-nghiệm-lập-trình-viên/"
+    },
+    {
+     "number": "8.5",
+     "title": "Tự động hóa kiểm thử và quy trình",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-05-tự-động-hóa-kiểm-thử-và-quy-trình/"
+    },
+    {
+     "number": "8.6",
+     "title": "Quản lý phát hành và phân phối tăng dần",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-06-quản-lý-phát-hành-và-phân-phối-tăng-dần/"
+    },
+    {
+     "number": "8.7",
+     "title": "Hệ thống xây dựng và quản lý artifact",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/08-07-hệ-thống-xây-dựng-và-quản-lý-artifact/"
+    },
+    {
+     "number": "9.0",
+     "title": "Giới thiệu Phần 9: Vận hành, độ tin cậy và khả năng quan sát",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-00-vận-hành-và-độ-tin-cậy/"
+    },
+    {
+     "number": "9.1",
+     "title": "Kỹ thuật độ tin cậy hệ thống",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-01-kỹ-thuật-độ-tin-cậy-hệ-thống/"
+    },
+    {
+     "number": "9.2",
+     "title": "Khả năng quan sát và đo từ xa",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-02-khả-năng-quan-sát-và-đo-từ-xa/"
+    },
+    {
+     "number": "9.3",
+     "title": "Quản lý sự cố",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-03-quản-lý-sự-cố/"
+    },
+    {
+     "number": "9.4",
+     "title": "Chi phí, bền vững và phần mềm xanh",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-04-chi-phí-bền-vững-và-phần-mềm-xanh/"
+    },
+    {
+     "number": "9.5",
+     "title": "Khôi phục thảm họa và liên tục kinh doanh",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-05-khôi-phục-thảm-họa-và-liên-tục-kinh-doanh/"
+    },
+    {
+     "number": "9.6",
+     "title": "Kỹ thuật hỗn loạn và kiểm thử khả năng phục hồi",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-06-kỹ-thuật-hỗn-loạn-và-kiểm-thử-khả-năng-phục-hồi/"
+    },
+    {
+     "number": "9.7",
+     "title": "Hoạch định năng lực và dự báo nhu cầu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-07-hoạch-định-năng-lực-và-dự-báo-nhu-cầu/"
+    },
+    {
+     "number": "9.8",
+     "title": "Trực ca và sẵn sàng vận hành",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/09-08-trực-ca-và-sẵn-sàng-vận-hành/"
+    },
+    {
+     "number": "10.0",
+     "title": "Giới thiệu Phần 10: Quản lý dự án, sản phẩm và chương trình",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-00-quản-lý-dự-án-sản-phẩm-và-chương-trình/"
+    },
+    {
+     "number": "10.1",
+     "title": "Quản lý danh mục và chương trình",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-01-quản-lý-danh-mục-và-chương-trình/"
+    },
+    {
+     "number": "10.2",
+     "title": "Rủi ro, kiểm toán và đảm bảo",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-02-rủi-ro-kiểm-toán-và-đảm-bảo/"
+    },
+    {
+     "number": "10.3",
+     "title": "Mua sắm, mã nguồn mở và cấp phép",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-03-mua-sắm-mã-nguồn-mở-và-cấp-phép/"
+    },
+    {
+     "number": "10.4",
+     "title": "Duy trì các hệ thống lớn và tồn tại lâu dài",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-04-duy-trì-các-hệ-thống-lớn-và-tồn-tại-lâu-dài/"
+    },
+    {
+     "number": "10.5",
+     "title": "Đạo đức, trách nhiệm giải trình và lợi ích công",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-05-đạo-đức-trách-nhiệm-giải-trình-và-lợi-ích-công/"
+    },
+    {
+     "number": "10.6",
+     "title": "Quản lý dự án",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-06-quản-lý-dự-án/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Mô hình trưởng thành",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-08-mô-hình-trưởng-thành/"
+    },
+    {
+     "number": "10.9",
+     "title": "Hợp tác đổi mới",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-09-hợp-tác-đổi-mới/"
+    },
+    {
+     "number": "10.10",
+     "title": "Kinh tế học kỹ thuật phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-10-kinh-tế-học-kỹ-thuật-phần-mềm/"
+    },
+    {
+     "number": "10.11",
+     "title": "Chủ quyền số",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-11-chủ-quyền-số/"
+    },
+    {
+     "number": "10.12",
+     "title": "Mã nguồn mở và mã nguồn đóng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-12-mã-nguồn-mở-và-mã-nguồn-đóng/"
+    },
+    {
+     "number": "10.13",
+     "title": "Hợp tác liên tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-13-hợp-tác-liên-tổ-chức/"
+    },
+    {
+     "number": "10.14",
+     "title": "Quản lý sản phẩm và khám phá",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-14-quản-lý-sản-phẩm-và-khám-phá/"
+    },
+    {
+     "number": "10.15",
+     "title": "Ước lượng và dự báo",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-15-ước-lượng-và-dự-báo/"
+    },
+    {
+     "number": "10.16",
+     "title": "Quản lý và giao tiếp với các bên liên quan",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-16-quản-lý-và-giao-tiếp-với-các-bên-liên-quan/"
+    },
+    {
+     "number": "10.17",
+     "title": "Quản lý thay đổi tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-17-quản-lý-thay-đổi-tổ-chức/"
+    },
+    {
+     "number": "10.18",
+     "title": "Văn phòng chương trình mã nguồn mở (OSPO) và đóng góp ngược dòng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/10-18-văn-phòng-chương-trình-mã-nguồn-mở-và-đóng-góp-ngược-dòng/"
+    },
+    {
+     "number": "11.0",
+     "title": "Giới thiệu Phần 11: Dòng chảy: Các quy trình khám phá và phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-00-dòng-chảy-khám-phá-và-phân-phối/"
+    },
+    {
+     "number": "11.1",
+     "title": "Quy trình khám phá",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-01-quy-trình-khám-phá/"
+    },
+    {
+     "number": "11.2",
+     "title": "Quy trình phân phối",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-02-quy-trình-phân-phối/"
+    },
+    {
+     "number": "11.3",
+     "title": "Lý thuyết hàng đợi",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-03-lý-thuyết-hàng-đợi/"
+    },
+    {
+     "number": "11.4",
+     "title": "Mục tiêu và kết quả then chốt (OKR)",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-04-mục-tiêu-và-kết-quả-then-chốt/"
+    },
+    {
+     "number": "11.5",
+     "title": "Chỉ số hiệu suất chính (KPI)",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-05-chỉ-số-hiệu-suất-chính/"
+    },
+    {
+     "number": "11.6",
+     "title": "Lập bản đồ dòng giá trị và chi phí trì hoãn",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/11-06-lập-bản-đồ-dòng-giá-trị-và-chi-phí-trì-hoãn/"
+    },
+    {
+     "number": "12.0",
+     "title": "Phụ lục",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-00-phụ-lục/"
+    },
+    {
+     "number": "12.1",
+     "title": "Thuật ngữ",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-01-thuật-ngữ/"
+    },
+    {
+     "number": "12.2",
+     "title": "Danh sách kiểm tra",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-02-danh-sách-kiểm-tra/"
+    },
+    {
+     "number": "12.3",
+     "title": "Mẫu biểu",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-03-mẫu-biểu/"
+    },
+    {
+     "number": "12.4",
+     "title": "Tự đánh giá mức độ trưởng thành",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-04-tự-đánh-giá-mức-độ-trưởng-thành/"
+    },
+    {
+     "number": "12.5",
+     "title": "Tài liệu tham khảo",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-05-tài-liệu-tham-khảo/"
+    },
+    {
+     "number": "12.6",
+     "title": "Lộ trình áp dụng",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-06-lộ-trình-áp-dụng/"
+    },
+    {
+     "number": "12.7",
+     "title": "Chỉ mục",
+     "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-07-chỉ-mục/"
+    }
+   ]
   }
  ]
 }

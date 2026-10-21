@@ -227,6 +227,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Kiswahili (sw-001)](https://software-engineering-guide.github.io/sw-001/)
 - [Kiswahili (sw-tz)](https://software-engineering-guide.github.io/sw-tz/)
 - [Tiếng Việt (vi-vn)](https://software-engineering-guide.github.io/vi-vn/)
+- [Tiếng Việt (vi-001)](https://software-engineering-guide.github.io/vi-001/)
 
 ## For contributors and agents
 
