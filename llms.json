@@ -24359,6 +24359,101 @@
      "number": "9.8",
      "title": "Trực ca và sẵn sàng vận hành",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/09-08-trực-ca-và-sẵn-sàng-vận-hành/"
+    },
+    {
+     "number": "10.0",
+     "title": "Giới thiệu Phần 10: Quản lý dự án, sản phẩm và chương trình",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-00-quản-lý-dự-án-sản-phẩm-và-chương-trình/"
+    },
+    {
+     "number": "10.1",
+     "title": "Quản lý danh mục và chương trình",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-01-quản-lý-danh-mục-và-chương-trình/"
+    },
+    {
+     "number": "10.2",
+     "title": "Rủi ro, kiểm toán và đảm bảo",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-02-rủi-ro-kiểm-toán-và-đảm-bảo/"
+    },
+    {
+     "number": "10.3",
+     "title": "Mua sắm, mã nguồn mở và cấp phép",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-03-mua-sắm-mã-nguồn-mở-và-cấp-phép/"
+    },
+    {
+     "number": "10.4",
+     "title": "Duy trì các hệ thống lớn và tồn tại lâu dài",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-04-duy-trì-các-hệ-thống-lớn-và-tồn-tại-lâu-dài/"
+    },
+    {
+     "number": "10.5",
+     "title": "Đạo đức, trách nhiệm giải trình và lợi ích công",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-05-đạo-đức-trách-nhiệm-giải-trình-và-lợi-ích-công/"
+    },
+    {
+     "number": "10.6",
+     "title": "Quản lý dự án",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-06-quản-lý-dự-án/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Mô hình trưởng thành",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-08-mô-hình-trưởng-thành/"
+    },
+    {
+     "number": "10.9",
+     "title": "Hợp tác đổi mới",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-09-hợp-tác-đổi-mới/"
+    },
+    {
+     "number": "10.10",
+     "title": "Kinh tế học kỹ thuật phần mềm",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-10-kinh-tế-học-kỹ-thuật-phần-mềm/"
+    },
+    {
+     "number": "10.11",
+     "title": "Chủ quyền số",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-11-chủ-quyền-số/"
+    },
+    {
+     "number": "10.12",
+     "title": "Mã nguồn mở và mã nguồn đóng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-12-mã-nguồn-mở-và-mã-nguồn-đóng/"
+    },
+    {
+     "number": "10.13",
+     "title": "Hợp tác liên tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-13-hợp-tác-liên-tổ-chức/"
+    },
+    {
+     "number": "10.14",
+     "title": "Quản lý sản phẩm và khám phá",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-14-quản-lý-sản-phẩm-và-khám-phá/"
+    },
+    {
+     "number": "10.15",
+     "title": "Ước lượng và dự báo",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-15-ước-lượng-và-dự-báo/"
+    },
+    {
+     "number": "10.16",
+     "title": "Quản lý và giao tiếp với các bên liên quan",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-16-quản-lý-và-giao-tiếp-với-các-bên-liên-quan/"
+    },
+    {
+     "number": "10.17",
+     "title": "Quản lý thay đổi tổ chức",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-17-quản-lý-thay-đổi-tổ-chức/"
+    },
+    {
+     "number": "10.18",
+     "title": "Văn phòng chương trình mã nguồn mở (OSPO) và đóng góp ngược dòng",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/10-18-văn-phòng-chương-trình-mã-nguồn-mở-và-đóng-góp-ngược-dòng/"
     }
    ]
   }
