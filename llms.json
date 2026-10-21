@@ -24174,6 +24174,56 @@
      "number": "5.10",
      "title": "Thiết kế trực quan hóa dữ liệu",
      "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/05-10-thiết-kế-trực-quan-hóa-dữ-liệu/"
+    },
+    {
+     "number": "6.0",
+     "title": "Giới thiệu Phần 6: Trí tuệ nhân tạo",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-00-trí-tuệ-nhân-tạo/"
+    },
+    {
+     "number": "6.1",
+     "title": "Chiến lược và mức độ sẵn sàng AI",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-01-chiến-lược-và-mức-độ-sẵn-sàng-ai/"
+    },
+    {
+     "number": "6.2",
+     "title": "Kỹ thuật học máy (MLOps)",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "AI sinh tạo và ứng dụng LLM",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-03-ai-tạo-sinh-và-ứng-dụng-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Phát triển phần mềm với sự hỗ trợ của AI",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-04-phát-triển-phần-mềm-với-sự-hỗ-trợ-của-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI có trách nhiệm và đáng tin cậy",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-05-ai-có-trách-nhiệm-và-đáng-tin-cậy/"
+    },
+    {
+     "number": "6.6",
+     "title": "Hạ tầng và vận hành AI",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-06-hạ-tầng-và-vận-hành-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Tác tử AI và hệ thống tác tử",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-07-tác-tử-ai-và-hệ-thống-tác-tử/"
+    },
+    {
+     "number": "6.8",
+     "title": "Đánh giá và kiểm thử AI",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-08-đánh-giá-và-kiểm-thử-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Kỹ thuật prompt và thiết kế ngữ cảnh",
+     "url": "https://software-engineering-guide.github.io/vi-vn/chủ-đề/06-09-kỹ-thuật-prompt-và-thiết-kế-ngữ-cảnh/"
     }
    ]
   }
