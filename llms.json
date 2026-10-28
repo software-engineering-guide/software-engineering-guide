@@ -11902,6 +11902,749 @@
    ]
   },
   {
+   "code": "id-id",
+   "label": "Bahasa Indonesia",
+   "home": "https://software-engineering-guide.github.io/id-id/",
+   "topicsSegment": "topik",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Pengantar Bagian 1: Manusia",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-00-manusia/"
+    },
+    {
+     "number": "1.1",
+     "title": "Nilai-nilai rekayasa perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-01-nilai-nilai-rekayasa-perangkat-lunak/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topologi tim dan desain organisasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-02-topologi-tim/"
+    },
+    {
+     "number": "1.3",
+     "title": "Peran, jenjang karier, dan pertumbuhan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-03-peran-jenjang-karier-dan-pertumbuhan/"
+    },
+    {
+     "number": "1.4",
+     "title": "Cara kerja",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-04-cara-kerja/"
+    },
+    {
+     "number": "1.5",
+     "title": "Pengambilan keputusan dan tata kelola",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-05-pengambilan-keputusan-dan-tata-kelola/"
+    },
+    {
+     "number": "1.6",
+     "title": "Catatan keputusan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-06-catatan-keputusan/"
+    },
+    {
+     "number": "1.7",
+     "title": "Standar rekayasa dan pengecualian",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-07-standar-rekayasa-dan-pengecualian/"
+    },
+    {
+     "number": "1.8",
+     "title": "Perekrutan, wawancara, dan orientasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-08-perekrutan-wawancara-dan-orientasi/"
+    },
+    {
+     "number": "1.9",
+     "title": "Kerja terdistribusi dan jarak jauh",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-09-kerja-terdistribusi-dan-jarak-jauh/"
+    },
+    {
+     "number": "1.10",
+     "title": "Efektivitas rekayasa dan produktivitas pengembang",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang/"
+    },
+    {
+     "number": "1.11",
+     "title": "Manajemen rekayasa",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-11-manajemen-rekayasa/"
+    },
+    {
+     "number": "1.12",
+     "title": "Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, coaching, dan berbagi pengetahuan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/01-13-mentoring-coaching-dan-berbagi-pengetahuan/"
+    },
+    {
+     "number": "2.0",
+     "title": "Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-00-pemrograman-perangkat-lunak/"
+    },
+    {
+     "number": "2.1",
+     "title": "Standar pengodean dan gaya",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-01-standar-pengodean-dan-gaya/"
+    },
+    {
+     "number": "2.2",
+     "title": "Prinsip desain perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-02-prinsip-desain-perangkat-lunak/"
+    },
+    {
+     "number": "2.3",
+     "title": "API dan desain antarmuka",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-03-api-dan-desain-antarmuka/"
+    },
+    {
+     "number": "2.4",
+     "title": "Strategi pengujian",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-04-strategi-pengujian/"
+    },
+    {
+     "number": "2.5",
+     "title": "Tinjauan kode dan kolaborasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-05-tinjauan-kode-dan-kolaborasi/"
+    },
+    {
+     "number": "2.6",
+     "title": "Kontrol versi dan manajemen sumber",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-06-kontrol-versi-dan-manajemen-sumber/"
+    },
+    {
+     "number": "2.7",
+     "title": "Dokumentasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-07-dokumentasi/"
+    },
+    {
+     "number": "2.8",
+     "title": "Persyaratan perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-08-persyaratan-perangkat-lunak/"
+    },
+    {
+     "number": "2.9",
+     "title": "Konstruksi perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-09-konstruksi-perangkat-lunak/"
+    },
+    {
+     "number": "2.10",
+     "title": "Manajemen konfigurasi perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-10-manajemen-konfigurasi-perangkat-lunak/"
+    },
+    {
+     "number": "2.11",
+     "title": "Kualitas perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-11-kualitas-perangkat-lunak/"
+    },
+    {
+     "number": "2.12",
+     "title": "Model dan metode perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-12-model-dan-metode-perangkat-lunak/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fondasi komputasi, matematika, dan rekayasa",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-13-fondasi-komputasi-matematika-dan-rekayasa/"
+    },
+    {
+     "number": "2.14",
+     "title": "Struktur proyek dan repositori",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-14-struktur-proyek-dan-repositori/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debugging dan pemecahan masalah",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-15-debugging-dan-pemecahan-masalah/"
+    },
+    {
+     "number": "2.16",
+     "title": "Rekayasa kinerja",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-16-rekayasa-kinerja/"
+    },
+    {
+     "number": "2.17",
+     "title": "Konkurensi dan paralelisme",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-17-konkurensi-dan-paralelisme/"
+    },
+    {
+     "number": "2.18",
+     "title": "Manajemen dependensi dan rantai pasok",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-18-manajemen-dependensi-dan-rantai-pasok/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refaktoring dan utang teknis",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-19-refaktoring-dan-utang-teknis/"
+    },
+    {
+     "number": "2.20",
+     "title": "Penanganan galat dan pola ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-20-penanganan-galat-dan-pola-ketahanan/"
+    },
+    {
+     "number": "2.21",
+     "title": "Sistem tipe dan analisis statis",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/02-21-sistem-tipe-dan-analisis-statis/"
+    },
+    {
+     "number": "3.0",
+     "title": "Pengantar Bagian 3: Sistem",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-00-sistem/"
+    },
+    {
+     "number": "3.1",
+     "title": "Dasar-dasar arsitektur",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-01-dasar-dasar-arsitektur/"
+    },
+    {
+     "number": "3.2",
+     "title": "Gaya dan pola arsitektural",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-02-gaya-dan-pola-arsitektural/"
+    },
+    {
+     "number": "3.3",
+     "title": "Sistem terdistribusi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-03-sistem-terdistribusi/"
+    },
+    {
+     "number": "3.4",
+     "title": "Arsitektur data dan penyimpanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-04-arsitektur-data-dan-penyimpanan/"
+    },
+    {
+     "number": "3.5",
+     "title": "Skalabilitas, kinerja, dan ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-05-skalabilitas-kinerja-dan-ketahanan/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernisasi sistem warisan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-06-modernisasi-sistem-warisan/"
+    },
+    {
+     "number": "3.7",
+     "title": "Pemeliharaan perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-07-pemeliharaan-perangkat-lunak/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilitas dan standar terbuka",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-08-interoperabilitas-dan-standar-terbuka/"
+    },
+    {
+     "number": "3.9",
+     "title": "Rekayasa sistem",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-09-rekayasa-sistem/"
+    },
+    {
+     "number": "3.10",
+     "title": "Sistem tertanam dan waktu nyata",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-10-sistem-tertanam-dan-waktu-nyata/"
+    },
+    {
+     "number": "3.11",
+     "title": "Arsitektur cloud",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-11-arsitektur-cloud/"
+    },
+    {
+     "number": "3.12",
+     "title": "Arsitektur berbasis peristiwa dan pesan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-12-arsitektur-berbasis-peristiwa-dan-pesan/"
+    },
+    {
+     "number": "3.13",
+     "title": "Jaringan dan konektivitas",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-13-jaringan-dan-konektivitas/"
+    },
+    {
+     "number": "3.14",
+     "title": "Arsitektur multitenansi dan SaaS",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-14-arsitektur-multitenansi-dan-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching dan pengiriman konten",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-15-caching-dan-pengiriman-konten/"
+    },
+    {
+     "number": "3.16",
+     "title": "API gateway dan service mesh",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-16-api-gateway-dan-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Pencarian dan temu balik informasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/03-17-pencarian-dan-temu-balik-informasi/"
+    },
+    {
+     "number": "4.0",
+     "title": "Pengantar Bagian 4: Keamanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-00-keamanan/"
+    },
+    {
+     "number": "4.1",
+     "title": "Fondasi dan budaya keamanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-01-fondasi-dan-budaya-keamanan/"
+    },
+    {
+     "number": "4.2",
+     "title": "Keamanan aplikasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-02-keamanan-aplikasi/"
+    },
+    {
+     "number": "4.3",
+     "title": "Keamanan infrastruktur dan cloud",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-03-keamanan-infrastruktur-dan-cloud/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operasi keamanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-04-operasi-keamanan/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privasi dan pelindungan data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-05-privasi-dan-pelindungan-data/"
+    },
+    {
+     "number": "4.6",
+     "title": "Kepatuhan dan tata kelola",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-06-kepatuhan-dan-tata-kelola/"
+    },
+    {
+     "number": "4.7",
+     "title": "Manajemen identitas dan akses",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-07-manajemen-identitas-dan-akses/"
+    },
+    {
+     "number": "4.8",
+     "title": "Kriptografi dan manajemen kunci",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-08-kriptografi-dan-manajemen-kunci/"
+    },
+    {
+     "number": "4.9",
+     "title": "Siklus hidup pengembangan perangkat lunak aman",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman/"
+    },
+    {
+     "number": "4.10",
+     "title": "Uji penetrasi dan red teaming",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/04-10-uji-penetrasi-dan-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Pengantar Bagian 5: Desain UI/UX",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-00-desain-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Fondasi UX",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-01-fondasi-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Desain UI dan sistem desain",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-02-desain-ui-dan-sistem-desain/"
+    },
+    {
+     "number": "5.3",
+     "title": "Aksesibilitas",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-03-aksesibilitas/"
+    },
+    {
+     "number": "5.4",
+     "title": "Desain konten dan komunikasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-04-desain-konten-dan-komunikasi/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internasionalisasi dan lokalisasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-05-internasionalisasi-dan-lokalisasi/"
+    },
+    {
+     "number": "5.6",
+     "title": "Rekayasa frontend",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-06-rekayasa-frontend/"
+    },
+    {
+     "number": "5.7",
+     "title": "Pengembangan aplikasi seluler",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-07-pengembangan-aplikasi-seluler/"
+    },
+    {
+     "number": "5.8",
+     "title": "Riset desain dan uji kegunaan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-08-riset-desain-dan-uji-kegunaan/"
+    },
+    {
+     "number": "5.9",
+     "title": "Desain layanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-09-desain-layanan/"
+    },
+    {
+     "number": "5.10",
+     "title": "Desain visualisasi data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/05-10-desain-visualisasi-data/"
+    },
+    {
+     "number": "6.0",
+     "title": "Pengantar Bagian 6: Kecerdasan buatan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-00-kecerdasan-buatan/"
+    },
+    {
+     "number": "6.1",
+     "title": "Strategi dan kesiapan AI",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-01-strategi-dan-kesiapan-ai/"
+    },
+    {
+     "number": "6.2",
+     "title": "Rekayasa pembelajaran mesin (MLOps)",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "AI generatif dan aplikasi LLM",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-03-ai-generatif-dan-aplikasi-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Pengembangan perangkat lunak berbantuan AI",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-04-pengembangan-perangkat-lunak-berbantuan-ai/"
+    },
+    {
+     "number": "6.5",
+     "title": "AI yang bertanggung jawab dan tepercaya",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-05-ai-yang-bertanggung-jawab-dan-tepercaya/"
+    },
+    {
+     "number": "6.6",
+     "title": "Infrastruktur dan operasi AI",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-06-infrastruktur-dan-operasi-ai/"
+    },
+    {
+     "number": "6.7",
+     "title": "Agen AI dan sistem agentik",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-07-agen-ai-dan-sistem-agentik/"
+    },
+    {
+     "number": "6.8",
+     "title": "Evaluasi dan pengujian AI",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-08-evaluasi-dan-pengujian-ai/"
+    },
+    {
+     "number": "6.9",
+     "title": "Rekayasa prompt dan desain konteks",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/06-09-rekayasa-prompt-dan-desain-konteks/"
+    },
+    {
+     "number": "7.0",
+     "title": "Pengantar Bagian 7: Data, analitik, dan wawasan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-00-data-dan-analitik/"
+    },
+    {
+     "number": "7.1",
+     "title": "Strategi dan tata kelola data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-01-strategi-dan-tata-kelola-data/"
+    },
+    {
+     "number": "7.2",
+     "title": "Rekayasa data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-02-rekayasa-data/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analitik dan business intelligence",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-03-analitik-dan-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Analitik produk dan eksperimen",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-04-analitik-produk-dan-eksperimen/"
+    },
+    {
+     "number": "7.5",
+     "title": "Ilmu keputusan dan budaya berbasis data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-05-ilmu-keputusan-dan-budaya-data/"
+    },
+    {
+     "number": "7.6",
+     "title": "Data real-time dan streaming",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-06-data-real-time-dan-streaming/"
+    },
+    {
+     "number": "7.7",
+     "title": "Pemodelan data dan lapisan semantik",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-07-pemodelan-data-dan-lapisan-semantik/"
+    },
+    {
+     "number": "7.8",
+     "title": "Kualitas dan observabilitas data",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-08-kualitas-dan-observabilitas-data/"
+    },
+    {
+     "number": "7.9",
+     "title": "Manajemen data induk dan data referensi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/07-09-manajemen-data-induk-dan-data-referensi/"
+    },
+    {
+     "number": "8.0",
+     "title": "Pengantar Bagian 8: Otomasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-00-otomasi/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD dan pengiriman",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-01-ci-cd-dan-pengiriman/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastructure as code dan konfigurasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-02-infrastructure-as-code-dan-konfigurasi/"
+    },
+    {
+     "number": "8.3",
+     "title": "Kontainer, orkestrasi, dan cloud-native",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-03-kontainer-orkestrasi-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Rekayasa platform dan pengalaman pengembang",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-04-rekayasa-platform-dan-devex/"
+    },
+    {
+     "number": "8.5",
+     "title": "Otomasi pengujian dan proses",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-05-otomasi-pengujian-dan-proses/"
+    },
+    {
+     "number": "8.6",
+     "title": "Manajemen rilis dan pengiriman progresif",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-06-manajemen-rilis-dan-pengiriman-progresif/"
+    },
+    {
+     "number": "8.7",
+     "title": "Sistem build dan manajemen artefak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/08-07-sistem-build-dan-manajemen-artefak/"
+    },
+    {
+     "number": "9.0",
+     "title": "Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-00-operasi-dan-keandalan/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Observabilitas dan telemetri",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-02-observabilitas-dan-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Manajemen insiden",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-03-manajemen-insiden/"
+    },
+    {
+     "number": "9.4",
+     "title": "Biaya, keberlanjutan, dan perangkat lunak hijau",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-04-biaya-keberlanjutan-perangkat-lunak-hijau/"
+    },
+    {
+     "number": "9.5",
+     "title": "Pemulihan bencana dan kesinambungan bisnis",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-05-pemulihan-bencana-dan-kesinambungan-bisnis/"
+    },
+    {
+     "number": "9.6",
+     "title": "Rekayasa chaos dan pengujian ketahanan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-06-rekayasa-chaos-dan-pengujian-ketahanan/"
+    },
+    {
+     "number": "9.7",
+     "title": "Perencanaan kapasitas dan peramalan permintaan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-07-perencanaan-kapasitas-dan-peramalan-permintaan/"
+    },
+    {
+     "number": "9.8",
+     "title": "On-call dan kesiapan operasional",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/09-08-on-call-dan-kesiapan-operasional/"
+    },
+    {
+     "number": "10.0",
+     "title": "Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-00-manajemen-proyek-produk-dan-program/"
+    },
+    {
+     "number": "10.1",
+     "title": "Manajemen portofolio dan program",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-01-manajemen-portofolio-dan-program/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risiko, audit, dan jaminan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-02-risiko-audit-dan-jaminan/"
+    },
+    {
+     "number": "10.3",
+     "title": "Pengadaan, sumber terbuka, dan lisensi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-03-pengadaan-sumber-terbuka-dan-lisensi/"
+    },
+    {
+     "number": "10.4",
+     "title": "Merawat sistem besar dan berumur panjang",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-04-merawat-sistem-besar-dan-berumur-panjang/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etika, akuntabilitas, dan kepentingan publik",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-05-etika-akuntabilitas-kepentingan-publik/"
+    },
+    {
+     "number": "10.6",
+     "title": "Manajemen proyek",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-06-manajemen-proyek/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Model kematangan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-08-model-kematangan/"
+    },
+    {
+     "number": "10.9",
+     "title": "Kemitraan inovasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-09-kemitraan-inovasi/"
+    },
+    {
+     "number": "10.10",
+     "title": "Ekonomi rekayasa perangkat lunak",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-10-ekonomi-rekayasa-perangkat-lunak/"
+    },
+    {
+     "number": "10.11",
+     "title": "Kedaulatan digital",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-11-kedaulatan-digital/"
+    },
+    {
+     "number": "10.12",
+     "title": "Sumber terbuka vs sumber tertutup",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-12-sumber-terbuka-vs-sumber-tertutup/"
+    },
+    {
+     "number": "10.13",
+     "title": "Kolaborasi antarorganisasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-13-kolaborasi-antarorganisasi/"
+    },
+    {
+     "number": "10.14",
+     "title": "Manajemen produk dan penemuan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-14-manajemen-produk-dan-penemuan/"
+    },
+    {
+     "number": "10.15",
+     "title": "Estimasi dan peramalan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-15-estimasi-dan-peramalan/"
+    },
+    {
+     "number": "10.16",
+     "title": "Manajemen pemangku kepentingan dan komunikasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-16-manajemen-pemangku-kepentingan-dan-komunikasi/"
+    },
+    {
+     "number": "10.17",
+     "title": "Manajemen perubahan organisasi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-17-manajemen-perubahan-organisasi/"
+    },
+    {
+     "number": "10.18",
+     "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/10-18-kantor-program-sumber-terbuka/"
+    },
+    {
+     "number": "11.0",
+     "title": "Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-00-aliran-penemuan-dan-penyampaian/"
+    },
+    {
+     "number": "11.1",
+     "title": "Jalur penemuan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-01-jalur-penemuan/"
+    },
+    {
+     "number": "11.2",
+     "title": "Jalur penyampaian",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-02-jalur-penyampaian/"
+    },
+    {
+     "number": "11.3",
+     "title": "Teori antrean",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-03-teori-antrean/"
+    },
+    {
+     "number": "11.4",
+     "title": "Objectives and key results (OKR)",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-04-sasaran-dan-hasil-kunci-okr/"
+    },
+    {
+     "number": "11.5",
+     "title": "Key performance indicator (KPI)",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-05-indikator-kinerja-utama-kpi/"
+    },
+    {
+     "number": "11.6",
+     "title": "Pemetaan aliran nilai dan biaya penundaan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan/"
+    },
+    {
+     "number": "12.0",
+     "title": "Lampiran",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-00-lampiran/"
+    },
+    {
+     "number": "12.1",
+     "title": "Glosarium",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-01-glosarium/"
+    },
+    {
+     "number": "12.2",
+     "title": "Daftar periksa",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-02-daftar-periksa/"
+    },
+    {
+     "number": "12.3",
+     "title": "Templat",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-03-templat/"
+    },
+    {
+     "number": "12.4",
+     "title": "Penilaian diri kematangan",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-04-penilaian-diri-kematangan/"
+    },
+    {
+     "number": "12.5",
+     "title": "Referensi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-05-referensi/"
+    },
+    {
+     "number": "12.6",
+     "title": "Peta jalan adopsi",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-06-peta-jalan-adopsi/"
+    },
+    {
+     "number": "12.7",
+     "title": "Indeks",
+     "url": "https://software-engineering-guide.github.io/id-id/topik/12-07-indeks/"
+    }
+   ]
+  },
+  {
    "code": "ja-jp",
    "label": "日本語",
    "home": "https://software-engineering-guide.github.io/ja-jp/",

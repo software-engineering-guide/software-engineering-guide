@@ -210,6 +210,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Cymraeg (cy-gb)](https://software-engineering-guide.github.io/cy-gb/)
 - [हिन्दी (hi-in)](https://software-engineering-guide.github.io/hi-in/)
 - [Bahasa Indonesia (id-001)](https://software-engineering-guide.github.io/id-001/)
+- [Bahasa Indonesia (id-id)](https://software-engineering-guide.github.io/id-id/)
 - [日本語 (ja-jp)](https://software-engineering-guide.github.io/ja-jp/)
 - [日本語 (ja-001)](https://software-engineering-guide.github.io/ja-001/)
 - [한국어 (ko-kr)](https://software-engineering-guide.github.io/ko-kr/)
