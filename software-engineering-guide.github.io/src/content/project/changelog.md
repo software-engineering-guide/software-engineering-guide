@@ -1,0 +1,234 @@
+# Changelog
+
+Notable changes to the guidebook and its tooling. The most recent entries are at
+the top. Dates use ISO 8601 (YYYY-MM-DD).
+
+## [Unreleased]
+
+### Added
+
+- Locales `vi-vn` and `vi-001` (Vietnamese): all 147 chapters translated by hand, with Vietnamese
+  directory segments under `chủ-đề/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`, each with a `sitemap.xml`.
+- Swahili (Tanzania) locale `sw-tz`, a copy of `sw-001`; per-locale `sitemap.xml`
+  for `ru-001` and `sw-001`; the missing `mada/.locale-peer-id` in `sw-001`.
+
+### Removed
+
+- The Zensical build tooling (`zensical.toml`, `pyproject.toml`, `uv.lock`,
+  `guide_xref/`, `SITE.md`, `.github/workflows/docs.yml`,
+  `spec/mkdocs-zensical/`, and `tests/test_xref.py`). This repository is now
+  the content and specification source of truth; rendering moved to the
+  separate `software-engineering-guide.github.io` repository.
+
+### Added
+
+- Locales `ar-001`, `cy-gb`, `hi-in`, and `de-001` (identical to `de-de`), with `cy-gb` and `hi-in`
+  registered in `locales.tsv`.
+- Locale `bn-001` (Bengali): all chapters translated by hand, with Bengali-script directory segments
+  under `বিষয়/` and matching `.locale-peer-id` files.
+- Locale `id-001` (Indonesian): all 147 chapters translated by hand, with Indonesian directory
+  segments under `topik/` and matching `.locale-peer-id` files.
+- Locales `ja-jp` and `ja-001` (Japanese): all 147 chapters translated by hand, with Japanese
+  directory segments under `トピック/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
+- Locales `ko-kr` and `ko-001` (Korean): all 147 chapters translated by hand, with Korean
+  directory segments under `주제/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
+- Locales `sv-se` and `sv-001` (Swedish): all 147 chapters translated by hand, with Swedish
+  directory segments under `ämnen/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
+- Locales `nl-nl` and `nl-001` (Dutch): all 147 chapters translated by hand, with Dutch
+  directory segments under `onderwerpen/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
+- Locales `is-is` and `is-001` (Icelandic): all 147 chapters translated by hand, with Icelandic
+  directory segments under `viðfangsefni/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`.
+- Locale `pt-001` (Portuguese): all 147 chapters translated by hand, with Portuguese
+  directory segments under `tópicos/` and matching `.locale-peer-id` files; registered in
+  `locales.tsv`.
+- Locale `ru-001` (Russian): all 147 chapters translated by hand, with Russian
+  directory segments under `темы/` and matching `.locale-peer-id` files; registered in
+  `locales.tsv`.
+- Locale `ur-001` (Urdu): all 147 chapters translated by hand, with Urdu-script directory
+  segments under `موضوعات/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
+- Locale `da-001` (Danish): all 147 chapters translated by hand, with Danish directory segments
+  under `emner/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
+- Locale `sw-001` (Swahili): all 147 chapters translated, with Swahili directory segments
+  under `mada/` and matching `.locale-peer-id` files; registered in `locales.tsv`.
+
+### Fixed
+
+- `de-de` was missing its root and `themen` `.locale-peer-id` files, `index.md`, and `README.md`.
+
+### Changed
+
+- Locale routes: `/` redirects to the locale matching the browser language (`navigator.languages`,
+  then `navigator.language`), then the language's international `-001` locale (`en-AU` goes to `/en-001/`), falling back to the default locale;
+  spec updated.
+- `AGENTS.md` is now a short index; details moved to `AGENTS/layout.md`, `style.md`,
+  `locales.md`, and `workflow.md` (each well under 40 KB).
+- Docs audit: replaced stale `docs/chapters/` paths and the "100 chapters" count (now 147) in
+  `AGENTS.md`, the contributing guides, `spec/`, and the skills with
+  `locales/en-us/topics/<slug>/index.md`; documented the `locales/` tree and `topics_slug`.
+- Locale directories: `locales/<code>/chapters/` is now `locales/<code>/<topics_slug>/`, with
+  the segment translated per locale (`topics`, `temas`, `themen`, `sujets`, `pynciau`, and so on)
+  from a new `topics_slug` column in `locales.tsv`. Site URLs use it too: `/<code>/<topics_slug>/<slug>/`. Remaining English chapter slugs and loanwords (agile, mlops,
+  index, and others) are translated in `cy-001`, `de-de`, `es-001`, and `fr-001`.
+
+- Contents spec: new `spec/contents-for-global-sharing-with-svelte/index.md` declares
+  the "Contents" label and `/contents/` route, and a nested list of parts and chapters
+  (no tiles, tables, columns, flexbox, or grid).
+
+- Locale routes: a two-letter language code is an alias of its world locale (`/en/`
+  renders `/en-001/`), with a canonical link to the `-001` URL.
+
+- Search spec: `/?<target>` stays on `/`; `/` redirects to the default locale on the
+  client only when there is no query, with a `<noscript>` meta refresh fallback.
+
+- Locale routes in the spec drop the `/locales/` path segment: a locale is served at
+  `/<code>/` (for example `/en-us/`), per `spec/locales-for-global-sharing-with-svelte/index.md`. `/about/` and
+  `/contents/` are localized too (`/<code>/about/`, `/<code>/contents/`); the
+  bare paths are removed.
+
+### Added
+
+- `zh-001` (Chinese, World) locale: all 147 topics, identical to `zh-cn`.
+- `sitemap.xml` at the repository root, generated by `tools/gen_sitemap.py` (`just sitemap`),
+  with hreflang alternates per topic and a freshness check in the test suite.
+- `llms.txt` and `llms.json` at the repository root, generated by `tools/gen_llms.py` (`just llms`),
+  with a freshness check in the test suite.
+- Translated chapter directory slugs for the `cy-001` (Welsh), `hi-001`
+  (Hindi), `zh-cn` (Chinese), and `es-001` (Spanish) locales under `locales/`,
+  replacing the English slugs with native-script/accented ones (numeric
+  prefix kept) per `spec/locales-for-global-sharing-with-svelte/index.md`.
+  Wrote the 11 chapters missing from `hi-001` (now complete at 147/147) and
+  finished one in-progress `es-001` chapter left as `index.md.wip`. `es-001`
+  still has 63 chapters awaiting translation; renamed only the 84 that exist.
+- Two Claude Code skills under `skills/`: `software-engineering-guide-skill`
+  for readers who want guidance grounded in the book, and
+  `software-engineering-guide-maintainer-skill` for maintainers of this
+  repository and the companion `software-engineering-guide.github.io` site.
+  Promoted from the README, the site's project page, and the site's own
+  README and home page.
+- A Claude Code SessionStart hook (`.claude/hooks/session-start.sh`) that
+  syncs dependencies and installs the pre-commit hooks when a session opens,
+  in the web sandbox and the CLI alike. The codespell pre-commit hook now
+  runs from the uv-managed dev dependencies instead of cloning GitHub, so
+  hook install and execution need no network access.
+- Tooling and enforcement gates (Phase 1 of `tasks.md`): a PR validation
+  workflow (`test.yml`) that runs the full check suite and site build without
+  deploying; five new validator checks (template section order, a 2,000-word
+  minimum for content chapters, H1 titles matched against `spec/structure.md`,
+  dangling prose cross-references, and an en-dash-only-in-numeric-ranges
+  policy); codespell with `just spell`; Vale with a `styles/Guide/` rule set
+  and `just lint` (errors block CI, warnings inform); a pre-commit
+  configuration; a weekly external link check (`links.yml`, lychee) that
+  reports into a single issue; and `tools/stats.py`, a Markdown stats report
+  behind `just stats`.
+- Ten more chapters, taking the book from 123 to 133: 1.11 Engineering
+  management; 1.12 Diversity, equity, inclusion, and belonging; 2.20 Error
+  handling and resilience patterns; 3.14 Multi-tenancy and SaaS architecture;
+  5.8 Design research and usability testing; 5.9 Service design; 6.8 AI
+  evaluation and testing; 10.16 Stakeholder management and communication; 10.17
+  Organizational change management; and 10.18 Open source program office (OSPO)
+  and upstream contribution.
+- Twelve more chapters, taking the book from 111 to 123: 2.17 Concurrency and
+  parallelism; 2.18 Dependency and supply-chain management; 2.19 Refactoring and
+  technical debt; 3.11 Cloud architecture; 3.12 Event-driven architecture and
+  messaging; 3.13 Networking and connectivity; 7.6 Real-time and streaming data;
+  7.7 Data modeling and the semantic layer; 7.8 Data quality and observability;
+  9.6 Chaos engineering and resilience testing; 10.14 Product management and
+  discovery; and 10.15 Estimation and forecasting.
+- Ten new chapters, taking the book from 100 to 111: 1.8 Hiring, interviewing,
+  and onboarding; 1.9 Distributed and remote work; 1.10 Engineering
+  effectiveness and developer productivity; 2.15 Debugging and troubleshooting;
+  2.16 Performance engineering; 4.7 Identity and access management; 4.8
+  Cryptography and key management; 6.7 AI agents and agentic systems; 8.6 Release
+  management and progressive delivery; and 9.5 Disaster recovery and business
+  continuity. Each follows the full chapter template.
+- A "Questions to discuss with your team" section to every content chapter,
+  placed before the examples, with three chapter-specific questions each backed
+  by a comprehensive paragraph of context (81 chapters). The section is now part
+  of the chapter template, the conventions spec, and the enforced test suite.
+- A published documentation site built with Zensical, configured in
+  `zensical.toml`, deployed to GitHub Pages by a GitHub Actions workflow, and
+  described in `SITE.md`. Dependencies are managed with uv and tasks run
+  through a `justfile` (which replaces the `Makefile`).
+- A dev container definition (`.devcontainer/`) with uv, just, and git-lfs for
+  building and serving the site.
+- Build-time auto-linking of chapter cross-references: the `guide_xref`
+  Markdown extension links plain-text references ("chapter 8.1", "(10.1)",
+  reference tables) to the matching chapter pages on the published site, with
+  tests in `tests/test_xref.py`; the generated subject index now links every
+  entry.
+- A startup example to every content chapter, placed before the enterprise and
+  government examples, so each topic is illustrated at early-stage as well as at
+  large-organization scale (81 chapters).
+- Repository infrastructure: `AGENTS.md` with per-task guides and shared snippets
+  under `AGENTS/`, a specification-driven `spec/` (structure, conventions,
+  roadmap), a validation suite in `tests/validate.py`, the navigation generator
+  moved into `tools/gen_nav.py`, a `Makefile`, `CONTRIBUTING.md`, `docs/`,
+  `examples/`, and this changelog.
+- `spec/structure.md`, the canonical chapter manifest that the tests check the
+  files against.
+
+### Changed
+
+- Renamed every chapter file to a zero-padded, dash-separated, sortable prefix,
+  `PP-CC-slug.md` (for example `01-00-people.md`, `08-01-ci-cd-and-delivery.md`),
+  so a plain lexical sort lists chapters in reading order. Chapter numbers in
+  prose, headings, and cross-references stay in the unpadded dotted form (`8.1`).
+  The convention is recorded in the spec, and the `gen_nav.py` and `validate.py`
+  parsers were updated accordingly.
+- Split the combined OKR/KPI chapter into two: 11.4 Objectives and key results
+  (OKRs) and 11.5 Key performance indicators (KPIs), each a standalone chapter.
+- Raised the target chapter length in the spec to roughly 3,000 words, deepening
+  recommendations, examples, and trade-offs rather than padding.
+- Moved the specification out of `docs/spec/` to the repository root at `spec/`,
+  making it the standalone source of truth for the book (chapters as Markdown)
+  rather than a published site section. Added `spec/mkdocs-zensical/index.md` as
+  the source of truth for the rendering side effects (site build, navigation,
+  deployment). The site navigation no longer lists a "Specification" section, and
+  the tests, `AGENTS.md`, `SITE.md`, `CONTRIBUTING.md`, and the contributor
+  guides now point at the repository-root `spec/`.
+- Adopted the upstream README title and introduction ("Software Engineering
+  Guide") in the generated navigation and the site name, and moved the project
+  logo to `docs/assets/logo.png` so the published site uses it as its logo and
+  favicon.
+- Restructured the repository for site publishing: the book now lives under
+  `docs/` (`docs/chapters/`, `docs/front-matter/`, `docs/spec/`,
+  `docs/examples/`), the contributor guides moved to `docs/contributing/`, and
+  the project documentation and this changelog moved to `docs/project/`.
+- Consolidated the two goals-and-metrics chapters (OKRs and KPIs) into a single
+  chapter, 11.4 "Objectives, key results, and key performance indicators," to
+  reach exactly 100 chapters with no loss of substance.
+- Updated the introduction's parts list so it reflects the chapters added after
+  it was first written (systems engineering, embedded and real-time systems,
+  interoperability, mobile, and OKRs and KPIs).
+- `spec/index.md` rewritten as a hand-authored specification entry point; it is
+  no longer overwritten by the navigation generator.
+
+### Fixed
+
+- Corrected three SWEBOK crosswalk entries that pointed to "2.3.1" instead of
+  chapter 2.13, and reworded four bare cross-references to the house-style
+  "chapter N.M" form.
+- Removed all em-dashes across the book and reworded the text so it reads
+  naturally, and removed stock LLM phrasing. Both are now enforced by the tests.
+
+## History
+
+The guidebook was built up in stages: an initial outline; full chapters across
+ten parts; a flow part for discovery and delivery pipelines; alignment with the
+SWEBOK body of knowledge; integration of ideas from public-sector engineering
+handbooks; a warmth-and-readability pass; comprehensive Wikipedia linking with
+link validation; and citation verification. It now stands at 12 parts and 100
+chapters, with front matter and appendices.
+
+## Conventions for this file
+
+- Group changes under **Added**, **Changed**, **Fixed**, **Removed**, or
+  **Deprecated**.
+- Keep entries short and specific. One line each where possible.
+- Do not use em-dashes here either; the tests check this file too.

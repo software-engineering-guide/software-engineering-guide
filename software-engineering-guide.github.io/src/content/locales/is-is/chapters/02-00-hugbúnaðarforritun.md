@@ -1,0 +1,40 @@
+# 2.0 Inngangur að 2. hluta: Hugbúnaðarforritun
+
+Annar hluti fjallar um daglegt handverk við að skrifa hugbúnað sem margir geta lesið, breytt og treyst yfir langa ævi. Fyrsti hluti lagði grunninn að því hvernig teymi skipuleggja sig og taka ákvarðanir. Þessi hluti snýr sér að kóðanum sjálfum: venjunum sem þú fylgir, hvernig þú mótar hönnun og viðmót, hvernig þú prófar og rýnir vinnu þína, hvernig þú stýrir frumkóðasögu og hvernig þú skrifar hlutina niður. Þetta eru vinnubrögðin sem skilja að kóðagrunn sem hraðar afhendingu frá einum sem berst við hverja breytingu.
+
+Í stóru teymi er handverk ekki smekksatriði. Það er hvernig þú samhæfir. Þegar hundruð eða þúsundir verkfræðinga, verktaka og arftaka snerta sömu kerfin eru sameiginlegar venjur og skýrir samningar það sem lætur alla vinna samhliða án stöðugra árekstra. Mundu að kóði er lesinn miklu oftar en hann er skrifaður, og mikið af þeim lestri gerist árum síðar, af fólki sem þú munt aldrei hitta.
+
+Í fyrirtækja- og opinberu umhverfi hækka hagsmunirnir enn frekar. Kerfi lifa venjulega höfunda sína um áratug eða meira. Reglusetning og úttekt krefjast skjalfestra sannana um stjórn. Þekking þarf að flytjast yfir starfsmannaveltu og samningsmörk. Kaflarnir hér líta því á gæði ekki sem hetjudáð heldur sem verkfræðilegan, að mestu sjálfvirkan eiginleika þess hvernig allt teymið vinnur.
+
+## Kaflar í þessum hluta
+
+- **2.1 Kóðunarstaðlar og stíll:** Sameiginlegar, sjálfvirkt framfylgdar venjur um nafngiftir, snið og málvenjur sem láta marga höfunda skrifa eins og einn vandvirkur höfundur hefði skrifað það, svo rýnar eyði athygli sinni í hönnun frekar en stíl.
+- **2.2 Hönnunarreglur hugbúnaðar:** Þumalfingursreglur eins og [SOLID](https://en.wikipedia.org/wiki/SOLID) (fimm hlutbundnar hönnunarreglur), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (ekki endurtaka sjálfan þig), tengsl og samloðun og [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design) (að móta hugbúnað á tungumáli viðskiptasviðsins), meðhöndlaðar sem verkfæri með gildissvið og þekkta bilunarhætti frekar en lög til að hlýða.
+- **2.3 Forritaskil og viðmótshönnun:** Að hanna samningana sem kerfi og teymi mætast í, svo sjálfstæð teymi geti breytt innviðum sínum án þess að brjóta neytendur eða þvinga fram samstillta uppsetningu.
+- **2.4 Prófunarstefna:** Yfirveguð val um hvað á að prófa, á hvaða stigi og með hvaða öryggi, til að byggja hratt og traust öryggisnet sem lætur stóra skipulagsheild setja upp oft og örugglega.
+- **2.5 Kóðarýni og samvinna:** Að skoða breytingar áður en þær sameinast til að grípa galla, dreifa þekkingu, framfylgja stöðlum og fullnægja regluvörsluviðmiðum, á meðan rýni er haldið hraðri og uppbyggilegri frekar en sýndarlegri.
+- **2.6 Útgáfustýring og frumkóðastjórnun:** Kerfið sem skráir sérhverja breytingu, og greinar-, safn- og commit-agann sem heldur aðallínunni útgáfuhæfri, sögunni læsilegri og úttektarslóðinni óskertri.
+- **2.7 Skjölun:** Skrifleg þekking, frá byrjendaleiðbeiningum til keyrsluhandbóka (skref-fyrir-skref rekstrarferla) og ákvörðunarannála, sem ver gegn lykilmannaáhættu, hraðar móttöku og flytur skilning yfir ár og samningsmörk.
+- **2.8 Hugbúnaðarkröfur:** Að draga fram, tilgreina, staðfesta og stýra því sem hugbúnaðurinn verður að gera og hversu vel, með rekjanleikanum sem eftirlitsskyld og opinber vinna krefst.
+- **2.9 Hugbúnaðarsmíði:** Handverkið við að smíða virkan hugbúnað: að lágmarka flækju, smíða fyrir sannprófun og breytingar, varnarforritun og agaða endurnýtingu.
+- **2.10 Stillingarstjórnun hugbúnaðar:** Að auðkenna, stýra og úttekta sérhvert stillingaratriði (hvaða afurð sem er þar sem útgáfur þarf að rekja og stýra) og breytingu, svo útgáfur séu endurgeranlegar og úttektarslóðin óskert.
+- **2.11 Hugbúnaðargæði:** Gæði sem stýrður eiginleiki víðtækari en prófanir: gæðalíkön, trygging á móti eftirliti, mæling, gallastjórnun og kostnaður gæða.
+- **2.12 Líkön og aðferðir hugbúnaðar:** Hvenær og hvernig á að móta, sem nær yfir byggingarleg og hegðunarleg líkön, [formlegar aðferðir](https://en.wikipedia.org/wiki/Formal_methods) (stærðfræðilega byggðar tilgreiningar og sannprófanir), frumgerðir og [lipur aðferðafræði](https://en.wikipedia.org/wiki/Agile_software_development), og hvenær mótun er sóun.
+- **2.13 Grunnur í tölvunarfræði, stærðfræði og verkfræði:** Varanlegu undirstöðuatriðin undir iðkuninni: [reiknirit](https://en.wikipedia.org/wiki/Algorithm) og [gagnagerðir](https://en.wikipedia.org/wiki/Data_structure), rökfræði og líkindi og reynsluverkfræðiaðferðin.
+- **2.14 Verkefna- og hugbúnaðarsafnsuppbygging:** Samræmdar venjur um skipulag lausnar og hugbúnaðarsafns hennar, með stöðluðum möppum, README sem innganga og sameiginlegri stillingu, svo hver verkfræðingur geti ratað um hvaða kóðagrunn sem er.
+
+- **2.15 Villuleit og bilanagreining:** Að finna og laga galla sem agaða, kennanlega iðkun við að endurskapa, einangra með tvíundarleit, mynda og prófa tilgátur og fanga hverja lagfæringu sem aðhvarfspróf, frekar en ágiskanir og haglabyssubreytingar.
+- **2.16 Afkastaverkfræði:** Að gera hugbúnað nógu hraðan af ásetningi með því að setja afkastafjárhagsáætlanir, mæla og greina áður en fínstilling hefst, skilja reikniritakostnað og halalatens og verjast afturförum, allt á kóða- og íhlutastigi.
+
+- **2.17 Samtími og hliðrun:** Að skrifa réttan samhliða kóða með því að sjálfgefa óbreytileika og skilaboðasendingar, skilja kappakstursástand, kyrrstöðu og sýnileika minnis, velja rétta samstillingu og hærri stigs líkön og prófa óákvarðbundna hegðun af ásetningi.
+- **2.18 Stjórnun ósjálfstæðis og aðfangakeðju:** Að stýra þriðja aðila kóðanum sem myndar mestan hluta nútímakerfis með útgáfuaga og lásskrám, stöðugum uppfærslutakti, lágmarks og sannreyndu ósjálfstæðisfótspori og herkomu og hugbúnaðarefnisskrá fyrir áreiðanlega aðfangakeðju.
+- **2.19 Endurbygging og tæknileg skuld:** Að bæta innri hönnun virks kóða að baki traustu prófasafni, þekkja kóðalykt og beita litlum nefndum endurbyggingum, nota kyrkingarfíkjuna fyrir stærri breytingar og stýra tæknilegri skuld sem sýnilegu, fjármögnuðu eignasafni frekar en siðferðisbrest.
+
+- **2.20 Villumeðhöndlun og seigluminstur:** Að ákveða af ásetningi hvernig kóði bilar og jafnar sig, með skýrum villusamningum, hraðbilunar- og öruggbilunarvalum, endurtekningum með undanhaldi og eins-áhrifum, rofum og mjúkri skerðingu og að gleypa aldrei villu hljóðlega.
+- **2.21 Tagakerfi og kyrrstæð greining:** Að grípa heila flokka galla áður en kóðinn keyrir, með kyrrstæðri og stigvaxandi tagun sem gerir ólögleg ástönd óframsetjanleg og lint-tólum, tagaprófurum og greinendum tengdum við ritilinn og leiðsluna.
+
+## Hvernig þessir kaflar tengjast
+
+Þráður 2. hluta er breytanleiki í stórum stíl. Sérhver venja hér er til að láta marga breyta sameiginlegu, langlífu kerfi af öryggi. Kóðunarstaðlar (2.1) og hönnunarreglur (2.2) móta kóðann svo þú getir skilið hann og breytt honum. Viðmótshönnun (2.3) dregur mörkin sem láta teymi breyta innviðum sínum sjálfstætt. [Prófanir](https://en.wikipedia.org/wiki/Software_testing) (2.4) veita öryggisnetið sem gerir breytingar öruggar. [Kóðarýni](https://en.wikipedia.org/wiki/Code_review) (2.5) er þar sem einstaklingsvinna mætir sameiginlegu eignarhaldi og þar sem stöðlum er í raun framfylgt. [Útgáfustýring](https://en.wikipedia.org/wiki/Version_control) (2.6) er grunnurinn sem rýni, samþætting og úttekt hvíla allt á. Og skjölun (2.7) varðveitir ásetninginn að baki öllu þessu fyrir fólkið sem kemur síðar.
+
+Þessir kaflar næra líka restina af handbókinni. Viðmótin og hönnunarreglurnar hér verða byggingareiningar kerfanna í 3. hluta, sérstaklega grunnatriði arkitektúrs (kafli 3.1). Prófunarstefna (2.4) og útgáfustýring (2.6) eru hráefnið fyrir sjálfvirkar afhendingarleiðslur í kafla 8.1. Skjölunarvenjur (2.7) tengjast beint keyrsluhandbókum og sýnileika rekstrar, svo sem kafla 9.2. Og allur hlutinn byggir á gildum og ákvarðanatökugrunni sem lagður var í 1. hluta, og breytir sameiginlegum meginreglum í áþreifanlegt dagleg handverk.

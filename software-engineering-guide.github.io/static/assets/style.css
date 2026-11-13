@@ -1,0 +1,1102 @@
+/* Software Engineering Guide — site stylesheet
+ *
+ * Built on the Lily Design System palette and class-hook conventions
+ * (see https://lilydesignsystem.com/) plus book-specific additions for
+ * the sidebar, breadcrumbs, and chapter pager. Pages are served static
+ * from GitHub Pages; no CSS is shipped by Lily itself, so this file is
+ * the design.
+ */
+
+:root {
+  /* Aliased to the Lily theme picker's own custom properties (defined by
+   * whichever /themes/<slug>.css the picker has loaded, scoped to :root),
+   * each with the original light-theme value as a fallback so the page
+   * still looks right before client JS hydrates and picks a theme, or if
+   * a theme file fails to load. Without this indirection, the theme
+   * picker changed data-theme and loaded a stylesheet that nothing on the
+   * page actually read, so picking a theme had no visible effect. */
+  --lily-primary: var(--color-primary, #2563eb);
+  --lily-primary-hover: color-mix(in oklch, var(--color-primary, #2563eb), black 15%);
+  --lily-danger: var(--color-error, #dc2626);
+  --lily-warning: var(--color-warning, #f59e0b);
+  --lily-success: var(--color-success, #16a34a);
+  --lily-page-bg: var(--color-base-100, #f9fafb);
+  --lily-card-bg: var(--color-base-200, #ffffff);
+  --lily-text: var(--color-base-content, #111827);
+  --lily-text-muted: color-mix(in oklch, var(--color-base-content, #4b5563) 75%, var(--color-base-100, white));
+  --lily-text-subtle: color-mix(in oklch, var(--color-base-content, #6b7280) 55%, var(--color-base-100, white));
+  --lily-border: var(--color-base-300, #e5e7eb);
+  --lily-border-strong: color-mix(in oklch, var(--color-base-300, #d1d5db), var(--color-base-content, black) 15%);
+  --lily-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.04);
+  --lily-shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+  --lily-radius: var(--radius-field, 0.5rem);
+  --lily-radius-lg: var(--radius-box, 0.75rem);
+  --lily-content-max: 78rem;
+  --lily-prose-max: 42rem;
+  --lily-sidebar-width: 18rem;
+  --lily-font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --lily-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--lily-font-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--lily-text);
+  background: var(--lily-page-bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--lily-primary);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+a:hover { color: var(--lily-primary-hover); }
+a:focus-visible {
+  outline: 3px solid var(--lily-primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 2rem 0 1rem;
+}
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.875rem; }
+h3 { font-size: 1.375rem; }
+h4 { font-size: 1.125rem; }
+
+p { margin: 0 0 1rem; }
+
+code, pre {
+  font-family: var(--lily-font-mono);
+  font-size: 0.9em;
+}
+code {
+  background: #eef2ff;
+  color: #312e81;
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+pre {
+  background: #0f172a;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: var(--lily-radius);
+  overflow-x: auto;
+  line-height: 1.5;
+}
+pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.5rem 1.25rem;
+  border-left: 4px solid var(--lily-border-strong);
+  color: var(--lily-text-muted);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+th, td {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--lily-border);
+}
+th { font-weight: 700; color: var(--lily-text); }
+
+kbd {
+  font-family: var(--lily-font-mono);
+  font-size: 0.85em;
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border-strong);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+}
+
+/* Header & navigation */
+
+.site-header {
+  background: var(--lily-card-bg);
+  border-bottom: 1px solid var(--lily-border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  box-shadow: var(--lily-shadow);
+}
+
+.site-header-inner {
+  max-width: var(--lily-content-max);
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--lily-text);
+  text-decoration: none;
+}
+.site-brand:hover { color: var(--lily-primary); }
+.site-brand-mark { width: 1.75rem; height: 1.75rem; display: inline-block; vertical-align: middle; }
+
+.site-nav {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+.site-nav a {
+  color: var(--lily-text-muted);
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--lily-radius);
+  font-size: 0.95rem;
+  transition: background 150ms;
+}
+.site-nav a:hover { background: var(--lily-border); color: var(--lily-text); }
+.site-nav a[aria-current="page"] {
+  color: var(--lily-primary);
+  font-weight: 600;
+  background: #eef2ff;
+}
+
+/* Picker bar (link, search, theme, locale, text size, share) */
+/*
+ * The lily picker components are headless: they ship no CSS. Two things
+ * are our responsibility per their docs (docs/styling.md in each
+ * package): center the row of trigger buttons on the surrounding nav
+ * text, and give each popup listbox absolute positioning so opening it
+ * doesn't shove the rest of the page down (the un-positioned <ul> would
+ * otherwise render in normal document flow).
+ */
+.site-picker-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.theme-picker,
+.locale-picker,
+.text-size-picker,
+.share-picker,
+.search-picker,
+.link-picker {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.theme-picker-button,
+.locale-picker-button,
+.text-size-picker-button,
+.share-picker-button,
+.search-picker-button,
+.link-picker-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  /* The Lily themes give every picker button min-width/min-height 2.5rem;
+   * without these the explicit size above loses to them. */
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  padding: 0;
+  /* A visible resting-state border, not just a hover background, so
+   * these read as buttons rather than bare floating icons. */
+  border: 1px solid var(--lily-border-strong);
+  border-radius: var(--lily-radius);
+  background: transparent;
+  color: var(--lily-text-muted);
+  cursor: pointer;
+  line-height: 1;
+  transition: background 150ms, color 150ms, border-color 150ms;
+}
+.theme-picker-button:hover,
+.locale-picker-button:hover,
+.text-size-picker-button:hover,
+.share-picker-button:hover,
+.search-picker-button:hover,
+.link-picker-button:hover { background: var(--lily-border); color: var(--lily-text); }
+.theme-picker-button[aria-expanded="true"],
+.locale-picker-button[aria-expanded="true"],
+.text-size-picker-button[aria-expanded="true"],
+.share-picker-button[aria-expanded="true"],
+.search-picker-button[aria-expanded="true"],
+.link-picker-button[aria-expanded="true"] {
+  background: var(--lily-border);
+  color: var(--lily-text);
+  border-color: var(--lily-primary);
+}
+/* Explicit and self-sufficient rather than relying on the Lily theme's
+ * own [class$="-button"]:focus-visible rule (static/themes/*.css), which
+ * only applies once a theme stylesheet has actually loaded. */
+.theme-picker-button:focus-visible,
+.locale-picker-button:focus-visible,
+.text-size-picker-button:focus-visible,
+.share-picker-button:focus-visible,
+.search-picker-button:focus-visible,
+.link-picker-button:focus-visible {
+  outline: 3px solid var(--lily-primary);
+  outline-offset: 2px;
+}
+
+/* Search picker: a button that opens a panel holding the search field and its
+ * submit button in a row. Its panel and field are styled here, as the site's
+ * own look, over the Lily theme's generic picker rules. */
+.search-picker-icon { width: 1.05rem; height: 1.05rem; }
+.search-picker-panel {
+  position: absolute;
+  z-index: 60;
+  inset-block-start: calc(100% + 0.35rem);
+  inset-inline-end: 0;
+  padding: 0.35rem;
+  background: var(--lily-surface-alt, Canvas);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+.search-picker-panel[hidden],
+.search-picker-tooltip[hidden] { display: none; }
+.search-picker-form { display: flex; gap: 0.35rem; align-items: center; }
+.search-picker-input {
+  min-inline-size: 14rem;
+  block-size: 2.25rem;
+  padding: 0 0.6rem;
+  font: inherit;
+  color: inherit;
+  background: transparent;
+  border: 1px solid var(--lily-border-strong);
+  border-radius: var(--lily-radius);
+}
+.search-picker-submit {
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  color: var(--lily-text-muted);
+  background: transparent;
+  border: 1px solid var(--lily-border-strong);
+  border-radius: var(--lily-radius);
+  cursor: pointer;
+}
+
+/* Narrow screens (40rem and below): the search field opens over the row of
+ * picker buttons, full width inside the header, with its submit button, so it
+ * covers neither the nav links nor the content. The other pickers are hidden
+ * only while searching. Plain class selectors are enough to override the
+ * panel's desktop positioning above. Right-to-left pages use the same rule. */
+@media (max-width: 40rem) {
+  .site-picker-bar { position: relative; }
+  .search-picker { position: static; }
+  .search-picker-panel {
+    inset-block: 0;
+    inset-inline: 0;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    background: var(--lily-surface-alt, Canvas);
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .search-picker-panel[hidden] { display: none; }
+  .search-picker-form { inline-size: 100%; }
+  .search-picker-input { flex: 1; min-inline-size: 0; }
+  .site-picker-bar:has(.search-picker-button[aria-expanded="true"]) > :not(.search-picker) { visibility: hidden; }
+
+  /* Popup lists open from the picker row's start edge instead of their own
+   * button's end edge: the first buttons sit at the left, so an end-anchored
+   * list (256px to 358px wide) would run off the left of the screen. Their
+   * positioned ancestor becomes the row. */
+  .theme-picker,
+  .locale-picker,
+  .text-size-picker,
+  .share-picker,
+  .link-picker { position: static; }
+}
+
+/*
+ * Theme/locale/text-size share one internal "Listbox" primitive. Its 0.1.1
+ * release (used by an unfixed svelte-headless "^0.1.0" resolution) had a bug
+ * where it rendered a generic class="listbox" and put the per-picker name in
+ * a non-standard `baseclass` attribute instead of applying it to `class` —
+ * worked around here by also targeting the shared ".listbox" class. Fixed
+ * upstream in svelte-headless 0.2.0 (this site now pins
+ * svelte-{locale,theme,text-size,share}-picker to 0.1.2, which depends on
+ * it correctly — see scripts/fix-lily-picker-resolution.mjs for why a pin
+ * alone isn't sufficient), so the proper "*-picker-list" classes their docs
+ * describe as class hooks now work too. Both are kept, and happily
+ * redundant once every consumer is on a fixed version.
+ */
+.listbox,
+.theme-picker-list,
+.locale-picker-list,
+.text-size-picker-list,
+.share-picker-list,
+.link-picker-list {
+  position: absolute;
+  z-index: 60;
+  inset-block-start: 100%;
+  inset-inline-end: 0;
+  /*
+   * Every theme's own CSS (static/themes/*.css, shared listbox rule) sets
+   * inset-inline-start: 0 on these same classes. Combined with our
+   * inset-inline-end: 0 above, that pins the box to both edges of its
+   * positioning container — the trigger button, ~40px wide. With both
+   * inline insets fixed, `width: auto` is over-constrained and resolves
+   * geometrically to that ~40px, ignoring content entirely, before
+   * min-inline-size below even gets a say — clipping every option whose
+   * label is wider than that floor (worst offenders: the long "United
+   * Kingdom National Health Service ... For Practitioners"-style theme
+   * names). Cancelling the theme's inset-inline-start switches this back
+   * to the single-inset case, but that case sizes via shrink-to-fit against
+   * the *containing block's* available width (still ~40px), not the
+   * viewport — so on its own it collapses right back to the same floor.
+   */
+  inset-inline-start: auto;
+  /*
+   * Even with the theme's inset-inline-start cancelled above, the
+   * single-inset case still sizes width via shrink-to-fit against the
+   * *containing block's* available width — the trigger button, ~40px wide,
+   * not the viewport — so an unconstrained `width: auto` collapses back
+   * toward min-content (confirmed: ~130px, close to the widest single word
+   * in the longest theme name) regardless of how much room the viewport
+   * actually has.
+   *
+   * `inline-size: max-content` (a bare keyword — always well-supported)
+   * fixes that: it forces the box to its natural, un-wrapped content width
+   * regardless of the containing block. `max-inline-size` then caps how
+   * far that is allowed to grow on a narrow viewport. Two things this
+   * cannot be written as, both confirmed empirically rather than merely
+   * suspected: (1) `inline-size: fit-content(min(28rem, calc(100vw -
+   * 2rem)))` — a min()/calc() *argument* to fit-content() makes the whole
+   * declaration invalid in this stack, silently dropping it back to the
+   * shrink-to-fit collapse above; (2) `min-inline-size: max-content` (or
+   * `min(max-content, <cap>)`, which is equally invalid for mixing a
+   * keyword into a math function) paired with a capped max-inline-size —
+   * min-width beats max-width whenever min > max, so on a narrow viewport
+   * the min side wins and the cap is silently defeated (confirmed: the box
+   * rendered ~140px off the left edge of a 375px-wide screen). Using plain
+   * `inline-size` for the "grow to content" half sidesteps that precedence
+   * rule entirely, because there is then no competing min-inline-size for
+   * max-inline-size to lose to — min-inline-size: 0 below exists purely to
+   * cancel the theme's own `min-width: max-content`, which would otherwise
+   * reintroduce exactly that trap.
+   */
+  min-inline-size: 0;
+  inline-size: max-content;
+  max-inline-size: min(34rem, calc(100vw - 2rem));
+  margin: 0.25rem 0 0;
+  padding: 0.25rem;
+  list-style: none;
+  max-block-size: 20rem;
+  overflow-y: auto;
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius-lg);
+  box-shadow: var(--lily-shadow-lg);
+}
+.listbox[hidden],
+.theme-picker-list[hidden],
+.locale-picker-list[hidden],
+.text-size-picker-list[hidden],
+.link-picker-list[hidden],
+.link-picker-tooltip[hidden],
+.share-picker-list[hidden] {
+  display: none;
+}
+
+.theme-picker-option,
+.locale-picker-option,
+.text-size-picker-option {
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--lily-radius);
+  font-size: 0.9rem;
+  /* Was nowrap: the list's max-inline-size cap (above) exists precisely so
+   * a long label doesn't push the box off-screen on a narrow viewport, so
+   * an option that still doesn't fit must wrap onto a second line rather
+   * than get clipped — nowrap would silently cut it off again. */
+  white-space: normal;
+  cursor: pointer;
+}
+.theme-picker-option:hover,
+.locale-picker-option:hover,
+.text-size-picker-option:hover,
+.theme-picker-option[data-active],
+.locale-picker-option[data-active],
+.text-size-picker-option[data-active] {
+  background: var(--lily-border);
+}
+.theme-picker-option[aria-selected="true"],
+.locale-picker-option[aria-selected="true"],
+.text-size-picker-option[aria-selected="true"] {
+  color: var(--lily-primary);
+  font-weight: 600;
+}
+
+.share-picker-list-item { list-style: none; }
+.share-picker-target,
+.share-picker-copy {
+  display: block;
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  border: none;
+  border-radius: var(--lily-radius);
+  background: none;
+  color: inherit;
+  text-decoration: none;
+  font: inherit;
+  text-align: start;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.share-picker-target:hover,
+.share-picker-copy:hover {
+  background: var(--lily-border);
+}
+.share-picker-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Main content */
+
+.site-main {
+  max-width: var(--lily-content-max);
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.site-main.has-sidebar {
+  display: grid;
+  grid-template-columns: var(--lily-sidebar-width) minmax(0, 1fr);
+  gap: 3rem;
+  align-items: start;
+}
+
+.prose { max-width: var(--lily-prose-max); }
+.prose ul, .prose ol { padding-left: 1.5rem; }
+.prose li { margin-bottom: 0.25rem; }
+.prose img { max-width: 100%; height: auto; border-radius: var(--lily-radius); }
+
+/* Hero */
+
+.hero {
+  /* Every Lily reference theme (static/themes/*.css) styles ".hero" as
+   * its own filled-banner component (background-color: var(--color
+   * -primary), a solid, often-saturated brand color) — a real class-name
+   * collision with this page's own hero section, and the reason it was
+   * rendering with a dark, low-contrast background behind the (also
+   * blue) gradient headline. This section's look is this site's own
+   * design, not meant to reskin with the header's theme picker, so
+   * override every property the theme's ":where(.hero)" rule sets. Zero
+   * specificity there means any plain ".hero" rule already wins for
+   * properties it declares — the bug was only in what this rule left
+   * unset.
+   */
+  background: none;
+  color: inherit;
+  border-radius: 0;
+  text-align: center;
+  padding: 2.5rem 1rem 1rem;
+  max-width: 48rem;
+  margin: 0 auto;
+}
+.hero .stat-row {
+  margin: 1.5rem 0 0;
+  gap: 1rem;
+}
+.hero-eyebrow {
+  display: inline-block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--lily-primary);
+  background: #eef2ff;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  margin-bottom: 1rem;
+}
+.hero h1 {
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  margin: 0.5rem 0 1rem;
+  color: var(--lily-primary);
+}
+.hero-tagline {
+  font-size: 1.25rem;
+  color: var(--lily-text-muted);
+  margin: 0 auto 2rem;
+  max-width: 40rem;
+}
+
+/* Buttons */
+
+.button {
+  display: inline-block;
+  font: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--lily-radius);
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all 150ms;
+  line-height: 1.2;
+}
+.button-primary {
+  background: var(--lily-primary);
+  color: #fff;
+  border-color: var(--lily-primary);
+}
+.button-primary:hover {
+  background: var(--lily-primary-hover);
+  border-color: var(--lily-primary-hover);
+  color: #fff;
+}
+.button-secondary {
+  background: var(--lily-card-bg);
+  color: var(--lily-primary);
+  border-color: var(--lily-primary);
+}
+.button-secondary:hover {
+  background: #eef2ff;
+}
+
+.button-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+/* Card grids */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.card {
+  /* Collides with the Lily theme's own ".card" component; explicit
+   * `color` closes the one property its zero-specificity rule would
+   * otherwise still set here. */
+  color: var(--lily-text);
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius-lg);
+  padding: 1.5rem;
+  box-shadow: var(--lily-shadow);
+  transition: transform 150ms, box-shadow 150ms;
+}
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--lily-shadow-lg);
+}
+.card-heading {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+}
+.card-description {
+  margin: 0 0 1rem;
+  color: var(--lily-text-muted);
+}
+.card-meta {
+  font-size: 0.875rem;
+  color: var(--lily-text-subtle);
+  margin: 0;
+}
+
+a.card { color: inherit; text-decoration: none; }
+a.card:hover { color: inherit; }
+
+/* Locale list */
+
+.locale-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1.5rem;
+  list-style: none;
+  margin: 2rem 0;
+  padding: 0;
+}
+.locale-list a {
+  font-weight: 600;
+}
+.locale-partial {
+  color: var(--lily-text-subtle);
+  font-size: 0.875rem;
+  margin-inline-start: 0.25rem;
+}
+
+.locale-notice {
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius-lg);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0 2rem;
+  font-size: 0.9375rem;
+}
+
+/* Sections */
+
+.section {
+  margin: 4rem 0;
+}
+.section-heading {
+  /* Collides with the Lily theme's ".headline, .hero-headline,
+   * .section-heading" typography rule (color/font-family/font-weight/
+   * line-height via theme-only variables); pin this site's own values
+   * so heading typography doesn't shift with the theme picker. */
+  color: var(--lily-text);
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.section-heading-eyebrow {
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--lily-primary);
+  margin: 0 0 0.5rem;
+}
+.section-heading h2 {
+  margin: 0;
+}
+
+/* Stat row */
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+.stat {
+  padding: 1rem;
+}
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--lily-primary);
+  line-height: 1;
+  margin: 0;
+}
+.stat-label {
+  font-size: 0.95rem;
+  color: var(--lily-text-muted);
+  margin: 0.5rem 0 0;
+}
+
+/* Footer */
+
+.site-footer {
+  background: var(--lily-card-bg);
+  border-top: 1px solid var(--lily-border);
+  margin-top: 4rem;
+  padding: 2rem 1.5rem;
+}
+.site-footer-inner {
+  max-width: var(--lily-content-max);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+  color: var(--lily-text-muted);
+}
+.site-footer p { margin: 0; }
+.site-footer-links { display: flex; gap: 1rem; flex-wrap: wrap; }
+
+/* Tag list (chips for categories) */
+
+.tag-list {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+.tag {
+  /* Collides with the Lily theme's own ".tag" component (a neutral-
+   * colored pill); this site's tags are its own blue-tinted design, so
+   * override every property the theme's zero-specificity rule sets. */
+  display: inline-block;
+  font-size: 0.8125rem;
+  background: #eef2ff;
+  color: var(--lily-primary);
+  padding: 0.25rem 0.75rem;
+  border: none;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+
+/* Detail/summary FAQ */
+
+details.faq-item {
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.75rem;
+}
+details.faq-item[open] { border-color: var(--lily-primary); }
+details.faq-item summary { cursor: pointer; font-weight: 600; list-style: none; }
+details.faq-item summary::-webkit-details-marker { display: none; }
+details.faq-item summary::after {
+  content: "+";
+  float: right;
+  font-size: 1.25rem;
+  color: var(--lily-primary);
+  font-weight: 400;
+}
+details.faq-item[open] summary::after { content: "−"; }
+details.faq-item p { margin-top: 0.75rem; }
+
+/* Skip link */
+
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 1rem;
+  background: var(--lily-primary);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  z-index: 100;
+  transition: top 150ms;
+}
+.skip-link:focus { top: 1rem; color: #fff; }
+
+/* Banner */
+
+.callout {
+  background: #eef2ff;
+  border-left: 4px solid var(--lily-primary);
+  padding: 1rem 1.25rem;
+  border-radius: 0 var(--lily-radius) var(--lily-radius) 0;
+  margin: 1.5rem 0;
+}
+.callout-warning { background: #fff7ed; border-left-color: var(--lily-warning); }
+.callout-success { background: #f0fdf4; border-left-color: var(--lily-success); }
+
+/* ---------------------------------------------------------------------- */
+/* Book-specific: sidebar navigation                                      */
+/* ---------------------------------------------------------------------- */
+
+.sidebar {
+  /* Collides with the Lily theme's ".sidebar" panel component
+   * (background-color/padding/border-radius via theme-only variables);
+   * this is a borderless in-flow nav column, not a boxed panel. */
+  background: none;
+  border-radius: 0;
+  position: sticky;
+  top: 5.5rem;
+  max-height: calc(100vh - 7rem);
+  overflow-y: auto;
+  font-size: 0.9rem;
+  padding: 0 0.5rem 0 0;
+}
+.sidebar-search {
+  display: block;
+  width: 100%;
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 0.5rem 0.75rem;
+  border: 2px solid var(--lily-border-strong);
+  border-radius: var(--lily-radius);
+  margin-bottom: 1rem;
+  background: var(--lily-card-bg);
+}
+.sidebar-search:focus { outline: none; border-color: var(--lily-primary); }
+
+.sidebar-part {
+  border: none;
+  margin-bottom: 0.25rem;
+}
+.sidebar-part summary {
+  cursor: pointer;
+  list-style: none;
+  font-weight: 700;
+  padding: 0.4rem 0.5rem;
+  border-radius: var(--lily-radius);
+  color: var(--lily-text);
+}
+.sidebar-part summary::-webkit-details-marker { display: none; }
+.sidebar-part summary:hover { background: var(--lily-border); }
+.sidebar-part summary .part-number {
+  display: inline-block;
+  min-width: 1.5rem;
+  color: var(--lily-primary);
+}
+
+.sidebar-chapter-list {
+  list-style: none;
+  margin: 0.15rem 0 0.75rem;
+  padding: 0 0 0 0.5rem;
+  border-left: 2px solid var(--lily-border);
+}
+.sidebar-chapter-list li { margin: 0; }
+.sidebar-chapter-list a {
+  display: block;
+  padding: 0.3rem 0.6rem;
+  border-radius: var(--lily-radius);
+  color: var(--lily-text-muted);
+  text-decoration: none;
+  line-height: 1.35;
+}
+.sidebar-chapter-list a:hover { background: var(--lily-border); color: var(--lily-text); }
+.sidebar-chapter-list a[aria-current="page"] {
+  background: #eef2ff;
+  color: var(--lily-primary);
+  font-weight: 600;
+}
+.sidebar-chapter-list .decimal { color: var(--lily-text-subtle); margin-right: 0.35em; font-variant-numeric: tabular-nums; }
+.sidebar-part[data-current="true"] summary { color: var(--lily-primary); }
+
+/* Book-specific: breadcrumb, chapter meta, pager */
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  font-size: 0.875rem;
+  color: var(--lily-text-subtle);
+  margin-bottom: 1rem;
+}
+.breadcrumb a { color: var(--lily-text-subtle); text-decoration: none; }
+.breadcrumb a:hover { color: var(--lily-primary); text-decoration: underline; }
+.breadcrumb .sep { color: var(--lily-border-strong); }
+
+.chapter-decimal {
+  display: inline-block;
+  font-family: var(--lily-font-mono);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--lily-primary);
+  background: #eef2ff;
+  padding: 0.15rem 0.6rem;
+  border-radius: 9999px;
+  margin-bottom: 0.75rem;
+}
+
+.chapter-pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 3rem 0 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--lily-border);
+}
+.chapter-pager-link {
+  display: block;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius-lg);
+  text-decoration: none;
+  color: var(--lily-text);
+  transition: border-color 150ms, box-shadow 150ms;
+}
+.chapter-pager-link:hover { border-color: var(--lily-primary); box-shadow: var(--lily-shadow); }
+.chapter-pager-link.next { text-align: right; }
+.chapter-pager-label {
+  display: block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--lily-text-subtle);
+  margin-bottom: 0.25rem;
+}
+.chapter-pager-title { font-weight: 600; }
+
+.toc-search {
+  display: block;
+  width: 100%;
+  max-width: 28rem;
+  font: inherit;
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--lily-border-strong);
+  border-radius: var(--lily-radius);
+  margin: 0 0 2rem;
+  background: var(--lily-card-bg);
+}
+.toc-search:focus { outline: none; border-color: var(--lily-primary); }
+
+.toc-part { margin-bottom: 2.5rem; }
+/* Plain block layout, not flexbox — the part number is part of the same
+ * heading text, not a separately-laid-out box. */
+.toc-part-heading {
+  border-bottom: 2px solid var(--lily-border);
+  padding-bottom: 0.5rem;
+}
+.toc-part-heading .part-number {
+  color: var(--lily-primary);
+  font-weight: 700;
+  margin-inline-end: 0.6rem;
+}
+/* A plain nested list — chapters indent under their part, one <li> per
+ * chapter, no grid/flexbox/table/tile layout. */
+.toc-chapter-list { list-style: none; margin: 1rem 0 0; padding: 0; }
+.toc-chapter-list li { margin-bottom: 0.35rem; }
+.toc-chapter-list a { text-decoration: none; }
+.toc-chapter-list[hidden] { display: none; }
+
+/* Responsive helpers */
+
+@media (max-width: 900px) {
+  .site-main.has-sidebar {
+    grid-template-columns: 1fr;
+  }
+  .sidebar {
+    position: static;
+    max-height: none;
+    border-bottom: 1px solid var(--lily-border);
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .site-nav { width: 100%; justify-content: flex-start; }
+  .site-main { padding: 2rem 1rem; }
+  .hero { padding: 2rem 1rem 1rem; }
+  .chapter-pager { grid-template-columns: 1fr; }
+  .chapter-pager-link.next { text-align: left; }
+}
+
+/* Reduced motion */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Site search (spec/search/index.md) */
+.site-search-results ol {
+	padding-left: 1.25rem;
+}
+.site-search-results li {
+	margin: 0 0 1.25rem;
+}
+.site-search-url {
+	font-size: 0.8em;
+	opacity: 0.7;
+	word-break: break-all;
+}
+.site-search-results li p {
+	margin: 0.25rem 0 0;
+}
+
+/* Picker tooltips (shown on hover and keyboard focus). They must be
+ * positioned out of flow: left in normal flow, a tooltip appearing on hover
+ * shifts the header and the mouse press lands on a different element, so the
+ * picker never opens. */
+.link-picker-tooltip,
+.search-picker-tooltip,
+.theme-picker-tooltip,
+.locale-picker-tooltip,
+.text-size-picker-tooltip,
+.share-picker-tooltip {
+  position: absolute;
+  z-index: 60;
+  inset-block-start: calc(100% + 0.35rem);
+  inset-inline-end: 0;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  inline-size: max-content;
+  white-space: nowrap;
+  color: var(--lily-text);
+  background: var(--lily-surface-alt, Canvas);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+}
+.link-picker-tooltip[hidden],
+.search-picker-tooltip[hidden],
+.theme-picker-tooltip[hidden],
+.locale-picker-tooltip[hidden],
+.text-size-picker-tooltip[hidden],
+.share-picker-tooltip[hidden] { display: none; }
+
+/* Link picker: a list of links, each filling its row. */
+.link-picker-list { min-inline-size: 16rem; margin: 0; padding: 0.25rem; list-style: none; }
+.link-picker-link {
+  display: block;
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--lily-radius);
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link-picker-link:hover,
+.link-picker-link:focus-visible { background: var(--lily-border); }
+.link-picker-link[aria-current="page"] { color: var(--lily-primary); font-weight: 600; }
+
+/* Narrow screens: open popup lists from the picker row's start edge. This sits
+ * after the base list rule above so that, at equal specificity, it wins. */
+@media (max-width: 40rem) {
+  .theme-picker-list,
+  .locale-picker-list,
+  .text-size-picker-list,
+  .share-picker-list,
+  .link-picker-list {
+    inset-inline-start: 0;
+    inset-inline-end: auto;
+    max-inline-size: calc(100vw - 3rem);
+    overflow-y: auto;
+  }
+}
+
+/* Home hero: the list of translations under the buttons. */
+.hero-translations {
+  margin-top: var(--lily-space-md);
+  font-size: 0.875em;
+  color: var(--lily-text-muted);
+}
+
+.hero-translations a[aria-current='page'] {
+  font-weight: 700;
+  text-decoration: none;
+}
