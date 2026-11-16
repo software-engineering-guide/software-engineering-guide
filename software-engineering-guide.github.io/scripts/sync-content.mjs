@@ -21,7 +21,12 @@ import path from 'node:path';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '..');
-const sourceRoot = path.resolve(root, '../software-engineering-guide');
+// The site lives inside the book repo (monorepo subtree); fall back to a
+// sibling checkout of the book repo when it is used standalone.
+const parentRoot = path.resolve(root, '..');
+const sourceRoot = existsSync(path.join(parentRoot, 'docs')) && existsSync(path.join(parentRoot, 'locales'))
+  ? parentRoot
+  : path.resolve(root, '../software-engineering-guide');
 const sourceDocs = path.join(sourceRoot, 'docs');
 const sourceLocales = path.join(sourceRoot, 'locales');
 const targetContent = path.resolve(root, 'src/content');

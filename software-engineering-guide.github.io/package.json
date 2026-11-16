@@ -15,15 +15,15 @@
     "postinstall": "node scripts/fix-lily-picker-resolution.mjs"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^4.0.0",
-    "@sveltejs/kit": "^3.1.0",
+    "@sveltejs/adapter-static": "^4.0.1",
+    "@sveltejs/kit": "^3.2.0",
     "@sveltejs/vite-plugin-svelte": "^7.3.1",
     "mdsvex": "^0.12.8",
-    "svelte": "^5.57.2",
-    "svelte-check": "^4.7.7",
+    "svelte": "^5.57.3",
+    "svelte-check": "^4.7.8",
     "typescript": "^6.0.3",
     "unist-util-visit": "^5.2.0",
-    "vite": "^8.3.5"
+    "vite": "^8.3.8"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [

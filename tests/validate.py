@@ -78,7 +78,7 @@ chapters = sorted((d for d in glob.glob(os.path.join(CH, "*")) if os.path.isdir(
 # (e.g. a README.md whose index.md target is missing) are skipped rather
 # than crashing the suite; that is a content bug for one locale/topic, not
 # a reason to fail every check.
-SKIP_DIRS = {"site", "node_modules", "__pycache__"}
+SKIP_DIRS = {"site", "software-engineering-guide.github.io", "node_modules", "__pycache__"}
 all_md = []
 for dirpath, dirnames, filenames in os.walk(ROOT):
     dirnames[:] = [d for d in dirnames if not d.startswith(".") and d not in SKIP_DIRS]

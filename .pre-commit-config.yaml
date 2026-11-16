@@ -17,7 +17,7 @@ repos:
         types: [markdown]
         # files that document the style rules quote the banned character;
         # keep in sync with STYLE_EXEMPT in tests/validate.py
-        exclude: ^(AGENTS\.md|docs/contributing/(testing|style-rules|index)\.md|spec/(conventions|index|README)\.md)$
+        exclude: ^(software-engineering-guide\.github\.io/.*|AGENTS\.md|docs/contributing/(testing|style-rules|index)\.md|spec/(conventions|index|README)\.md)$
 
       - id: codespell
         name: codespell
