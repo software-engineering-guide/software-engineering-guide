@@ -5,17 +5,26 @@ en-gb	English - Great Britain	English - Great Britain	topics
 en-gb-oxendict	English - Great Britain - Oxford	English - Great Britain - Oxford	topics
 en-us	English - United States	English - United States	topics
 es-001	Español	Spanish	temas
+es-mx	Español - México	Spanish (Mexico)	temas
+es-es	Español - España	Spanish (Spain)	temas
 hi-001	हिन्दी	Hindi	विषय
 zh-001	?	Chinese	主题
 zh-cn	?	Chinese - China	主题
 ar-001	العربية	Arabic	المواضيع
+ar-dz	العربية - الجزائر	Arabic (Algeria)	المواضيع
+ar-eg	العربية - مصر	Arabic (Egypt)	المواضيع
 de-001	Deutsch	German	themen
 de-de	Deutsch	German - Germany	themen
 fr-001	Français	French	sujets
+fr-ca	Français - Canada	French (Canada)	sujets
+fr-fr	Français - France	French (France)	sujets
 bn-001	বাংলা	Bengali	বিষয়
+bn-in	বাংলা - ভারত	Bengali (India)	বিষয়
+bn-bd	বাংলা - বাংলাদেশ	Bengali (Bangladesh)	বিষয়
 cy-gb	Cymraeg	Welsh - Great Britain	pynciau
 hi-in	हिन्दी	Hindi - India	विषय
 id-001	Bahasa Indonesia	Indonesian	topik
+id-my	Bahasa Indonesia - Malaysia	Indonesian (Malaysia)	topik
 id-id	Bahasa Indonesia	Indonesian - Indonesia	topik
 ja-jp	日本語	Japanese - Japan	トピック
 ja-001	日本語	Japanese	トピック
@@ -28,7 +37,11 @@ nl-001	Nederlands	Dutch	onderwerpen
 is-is	Íslenska	Icelandic - Iceland	viðfangsefni
 is-001	Íslenska	Icelandic	viðfangsefni
 pt-001	Português	Portuguese	tópicos
+pt-br	Português - Brasil	Portuguese (Brazil)	tópicos
+pt-pt	Português - Portugal	Portuguese (Portugal)	tópicos
 ru-001	Русский	Russian	темы
+ru-by	Русский - Беларусь	Russian (Belarus)	темы
+ru-ru	Русский - Россия	Russian (Russia)	темы
 ur-001	اردو	Urdu	موضوعات
 da-001	Dansk	Danish	emner
 sw-001	Kiswahili	Swahili	mada

@@ -1,0 +1,148 @@
+# 10.5 Ética, responsabilização e interesse público
+
+## Visão geral e motivação
+
+O software já não é uma ferramenta neutra sentada atrás de decisões humanas. Cada vez mais, ele *é* a decisão. Decide quem recebe um empréstimo, que currículo um recrutador vê, quanto tempo leva um pedido de benefício, se um alerta de fraude congela uma conta e que informação chega a milhões de pessoas. Quando o software toma ou molda decisões que afetam os direitos, o dinheiro, a segurança e a dignidade das pessoas, os engenheiros e as organizações que o constroem assumem responsabilidades além da correção e do desempenho. Este capítulo trata dessas responsabilidades: a [ética profissional](https://en.wikipedia.org/wiki/Professional_ethics), a responsabilização pelo que os sistemas fazem, a [acessibilidade](https://en.wikipedia.org/wiki/Web_accessibility) e a equidade como obrigações e não como funcionalidades, a transparência algorítmica, a [sustentabilidade](https://en.wikipedia.org/wiki/Sustainability) e o dever de servir as pessoas com justiça e dignidade.
+
+Para grandes organizações, a escala e o poder elevam as apostas. Um sistema corporativo ou governamental não afeta uma pessoa. Afeta milhões. Uma única escolha de projeto (um conjunto de treinamento enviesado, um formulário inacessível, uma negativa automatizada opaca) se repete em cada uma delas. Os governos carregam um dever reforçado, porque seus sistemas não são opcionais. Um cidadão não pode escolher um concorrente para a sua autoridade tributária ou a sua agência de benefícios. O monopólio do Estado sobre certos serviços significa que um sistema mal construído pode negar às pessoas direitos que elas não têm outro modo de exercer. Com esse alcance vem um dever correspondente de ser justo, transparente e responsável.
+
+A ética em software costuma ser tratada como um tema mole, parafusado no fim, ou delegada a uma lista de verificação jurídica de conformidade. Este capítulo defende o oposto. As considerações éticas são requisitos de engenharia. A responsabilização precisa ser projetada desde o início, não afirmada depois. E servir as pessoas com dignidade é ao mesmo tempo um dever moral e, com o tempo, a fundação da confiança de que as grandes organizações dependem.
+
+## Princípios fundamentais
+
+- **O software toma decisões, então quem o faz tem responsabilidade.** Vocês respondem pelo que o sistema faz às pessoas, não meramente por ele cumprir a especificação.
+- **Acessibilidade e equidade são obrigações, não melhorias.** Excluir pessoas é um defeito, e muitas vezes uma falha legal e moral.
+- **As decisões automatizadas consequentes exigem responsabilização.** As pessoas afetadas por uma decisão automatizada merecem explicação, recurso e revisão humana.
+- **A transparência é o padrão, o sigilo a exceção.** Especialmente no setor público, as pessoas têm o direito de entender como as decisões sobre elas são tomadas.
+- **A equidade deve ser examinada, não presumida.** Os sistemas herdam e amplificam os vieses dos seus dados e do seu projeto, a menos que vocês verifiquem deliberadamente.
+- **A dignidade é um requisito de projeto.** Tratem todo usuário, incluindo os vulneráveis e os atípicos, como uma pessoa que merece respeito.
+- **A sustentabilidade e o impacto social contam.** A energia, os recursos e os efeitos sociais do software fazem parte do seu custo verdadeiro.
+
+## Recomendações
+
+### Adote e viva a ética profissional
+
+Fundamentem a organização num código reconhecido de conduta profissional e façam dele algo real e não decorativo. Os engenheiros devem entender que têm obrigações para com o público, não apenas para com o empregador. “Eu só estava seguindo a especificação” não é defesa quando um sistema prejudica pessoas. Criem canais genuínos para levantar preocupações éticas: um jeito de dizer “não deveríamos construir isto, ou não deveríamos construí-lo assim” que não exija uma coragem que encerra carreiras. Deem às equipes o vocabulário e a legitimidade de pesar as consequências. Sustentem isso com uma liderança que trate as objeções éticas como sinal valioso e não como obstrução. O treinamento em ética só ajuda se a organização agir visivelmente conforme o que ensina.
+
+### Trate a acessibilidade e a equidade como obrigações
+
+Construam para toda a gama de capacidade e de circunstância humana desde o início. Adaptar a acessibilidade depois é muito mais caro e em geral pior. Sigam padrões estabelecidos de acessibilidade (como o [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines), as Diretrizes de Acessibilidade para Conteúdo Web) e, em muitas jurisdições, cumpram as exigências legais que os tornam obrigatórios para os serviços públicos. Testem com [tecnologias assistivas](https://en.wikipedia.org/wiki/Assistive_technology) e, acima de tudo, com usuários reais com deficiência. Estendam a equidade além da deficiência a toda a população que vocês servem: pessoas com pouca largura de banda, com dispositivos antigos, com [letramento digital](https://en.wikipedia.org/wiki/Digital_literacy) limitado, em línguas minoritárias e em circunstâncias de vida difíceis. Para serviços de que as pessoas não podem optar por sair (especialmente os serviços governamentais), projetar apenas para o usuário confiante, conectado e típico é uma falha em servir, não um padrão razoável.
+
+### Construa responsabilização algorítmica e transparência pública
+
+Para qualquer sistema que toma ou molda de forma material decisões consequentes sobre pessoas, projetem a responsabilização desde o início. Mantenham humanos de forma significativa [no circuito](https://en.wikipedia.org/wiki/Human-in-the-loop) para as decisões de alto risco, em vez de se submeter cegamente à saída automatizada. Sejam capazes de explicar, em termos que uma pessoa afetada entenda, por que uma decisão foi tomada. Ofereçam um caminho real para contestá-la e alcançar um humano. Testem os sistemas quanto a [viés](https://en.wikipedia.org/wiki/Algorithmic_bias) e [impacto desproporcional](https://en.wikipedia.org/wiki/Disparate_impact) em grupos protegidos e vulneráveis, antes e durante a implantação, e monitorem a deriva ao longo do tempo. No setor público, publiquem como os sistemas algorítmicos funcionam (sua finalidade, seus dados e sua lógica em nível apropriado) por mecanismos como registros de algoritmos, para que cidadãos e órgãos de supervisão possam escrutiná-los. Documentem o uso pretendido e as limitações conhecidas, para que os sistemas não sejam aplicados onde não devem.
+
+### Projete para a equidade, a dignidade e o recurso
+
+Examinem os seus sistemas quanto aos modos pelos quais podem tratar as pessoas de forma injusta ou sem dignidade. Escrutinem os dados de treinamento e as regras em busca de viés embutido. Lembrem que um sistema otimizado puramente para a eficiência pode ser cruel: um filtro de fraude ajustado para minimizar falsos negativos pode congelar as contas de milhares de inocentes, cada um uma pessoa real em apuros. Projetem para os casos de falha do ponto de vista da pessoa afetada. O que acontece quando o sistema erra? Com que facilidade ela consegue um humano, uma explicação e um remédio? Tratem os [dados pessoais](https://en.wikipedia.org/wiki/Personal_data) com respeito e contenção: coletem apenas o necessário e sejam honestos sobre o uso. Tratem o erro, o atraso e a negativa não como casos de borda, mas como os momentos em que a dignidade está mais em risco.
+
+### Considere a sustentabilidade e a responsabilidade social
+
+Reconheçam que o software tem custos físicos e sociais. Os data centers, as rodadas de treinamento e os sistemas ineficientes consomem energia real. A eficiência é uma virtude ambiental além de financeira. Considerem os efeitos mais amplos do que vocês constroem (sobre o trabalho, sobre o debate público, sobre grupos vulneráveis) e estejam dispostos a recusar ou remodelar trabalhos cujos danos superam os benefícios. Para grandes organizações cujos sistemas moldam a sociedade em escala, a responsabilidade social não é filantropia ao lado do negócio. Faz parte de construir com responsabilidade e, cada vez mais, é questão de regulação e de expectativa pública.
+
+## Compromissos: prós e contras
+
+| Tensão | Um lado | O outro lado |
+|---|---|---|
+| Automação vs. julgamento humano | Escala, consistência, velocidade, menor custo | Responsabilização, nuance, clemência, recurso |
+| Transparência vs. proteção | Escrutínio público, confiança, supervisão | Risco de manipulação, segurança, privacidade dos dados |
+| Investimento em acessibilidade vs. velocidade | Serve a todos. Conformidade legal e moral | Entrega inicial mais lenta. Mais esforço de projeto |
+| Eficiência vs. equidade | Resultados otimizados. Menor custo | Risco de crueldade com indivíduos nas caudas |
+| Personalização rica em dados vs. privacidade | Melhor serviço. Experiência sob medida | Risco de vigilância. Preocupações de dignidade e de consentimento |
+| Velocidade de inovação vs. precaução | Valor mais rápido. Vantagem competitiva | Danos não examinados implantados em escala |
+
+O compromisso mais difícil é escala versus justiça individual. A automação entrega consistência e eficiência para milhões. Mas seus erros também são entregues em escala, e um sistema otimizado para o agregado pode ser silenciosamente brutal com os indivíduos nas suas caudas. A resposta não é abandonar a automação. É projetar para o caso individual de falha: manter humanos no circuito onde as apostas são altas, garantir explicação e recurso e medir o efeito do sistema sobre os pior atendidos, não apenas sobre a média. A transparência também carrega uma tensão genuína, porque a abertura total pode viabilizar a manipulação e expor dados privados. Mas nos serviços públicos a resposta pende com força para a divulgação por padrão, isentando apenas o que genuinamente precisa ser protegido, em vez de tratar a opacidade como o padrão seguro.
+
+## Perguntas para discutir com sua equipe
+
+1. **Quais dos seus sistemas tomam ou moldam de forma material decisões consequentes sobre pessoas, e cada um oferece hoje explicação, revisão humana e recurso?** O software cada vez mais é a decisão: quem recebe um empréstimo, que currículo é visto, se uma conta é congelada, quanto tempo leva um pedido. Para cada sistema assim, uma pessoa afetada merece uma explicação que consiga entender, um caminho real para contestá-la e um humano que possa intervir, e em escala corporativa ou governamental uma única falha de projeto se repete entre milhões. Levem evidências: inventariem as suas decisões automatizadas consequentes e, para cada uma, conferiram se uma pessoa tratada de modo errado consegue de fato alcançar um humano e obter uma razão em linguagem simples. Onde a resposta é não, isso é um defeito a consertar, não uma funcionalidade a acrescentar depois. Para serviços de que as pessoas não podem optar por sair, especialmente os governamentais, isso é uma obrigação e não uma gentileza.
+
+2. **Vocês tratam a acessibilidade como um requisito que bloqueia o lançamento, testado com usuários reais com deficiência, e quem vocês estão falhando hoje?** A acessibilidade e a equidade são obrigações, e excluir pessoas é um defeito, muitas vezes uma falha legal e moral, mas adaptar a acessibilidade depois é, de modo confiável, mais lento, mais caro e pior que projetá-la desde a primeira tela. Sigam o WCAG e vão além das verificações automatizadas para testar com tecnologias assistivas e usuários reais com deficiência, mais pessoas com pouca largura de banda, dispositivos antigos, línguas minoritárias e letramento digital limitado. Levem evidências: rodem o seu fluxo mais importante com um leitor de tela e numa conexão estrangulada e vejam onde quebra. A resposta deve decidir se a acessibilidade é um portão que bloqueia o lançamento ou um item de backlog que nunca sobe, e para serviços de que as pessoas não podem optar por sair, só o portão é defensável. Projetar apenas para o usuário confiante, conectado e típico é uma falha em servir.
+
+3. **Qual é o seu processo permanente para testar sistemas consequentes quanto a viés e impacto desproporcional, antes e durante a implantação?** Os sistemas herdam e amplificam os vieses dos seus dados e do seu projeto, a menos que vocês verifiquem deliberadamente, e presumir equidade porque ninguém pretendia injustiça é viés por negligência. Um filtro de fraude ajustado puramente para minimizar falsos negativos pode congelar milhares de contas inocentes, cada uma uma pessoa real em apuros, de modo que uma eficiência otimizada sem consideração pela equidade pode ser silenciosamente cruel. Levem evidências: para cada modelo que afeta pessoas, mostrem o teste de impacto desproporcional em grupos protegidos e vulneráveis, os dados documentados e as limitações conhecidas e o monitoramento de deriva que refaz o teste conforme a população muda. A resposta deve tornar o teste de viés rotineiro e contínuo e não uma caixinha pontual pré-lançamento, e deve mudar a sua meta de otimização para pesar o dano a indivíduos e não apenas a exatidão agregada. Projetem para o caso de falha do ponto de vista da pessoa afetada.
+
+4. **Quando um engenheiro acredita que vocês não deveriam construir algo, ou não deveriam construí-lo assim, o que de fato acontece com essa objeção?** A ética só se torna real quando “não devemos entregar isto” é uma frase que alguém pode dizer sem encerrar a carreira, e em escala a pessoa mais próxima de um dano costuma ser a mais júnior da sala. A pressão contrária é a entrega: uma objeção levantada atrasa um roteiro, e líderes sob prazo podem tratá-la como obstrução e não como sinal valioso. Levem evidências: nomeiem o canal exato que um engenheiro usaria, contem quantas preocupações foram levantadas no último ano e rastreiem o que mudou como resultado, porque um canal que nunca parou nem remodelou trabalho é decorativo. Para um órgão corporativo ou governamental, liguem o canal a um dono nomeado e a uma revisão documentada, já que uma objeção que ninguém é obrigado a ouvir é uma que ninguém arriscará levantar, e o dano então vem à tona primeiro como um escândalo público.
+
+5. **Vocês conhecem o custo ambiental e social do que rodam, e remodelariam ou recusariam trabalho cujos danos superam os benefícios?** O software tem custos físicos e sociais: os data centers, as rodadas de treinamento e os sistemas ineficientes consomem energia real, e os efeitos de segunda ordem sobre o trabalho, o debate público e os grupos vulneráveis fazem parte do custo verdadeiro de um sistema. A tensão é que medir e cortar esses custos compete com a velocidade das funcionalidades, e recusar trabalho danoso abre mão de receita pela qual alguém responde. Levem evidências: a pegada de energia ou de computação dos seus maiores sistemas, uma leitura franca de quem arca com os efeitos a jusante e pelo menos um caso concreto em que vocês remodelaram ou recusaram trabalho por essas razões. Em escala corporativa ou governamental, em que os seus sistemas moldam a sociedade, tratem isso como parte de construir com responsabilidade e, cada vez mais, como questão de regulação e de expectativa pública, não como filantropia parafusada ao lado do negócio.
+
+6. **Quanto um forasteiro consegue de fato aprender sobre como os seus sistemas consequentes decidem, e a divulgação é o seu padrão ou a sua exceção?** A transparência é onde a confiança pública se conquista ou se perde, porque as pessoas têm o direito de entender como as decisões sobre elas são tomadas, e no setor público esse direito é com frequência lei. A contrapressão genuína é que a abertura total pode viabilizar a manipulação e expor dados privados, então a pergunta real é onde traçar a linha e não se divulgar. Levem evidências: para cada sistema consequente, mostrem o que vocês publicam (finalidade, dados e lógica em nível apropriado), o que retêm e a razão específica e se uma descrição em linguagem simples acompanha qualquer descrição técnica. Para um órgão governamental, pesem um mecanismo como um registro de algoritmos contra as isenções estreitas e defensáveis e conferiram que as divulgações genuinamente explicam, e não apenas informam tecnicamente sem dizer nada a uma pessoa afetada.
+
+## Perspectiva por setor
+
+**Startup.** Com um punhado de pessoas e pouco fôlego, vocês não conseguem manter um conselho de ética, então embutam no próprio produto os hábitos baratos e de alta alavancagem: uma razão em linguagem simples em toda negativa automatizada, um caminho de um clique para alcançar um humano e formulários acessíveis desde a primeira tela porque adaptá-los depois é mais lento e pior. Escolham o único lugar onde o seu software toma uma decisão consequente sobre uma pessoa e acertem explicação e recurso ali antes de escalar o dano. Tratar equidade e dignidade como requisitos de lançamento e não como polimento posterior custa pouco agora e evita uma reputação que vocês não podem perder cedo.
+
+**Pequena empresa.** Vocês provavelmente não têm especialista em acessibilidade ou equidade e têm orçamento apertado, então apoiem-se na ética embutida nas ferramentas que compram: escolham fornecedores que cumprem o WCAG, documentam como suas funcionalidades automatizadas decidem e deixam vocês manter um humano no circuito. Enquadrem o seu dever como uma questão de higiene de dados e de dignidade: saber que dados pessoais vocês guardam, coletar apenas o necessário e garantir que uma resposta automatizada errada não deixe um cliente sem jeito de alcançar vocês. Peçam aos fornecedores que mostrem sua postura de acessibilidade e de viés antes de assinar, em vez de descobrir a lacuna depois de uma queixa.
+
+**Grande empresa.** Em escala o problema é a governança entre muitas equipes: um padrão compartilhado do que conta como decisão consequente, portões consistentes de teste de acessibilidade e de viés e uma trilha de auditoria que comprove que explicação, revisão humana e recurso existem onde precisam. Montem uma revisão ética que bloqueie o lançamento em vez de um treinamento que não muda nada, orcem explicitamente o trabalho de acessibilidade e de impacto desproporcional e monitorem os modelos implantados quanto à deriva para que a equidade seja contínua e não uma caixinha pontual. Tratem uma única falha de projeto como repetida entre milhões, porque no seu alcance ela é.
+
+**Governo.** A contratação, os deveres de transparência e a prestação de contas públicas moldam toda escolha, e os cidadãos não podem deixar o seu serviço indo a um concorrente. Publiquem como os sistemas consequentes funcionam por um mecanismo como um registro de algoritmos, exijam dos fornecedores por contrato a divulgação de práticas de dados e de limitações conhecidas e construam todo serviço público conforme padrões de acessibilidade testados com usuários com deficiência, conexões de pouca largura de banda e falantes de línguas minoritárias. Garantam o direito à revisão humana e a uma explicação em linguagem simples em toda decisão automatizada consequente e mantenham fora da automação plena as determinações finais que precisam caber a um responsável.
+
+## Exemplos
+
+**Startup.** Uma fintech de três pessoas que constrói uma funcionalidade automatizada de empréstimos decide que equidade e dignidade são requisitos e não polimento posterior. Antes do lançamento, testa o modelo quanto a impacto desproporcional nos grupos que consegue medir, escreve os dados que ele usa e onde não se deve confiar nele e garante que todo candidato recusado receba uma razão em linguagem simples e um caminho de um clique para alcançar um fundador humano. Constrói o fluxo de cadastro conforme os padrões de acessibilidade desde a primeira tela, porque adaptá-lo depois seria mais lento e pior, e acrescenta um canal rápido de sobrescrita para que uma conta congelada por engano possa ser descongelada em minutos em vez de deixar uma pessoa real encalhada.
+
+**Grande empresa.** Um banco que implanta uma decisão automatizada de crédito trata a equidade como um requisito de engenharia. Antes do lançamento, testa o modelo quanto a impacto desproporcional em grupos protegidos, documenta os dados e suas limitações e constrói uma facilidade de explicação, de modo que todo candidato recusado recebe uma razão compreensível e um caminho claro para a revisão humana. Um processo de monitoramento vigia a deriva e refaz o teste de viés conforme a população muda. Quando o sistema de detecção de fraude começou a congelar um grande número de contas legítimas, o banco acrescentou um canal rápido de revisão humana e mudou sua meta de otimização para pesar o dano ao cliente. Tratou o sofrimento dos clientes sinalizados por engano como um custo real e não como uma estatística aceitável.
+
+**Governo.** Um governo municipal publica um registro de algoritmos. Ele lista os sistemas automatizados que a cidade usa nos serviços públicos e descreve a finalidade de cada um, os dados em que se apoia e como as decisões podem ser contestadas. Os serviços digitais da cidade são construídos conforme padrões de acessibilidade e testados com usuários com deficiência, conexões de pouca largura de banda e falantes de línguas minoritárias, com o princípio de que um serviço de que as pessoas não podem optar por sair precisa funcionar para todos. Toda decisão automatizada consequente carrega o direito à revisão humana e a uma explicação em linguagem simples, de modo que os cidadãos mantêm dignidade e recurso quando o software do Estado decide algo sobre suas vidas.
+
+## Justificativa de negócio: motivações, ROI e TCO
+
+O argumento de negócio para a ética e a responsabilização repousa em confiança, risco e alcance. A confiança é o ativo durável. As organizações cujos sistemas tratam as pessoas com justiça e transparência conquistam a confiança que faz as pessoas dispostas a usá-los, e as instituições públicas em particular dependem de uma legitimidade que um único sistema injusto de grande visibilidade pode estilhaçar. O risco é o condutor de curto prazo. Sistemas enviesados, inacessíveis ou opacos carregam cada vez mais penalidades regulatórias, litígio e dano à reputação que podem anular o custo de construir com responsabilidade. O alcance amplifica ambos. Em escala corporativa ou governamental, uma única falha ética se repete entre milhões e vira manchete.
+
+O custo de adoção é real. O trabalho de acessibilidade, o teste de viés, os mecanismos de explicação e de recurso, a revisão com humano no circuito e o tempo de projeto para considerar consequências acrescentam esforço, especialmente cedo. O custo de *não* adotar é maior e cada vez menos opcional: responsabilidade por discriminação, exclusão de grandes parcelas da população que vocês são obrigados a servir, a despesa de adaptar acessibilidade e responsabilização depois do lançamento e a erosão da confiança que, uma vez perdida, é cara e lenta de reconstruir. Ao defender o caso junto à liderança, enquadrem a ética como gestão de risco e construção de confiança, não altruísmo. Observem o ambiente regulatório que se aperta em torno da [responsabilização algorítmica](https://en.wikipedia.org/wiki/Algorithmic_accountability) e da acessibilidade. Enfatizem o custo total de propriedade: construir com responsabilidade desde o início é muito mais barato que remediar um sistema que já prejudicou pessoas em escala. Para as instituições públicas, acrescentem o argumento mais simples: servir os cidadãos com justiça é a missão, não uma restrição a ela.
+
+## Antipadrões e armadilhas
+
+- **Ética como caixinha.** Uma revisão ou treinamento pontual que não muda nada sobre como os sistemas são de fato construídos.
+- **Adaptar a acessibilidade depois.** Tratar a acessibilidade como um acréscimo tardio, produzindo resultados piores e mais caros que projetá-la desde o início.
+- **O algoritmo sem responsável.** Decisões automatizadas consequentes sem explicação, sem revisão humana e sem caminho para contestar.
+- **Otimizar até a crueldade.** Ajustar puramente para a eficiência agregada até o sistema brutalizar em silêncio as pessoas nas suas caudas.
+- **Viés por negligência.** Presumir que um sistema é justo porque ninguém pretendia injustiça, sem nunca testá-lo.
+- **“O computador diz que não.”** Funcionários da linha de frente e usuários sem capacidade de sobrescrever ou questionar uma decisão automatizada que veem estar errada.
+- **Projetar para o usuário confiante.** Construir para o usuário típico, conectado e letrado e excluir todos os demais, indefensável para serviços de que as pessoas não podem optar por sair.
+- **Teatro de transparência.** Publicar divulgações impenetráveis que informam tecnicamente mas genuinamente não explicam nada.
+
+## Modelo de maturidade
+
+**Nível 1: Iniciar.** A ética não é tratada ou é puramente reativa depois de um escândalo. A acessibilidade é ignorada ou mínima. As decisões automatizadas são opacas, sem explicação e sem recurso. O viés nunca é testado, e a sustentabilidade e o impacto social não são considerados.
+
+**Nível 2: Desenvolver.** Existe um código de conduta e alguns padrões de acessibilidade são seguidos, muitas vezes tarde. As decisões automatizadas de grande visibilidade recebem alguma supervisão humana, mas a maioria não. O viés é checado ocasionalmente, as preocupações podem ser levantadas por um processo fraco e as práticas variam muito de uma equipe a outra.
+
+**Nível 3: Padronizar.** A revisão ética é uma parte documentada do processo de desenvolvimento e imposta em toda a organização. A acessibilidade é projetada desde o início e testada com usuários reais. As decisões automatizadas consequentes carregam explicação, revisão humana e recurso por padrão. O teste de viés e o monitoramento de deriva são rotineiros, os sistemas do setor público publicam como funcionam e a sustentabilidade é medida por um padrão comum.
+
+**Nível 4: Gerenciar.** A organização mede e controla sua postura ética com dados em relação a linhas de base: pontuações de conformidade de acessibilidade, métricas de impacto desproporcional acompanhadas entre grupos protegidos ao longo do tempo, taxas de recurso e tempo até um humano para as decisões contestadas, a fração de sistemas consequentes com documentação publicada e a pegada de energia ou de computação dos principais sistemas. As métricas condicionam os lançamentos, as violações de limiar disparam investigação e os líderes revisam os números numa cadência fixa em vez de presumir que as práticas estão sendo seguidas.
+
+**Nível 5: Orquestrar.** A responsabilidade é embutida em como a organização constrói e se adapta. A acessibilidade e a equidade são padrões inegociáveis verificados para toda a população servida, a responsabilização algorítmica (transparência, teste de equidade, recurso, supervisão humana) é padrão e monitorada continuamente, e as preocupações éticas são um sinal valorizado que remodela ou interrompe o trabalho. A organização trata confiança, equidade e dignidade como centrais à sua missão, integra a ética às decisões de produto, de risco e de contratação e redefine o escopo ou aposenta sistemas conforme as expectativas e as evidências evoluem.
+
+## Ideias para discussão
+
+- Onde fica a linha entre decisões que podem ser totalmente automatizadas e aquelas que precisam manter um humano de modo significativo no circuito?
+- Quanta transparência algorítmica basta, e como vocês divulgam de modo significativo sem viabilizar a manipulação nem violar a privacidade?
+- Quem responde quando um sistema automatizado prejudica alguém: o engenheiro, o gerente, a organização ou o fornecedor?
+- Como vocês tornam genuinamente seguro levantar uma objeção ética em vez de limitante para a carreira?
+- Que obrigações uma organização tem para com usuários para quem não projetou, e até onde a equidade precisa se estender?
+- Como o custo ambiental da computação deve entrar nas decisões de arquitetura e de produto?
+
+## Principais conclusões
+
+- Quando o software toma decisões consequentes sobre pessoas, quem o faz é responsável pelo que ele faz, não meramente por ele cumprir a especificação.
+- A acessibilidade e a equidade são obrigações, e defeitos quando ausentes, não melhorias opcionais, especialmente para serviços de que as pessoas não podem optar por sair.
+- As decisões automatizadas consequentes exigem explicação, revisão humana, recurso e teste contínuo de viés. Projetem a responsabilização desde o início em vez de afirmá-la depois.
+- Uma eficiência otimizada sem consideração pela equidade pode ser silenciosamente cruel. Projetem para o caso individual de falha, não apenas para o agregado.
+- No setor público, a transparência sobre como os sistemas algorítmicos funcionam deve ser o padrão, com o sigilo como a exceção estreita.
+- O argumento de negócio é confiança e risco: construir com responsabilidade desde o início é muito mais barato que remediar danos em escala e, para as instituições públicas, a equidade é a missão.
+
+## Referências e leitura complementar
+
+- ACM/IEEE-CS, *Software Engineering Code of Ethics and Professional Practice*
+- ACM, *Code of Ethics and Professional Conduct*
+- Cathy O'Neil, *Weapons of Maths Destruction*
+- Virginia Eubanks, *Automating Inequality*
+- Safiya Umoja Noble, *Algorithms of Oppression*
+- Ruha Benjamin, *Race After Technology*
+- Batya Friedman and David G. Hendry, *Value Sensitive Design*
+- World Wide Web Consortium (W3C), *Web Content Accessibility Guidelines (WCAG)*
+- NIST, *AI Risk Management Framework*
+- OECD, *Principles on Artificial Intelligence*
+- European Union, *General Data Protection Regulation (GDPR)* and the *AI Act*
+- UK Government, *Data Ethics Framework* and the *Algorithmic Transparency Recording Standard*

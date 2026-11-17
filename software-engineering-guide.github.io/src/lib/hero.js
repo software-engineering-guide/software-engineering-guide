@@ -9,7 +9,39 @@ export const HERO = {
   "contents": "المحتويات",
   "translations": "الترجمات: "
  },
+ "ar-eg": {
+  "headline": "دليل هندسة البرمجيات",
+  "tagline": "مجاني · مفتوح · يصونه المجتمع",
+  "intro": "دليل لأفضل الممارسات لفرق تطوير البرمجيات، يشمل أساليب العمل وحرفة البرمجة والبنية المعمارية والأمن والذكاء الاصطناعي والبيانات والتحليلات وتصميم واجهات المستخدم وتجربته والأتمتة والتسليم والعمليات والتدفق والإدارة، للشركات الناشئة والمؤسسات الكبرى والجهات الحكومية على حد سواء.",
+  "start": "ابدأ القراءة",
+  "contents": "المحتويات",
+  "translations": "الترجمات: "
+ },
+ "ar-dz": {
+  "headline": "دليل هندسة البرمجيات",
+  "tagline": "مجاني · مفتوح · يصونه المجتمع",
+  "intro": "دليل لأفضل الممارسات لفرق تطوير البرمجيات، يشمل أساليب العمل وحرفة البرمجة والبنية المعمارية والأمن والذكاء الاصطناعي والبيانات والتحليلات وتصميم واجهات المستخدم وتجربته والأتمتة والتسليم والعمليات والتدفق والإدارة، للشركات الناشئة والمؤسسات الكبرى والجهات الحكومية على حد سواء.",
+  "start": "ابدأ القراءة",
+  "contents": "المحتويات",
+  "translations": "الترجمات: "
+ },
  "bn-001": {
+  "headline": "সফটওয়্যার প্রকৌশল নির্দেশিকা",
+  "tagline": "বিনামূল্যে · উন্মুক্ত · সম্প্রদায়-পরিচালিত",
+  "intro": "সফটওয়্যার ডেভেলপার দলের জন্য ভালো অনুশীলনের একটি নির্দেশিকা, যাতে রয়েছে কাজের ধরন, প্রোগ্রামিং দক্ষতা, স্থাপত্য, নিরাপত্তা, এআই, ডেটা ও বিশ্লেষণ, UI/UX, স্বয়ংক্রিয়তা, সরবরাহ, পরিচালন, প্রবাহ ও ব্যবস্থাপনা; স্টার্টআপ, বড় প্রতিষ্ঠান ও সরকারি সংস্থা সবার জন্য।",
+  "start": "পড়া শুরু করুন",
+  "contents": "সূচিপত্র",
+  "translations": "অনুবাদ: "
+ },
+ "bn-bd": {
+  "headline": "সফটওয়্যার প্রকৌশল নির্দেশিকা",
+  "tagline": "বিনামূল্যে · উন্মুক্ত · সম্প্রদায়-পরিচালিত",
+  "intro": "সফটওয়্যার ডেভেলপার দলের জন্য ভালো অনুশীলনের একটি নির্দেশিকা, যাতে রয়েছে কাজের ধরন, প্রোগ্রামিং দক্ষতা, স্থাপত্য, নিরাপত্তা, এআই, ডেটা ও বিশ্লেষণ, UI/UX, স্বয়ংক্রিয়তা, সরবরাহ, পরিচালন, প্রবাহ ও ব্যবস্থাপনা; স্টার্টআপ, বড় প্রতিষ্ঠান ও সরকারি সংস্থা সবার জন্য।",
+  "start": "পড়া শুরু করুন",
+  "contents": "সূচিপত্র",
+  "translations": "অনুবাদ: "
+ },
+ "bn-in": {
   "headline": "সফটওয়্যার প্রকৌশল নির্দেশিকা",
   "tagline": "বিনামূল্যে · উন্মুক্ত · সম্প্রদায়-পরিচালিত",
   "intro": "সফটওয়্যার ডেভেলপার দলের জন্য ভালো অনুশীলনের একটি নির্দেশিকা, যাতে রয়েছে কাজের ধরন, প্রোগ্রামিং দক্ষতা, স্থাপত্য, নিরাপত্তা, এআই, ডেটা ও বিশ্লেষণ, UI/UX, স্বয়ংক্রিয়তা, সরবরাহ, পরিচালন, প্রবাহ ও ব্যবস্থাপনা; স্টার্টআপ, বড় প্রতিষ্ঠান ও সরকারি সংস্থা সবার জন্য।",
@@ -89,7 +121,39 @@ export const HERO = {
   "contents": "Contenido",
   "translations": "Traducciones: "
  },
+ "es-es": {
+  "headline": "Guía de Ingeniería de Software",
+  "tagline": "Gratis · abierto · mantenido por la comunidad",
+  "intro": "Una guía de buenas prácticas para equipos de desarrollo de software, que abarca formas de trabajo, oficio de programación, arquitectura, seguridad, IA, datos y analítica, UI/UX, automatización, entrega, operaciones, flujo y gestión, tanto para startups como para empresas y organismos públicos.",
+  "start": "Empezar a leer",
+  "contents": "Contenido",
+  "translations": "Traducciones: "
+ },
+ "es-mx": {
+  "headline": "Guía de Ingeniería de Software",
+  "tagline": "Gratis · abierto · mantenido por la comunidad",
+  "intro": "Una guía de buenas prácticas para equipos de desarrollo de software, que abarca formas de trabajo, oficio de programación, arquitectura, seguridad, IA, datos y analítica, UI/UX, automatización, entrega, operaciones, flujo y gestión, tanto para startups como para empresas y organismos públicos.",
+  "start": "Empezar a leer",
+  "contents": "Contenido",
+  "translations": "Traducciones: "
+ },
  "fr-001": {
+  "headline": "Guide de l'ingénierie logicielle",
+  "tagline": "Gratuit · ouvert · maintenu par la communauté",
+  "intro": "Un guide de bonnes pratiques pour les équipes de développement logiciel, couvrant les modes de travail, l'art de la programmation, l'architecture, la sécurité, l'IA, les données et l'analytique, l'UI/UX, l'automatisation, la livraison, l'exploitation, le flux et le management, pour les start-ups, les grandes entreprises et les administrations.",
+  "start": "Commencer la lecture",
+  "contents": "Sommaire",
+  "translations": "Traductions: "
+ },
+ "fr-fr": {
+  "headline": "Guide de l'ingénierie logicielle",
+  "tagline": "Gratuit · ouvert · maintenu par la communauté",
+  "intro": "Un guide de bonnes pratiques pour les équipes de développement logiciel, couvrant les modes de travail, l'art de la programmation, l'architecture, la sécurité, l'IA, les données et l'analytique, l'UI/UX, l'automatisation, la livraison, l'exploitation, le flux et le management, pour les start-ups, les grandes entreprises et les administrations.",
+  "start": "Commencer la lecture",
+  "contents": "Sommaire",
+  "translations": "Traductions: "
+ },
+ "fr-ca": {
   "headline": "Guide de l'ingénierie logicielle",
   "tagline": "Gratuit · ouvert · maintenu par la communauté",
   "intro": "Un guide de bonnes pratiques pour les équipes de développement logiciel, couvrant les modes de travail, l'art de la programmation, l'architecture, la sécurité, l'IA, les données et l'analytique, l'UI/UX, l'automatisation, la livraison, l'exploitation, le flux et le management, pour les start-ups, les grandes entreprises et les administrations.",
@@ -122,6 +186,14 @@ export const HERO = {
   "translations": "Terjemahan: "
  },
  "id-id": {
+  "headline": "Panduan Rekayasa Perangkat Lunak",
+  "tagline": "Gratis · terbuka · dikelola komunitas",
+  "intro": "Panduan praktik baik untuk tim pengembang perangkat lunak, mencakup cara kerja, keahlian pemrograman, arsitektur, keamanan, AI, data dan analitik, UI/UX, otomatisasi, pengiriman, operasi, alur, dan manajemen, bagi startup, perusahaan, maupun lembaga pemerintah.",
+  "start": "Mulai membaca",
+  "contents": "Daftar isi",
+  "translations": "Terjemahan: "
+ },
+ "id-my": {
   "headline": "Panduan Rekayasa Perangkat Lunak",
   "tagline": "Gratis · terbuka · dikelola komunitas",
   "intro": "Panduan praktik baik untuk tim pengembang perangkat lunak, mencakup cara kerja, keahlian pemrograman, arsitektur, keamanan, AI, data dan analitik, UI/UX, otomatisasi, pengiriman, operasi, alur, dan manajemen, bagi startup, perusahaan, maupun lembaga pemerintah.",
@@ -201,7 +273,39 @@ export const HERO = {
   "contents": "Sumário",
   "translations": "Traduções: "
  },
+ "pt-pt": {
+  "headline": "Guia de Engenharia de Software",
+  "tagline": "Gratuito · aberto · mantido pela comunidade",
+  "intro": "Um guia de boas práticas para equipes de desenvolvimento de software, abrangendo formas de trabalho, ofício de programação, arquitetura, segurança, IA, dados e análise, UI/UX, automação, entrega, operações, fluxo e gestão, para startups, empresas e órgãos governamentais.",
+  "start": "Começar a ler",
+  "contents": "Sumário",
+  "translations": "Traduções: "
+ },
+ "pt-br": {
+  "headline": "Guia de Engenharia de Software",
+  "tagline": "Gratuito · aberto · mantido pela comunidade",
+  "intro": "Um guia de boas práticas para equipes de desenvolvimento de software, abrangendo formas de trabalho, ofício de programação, arquitetura, segurança, IA, dados e análise, UI/UX, automação, entrega, operações, fluxo e gestão, para startups, empresas e órgãos governamentais.",
+  "start": "Começar a ler",
+  "contents": "Sumário",
+  "translations": "Traduções: "
+ },
  "ru-001": {
+  "headline": "Руководство по программной инженерии",
+  "tagline": "Бесплатно · открыто · поддерживается сообществом",
+  "intro": "Руководство по лучшим практикам для команд разработки программного обеспечения: способы работы, мастерство программирования, архитектура, безопасность, ИИ, данные и аналитика, UI/UX, автоматизация, поставка, эксплуатация, поток и управление. Для стартапов, крупных компаний и государственных организаций.",
+  "start": "Начать читать",
+  "contents": "Содержание",
+  "translations": "Переводы: "
+ },
+ "ru-ru": {
+  "headline": "Руководство по программной инженерии",
+  "tagline": "Бесплатно · открыто · поддерживается сообществом",
+  "intro": "Руководство по лучшим практикам для команд разработки программного обеспечения: способы работы, мастерство программирования, архитектура, безопасность, ИИ, данные и аналитика, UI/UX, автоматизация, поставка, эксплуатация, поток и управление. Для стартапов, крупных компаний и государственных организаций.",
+  "start": "Начать читать",
+  "contents": "Содержание",
+  "translations": "Переводы: "
+ },
+ "ru-by": {
   "headline": "Руководство по программной инженерии",
   "tagline": "Бесплатно · открыто · поддерживается сообществом",
   "intro": "Руководство по лучшим практикам для команд разработки программного обеспечения: способы работы, мастерство программирования, архитектура, безопасность, ИИ, данные и аналитика, UI/UX, автоматизация, поставка, эксплуатация, поток и управление. Для стартапов, крупных компаний и государственных организаций.",
@@ -286,7 +390,11 @@ export const HERO = {
 /** @type {Record<string, string>} */
 export const ENDONYMS = {
  "ar-001": "العربية",
+ "ar-eg": "العربية (مصر)",
+ "ar-dz": "العربية (الجزائر)",
  "bn-001": "বাংলা",
+ "bn-bd": "বাংলা (বাংলাদেশ)",
+ "bn-in": "বাংলা (ভারত)",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Y Deyrnas Unedig)",
  "da-001": "Dansk",
@@ -296,11 +404,16 @@ export const ENDONYMS = {
  "en-gb": "English (Great Britain)",
  "en-us": "English (United States)",
  "es-001": "Español",
+ "es-es": "Español (España)",
+ "es-mx": "Español (México)",
  "fr-001": "Français",
+ "fr-fr": "Français (France)",
+ "fr-ca": "Français (Canada)",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
+ "id-my": "Bahasa Indonesia (Malaysia)",
  "is-001": "Íslenska",
  "is-is": "Íslenska (Ísland)",
  "ja-001": "日本語",
@@ -310,7 +423,11 @@ export const ENDONYMS = {
  "nl-001": "Nederlands",
  "nl-nl": "Nederlands (Nederland)",
  "pt-001": "Português",
+ "pt-pt": "Português (Portugal)",
+ "pt-br": "Português (Brasil)",
  "ru-001": "Русский",
+ "ru-ru": "Русский (Россия)",
+ "ru-by": "Русский (Беларусь)",
  "sv-001": "Svenska",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",

@@ -387,6 +387,20 @@ const OVERRIDES = {
   }
 };
 
+OVERRIDES['ar-eg'] = OVERRIDES['ar-001'];
+OVERRIDES['ar-dz'] = OVERRIDES['ar-001'];
+OVERRIDES['es-es'] = OVERRIDES['es-001'];
+OVERRIDES['es-mx'] = OVERRIDES['es-001'];
+OVERRIDES['fr-fr'] = OVERRIDES['fr-001'];
+OVERRIDES['fr-ca'] = OVERRIDES['fr-001'];
+OVERRIDES['ru-ru'] = OVERRIDES['ru-001'];
+OVERRIDES['ru-by'] = OVERRIDES['ru-001'];
+OVERRIDES['bn-bd'] = OVERRIDES['bn-001'];
+OVERRIDES['bn-in'] = OVERRIDES['bn-001'];
+OVERRIDES['id-my'] = OVERRIDES['id-001'];
+OVERRIDES['pt-pt'] = OVERRIDES['pt-001'];
+OVERRIDES['pt-br'] = OVERRIDES['pt-001'];
+
 /** @param {string} locale */
 export function ui(locale) {
   return { ...EN, ...(OVERRIDES[locale] ?? {}) };
@@ -570,6 +584,20 @@ export const PART_TITLE_OVERRIDES = {
     12: 'ضمیمے'
   }
 };
+
+PART_TITLE_OVERRIDES['ar-eg'] = PART_TITLE_OVERRIDES['ar-001'];
+PART_TITLE_OVERRIDES['ar-dz'] = PART_TITLE_OVERRIDES['ar-001'];
+PART_TITLE_OVERRIDES['es-es'] = PART_TITLE_OVERRIDES['es-001'];
+PART_TITLE_OVERRIDES['es-mx'] = PART_TITLE_OVERRIDES['es-001'];
+PART_TITLE_OVERRIDES['fr-fr'] = PART_TITLE_OVERRIDES['fr-001'];
+PART_TITLE_OVERRIDES['fr-ca'] = PART_TITLE_OVERRIDES['fr-001'];
+PART_TITLE_OVERRIDES['ru-ru'] = PART_TITLE_OVERRIDES['ru-001'];
+PART_TITLE_OVERRIDES['ru-by'] = PART_TITLE_OVERRIDES['ru-001'];
+PART_TITLE_OVERRIDES['bn-bd'] = PART_TITLE_OVERRIDES['bn-001'];
+PART_TITLE_OVERRIDES['bn-in'] = PART_TITLE_OVERRIDES['bn-001'];
+PART_TITLE_OVERRIDES['id-my'] = PART_TITLE_OVERRIDES['id-001'];
+PART_TITLE_OVERRIDES['pt-pt'] = PART_TITLE_OVERRIDES['pt-001'];
+PART_TITLE_OVERRIDES['pt-br'] = PART_TITLE_OVERRIDES['pt-001'];
 
 /** @param {string} locale */
 export function partTitles(locale) {

@@ -39,7 +39,20 @@ export const LOCALE_LABELS = {
   'is-001': 'Íslenska',
   'pt-001': 'Português',
   'ru-001': 'Русский',
-  'ur-001': 'اردو'
+  'ur-001': 'اردو',
+  'ar-eg': 'العربية - مصر',
+  'ar-dz': 'العربية - الجزائر',
+  'es-es': 'Español - España',
+  'es-mx': 'Español - México',
+  'fr-fr': 'Français - France',
+  'fr-ca': 'Français - Canada',
+  'ru-ru': 'Русский - Россия',
+  'ru-by': 'Русский - Беларусь',
+  'bn-bd': 'বাংলা - বাংলাদেশ',
+  'bn-in': 'বাংলা - ভারত',
+  'id-my': 'Bahasa Indonesia - Malaysia',
+  'pt-pt': 'Português - Portugal',
+  'pt-br': 'Português - Brasil'
 };
 
 /** @param {string} code */
@@ -48,7 +61,7 @@ export function localeLabel(code) {
 }
 
 /** Right-to-left locale codes among the ones this site publishes. */
-export const RTL_LOCALES = new Set(['ar-001', 'ur-001']);
+export const RTL_LOCALES = new Set(['ar-001', 'ar-eg', 'ar-dz', 'ur-001']);
 
 /**
  * @param {string} code
