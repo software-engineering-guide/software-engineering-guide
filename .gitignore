@@ -15,3 +15,4 @@ site/
 .venv/
 .cache/
 target/
+.vibe/
