@@ -9,7 +9,7 @@ phased checklist sized for agent-driven execution.
 
 ## Where the project stands
 
-The book is substantially complete: 133 chapters across 12 parts, roughly
+The book is substantially complete: 147 chapters across 12 parts, roughly
 368,000 words, a strict house style, a spec-driven structure
 ([`spec/structure.md`](spec/structure.md)), a validation suite
 ([`tests/validate.py`](tests/validate.py)), and a navigation generator
@@ -32,7 +32,7 @@ The main gaps, in order of leverage:
    downloadable single-document build (EPUB or PDF), and the glossary is a
    page rather than a linked vocabulary.
 4. **Examples are thin.** Three example files (an ADR, OKRs, a chapter
-   skeleton) support a 133-chapter book whose templates appendix promises many
+   skeleton) support a 147-chapter book whose templates appendix promises many
    more artifact types.
 5. **There are no tutorials.** The book says what to do; nothing walks a
    reader through doing it.
@@ -185,7 +185,7 @@ Phase 4: content quality passes and the v1.0 release.
 - The spec is the source of truth: structural changes update
   `spec/structure.md` and the chapters together, then `just nav`, then
   `just test`.
-- `tests/validate.py` pins the chapter count (currently 133); adding or
+- `tests/validate.py` pins the chapter count (currently 147); adding or
   removing chapters means updating that constant, the spec, and the generated
   navigation in the same change.
 - New document types (tutorials, standalone examples) must be added to the
