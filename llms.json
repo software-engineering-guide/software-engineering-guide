@@ -42363,6 +42363,749 @@
      "url": "https://software-engineering-guide.github.io/th-th/หัวข้อ/12-07-ดัชนี/"
     }
    ]
+  },
+  {
+   "code": "th-001",
+   "label": "ไทย",
+   "home": "https://software-engineering-guide.github.io/th-001/",
+   "topicsSegment": "หัวข้อ",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "บทนำส่วนที่ 1: ผู้คน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-00-ผู้คน/"
+    },
+    {
+     "number": "1.1",
+     "title": "คุณค่าวิศวกรรมซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-01-คุณค่าวิศวกรรมซอฟต์แวร์/"
+    },
+    {
+     "number": "1.2",
+     "title": "โครงสร้างทีมและการออกแบบองค์กร",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-02-โครงสร้างทีม/"
+    },
+    {
+     "number": "1.3",
+     "title": "บทบาท บันไดอาชีพ และการเติบโต",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-03-บทบาท-บันไดอาชีพ-การเติบโต/"
+    },
+    {
+     "number": "1.4",
+     "title": "วิธีการทำงาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-04-วิธีการทำงาน/"
+    },
+    {
+     "number": "1.5",
+     "title": "การตัดสินใจ และ ธรรมาภิบาล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-05-การตัดสินใจ-และ-ธรรมาภิบาล/"
+    },
+    {
+     "number": "1.6",
+     "title": "บันทึกการตัดสินใจ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-06-บันทึกการตัดสินใจ/"
+    },
+    {
+     "number": "1.7",
+     "title": "มาตรฐานวิศวกรรม และ ข้อยกเว้น",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-07-มาตรฐานวิศวกรรม-และ-ข้อยกเว้น/"
+    },
+    {
+     "number": "1.8",
+     "title": "การจ้างงาน การสัมภาษณ์ การปฐมนิเทศ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-08-การจ้างงาน-การสัมภาษณ์-การปฐมนิเทศ/"
+    },
+    {
+     "number": "1.9",
+     "title": "การทำงานแบบกระจาย และ ทางไกล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-09-การทำงานแบบกระจาย-และ-ทางไกล/"
+    },
+    {
+     "number": "1.10",
+     "title": "ประสิทธิผลวิศวกรรม และ ผลิตภาพนักพัฒนา",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-10-ประสิทธิผลวิศวกรรม-และ-ผลิตภาพนักพัฒนา/"
+    },
+    {
+     "number": "1.11",
+     "title": "การจัดการวิศวกรรม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-11-การจัดการวิศวกรรม/"
+    },
+    {
+     "number": "1.12",
+     "title": "ความหลากหลาย ความเสมอภาค การรวมกลุ่ม ความรู้สึกเป็นส่วนหนึ่ง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-12-ความหลากหลาย-ความเสมอภาค-การรวมกลุ่ม-ความรู้สึกเป็นส่วนหนึ่ง/"
+    },
+    {
+     "number": "1.13",
+     "title": "การเป็นพี่เลี้ยง การโค้ช และการแบ่งปันความรู้",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/01-13-การเป็นพี่เลี้ยง-การโค้ช-การแบ่งปันความรู้/"
+    },
+    {
+     "number": "2.0",
+     "title": "บทนำส่วนที่ 2: การเขียนโปรแกรม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-00-การเขียนโปรแกรม/"
+    },
+    {
+     "number": "2.1",
+     "title": "มาตรฐานการเขียนโค้ดและรูปแบบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-01-มาตรฐานการเขียนโค้ด-และ-รูปแบบ/"
+    },
+    {
+     "number": "2.2",
+     "title": "หลักการออกแบบซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-02-หลักการออกแบบซอฟต์แวร์/"
+    },
+    {
+     "number": "2.3",
+     "title": "เอพีไอและการออกแบบอินเทอร์เฟซ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-03-เอพีไอ-และ-การออกแบบอินเทอร์เฟซ/"
+    },
+    {
+     "number": "2.4",
+     "title": "กลยุทธ์การทดสอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-04-กลยุทธ์การทดสอบ/"
+    },
+    {
+     "number": "2.5",
+     "title": "การทบทวนโค้ด และ การทำงานร่วมกัน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-05-การทบทวนโค้ด-และ-การทำงานร่วมกัน/"
+    },
+    {
+     "number": "2.6",
+     "title": "การควบคุมเวอร์ชัน และ การจัดการซอร์ส",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-06-การควบคุมเวอร์ชัน-และ-การจัดการซอร์ส/"
+    },
+    {
+     "number": "2.7",
+     "title": "เอกสารประกอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-07-เอกสารประกอบ/"
+    },
+    {
+     "number": "2.8",
+     "title": "ความต้องการซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-08-ความต้องการซอฟต์แวร์/"
+    },
+    {
+     "number": "2.9",
+     "title": "การสร้างซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-09-การสร้างซอฟต์แวร์/"
+    },
+    {
+     "number": "2.10",
+     "title": "การจัดการคอนฟิกูเรชันซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-10-การจัดการคอนฟิกูเรชันซอฟต์แวร์/"
+    },
+    {
+     "number": "2.11",
+     "title": "คุณภาพซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-11-คุณภาพซอฟต์แวร์/"
+    },
+    {
+     "number": "2.12",
+     "title": "แบบจำลอง และ วิธีการซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-12-แบบจำลอง-และ-วิธีการซอฟต์แวร์/"
+    },
+    {
+     "number": "2.13",
+     "title": "พื้นฐานการคำนวณ และ วิศวกรรมคณิตศาสตร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-13-พื้นฐานการคำนวณ-และ-วิศวกรรมคณิตศาสตร์/"
+    },
+    {
+     "number": "2.14",
+     "title": "โครงสร้างโครงการ และ ที่เก็บโค้ด",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-14-โครงสร้างโครงการ-และ-ที่เก็บโค้ด/"
+    },
+    {
+     "number": "2.15",
+     "title": "การดีบักและการแก้ไขปัญหา",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-15-การดีบัก-และ-การแก้ไขปัญหา/"
+    },
+    {
+     "number": "2.16",
+     "title": "วิศวกรรมประสิทธิภาพ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-16-วิศวกรรมประสิทธิภาพ/"
+    },
+    {
+     "number": "2.17",
+     "title": "การทำงานพร้อมกันและขนาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-17-การทำงานพร้อมกัน-และ-ขนาน/"
+    },
+    {
+     "number": "2.18",
+     "title": "การจัดการการพึ่งพาและห่วงโซ่อุปทาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-18-การจัดการการพึ่งพา-และ-ห่วงโซ่อุปทาน/"
+    },
+    {
+     "number": "2.19",
+     "title": "การปรับโครงสร้างโค้ดและหนี้ทางเทคนิค",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-19-การปรับโครงสร้างโค้ด-และ-หนี้ทางเทคนิค/"
+    },
+    {
+     "number": "2.20",
+     "title": "การจัดการข้อผิดพลาด และ รูปแบบความทนทาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-20-การจัดการข้อผิดพลาด-และ-รูปแบบความทนทาน/"
+    },
+    {
+     "number": "2.21",
+     "title": "ระบบชนิดข้อมูล และ การวิเคราะห์เชิงสถิต",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/02-21-ระบบชนิดข้อมูล-และ-การวิเคราะห์เชิงสถิต/"
+    },
+    {
+     "number": "3.0",
+     "title": "บทนำส่วนที่ 3: ระบบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-00-ระบบ/"
+    },
+    {
+     "number": "3.1",
+     "title": "พื้นฐานสถาปัตยกรรม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-01-พื้นฐานสถาปัตยกรรม/"
+    },
+    {
+     "number": "3.2",
+     "title": "รูปแบบและแบบแผนสถาปัตยกรรม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-02-รูปแบบ-และ-แบบแผนสถาปัตยกรรม/"
+    },
+    {
+     "number": "3.3",
+     "title": "ระบบกระจาย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-03-ระบบกระจาย/"
+    },
+    {
+     "number": "3.4",
+     "title": "สถาปัตยกรรมข้อมูลและการจัดเก็บ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-04-สถาปัตยกรรมข้อมูล-และ-การจัดเก็บ/"
+    },
+    {
+     "number": "3.5",
+     "title": "การขยายขนาด ประสิทธิภาพ ความทนทาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-05-การขยายขนาด-ประสิทธิภาพ-ความทนทาน/"
+    },
+    {
+     "number": "3.6",
+     "title": "การปรับปรุงระบบเดิม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-06-การปรับปรุงระบบเดิม/"
+    },
+    {
+     "number": "3.7",
+     "title": "การบำรุงรักษาซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-07-การบำรุงรักษาซอฟต์แวร์/"
+    },
+    {
+     "number": "3.8",
+     "title": "ความสามารถในการทำงานร่วมกันและมาตรฐานเปิด",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-08-ความสามารถในการทำงานร่วมกัน-และ-มาตรฐานเปิด/"
+    },
+    {
+     "number": "3.9",
+     "title": "วิศวกรรมระบบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-09-วิศวกรรมระบบ/"
+    },
+    {
+     "number": "3.10",
+     "title": "ระบบฝังตัวและระบบเรียลไทม์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-10-ระบบฝังตัว-และ-ระบบเรียลไทม์/"
+    },
+    {
+     "number": "3.11",
+     "title": "สถาปัตยกรรมคลาวด์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-11-สถาปัตยกรรมคลาวด์/"
+    },
+    {
+     "number": "3.12",
+     "title": "สถาปัตยกรรมเชิงเหตุการณ์และการส่งข้อความ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-12-สถาปัตยกรรมเชิงเหตุการณ์-และ-การส่งข้อความ/"
+    },
+    {
+     "number": "3.13",
+     "title": "เครือข่ายและการเชื่อมต่อ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-13-เครือข่าย-และ-การเชื่อมต่อ/"
+    },
+    {
+     "number": "3.14",
+     "title": "หลายผู้เช่าและสถาปัตยกรรมซาส",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-14-หลายผู้เช่า-และ-สถาปัตยกรรมซาส/"
+    },
+    {
+     "number": "3.15",
+     "title": "การแคช และ การส่งมอบเนื้อหา",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-15-การแคช-และ-การส่งมอบเนื้อหา/"
+    },
+    {
+     "number": "3.16",
+     "title": "เกตเวย์เอพีไอ และ เซอร์วิสเมช",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-16-เกตเวย์เอพีไอ-และ-เซอร์วิสเมช/"
+    },
+    {
+     "number": "3.17",
+     "title": "การค้นหา และ การสืบค้นสารสนเทศ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/03-17-การค้นหา-และ-การสืบค้นสารสนเทศ/"
+    },
+    {
+     "number": "4.0",
+     "title": "บทนำส่วนที่ 4: ความมั่นคงปลอดภัย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-00-ความมั่นคงปลอดภัย/"
+    },
+    {
+     "number": "4.1",
+     "title": "พื้นฐานและวัฒนธรรมความมั่นคงปลอดภัย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-01-พื้นฐาน-และ-วัฒนธรรมความมั่นคงปลอดภัย/"
+    },
+    {
+     "number": "4.2",
+     "title": "ความมั่นคงปลอดภัยแอปพลิเคชัน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-02-ความมั่นคงปลอดภัยแอปพลิเคชัน/"
+    },
+    {
+     "number": "4.3",
+     "title": "ความมั่นคงปลอดภัยโครงสร้างพื้นฐานและคลาวด์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-03-ความมั่นคงปลอดภัยโครงสร้างพื้นฐาน-และ-คลาวด์/"
+    },
+    {
+     "number": "4.4",
+     "title": "ปฏิบัติการความมั่นคงปลอดภัย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-04-ปฏิบัติการความมั่นคงปลอดภัย/"
+    },
+    {
+     "number": "4.5",
+     "title": "ความเป็นส่วนตัวและการคุ้มครองข้อมูล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-05-ความเป็นส่วนตัว-และ-การคุ้มครองข้อมูล/"
+    },
+    {
+     "number": "4.6",
+     "title": "การปฏิบัติตามข้อกำหนดและธรรมาภิบาล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-06-การปฏิบัติตามข้อกำหนด-และ-ธรรมาภิบาล/"
+    },
+    {
+     "number": "4.7",
+     "title": "การจัดการตัวตนและสิทธิ์การเข้าถึง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-07-การจัดการตัวตน-และ-สิทธิ์การเข้าถึง/"
+    },
+    {
+     "number": "4.8",
+     "title": "วิทยาการเข้ารหัสลับและการจัดการกุญแจ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-08-วิทยาการเข้ารหัสลับ-และ-การจัดการกุญแจ/"
+    },
+    {
+     "number": "4.9",
+     "title": "วงจรชีวิตการพัฒนาซอฟต์แวร์อย่างปลอดภัย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-09-วงจรชีวิตการพัฒนาซอฟต์แวร์อย่างปลอดภัย/"
+    },
+    {
+     "number": "4.10",
+     "title": "การทดสอบเจาะระบบและเรดทีม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/04-10-การทดสอบเจาะระบบ-และ-เรดทีม/"
+    },
+    {
+     "number": "5.0",
+     "title": "บทนำส่วนที่ 5: การออกแบบยูไอยูเอ็กซ์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-00-การออกแบบยูไอยูเอ็กซ์/"
+    },
+    {
+     "number": "5.1",
+     "title": "พื้นฐานยูเอ็กซ์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-01-พื้นฐานยูเอ็กซ์/"
+    },
+    {
+     "number": "5.2",
+     "title": "การออกแบบยูไอ และระบบการออกแบบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-02-การออกแบบยูไอ-และ-ระบบการออกแบบ/"
+    },
+    {
+     "number": "5.3",
+     "title": "การเข้าถึงได้",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-03-การเข้าถึงได้/"
+    },
+    {
+     "number": "5.4",
+     "title": "การออกแบบเนื้อหา และการสื่อสาร",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-04-การออกแบบเนื้อหา-และ-การสื่อสาร/"
+    },
+    {
+     "number": "5.5",
+     "title": "การทำให้เป็นสากลและการแปลเป็นท้องถิ่น",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-05-การทำให้เป็นสากล-และ-การแปลเป็นท้องถิ่น/"
+    },
+    {
+     "number": "5.6",
+     "title": "วิศวกรรมส่วนหน้า",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-06-วิศวกรรมส่วนหน้า/"
+    },
+    {
+     "number": "5.7",
+     "title": "การพัฒนาแอปพลิเคชันมือถือ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-07-การพัฒนาแอปพลิเคชันมือถือ/"
+    },
+    {
+     "number": "5.8",
+     "title": "การวิจัยการออกแบบและการทดสอบการใช้งาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-08-การวิจัยการออกแบบ-และ-การทดสอบการใช้งาน/"
+    },
+    {
+     "number": "5.9",
+     "title": "การออกแบบบริการ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-09-การออกแบบบริการ/"
+    },
+    {
+     "number": "5.10",
+     "title": "การออกแบบการแสดงข้อมูลด้วยภาพ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/05-10-การออกแบบการแสดงข้อมูลด้วยภาพ/"
+    },
+    {
+     "number": "6.0",
+     "title": "บทนำส่วนที่ 6: ปัญญาประดิษฐ์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-00-ปัญญาประดิษฐ์/"
+    },
+    {
+     "number": "6.1",
+     "title": "กลยุทธ์และความพร้อมด้านเอไอ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-01-กลยุทธ์-และ-ความพร้อมด้านเอไอ/"
+    },
+    {
+     "number": "6.2",
+     "title": "วิศวกรรมการเรียนรู้ของเครื่อง (MLOps)",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-02-เอ็มแอลออปส์/"
+    },
+    {
+     "number": "6.3",
+     "title": "เอไอเชิงสร้างสรรค์และแอปพลิเคชันแอลแอลเอ็ม",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-03-เอไอเชิงสร้างสรรค์-และ-แอปพลิเคชันแอลแอลเอ็ม/"
+    },
+    {
+     "number": "6.4",
+     "title": "การพัฒนาซอฟต์แวร์ด้วยเอไอช่วย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-04-การพัฒนาซอฟต์แวร์ด้วยเอไอช่วย/"
+    },
+    {
+     "number": "6.5",
+     "title": "เอไอที่รับผิดชอบและน่าเชื่อถือ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-05-เอไอที่รับผิดชอบ-และ-น่าเชื่อถือ/"
+    },
+    {
+     "number": "6.6",
+     "title": "โครงสร้างพื้นฐานและปฏิบัติการเอไอ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-06-โครงสร้างพื้นฐาน-และ-ปฏิบัติการเอไอ/"
+    },
+    {
+     "number": "6.7",
+     "title": "เอไอเอเจนต์และระบบเชิงเอเจนต์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-07-เอไอเอเจนต์-และ-ระบบเชิงเอเจนต์/"
+    },
+    {
+     "number": "6.8",
+     "title": "การประเมินและการทดสอบเอไอ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-08-การประเมิน-และ-การทดสอบเอไอ/"
+    },
+    {
+     "number": "6.9",
+     "title": "วิศวกรรมพรอมต์และการออกแบบบริบท",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/06-09-วิศวกรรมพรอมต์-และ-การออกแบบบริบท/"
+    },
+    {
+     "number": "7.0",
+     "title": "บทนำส่วนที่ 7: ข้อมูล การวิเคราะห์ และข้อมูลเชิงลึก",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-00-ข้อมูล-และ-การวิเคราะห์/"
+    },
+    {
+     "number": "7.1",
+     "title": "กลยุทธ์และธรรมาภิบาลข้อมูล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-01-กลยุทธ์-และ-ธรรมาภิบาลข้อมูล/"
+    },
+    {
+     "number": "7.2",
+     "title": "วิศวกรรมข้อมูล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-02-วิศวกรรมข้อมูล/"
+    },
+    {
+     "number": "7.3",
+     "title": "การวิเคราะห์และธุรกิจอัจฉริยะ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-03-การวิเคราะห์-และ-ธุรกิจอัจฉริยะ/"
+    },
+    {
+     "number": "7.4",
+     "title": "การวิเคราะห์ผลิตภัณฑ์และการทดลอง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-04-การวิเคราะห์ผลิตภัณฑ์-และ-การทดลอง/"
+    },
+    {
+     "number": "7.5",
+     "title": "วิทยาการการตัดสินใจและวัฒนธรรมข้อมูล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-05-วิทยาการการตัดสินใจ-และ-วัฒนธรรมข้อมูล/"
+    },
+    {
+     "number": "7.6",
+     "title": "ข้อมูลเรียลไทม์และสตรีมมิง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-06-ข้อมูลเรียลไทม์-และ-สตรีมมิง/"
+    },
+    {
+     "number": "7.7",
+     "title": "การสร้างแบบจำลองข้อมูลและชั้นความหมาย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-07-การสร้างแบบจำลองข้อมูล-และ-ชั้นความหมาย/"
+    },
+    {
+     "number": "7.8",
+     "title": "คุณภาพข้อมูลและการสังเกตได้",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-08-คุณภาพข้อมูล-และ-การสังเกตได้/"
+    },
+    {
+     "number": "7.9",
+     "title": "การจัดการข้อมูลหลักและข้อมูลอ้างอิง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/07-09-การจัดการข้อมูลหลัก-และ-ข้อมูลอ้างอิง/"
+    },
+    {
+     "number": "8.0",
+     "title": "บทนำส่วนที่ 8: ระบบอัตโนมัติ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-00-ระบบอัตโนมัติ/"
+    },
+    {
+     "number": "8.1",
+     "title": "ซีไอซีดีและการส่งมอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-01-ซีไอซีดี-และ-การส่งมอบ/"
+    },
+    {
+     "number": "8.2",
+     "title": "โครงสร้างพื้นฐานเป็นโค้ดและคอนฟิกูเรชัน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-02-โครงสร้างพื้นฐานเป็นโค้ด-และ-คอนฟิกูเรชัน/"
+    },
+    {
+     "number": "8.3",
+     "title": "คอนเทนเนอร์ การจัดการคอนเทนเนอร์ และคลาวด์เนทีฟ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-03-คอนเทนเนอร์-การจัดการ-คลาวด์เนทีฟ/"
+    },
+    {
+     "number": "8.4",
+     "title": "วิศวกรรมแพลตฟอร์มและประสบการณ์นักพัฒนา",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-04-วิศวกรรมแพลตฟอร์ม-และ-ประสบการณ์นักพัฒนา/"
+    },
+    {
+     "number": "8.5",
+     "title": "ระบบอัตโนมัติการทดสอบ และ กระบวนการ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-05-ระบบอัตโนมัติการทดสอบ-และ-กระบวนการ/"
+    },
+    {
+     "number": "8.6",
+     "title": "การจัดการรุ่นเผยแพร่ และ การส่งมอบแบบค่อยเป็นค่อยไป",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-06-การจัดการรุ่นเผยแพร่-และ-การส่งมอบแบบค่อยเป็นค่อยไป/"
+    },
+    {
+     "number": "8.7",
+     "title": "ระบบบิลด์ และ การจัดการอาร์ติแฟกต์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/08-07-ระบบบิลด์-และ-การจัดการอาร์ติแฟกต์/"
+    },
+    {
+     "number": "9.0",
+     "title": "บทนำส่วนที่ 9: ปฏิบัติการ และ ความน่าเชื่อถือ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-00-ปฏิบัติการ-และ-ความน่าเชื่อถือ/"
+    },
+    {
+     "number": "9.1",
+     "title": "วิศวกรรมความน่าเชื่อถือของไซต์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-01-วิศวกรรมความน่าเชื่อถือของไซต์/"
+    },
+    {
+     "number": "9.2",
+     "title": "การสังเกตได้ และเทเลเมทรี",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-02-การสังเกตได้-และ-เทเลเมทรี/"
+    },
+    {
+     "number": "9.3",
+     "title": "การจัดการเหตุการณ์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-03-การจัดการเหตุการณ์/"
+    },
+    {
+     "number": "9.4",
+     "title": "ต้นทุน ความยั่งยืน ซอฟต์แวร์สีเขียว",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-04-ต้นทุน-ความยั่งยืน-ซอฟต์แวร์สีเขียว/"
+    },
+    {
+     "number": "9.5",
+     "title": "การกู้คืนจากภัยพิบัติและความต่อเนื่องทางธุรกิจ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-05-การกู้คืนจากภัยพิบัติ-และ-ความต่อเนื่องทางธุรกิจ/"
+    },
+    {
+     "number": "9.6",
+     "title": "วิศวกรรมความโกลาหลและการทดสอบความทนทาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-06-วิศวกรรมความโกลาหล-และ-การทดสอบความทนทาน/"
+    },
+    {
+     "number": "9.7",
+     "title": "การวางแผนความจุและการพยากรณ์ความต้องการ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-07-การวางแผนความจุ-และ-การพยากรณ์ความต้องการ/"
+    },
+    {
+     "number": "9.8",
+     "title": "การเข้าเวรและความพร้อมปฏิบัติการ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/09-08-การเข้าเวร-และ-ความพร้อมปฏิบัติการ/"
+    },
+    {
+     "number": "10.0",
+     "title": "บทนำส่วนที่ 10: การจัดการโครงการ ผลิตภัณฑ์ แผนงาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-00-การจัดการโครงการ-ผลิตภัณฑ์-แผนงาน/"
+    },
+    {
+     "number": "10.1",
+     "title": "การจัดการพอร์ตโฟลิโอและแผนงาน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-01-การจัดการพอร์ตโฟลิโอ-และ-แผนงาน/"
+    },
+    {
+     "number": "10.2",
+     "title": "ความเสี่ยง การตรวจสอบ และการรับรอง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-02-ความเสี่ยง-การตรวจสอบ-การรับรอง/"
+    },
+    {
+     "number": "10.3",
+     "title": "การจัดซื้อ โอเพนซอร์ส และการอนุญาตใช้สิทธิ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-03-การจัดซื้อ-โอเพนซอร์ส-การอนุญาตใช้สิทธิ/"
+    },
+    {
+     "number": "10.4",
+     "title": "การดูแลระบบขนาดใหญ่และอายุยืน",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-04-การดูแลระบบขนาดใหญ่-และ-อายุยืน/"
+    },
+    {
+     "number": "10.5",
+     "title": "จริยธรรม ความรับผิดชอบ ประโยชน์สาธารณะ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-05-จริยธรรม-ความรับผิดชอบ-ประโยชน์สาธารณะ/"
+    },
+    {
+     "number": "10.6",
+     "title": "การจัดการโครงการ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-06-การจัดการโครงการ/"
+    },
+    {
+     "number": "10.7",
+     "title": "แอไจล์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-07-แอไจล์/"
+    },
+    {
+     "number": "10.8",
+     "title": "แบบจำลองวุฒิภาวะ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-08-แบบจำลองวุฒิภาวะ/"
+    },
+    {
+     "number": "10.9",
+     "title": "นวัตกรรม และ ความร่วมมือ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-09-นวัตกรรม-และ-ความร่วมมือ/"
+    },
+    {
+     "number": "10.10",
+     "title": "เศรษฐศาสตร์วิศวกรรมซอฟต์แวร์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-10-เศรษฐศาสตร์วิศวกรรมซอฟต์แวร์/"
+    },
+    {
+     "number": "10.11",
+     "title": "อธิปไตยดิจิทัล",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-11-อธิปไตยดิจิทัล/"
+    },
+    {
+     "number": "10.12",
+     "title": "โอเพนซอร์ส เทียบกับ ซอร์สปิด",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-12-โอเพนซอร์ส-เทียบกับ-ซอร์สปิด/"
+    },
+    {
+     "number": "10.13",
+     "title": "ความร่วมมือระหว่างองค์กร",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-13-ความร่วมมือระหว่างองค์กร/"
+    },
+    {
+     "number": "10.14",
+     "title": "การจัดการผลิตภัณฑ์ และ การค้นพบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-14-การจัดการผลิตภัณฑ์-และ-การค้นพบ/"
+    },
+    {
+     "number": "10.15",
+     "title": "การประมาณการและการพยากรณ์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-15-การประมาณการ-และ-การพยากรณ์/"
+    },
+    {
+     "number": "10.16",
+     "title": "การจัดการผู้มีส่วนได้ส่วนเสียและการสื่อสาร",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-16-การจัดการผู้มีส่วนได้ส่วนเสีย-และ-การสื่อสาร/"
+    },
+    {
+     "number": "10.17",
+     "title": "การจัดการการเปลี่ยนแปลงองค์กร",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-17-การจัดการการเปลี่ยนแปลงองค์กร/"
+    },
+    {
+     "number": "10.18",
+     "title": "สำนักงานโครงการโอเพนซอร์ส (OSPO) และการมีส่วนร่วมกับต้นน้ำ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/10-18-สำนักงานโครงการโอเพนซอร์ส/"
+    },
+    {
+     "number": "11.0",
+     "title": "บทนำส่วนที่ 11: การไหล การค้นพบ และการส่งมอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-00-การไหล-การค้นพบ-และ-การส่งมอบ/"
+    },
+    {
+     "number": "11.1",
+     "title": "สายธารการค้นพบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-01-สายธารการค้นพบ/"
+    },
+    {
+     "number": "11.2",
+     "title": "สายธารการส่งมอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-02-สายธารการส่งมอบ/"
+    },
+    {
+     "number": "11.3",
+     "title": "ทฤษฎีแถวคอย",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-03-ทฤษฎีแถวคอย/"
+    },
+    {
+     "number": "11.4",
+     "title": "วัตถุประสงค์และผลลัพธ์หลัก (OKR)",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-04-วัตถุประสงค์-และ-ผลลัพธ์หลัก/"
+    },
+    {
+     "number": "11.5",
+     "title": "ตัวชี้วัดผลงานหลัก",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-05-ตัวชี้วัดผลงานหลัก/"
+    },
+    {
+     "number": "11.6",
+     "title": "การทำแผนผังสายธารคุณค่า และ ต้นทุนของความล่าช้า",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/11-06-การทำแผนผังสายธารคุณค่า-และ-ต้นทุนของความล่าช้า/"
+    },
+    {
+     "number": "12.0",
+     "title": "บทนำส่วนที่ 12: ภาคผนวก",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-00-ภาคผนวก/"
+    },
+    {
+     "number": "12.1",
+     "title": "อภิธานศัพท์",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-01-อภิธานศัพท์/"
+    },
+    {
+     "number": "12.2",
+     "title": "รายการตรวจสอบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-02-รายการตรวจสอบ/"
+    },
+    {
+     "number": "12.3",
+     "title": "แม่แบบ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-03-แม่แบบ/"
+    },
+    {
+     "number": "12.4",
+     "title": "การประเมินตนเองด้านวุฒิภาวะ",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-04-การประเมินตนเองด้านวุฒิภาวะ/"
+    },
+    {
+     "number": "12.5",
+     "title": "เอกสารอ้างอิง",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-05-เอกสารอ้างอิง/"
+    },
+    {
+     "number": "12.6",
+     "title": "แผนที่นำทางการนำไปใช้",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-06-แผนที่นำทางการนำไปใช้/"
+    },
+    {
+     "number": "12.7",
+     "title": "ดัชนี",
+     "url": "https://software-engineering-guide.github.io/th-001/หัวข้อ/12-07-ดัชนี/"
+    }
+   ]
   }
  ]
 }
