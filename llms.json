@@ -36062,6 +36062,56 @@
      "number": "5.10",
      "title": "Progettazione della visualizzazione dei dati",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-10-progettazione-della-visualizzazione-dei-dati/"
+    },
+    {
+     "number": "6.0",
+     "title": "Introduzione alla Parte 6: Intelligenza artificiale",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-00-intelligenza-artificiale/"
+    },
+    {
+     "number": "6.1",
+     "title": "Strategia e preparazione per l'IA",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-01-strategia-e-preparazione-per-l-ia/"
+    },
+    {
+     "number": "6.2",
+     "title": "Ingegneria dell'apprendimento automatico (MLOps)",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "IA generativa e applicazioni LLM",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-03-ia-generativa-e-applicazioni-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Sviluppo software assistito dall'IA",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-04-sviluppo-software-assistito-dall-ia/"
+    },
+    {
+     "number": "6.5",
+     "title": "IA responsabile e affidabile",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-05-ia-responsabile-e-affidabile/"
+    },
+    {
+     "number": "6.6",
+     "title": "Infrastruttura e operazioni per l'IA",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-06-infrastruttura-e-operazioni-per-l-ia/"
+    },
+    {
+     "number": "6.7",
+     "title": "Agenti IA e sistemi agentici",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-07-agenti-ia-e-sistemi-agentici/"
+    },
+    {
+     "number": "6.8",
+     "title": "Valutazione e test dell'IA",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-08-valutazione-e-test-dell-ia/"
+    },
+    {
+     "number": "6.9",
+     "title": "Prompt engineering e progettazione del contesto",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-09-prompt-engineering-e-progettazione-del-contesto/"
     }
    ]
   }
