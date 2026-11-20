@@ -7,6 +7,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Locales `it-it` and `it-001` (Italian): all 147 chapters translated by hand, with Italian
+  directory segments under `argomenti/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`, each with a `sitemap.xml`.
 - Locales `vi-vn` and `vi-001` (Vietnamese): all 147 chapters translated by hand, with Vietnamese
   directory segments under `chủ-đề/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`, each with a `sitemap.xml`.

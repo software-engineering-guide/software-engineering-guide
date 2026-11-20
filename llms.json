@@ -36419,6 +36419,749 @@
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/12-07-indice/"
     }
    ]
+  },
+  {
+   "code": "it-001",
+   "label": "Italiano",
+   "home": "https://software-engineering-guide.github.io/it-001/",
+   "topicsSegment": "argomenti",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Introduzione alla Parte 1: Persone",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-00-persone/"
+    },
+    {
+     "number": "1.1",
+     "title": "Valori dell'ingegneria del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-01-valori-dell-ingegneria-del-software/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topologie dei team e progettazione organizzativa",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-02-topologie-dei-team/"
+    },
+    {
+     "number": "1.3",
+     "title": "Ruoli, scale di carriera e crescita",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-03-ruoli-scale-di-carriera-e-crescita/"
+    },
+    {
+     "number": "1.4",
+     "title": "Modi di lavorare",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-04-modi-di-lavorare/"
+    },
+    {
+     "number": "1.5",
+     "title": "Decisioni e governance",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-05-decisioni-e-governance/"
+    },
+    {
+     "number": "1.6",
+     "title": "Registri delle decisioni",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-06-registri-delle-decisioni/"
+    },
+    {
+     "number": "1.7",
+     "title": "Standard ingegneristici ed eccezioni",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-07-standard-ingegneristici-ed-eccezioni/"
+    },
+    {
+     "number": "1.8",
+     "title": "Assunzione, colloqui e inserimento",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-08-assunzione-colloqui-e-inserimento/"
+    },
+    {
+     "number": "1.9",
+     "title": "Lavoro distribuito e da remoto",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-09-lavoro-distribuito-e-da-remoto/"
+    },
+    {
+     "number": "1.10",
+     "title": "Efficacia ingegneristica e produttività degli sviluppatori",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-10-efficacia-ingegneristica-e-produttivita-degli-sviluppatori/"
+    },
+    {
+     "number": "1.11",
+     "title": "Gestione dell'ingegneria",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-11-gestione-dell-ingegneria/"
+    },
+    {
+     "number": "1.12",
+     "title": "Diversità, equità, inclusione e appartenenza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-12-diversita-equita-inclusione-e-appartenenza/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, coaching e condivisione della conoscenza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/01-13-mentoring-coaching-e-condivisione-della-conoscenza/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introduzione alla Parte 2: Programmazione del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-00-programmazione-del-software/"
+    },
+    {
+     "number": "2.1",
+     "title": "Standard di codifica e stile",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-01-standard-di-codifica-e-stile/"
+    },
+    {
+     "number": "2.2",
+     "title": "Principi di progettazione del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-02-principi-di-progettazione-del-software/"
+    },
+    {
+     "number": "2.3",
+     "title": "API e progettazione delle interfacce",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-03-api-e-progettazione-delle-interfacce/"
+    },
+    {
+     "number": "2.4",
+     "title": "Strategia di test",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-04-strategia-di-test/"
+    },
+    {
+     "number": "2.5",
+     "title": "Revisione del codice e collaborazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-05-revisione-del-codice-e-collaborazione/"
+    },
+    {
+     "number": "2.6",
+     "title": "Controllo di versione e gestione dei sorgenti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-06-controllo-di-versione-e-gestione-dei-sorgenti/"
+    },
+    {
+     "number": "2.7",
+     "title": "Documentazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-07-documentazione/"
+    },
+    {
+     "number": "2.8",
+     "title": "Requisiti del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-08-requisiti-del-software/"
+    },
+    {
+     "number": "2.9",
+     "title": "Costruzione del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-09-costruzione-del-software/"
+    },
+    {
+     "number": "2.10",
+     "title": "Gestione della configurazione del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-10-gestione-della-configurazione-del-software/"
+    },
+    {
+     "number": "2.11",
+     "title": "Qualità del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-11-qualita-del-software/"
+    },
+    {
+     "number": "2.12",
+     "title": "Modelli e metodi del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-12-modelli-e-metodi-del-software/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fondamenti di informatica, matematica e ingegneria",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-13-fondamenti-di-informatica-matematica-e-ingegneria/"
+    },
+    {
+     "number": "2.14",
+     "title": "Struttura di progetto e repository",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-14-struttura-di-progetto-e-repository/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debug e risoluzione dei problemi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-15-debug-e-risoluzione-dei-problemi/"
+    },
+    {
+     "number": "2.16",
+     "title": "Ingegneria delle prestazioni",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-16-ingegneria-delle-prestazioni/"
+    },
+    {
+     "number": "2.17",
+     "title": "Concorrenza e parallelismo",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-17-concorrenza-e-parallelismo/"
+    },
+    {
+     "number": "2.18",
+     "title": "Gestione delle dipendenze e della supply chain",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-18-gestione-delle-dipendenze-e-della-supply-chain/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refactoring e debito tecnico",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-19-refactoring-e-debito-tecnico/"
+    },
+    {
+     "number": "2.20",
+     "title": "Gestione degli errori e schemi di resilienza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-20-gestione-degli-errori-e-schemi-di-resilienza/"
+    },
+    {
+     "number": "2.21",
+     "title": "Sistemi di tipi e analisi statica",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/02-21-sistemi-di-tipi-e-analisi-statica/"
+    },
+    {
+     "number": "3.0",
+     "title": "Introduzione alla Parte 3: Sistemi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-00-sistemi/"
+    },
+    {
+     "number": "3.1",
+     "title": "Fondamenti dell'architettura",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-01-fondamenti-dell-architettura/"
+    },
+    {
+     "number": "3.2",
+     "title": "Stili e schemi architetturali",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-02-stili-e-schemi-architetturali/"
+    },
+    {
+     "number": "3.3",
+     "title": "Sistemi distribuiti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-03-sistemi-distribuiti/"
+    },
+    {
+     "number": "3.4",
+     "title": "Architettura dei dati e archiviazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-04-architettura-dei-dati-e-archiviazione/"
+    },
+    {
+     "number": "3.5",
+     "title": "Scalabilità, prestazioni e resilienza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-05-scalabilita-prestazioni-resilienza/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernizzazione dei sistemi legacy",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-06-modernizzazione-dei-sistemi-legacy/"
+    },
+    {
+     "number": "3.7",
+     "title": "Manutenzione del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-07-manutenzione-del-software/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilità e standard aperti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-08-interoperabilita-e-standard-aperti/"
+    },
+    {
+     "number": "3.9",
+     "title": "Ingegneria dei sistemi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-09-ingegneria-dei-sistemi/"
+    },
+    {
+     "number": "3.10",
+     "title": "Sistemi embedded e real-time",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-10-sistemi-embedded-e-real-time/"
+    },
+    {
+     "number": "3.11",
+     "title": "Architettura cloud",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-11-architettura-cloud/"
+    },
+    {
+     "number": "3.12",
+     "title": "Architettura a eventi e messaggistica",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-12-architettura-a-eventi-e-messaggistica/"
+    },
+    {
+     "number": "3.13",
+     "title": "Reti e connettività",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-13-reti-e-connettivita/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multitenancy e architettura SaaS",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-14-multitenancy-e-architettura-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching e distribuzione dei contenuti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-15-caching-e-distribuzione-dei-contenuti/"
+    },
+    {
+     "number": "3.16",
+     "title": "API gateway e service mesh",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-16-api-gateway-e-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Ricerca e recupero dell'informazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/03-17-ricerca-e-recupero-dell-informazione/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introduzione alla Parte 4: Sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-00-sicurezza/"
+    },
+    {
+     "number": "4.1",
+     "title": "Fondamenti e cultura della sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-01-fondamenti-e-cultura-della-sicurezza/"
+    },
+    {
+     "number": "4.2",
+     "title": "Sicurezza delle applicazioni",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-02-sicurezza-delle-applicazioni/"
+    },
+    {
+     "number": "4.3",
+     "title": "Sicurezza dell'infrastruttura e del cloud",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-03-sicurezza-dell-infrastruttura-e-del-cloud/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operazioni di sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-04-operazioni-di-sicurezza/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privacy e protezione dei dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-05-privacy-e-protezione-dei-dati/"
+    },
+    {
+     "number": "4.6",
+     "title": "Conformità e governance",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-06-conformita-e-governance/"
+    },
+    {
+     "number": "4.7",
+     "title": "Gestione delle identità e degli accessi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-07-gestione-delle-identita-e-degli-accessi/"
+    },
+    {
+     "number": "4.8",
+     "title": "Crittografia e gestione delle chiavi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-08-crittografia-e-gestione-delle-chiavi/"
+    },
+    {
+     "number": "4.9",
+     "title": "Ciclo di vita sicuro dello sviluppo software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-09-ciclo-di-vita-sicuro-dello-sviluppo-software/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetration test e red teaming",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/04-10-penetration-test-e-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introduzione alla Parte 5: Progettazione UI/UX",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-00-progettazione-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Fondamenti di UX",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-01-fondamenti-di-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Progettazione UI e design system",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-02-progettazione-ui-e-design-system/"
+    },
+    {
+     "number": "5.3",
+     "title": "Accessibilità",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-03-accessibilita/"
+    },
+    {
+     "number": "5.4",
+     "title": "Progettazione dei contenuti e della comunicazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-04-progettazione-dei-contenuti-e-della-comunicazione/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internazionalizzazione e localizzazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-05-internazionalizzazione-e-localizzazione/"
+    },
+    {
+     "number": "5.6",
+     "title": "Ingegneria frontend",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-06-ingegneria-frontend/"
+    },
+    {
+     "number": "5.7",
+     "title": "Sviluppo di applicazioni mobili",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-07-sviluppo-di-applicazioni-mobili/"
+    },
+    {
+     "number": "5.8",
+     "title": "Ricerca di design e test di usabilità",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-08-ricerca-di-design-e-test-di-usabilita/"
+    },
+    {
+     "number": "5.9",
+     "title": "Progettazione dei servizi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-09-progettazione-dei-servizi/"
+    },
+    {
+     "number": "5.10",
+     "title": "Progettazione della visualizzazione dei dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/05-10-progettazione-della-visualizzazione-dei-dati/"
+    },
+    {
+     "number": "6.0",
+     "title": "Introduzione alla Parte 6: Intelligenza artificiale",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-00-intelligenza-artificiale/"
+    },
+    {
+     "number": "6.1",
+     "title": "Strategia e preparazione per l'IA",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-01-strategia-e-preparazione-per-l-ia/"
+    },
+    {
+     "number": "6.2",
+     "title": "Ingegneria dell'apprendimento automatico (MLOps)",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "IA generativa e applicazioni LLM",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-03-ia-generativa-e-applicazioni-llm/"
+    },
+    {
+     "number": "6.4",
+     "title": "Sviluppo software assistito dall'IA",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-04-sviluppo-software-assistito-dall-ia/"
+    },
+    {
+     "number": "6.5",
+     "title": "IA responsabile e affidabile",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-05-ia-responsabile-e-affidabile/"
+    },
+    {
+     "number": "6.6",
+     "title": "Infrastruttura e operazioni per l'IA",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-06-infrastruttura-e-operazioni-per-l-ia/"
+    },
+    {
+     "number": "6.7",
+     "title": "Agenti IA e sistemi agentici",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-07-agenti-ia-e-sistemi-agentici/"
+    },
+    {
+     "number": "6.8",
+     "title": "Valutazione e test dell'IA",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-08-valutazione-e-test-dell-ia/"
+    },
+    {
+     "number": "6.9",
+     "title": "Prompt engineering e progettazione del contesto",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/06-09-prompt-engineering-e-progettazione-del-contesto/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introduzione alla Parte 7: dati, analisi e conoscenza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-00-dati-e-analisi/"
+    },
+    {
+     "number": "7.1",
+     "title": "Strategia e governance dei dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-01-strategia-e-governance-dei-dati/"
+    },
+    {
+     "number": "7.2",
+     "title": "Ingegneria dei dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-02-ingegneria-dei-dati/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analisi e business intelligence",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-03-analisi-e-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Analisi di prodotto e sperimentazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-04-analisi-di-prodotto-e-sperimentazione/"
+    },
+    {
+     "number": "7.5",
+     "title": "Scienza delle decisioni e cultura basata sui dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-05-scienza-delle-decisioni-e-cultura-dei-dati/"
+    },
+    {
+     "number": "7.6",
+     "title": "Dati in tempo reale e in streaming",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-06-dati-in-tempo-reale-e-in-streaming/"
+    },
+    {
+     "number": "7.7",
+     "title": "Modellazione dei dati e strato semantico",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-07-modellazione-dei-dati-e-strato-semantico/"
+    },
+    {
+     "number": "7.8",
+     "title": "Qualità e osservabilità dei dati",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-08-qualita-e-osservabilita-dei-dati/"
+    },
+    {
+     "number": "7.9",
+     "title": "Gestione dei dati master e di riferimento",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/07-09-gestione-dei-dati-master-e-di-riferimento/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introduzione alla Parte 8: automazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-00-automazione/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD e distribuzione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-01-ci-cd-e-distribuzione/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastruttura come codice e configurazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-02-infrastruttura-come-codice-e-configurazione/"
+    },
+    {
+     "number": "8.3",
+     "title": "Container, orchestrazione e cloud-native",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-03-container-orchestrazione-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platform engineering ed esperienza degli sviluppatori",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-04-platform-engineering-e-devex/"
+    },
+    {
+     "number": "8.5",
+     "title": "Automazione di test e processi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-05-automazione-di-test-e-processi/"
+    },
+    {
+     "number": "8.6",
+     "title": "Gestione dei rilasci e distribuzione progressiva",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-06-gestione-dei-rilasci-e-distribuzione-progressiva/"
+    },
+    {
+     "number": "8.7",
+     "title": "Sistemi di build e gestione degli artefatti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/08-07-sistemi-di-build-e-gestione-degli-artefatti/"
+    },
+    {
+     "number": "9.0",
+     "title": "Introduzione alla Parte 9: operazioni, affidabilità e osservabilità",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-00-operazioni-e-affidabilita/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site reliability engineering",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-01-site-reliability-engineering/"
+    },
+    {
+     "number": "9.2",
+     "title": "Osservabilità e telemetria",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-02-osservabilita-e-telemetria/"
+    },
+    {
+     "number": "9.3",
+     "title": "Gestione degli incidenti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-03-gestione-degli-incidenti/"
+    },
+    {
+     "number": "9.4",
+     "title": "Costi, sostenibilità e software verde",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-04-costi-sostenibilita-e-software-verde/"
+    },
+    {
+     "number": "9.5",
+     "title": "Ripristino di emergenza e continuità operativa",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-05-ripristino-di-emergenza-e-continuita-operativa/"
+    },
+    {
+     "number": "9.6",
+     "title": "Chaos engineering e test di resilienza",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-06-chaos-engineering-e-test-di-resilienza/"
+    },
+    {
+     "number": "9.7",
+     "title": "Pianificazione della capacità e previsione della domanda",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-07-pianificazione-della-capacita-e-previsione-della-domanda/"
+    },
+    {
+     "number": "9.8",
+     "title": "Reperibilità e prontezza operativa",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/09-08-reperibilita-e-prontezza-operativa/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introduzione alla Parte 10: gestione di progetti, prodotti e programmi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-00-gestione-di-progetti-prodotti-e-programmi/"
+    },
+    {
+     "number": "10.1",
+     "title": "Gestione di portafoglio e programmi",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-01-gestione-di-portafoglio-e-programmi/"
+    },
+    {
+     "number": "10.2",
+     "title": "Rischio, audit e garanzia",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-02-rischio-audit-e-garanzia/"
+    },
+    {
+     "number": "10.3",
+     "title": "Appalti, open source e licenze",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-03-appalti-open-source-e-licenze/"
+    },
+    {
+     "number": "10.4",
+     "title": "Sostenere sistemi grandi e di lunga vita",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-04-sostenere-sistemi-grandi-e-di-lunga-vita/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etica, responsabilità e interesse pubblico",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-05-etica-responsabilita-e-interesse-pubblico/"
+    },
+    {
+     "number": "10.6",
+     "title": "Gestione dei progetti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-06-gestione-dei-progetti/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Modelli di maturità",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-08-modelli-di-maturita/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovazione e partnership",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-09-innovazione-e-partnership/"
+    },
+    {
+     "number": "10.10",
+     "title": "Economia dell'ingegneria del software",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-10-economia-dell-ingegneria-del-software/"
+    },
+    {
+     "number": "10.11",
+     "title": "Sovranità digitale",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-11-sovranita-digitale/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open source contro sorgente chiuso",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-12-open-source-contro-sorgente-chiuso/"
+    },
+    {
+     "number": "10.13",
+     "title": "Collaborazione tra organizzazioni",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-13-collaborazione-tra-organizzazioni/"
+    },
+    {
+     "number": "10.14",
+     "title": "Gestione del prodotto e scoperta",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-14-gestione-del-prodotto-e-scoperta/"
+    },
+    {
+     "number": "10.15",
+     "title": "Stima e previsione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-15-stima-e-previsione/"
+    },
+    {
+     "number": "10.16",
+     "title": "Gestione degli stakeholder e comunicazione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-16-gestione-degli-stakeholder-e-comunicazione/"
+    },
+    {
+     "number": "10.17",
+     "title": "Gestione del cambiamento organizzativo",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-17-gestione-del-cambiamento-organizzativo/"
+    },
+    {
+     "number": "10.18",
+     "title": "Ufficio di programma open source (OSPO) e contributo a monte",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/10-18-ufficio-di-programma-open-source/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introduzione alla Parte 11: Flusso: pipeline di scoperta e di consegna",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-00-flusso-scoperta-e-consegna/"
+    },
+    {
+     "number": "11.1",
+     "title": "La pipeline di scoperta",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-01-pipeline-di-scoperta/"
+    },
+    {
+     "number": "11.2",
+     "title": "La pipeline di consegna",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-02-pipeline-di-consegna/"
+    },
+    {
+     "number": "11.3",
+     "title": "Teoria delle code",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-03-teoria-delle-code/"
+    },
+    {
+     "number": "11.4",
+     "title": "Obiettivi e risultati chiave (OKR)",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-04-obiettivi-e-risultati-chiave/"
+    },
+    {
+     "number": "11.5",
+     "title": "Indicatori chiave di prestazione (KPI)",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-05-indicatori-chiave-di-prestazione/"
+    },
+    {
+     "number": "11.6",
+     "title": "Mappatura del flusso di valore e costo del ritardo",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/11-06-mappatura-del-flusso-di-valore-e-costo-del-ritardo/"
+    },
+    {
+     "number": "12.0",
+     "title": "Appendici",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-00-appendici/"
+    },
+    {
+     "number": "12.1",
+     "title": "Glossario",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-01-glossario/"
+    },
+    {
+     "number": "12.2",
+     "title": "Liste di controllo",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-02-liste-di-controllo/"
+    },
+    {
+     "number": "12.3",
+     "title": "Modelli",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-03-modelli/"
+    },
+    {
+     "number": "12.4",
+     "title": "Autovalutazione della maturità",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-04-autovalutazione-della-maturita/"
+    },
+    {
+     "number": "12.5",
+     "title": "Riferimenti",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-05-riferimenti/"
+    },
+    {
+     "number": "12.6",
+     "title": "Roadmap di adozione",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-06-roadmap-di-adozione/"
+    },
+    {
+     "number": "12.7",
+     "title": "Indice",
+     "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-07-indice/"
+    }
+   ]
   }
  ]
 }
