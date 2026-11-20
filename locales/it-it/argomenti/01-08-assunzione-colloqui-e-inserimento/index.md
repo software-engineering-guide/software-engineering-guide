@@ -1,0 +1,159 @@
+# 1.8 Assunzione, colloqui e inserimento
+
+## Panoramica e motivazioni
+
+Assumere è la decisione con la leva più alta che il tuo team prende, ed è la più facile da fare male. Ogni persona che porti dentro sposta la tua capacità, la tua cultura e i tuoi standard. Eppure la maggior parte dei team tratta la [selezione del personale](https://en.wikipedia.org/wiki/Recruitment) come una serie di conversazioni improvvisate, giudica i candidati a intuito e poi si chiede perché il nuovo assunto fatichi o se ne vada nel primo trimestre. Questo capitolo riguarda la sostituzione di quell'improvvisazione con un processo equo, strutturato e basato sulle prove, dal primo contatto fino ai novanta giorni.
+
+Per i grandi team la posta si cumula. Quando decine di manager conducono ciascuno il proprio ciclo di colloqui con la propria soglia privata, "assumiamo ingegneri senior" smette di significare qualcosa, le retribuzioni si disallineano e i pregiudizi si insinuano senza essere misurati. Un processo strutturato è il modo per far crescere l'organico senza abbassare l'asticella, e per difendere ogni decisione quando qualcuno chiede perché un candidato abbia ricevuto l'offerta e un altro no. L'assunzione si collega direttamente al tuo quadro di carriera (capitolo 1.3): non puoi inquadrare equamente un nuovo assunto rispetto a una scala che non hai scritto.
+
+Imprese ed enti pubblici lo avvertono più acutamente. Le imprese approvano le richieste di posizione attraverso controlli finanziari, conducono molte commissioni parallele che devono arrivare a verdetti confrontabili e competono sul [employer branding](https://en.wikipedia.org/wiki/Employer_branding) per talenti scarsi. Gli enti pubblici assumono con regole concorsuali di merito, preferenze per i veterani, controlli di sicurezza e tempi misurati in mesi, dovendo comunque al pubblico un processo dimostrabilmente equo. L'inserimento poi decide se la persona per cui hai lottato diventa produttiva in poche settimane o resta alla deriva per un trimestre.
+
+## Principi chiave
+
+- Assumi rispetto a un livello e a una griglia definiti, mai rispetto a un'impressione.
+- La struttura batte l'intuito: stesse domande, stessa valutazione, per ogni candidato.
+- Metti alla prova il lavoro, non le nozioni. Le prove pratiche prevedono; gli indovinelli no.
+- Valuta in modo indipendente, poi discuti. Discutere prima dei punteggi serve solo a diffondere l'opinione più rumorosa.
+- Un'ampia imbuto d'ingresso inclusivo è il modo più economico per alzare la qualità.
+- L'esperienza del candidato è il tuo marchio: ogni candidato scartato parla.
+- L'inserimento comincia prima del primo giorno e non è finito finché la persona non rilascia.
+- La velocità conta, ma un'assunzione sbagliata costa molto più di una lenta.
+
+## Raccomandazioni
+
+### Cerca in modo inclusivo e progetta un imbuto equo
+
+La qualità dell'assunzione si decide all'ingresso dell'imbuto. Se la tua pipeline è stretta e omogenea, nessun rigore nei colloqui recupera i candidati che non hai mai raggiunto. Scrivi le descrizioni dei posti in linguaggio semplice, elenca solo i requisiti di cui il lavoro ha davvero bisogno ed elimina i filtri gonfiati come "10 anni di esperienza su un framework di 5 anni" che escludono persone capaci. Cerca da più canali, non solo da segnalazioni, perché le pipeline basate solo sulle segnalazioni riproducono la tua demografia esistente. Segui la conversione dell'imbuto per fase e per gruppo, così da vedere dove perdi le persone. Usa un [sistema di tracciamento dei candidati (ATS)](https://en.wikipedia.org/wiki/Applicant_tracking_system) come registro unico di ogni candidato, così che nulla si perda e ogni decisione sia registrata.
+
+### Conduci colloqui strutturati con griglie e valutazione calibrata
+
+Un [colloquio non strutturato](https://en.wikipedia.org/wiki/Unstructured_interview) misura soprattutto quanto il candidato somigli all'intervistatore, ed è per questo che prevede male la prestazione lavorativa. Sostituiscilo con un [colloquio strutturato](https://en.wikipedia.org/wiki/Structured_interview): ogni candidato per un ruolo riceve le stesse domande pertinenti al lavoro, valutate rispetto a una griglia scritta con riferimenti concreti per ciò che rappresenta una risposta debole, solida e forte. Assegna a ogni intervistatore una competenza specifica da sondare, così che il ciclo copra il terreno una volta, non cinque. Fai scrivere agli intervistatori le proprie evidenze e il proprio punteggio in modo indipendente prima che qualcuno parli, così che nessuno si ancori alla prima opinione espressa. È la tua principale difesa contro i [bias cognitivi](https://en.wikipedia.org/wiki/Cognitive_bias), ed è ciò che rende confrontabili i verdetti tra molte commissioni.
+
+### Preferisci le prove pratiche alla lavagna ostile
+
+Il miglior indicatore del saper fare un lavoro è un campione di quel lavoro. Dai ai candidati un esercizio realistico: fare il debug di una piccola base di codice, rivedere una pull request, estendere una funzionalità o ragionare su un progetto che somigli al vostro lavoro reale. Un esercizio da svolgere a casa, a tempo (retribuito dove puoi e limitato a poche ore), rispetta chi va male ai colloqui sotto cronometro, mentre una sessione di programmazione in coppia dal vivo mette alla prova la collaborazione. Entrambi battono l'indovinello alla lavagna ostile, che premia trucchi di algoritmi memorizzati e prove generali, penalizza gli ansiosi e chi cambia carriera e correla debolmente con la prestazione reale. Qualunque formato scegli, di' ai candidati in anticipo esattamente che cosa aspettarsi.
+
+### Struttura il ciclo, poi discuti e calibra
+
+Un ciclo di colloqui è un piccolo numero di colloqui complementari, non una prova di resistenza. Quattro o cinque sessioni mirate che coprano programmazione, sistemi o progettazione e dimensioni comportamentali o di valori di solito bastano; più sessioni aggiungono costo e stanchezza senza aggiungere segnale. Tieni una riunione di sintesi in cui ogni intervistatore presenta le evidenze e il punteggio già assegnato prima che il gruppo converga su una raccomandazione. Un facilitatore neutrale o un comitato di assunzione che rivede i fascicoli di molti cicli è il modo in cui le imprese mantengono coerente l'asticella quando nessuno vede ogni candidato. Calibra gli intervistatori facendo sì che i nuovi affianchino, poi affianchino a ruoli invertiti, poi valutino accanto a un collega calibrato prima di condurre da soli.
+
+### Chiudi bene le offerte e proteggi l'esperienza del candidato
+
+Un ottimo processo fallisce comunque al traguardo se la chiusura è goffa. Muoviti in fretta una volta deciso, perché i migliori candidati hanno più offerte e si raffreddano in pochi giorni. Fai sostenere il caso di persona dal responsabile dell'assunzione e da un futuro collega, sii trasparente su livello e fascia retributiva e imposta con onestà le aspettative sul ruolo. Tratta ogni candidato, compresi quelli che scarti, come qualcuno che parlerà di te agli altri: rispondi subito, dai un rifiuto rispettoso e non sparire mai. L'esperienza del candidato è un input diretto dell'employer branding, e in un settore piccolo la tua reputazione come intervistatore viaggia.
+
+### Inquadra i nuovi assunti rispetto al quadro di carriera
+
+Decidi il livello prima del ciclo e valuta rispetto a esso. Gli intervistatori dovrebbero mappare le proprie evidenze sulla matrice delle competenze (capitolo 1.3), così che un verdetto "senior" significhi la stessa cosa sia che venga dalla commissione A sia dalla Z. Fai passare l'inquadramento dei nuovi assunti attraverso lo stesso organo di calibrazione che gestisce le promozioni, così che assunti esterni e personale interno stiano su un'unica scala anziché su due. Questo previene lo schema corrosivo per cui i nuovi assunti vengono inquadrati con generosità per chiudere l'accordo e gli ingegneri esistenti notano l'iniquità. Documenta nell'ATS la motivazione dell'inquadramento, per equità e per la difendibilità dell'equità retributiva.
+
+### Fai l'inserimento con un piano strutturato e rilascia nella prima settimana
+
+L'avviamento è un problema di progettazione, non un'attesa. Prepara accessi, hardware e un primo compito prima del primo giorno. Assegna un compagno di [inserimento](https://en.wikipedia.org/wiki/Onboarding) distinto dal manager, per rispondere alle piccole domande che le persone esitano a portare più in alto. Dai un piano scritto a 30/60/90 giorni: imparare i sistemi e rilasciare una piccola modifica nei primi trenta giorni, possedere una piccola funzionalità entro i sessanta e operare in autonomia entro i novanta. Punta a far rilasciare in produzione a ogni nuovo ingegnere qualcosa nella prima settimana, anche una correzione di una riga, perché nulla costruisce fiducia e porta alla luce strumenti rotti più in fretta. Appoggiati a un avviamento guidato dalla documentazione (capitolo 2.7): se un nuovo assunto non riesce a configurare tutto da solo, correggi la documentazione anziché ripetere il giro di presentazione, il che migliora l'inserimento per tutti quelli che seguiranno.
+
+### Misura l'avviamento e assumi su larga scala senza abbassare l'asticella
+
+Strumenta l'inserimento come strumenti la consegna. Segui il tempo al primo commit, il tempo al primo rilascio in produzione e un più approssimativo tempo alla produttività (quando la persona regge un carico normale). Numeri in crescita indicano ambienti rotti, documentazione scarna o responsabilità poco chiare, tutte cose risolvibili. Quando assumi in volume, scala il processo, non l'indulgenza: forma più intervistatori, aggiungi la revisione di comitato e osserva i segnali di qualità dell'assunzione e di abbandono precoce. La pressione della crescita è esattamente il momento in cui i team abbassano in silenzio l'asticella, quindi rendi l'asticella esplicita e verificata, così che sopravviva a un'ondata di assunzioni.
+
+## Compromessi: vantaggi e svantaggi
+
+| Scelta | Vantaggi | Svantaggi |
+| --- | --- | --- |
+| Colloqui strutturati con griglie | Predittivi, equi, confrontabili tra commissioni | Costosi da progettare; sembrano rigidi ad alcuni intervistatori |
+| Esercizio pratico da svolgere a casa | Realistico; più gentile con stili diversi | Onere di tempo per i candidati; abbandoni; sforzo di valutazione |
+| Programmazione dal vivo o in coppia | Rapida; mostra la collaborazione | Stressante; può penalizzare l'ansia più che la capacità |
+| Indovinello alla lavagna ostile | Economico; familiare | Indicatore debole; si può preparare; sfavorisce molti |
+| Revisione di comitato di assunzione | Asticella coerente su larga scala | Più lenta; aggiunge un passaggio di pianificazione e processo |
+| Chiusura rapida e aggressiva | Conquista candidati scarsi | La pressione può superare la dovuta diligenza |
+
+La tensione centrale è tra velocità e rigore. Ogni colloquio in più, passaggio di calibrazione e controllo di comitato alza la fiducia e abbassa i pregiudizi, e ciascuno aggiunge anche giorni che ti fanno perdere candidati e capacità. Risolvila anticipando una volta sola la struttura (griglie, intervistatori formati, livelli definiti), così che il processo per ogni candidato sia rapido e coerente, anziché negoziare il rigore caso per caso. Un ciclo strutturato ben progettato è sia più rapido sia più equo di uno improvvisato, perché non reinventi le domande né rimetti in discussione l'asticella ogni volta.
+
+## Domande da discutere con il tuo team
+
+1. **Il vostro processo di colloquio prevede davvero la prestazione lavorativa, o misura soprattutto la somiglianza con il vostro team attuale?** È la domanda che decide se l'assunzione costruisce o restringe il tuo team. Le conversazioni non strutturate e gli indovinelli ingegnosi sembrano rigorosi mentre selezionano in silenzio persone che appaiono e parlano come gli intervistatori, il che riproduce la composizione di oggi ed esclude outsider capaci. Porta prove: tassi di superamento per gruppo demografico e per background, la correlazione tra punteggi dei colloqui e valutazioni successive della prestazione e quanti ottimi collaboratori fallirebbero oggi il vostro stesso ciclo. Su larga scala questo si accumula su ogni commissione, così che un piccolo pregiudizio diventa strutturale. Se il processo non prevede, riprogettalo attorno a prove pratiche pertinenti al lavoro e a griglie calibrate prima di assumere la prossima coorte.
+
+2. **Quanto vi costa davvero un'assunzione sbagliata, e state ottimizzando il numero sbagliato?** I team sotto pressione di crescita seguono il tempo di copertura dei posti e celebrano la velocità, perché è la metrica facile da vedere. Ma un'assunzione sbagliata costa un grande multiplo della retribuzione, se si contano avviamento, produttività persa del team, peso sulla gestione, sostituzione e il colpo al morale quando un assunto debole resta a lungo. Porta entrambi i numeri: il tuo tempo di copertura e i tuoi tassi di abbandono precoce e di assunzioni rimpiante. La considerazione contraria è reale, perché procedere troppo lentamente fa perdere candidati davvero forti a favore di concorrenti più rapidi. La risposta ti dice dove investire: se la velocità ti costa qualità, aggiungi rigore; se il rigore ti costa le persone migliori, snellisci il ciclo e chiudi più in fretta, ma non abbassare l'asticella per rispettare una data di organico.
+
+3. **Come mantenete coerente l'asticella quando molte commissioni separate assumono contemporaneamente?** Un singolo manager può tenere un'asticella nella testa; cinquanta manager no, e senza un meccanismo condiviso "ingegnere senior" si frammenta in cinquanta definizioni private con retribuzioni disallineate e pregiudizi incoerenti. La spinta contraria è l'autonomia: i team vogliono condurre le proprie assunzioni e mal sopportano un controllo centrale. Porta prove di deriva, come la variazione di livelli e offerte tra i team, i disaccordi di calibrazione e i divari di equità retributiva tra nuovi assunti e personale di lunga permanenza. Pesa un comitato di assunzione o un organo di calibrazione condiviso rispetto al costo di velocità che aggiunge. Per imprese ed enti pubblici la risposta è di solito una calibrazione esplicita più griglie documentate, perché difendibilità e coerenza pesano più dell'attrito, e l'attrito si riduce una volta che la struttura diventa routine.
+
+4. **Trattate l'inserimento come un problema di progettazione misurato, o come uno scarico di documenti con la speranza che vada bene?** L'assunzione ottiene attenzione e budget, eppure le settimane dopo il primo giorno decidono se la persona per cui hai lottato diventa produttiva o resta alla deriva. Per un grande team, ogni settimana in più di avviamento moltiplicata per centinaia di assunzioni è capacità reale persa in silenzio, e le partenze lente alimentano l'abbandono precoce che spreca l'intera spesa di assunzione. La spinta contraria è che un inserimento strutturato costa tempo di personale senior: un piano scritto a 30/60/90 giorni, un compagno sottratto alla consegna e strumenti abbastanza affidabili per un rilascio nella prima settimana. Porta le prove che trasformano l'opinione in decisione: tempo al primo commit, tempo al primo rilascio in produzione, un più approssimativo tempo alla produttività, tassi di abbandono precoce e un sondaggio sui nuovi assunti su dove si sono sentiti bloccati. Per le imprese questo deve reggere su molte sedi e stack; per gli enti pubblici, le autorizzazioni di sicurezza e l'attribuzione degli accessi possono aggiungere mesi, quindi avvia presto i compiti di inserimento autorizzati e misura il ritardo anziché fingere che non esista.
+
+5. **Il vostro formato di valutazione rispetta il tempo e i diversi punti di forza dei candidati, o filtra in silenzio chi può permettersi ore non retribuite e rendere sotto cronometro?** Il formato che scegli viene applicato a ogni candidato, quindi uno oneroso o distorto si cumula in una pipeline più stretta e meno diversificata in tutta l'organizzazione. Un lungo esercizio non retribuito da fare a casa esclude chi si prende cura di altri e chi ha già un lavoro; una lavagna dal vivo ostile penalizza l'ansia più che la capacità. Le considerazioni in gioco sono reali: gli esercizi a casa sono realistici ma causano abbandoni e carico di valutazione, la programmazione in coppia dal vivo è rapida ma stressante, e retribuire il tempo di una prova pratica costa denaro e coordinamento. Porta i tassi di abbandono per fase e per gruppo, i tempi mediani di completamento e l'eventuale correlazione tra i punteggi del formato e la prestazione successiva. Nei contesti aziendali il formato deve restare coerente e difendibile su molte commissioni; negli enti pubblici deve essere verificabile ed equo per legge, il che è un forte argomento per prove pratiche strutturate e pertinenti al lavoro, valutate rispetto a una griglia documentata, anziché indovinelli improvvisati.
+
+6. **Quanto è ampio e inclusivo l'ingresso del vostro imbuto, e sapete davvero dove perdete le persone?** La qualità dell'assunzione è in gran parte decisa prima del primo colloquio, quindi una pipeline stretta o dominata dalle segnalazioni pone un limite a quanto buone possano essere le tue assunzioni, per quanto rigoroso sia il ciclo. Su larga scala, la ricerca basata solo sulle segnalazioni riproduce la tua demografia esistente con forza cumulativa, e i requisiti gonfiati scartano in silenzio candidati capaci con cui non parli nemmeno. La considerazione contraria è che le segnalazioni sembrano economiche e ad alto segnale, e ampliare i canali costa sforzo e denaro di ricerca. Porta la conversione dell'imbuto per fase e per gruppo, la quota di assunzioni venute da segnalazioni e il tuo mix di canali, così da vedere dove le persone qualificate abbandonano. Per le imprese questo si collega direttamente alla spesa di employer branding, poiché un imbuto con perdite o distorto la spreca; per gli enti pubblici, le regole concorsuali di merito e la responsabilità pubblica rendono un imbuto dimostrabilmente ampio ed equo un obbligo di legge, non solo una buona pratica.
+
+## Lente settoriale
+
+**Startup.** Con un team minuscolo e nessuna liquidità da sprecare, non puoi dotarti di una funzione di selezione, ma puoi spendere un pomeriggio a scrivere una breve griglia e una prova pratica che rispecchi la tua vera base di codice. Resisti alla tentazione di improvvisare ogni colloquio: anche una struttura leggera ti protegge dall'assunzione sbagliata che un piccolo team non può assorbire. Muoviti in fretta e chiudi in pochi giorni, perché competi con nomi più grandi su velocità e missione più che sulla retribuzione.
+
+**Piccola impresa.** Probabilmente non hai un selezionatore né uno specialista dei colloqui e hai un budget ridotto, quindi appoggiati a un sistema di tracciamento dei candidati economico e a una manciata di domande riutilizzabili e pertinenti al lavoro anziché a un processo su misura per ogni ruolo. Decidi con deliberazione che cosa comprare e che cosa costruire: un ATS già pronto e una prova pratica condivisa battono una pipeline su misura che nessuno saprebbe mantenere. Custodisci con cura l'esperienza del candidato, perché in un mercato piccolo la parola di un candidato scottato viaggia in fretta.
+
+**Grande impresa.** La sfida è tenere un'unica asticella tra molte commissioni e sedi parallele. Standardizza le griglie rispetto alla matrice di inquadramento, certifica gli intervistatori con un programma di affiancamento e calibrazione e conduci un comitato di assunzione, così che i verdetti restino confrontabili quando nessuno vede ogni candidato. Registra ogni decisione in un ATS condiviso per l'audit e la difendibilità dell'equità retributiva, e fai passare l'inquadramento dei nuovi assunti attraverso lo stesso organo di calibrazione che governa le promozioni, così che personale interno ed esterno stia su un'unica scala.
+
+**Ente pubblico.** Assumi con regole concorsuali di merito, preferenze per i veterani e controlli di sicurezza, con tempi misurati in mesi e il dovere di mostrare un processo dimostrabilmente equo. Valuta i candidati rispetto a criteri pubblicati, mantieni verificabile l'intero ciclo da un capo all'altro e modernizza la valutazione con prove pratiche strutturate che prevedono la prestazione anziché parole chiave del curriculum. Tieni caldi i candidati con aggiornamenti regolari sullo stato e avvia presto i compiti di inserimento autorizzati, perché il processo lento e trasparente è il vincolo attorno a cui progetti, non uno che puoi desiderare che sparisca.
+
+## Esempi
+
+**Startup.** Una startup di venti persone sta assumendo i primi dieci ingegneri e sente di non avere tempo per i processi. Invece di conversazioni ad hoc, i fondatori dedicano un pomeriggio a scrivere un esercizio retribuito da due ore da svolgere a casa che rispecchia la loro vera base di codice, una breve griglia con riferimenti debole/solido/forte e un ciclo di quattro colloqui che copre programmazione, progettazione e valori. Gli intervistatori assegnano i punteggi in modo indipendente in un documento condiviso prima della sintesi. Si muovono comunque in fretta, facendo offerte entro una settimana, ma ogni candidato incontra la stessa asticella. Quando poi raccolgono un round e assumono in volume, la griglia e l'esercizio esistono già, quindi scalare significa formare intervistatori anziché inventare un processo sotto pressione.
+
+**Grande impresa.** Una società globale di software conduce centinaia di cicli di colloqui ingegneristici all'anno su molte sedi. Le richieste di posizione passano un controllo finanziario e di organico, poi confluiscono in un ATS condiviso da ogni commissione. Ogni ciclo usa griglie standardizzate legate alla matrice di inquadramento aziendale, gli intervistatori sono certificati con un programma di affiancamento e calibrazione e un comitato di assunzione centrale rivede ogni fascicolo per tenere un'unica asticella tra le regioni. L'inquadramento dei nuovi assunti passa attraverso lo stesso organo di calibrazione delle promozioni, così che offerte esterne e livelli interni restino allineati. Il team del marchio come datore di lavoro segue i punteggi di esperienza del candidato, perché in un mercato competitivo una reputazione di colloqui brutali riduce la pipeline più in fretta di quanto qualsiasi spesa di ricerca possa riempirla.
+
+**Ente pubblico.** Un'agenzia federale assume ingegneri del software con regole concorsuali di [merito](https://en.wikipedia.org/wiki/Merit_system) tramite un bando in stile USAJOBS. I candidati sono valutati rispetto a criteri pubblicati, la preferenza per i veterani è applicata per legge e il processo deve essere trasparente e verificabile da un capo all'altro. I tempi si estendono per mesi e molti ruoli richiedono un [nulla osta di sicurezza](https://en.wikipedia.org/wiki/Security_clearance) che aggiunge ulteriore ritardo, quindi l'agenzia tiene caldi i candidati con aggiornamenti regolari sullo stato e avvia presto i compiti di inserimento autorizzati. Per restare competitiva nonostante il ritmo, modernizza la valutazione con prove pratiche strutturate e pertinenti al lavoro, valutate rispetto a griglie documentate, soddisfacendo sia la vigilanza sull'assunzione per merito sia l'obiettivo di prevedere la prestazione reale anziché le parole chiave del curriculum.
+
+## Business case: motivazioni, ROI e TCO
+
+Il ritorno dell'assunzione strutturata viene da due costi evitati: assunzioni sbagliate e assunzioni distorte dai pregiudizi. Un'assunzione sbagliata è costosa ben oltre la retribuzione, se si contano inserimento, mesi di produzione ridotta del team, tempo di gestione, l'eventuale uscita e la sostituzione. I colloqui strutturati e basati su prove pratiche prevedono la prestazione meglio di quelli non strutturati, il che abbassa direttamente il tasso di assunzioni sbagliate. Una ricerca inclusiva e una valutazione calibrata ampliano il bacino di talenti e riducono il costo lento e cumulativo di un team che continua ad assumere a propria immagine. Un buon inserimento poi protegge l'investimento: tagliare settimane dal tempo alla produttività su ogni assunzione è capacità reale e ricorrente.
+
+Il costo totale di proprietà è per lo più una costruzione una tantum più un modesto onere continuo. Si scrivono griglie e prove pratiche, si formano e calibrano gli intervistatori e si conducono riunioni di sintesi e comitati. Sono ore di ingegneria sottratte alla consegna, che è il costo onesto da indicare alla leadership: l'assunzione strutturata tassa il tempo del tuo personale senior. Il costo del non farlo si paga di continuo in assunzioni sbagliate, abbandoni indesiderati, esposizione sull'equità retributiva e una pipeline che si restringe. Per sostenere il caso, collega l'assunzione alle metriche che la leadership già osserva: qualità dell'assunzione, abbandono precoce, tempo alla produttività ed equità dell'imbuto di assunzione. Presenta il processo come riduzione del rischio sulla tua decisione più costosa e meno reversibile.
+
+## Antipattern e insidie
+
+- **Assumere a intuito:** le chiacchierate non strutturate misurano la somiglianza, non la capacità, e invitano al pregiudizio.
+- **Indovinelli alla lavagna ostili:** premiano le prove generali e penalizzano l'ansia, con legami deboli con il lavoro reale.
+- **Discutere prima di valutare:** la voce più rumorosa o più senior ancora tutti, cancellando il segnale indipendente.
+- **Ricerca basata solo sulle segnalazioni:** restringe l'imbuto e riproduce la demografia esistente del team.
+- **Requisiti di lavoro gonfiati:** escludono persone capaci e restringono la pipeline senza alcun guadagno.
+- **Inquadrare per chiudere l'accordo:** livelli generosi per i nuovi assunti creano iniquità con il personale di lunga permanenza e rischio sull'equità retributiva.
+- **Sparire con i candidati scartati:** danneggia il tuo marchio e prosciuga la pipeline futura.
+- **Inserimento come scarico di documenti:** un link alla wiki e nessun piano lasciano i nuovi assunti inattivi e incerti.
+- **Nessun rilascio nella prima settimana:** ritardare il lavoro reale nasconde strumenti rotti e affama la fiducia iniziale.
+- **Inseguire solo il tempo di copertura:** le metriche di velocità premiano il volume mentre i costi delle assunzioni sbagliate restano invisibili.
+
+## Modello di maturità
+
+- **Livello 1, Avvio:** l'assunzione è improvvisata e reattiva. Gli intervistatori chiedono ciò che vogliono, valutano a intuito e decidono per consenso nella stanza. Nessun livello definito, nessuna griglia, nessun tracciamento dell'imbuto. L'inserimento è un portatile e un link alla wiki; i nuovi assunti si avviano per osmosi.
+- **Livello 2, Sviluppo:** alcuni team adottano domande strutturate e una griglia approssimativa, ma la coerenza varia da manager a manager e manca la calibrazione. Le prove pratiche compaiono accanto agli indovinelli ostili. L'inserimento ha una lista di controllo ma nessun piano a 30/60/90 giorni, e il tempo di avviamento non è misurato, quindi la pratica è disomogenea da un team all'altro.
+- **Livello 3, Standardizzazione:** colloqui strutturati con griglie ancorate, valutazione indipendente e livelli obiettivo definiti sono documentati e fatti rispettare in tutta l'organizzazione. Le prove pratiche sostituiscono gli indovinelli ostili, le riunioni di sintesi sono disciplinate e l'inquadramento dei nuovi assunti passa attraverso la calibrazione. L'inserimento segue un piano a 30/60/90 giorni con un compagno e un rilascio nella prima settimana, e ogni commissione condivide un unico sistema di tracciamento dei candidati come registro delle decisioni.
+- **Livello 4, Gestione:** il processo è misurato e controllato rispetto a valori di riferimento. Conversione ed equità dell'imbuto per fase e per gruppo, correlazione tra punteggio dei colloqui e prestazione, qualità dell'assunzione, tempo al primo commit, tempo alla produttività e tassi di abbandono precoce e di assunzioni rimpiante sono seguiti su cruscotti con obiettivi. La calibrazione degli intervistatori è monitorata attraverso la varianza dei punteggi tra le commissioni, e sono le prove rispetto a un riferimento, non le opinioni, a decidere se una domanda, una griglia o un passaggio di inserimento resta o cambia.
+- **Livello 5, Orchestrazione:** assunzione, inquadramento e inserimento sono migliorati di continuo e integrati con la pianificazione della forza lavoro e il quadro di carriera. Un organo di calibrazione tiene un'unica asticella tra molte commissioni, l'avviamento guidato dalla documentazione continua a ridurre i tempi e l'organizzazione ritira regolarmente le domande deboli, riequilibra la ricerca e adatta il ciclo al mutare del mercato e del quadro di rischio, così che l'asticella regga anche durante le ondate di assunzioni.
+
+## Spunti di discussione
+
+1. Se ogni attuale membro del team si ripresentasse al ciclo di colloqui di oggi, quanti ne assumereste, e che cosa dice la risposta del vostro processo?
+2. Quale frazione della vostra pipeline viene dalle segnalazioni, e come sta plasmando chi assumete?
+3. I vostri punteggi dei colloqui sono registrati in modo indipendente prima della sintesi, o la discussione viene prima?
+4. Qual è il vostro tempo mediano al primo commit dei nuovi assunti, e che cosa servirebbe per dimezzarlo?
+5. Quando assumete in volume, che cosa impedisce concretamente all'asticella di scendere, e come sapreste se fosse scesa?
+6. Gli assunti esterni e il personale interno stanno su un unico standard di inquadramento, o su due?
+
+## Punti chiave
+
+- Assumi rispetto a un livello definito e a una griglia scritta, non a un'impressione, e valuta in modo indipendente prima di discutere.
+- I colloqui strutturati e le prove pratiche realistiche prevedono la prestazione; gli indovinelli ostili alla lavagna per lo più no.
+- Inizia l'imbuto ampio e inclusivo, perché la qualità dell'assunzione è decisa prima del primo colloquio.
+- Inquadra i nuovi assunti attraverso la stessa calibrazione che governa le promozioni (capitolo 1.3) e documenta la motivazione.
+- Tratta ogni candidato, compresi i rifiuti, come il tuo marchio di datore di lavoro; chiudi in fretta e con onestà.
+- Fai l'inserimento con un piano a 30/60/90 giorni, un compagno e un rilascio nella prima settimana, e appoggiati a un avviamento guidato dalla documentazione (capitolo 2.7).
+- Misura il tempo al primo commit e il tempo alla produttività, e correggi gli strumenti e la documentazione che quei numeri mettono a nudo.
+- Scala l'assunzione scalando struttura e calibrazione, mai abbassando l'asticella.
+
+## Riferimenti e letture di approfondimento
+
+- Iris Bohnet, *What Works: Gender Equality by Design* (assunzioni strutturate e che riducono i pregiudizi).
+- Laszlo Bock, *Work Rules!* (la ricerca di Google su assunzioni strutturate e prove pratiche).
+- Geoff Smart e Randy Street, *Who: The A Method for Hiring* (un metodo di assunzione strutturato).
+- Frank L. Schmidt e John E. Hunter, "The Validity and Utility of Selection Methods in Personnel Psychology" (*Psychological Bulletin*, 1998): validità predittiva dei metodi di selezione, comprese le prove pratiche e i colloqui strutturati.
+- Daniel Kahneman, *Thinking, Fast and Slow* (ancoraggio e pregiudizio nel giudizio).
+- Johanna Rothman, *Hiring Geeks That Fit* (pratica di assunzione tecnica).
+- Michael Lopp, *Managing Humans* (colloqui e inserimento dal punto di vista della gestione dell'ingegneria).
+- Indicazioni di Google re:Work su colloqui strutturati e comitati di assunzione.
+- U.S. Office of Personnel Management (OPM), indicazioni sull'assunzione federale per merito, la preferenza per i veterani e USAJOBS.
+- U.S. Digital Service e 18F, indicazioni di assunzione sulla valutazione con esperti di materia e prove pratiche nel settore pubblico.

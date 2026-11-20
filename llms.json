@@ -35676,6 +35676,84 @@
      "url": "https://software-engineering-guide.github.io/vi-001/chủ-đề/12-07-chỉ-mục/"
     }
    ]
+  },
+  {
+   "code": "it-it",
+   "label": "Italiano",
+   "home": "https://software-engineering-guide.github.io/it-it/",
+   "topicsSegment": "argomenti",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Introduzione alla Parte 1: Persone",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-00-persone/"
+    },
+    {
+     "number": "1.1",
+     "title": "Valori dell'ingegneria del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-01-valori-dell-ingegneria-del-software/"
+    },
+    {
+     "number": "1.2",
+     "title": "Topologie dei team e progettazione organizzativa",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-02-topologie-dei-team/"
+    },
+    {
+     "number": "1.3",
+     "title": "Ruoli, scale di carriera e crescita",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-03-ruoli-scale-di-carriera-e-crescita/"
+    },
+    {
+     "number": "1.4",
+     "title": "Modi di lavorare",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-04-modi-di-lavorare/"
+    },
+    {
+     "number": "1.5",
+     "title": "Decisioni e governance",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-05-decisioni-e-governance/"
+    },
+    {
+     "number": "1.6",
+     "title": "Registri delle decisioni",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-06-registri-delle-decisioni/"
+    },
+    {
+     "number": "1.7",
+     "title": "Standard ingegneristici ed eccezioni",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-07-standard-ingegneristici-ed-eccezioni/"
+    },
+    {
+     "number": "1.8",
+     "title": "Assunzione, colloqui e inserimento",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-08-assunzione-colloqui-e-inserimento/"
+    },
+    {
+     "number": "1.9",
+     "title": "Lavoro distribuito e da remoto",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-09-lavoro-distribuito-e-da-remoto/"
+    },
+    {
+     "number": "1.10",
+     "title": "Efficacia ingegneristica e produttività degli sviluppatori",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-10-efficacia-ingegneristica-e-produttivita-degli-sviluppatori/"
+    },
+    {
+     "number": "1.11",
+     "title": "Gestione dell'ingegneria",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-11-gestione-dell-ingegneria/"
+    },
+    {
+     "number": "1.12",
+     "title": "Diversità, equità, inclusione e appartenenza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-12-diversita-equita-inclusione-e-appartenenza/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentoring, coaching e condivisione della conoscenza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-13-mentoring-coaching-e-condivisione-della-conoscenza/"
+    }
+   ]
   }
  ]
 }
