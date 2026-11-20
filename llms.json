@@ -35862,6 +35862,96 @@
      "number": "2.21",
      "title": "Sistemi di tipi e analisi statica",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-21-sistemi-di-tipi-e-analisi-statica/"
+    },
+    {
+     "number": "3.0",
+     "title": "Introduzione alla Parte 3: Sistemi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-00-sistemi/"
+    },
+    {
+     "number": "3.1",
+     "title": "Fondamenti dell'architettura",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-01-fondamenti-dell-architettura/"
+    },
+    {
+     "number": "3.2",
+     "title": "Stili e schemi architetturali",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-02-stili-e-schemi-architetturali/"
+    },
+    {
+     "number": "3.3",
+     "title": "Sistemi distribuiti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-03-sistemi-distribuiti/"
+    },
+    {
+     "number": "3.4",
+     "title": "Architettura dei dati e archiviazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-04-architettura-dei-dati-e-archiviazione/"
+    },
+    {
+     "number": "3.5",
+     "title": "Scalabilità, prestazioni e resilienza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-05-scalabilita-prestazioni-resilienza/"
+    },
+    {
+     "number": "3.6",
+     "title": "Modernizzazione dei sistemi legacy",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-06-modernizzazione-dei-sistemi-legacy/"
+    },
+    {
+     "number": "3.7",
+     "title": "Manutenzione del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-07-manutenzione-del-software/"
+    },
+    {
+     "number": "3.8",
+     "title": "Interoperabilità e standard aperti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-08-interoperabilita-e-standard-aperti/"
+    },
+    {
+     "number": "3.9",
+     "title": "Ingegneria dei sistemi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-09-ingegneria-dei-sistemi/"
+    },
+    {
+     "number": "3.10",
+     "title": "Sistemi embedded e real-time",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-10-sistemi-embedded-e-real-time/"
+    },
+    {
+     "number": "3.11",
+     "title": "Architettura cloud",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-11-architettura-cloud/"
+    },
+    {
+     "number": "3.12",
+     "title": "Architettura a eventi e messaggistica",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-12-architettura-a-eventi-e-messaggistica/"
+    },
+    {
+     "number": "3.13",
+     "title": "Reti e connettività",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-13-reti-e-connettivita/"
+    },
+    {
+     "number": "3.14",
+     "title": "Multitenancy e architettura SaaS",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-14-multitenancy-e-architettura-saas/"
+    },
+    {
+     "number": "3.15",
+     "title": "Caching e distribuzione dei contenuti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-15-caching-e-distribuzione-dei-contenuti/"
+    },
+    {
+     "number": "3.16",
+     "title": "API gateway e service mesh",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-16-api-gateway-e-service-mesh/"
+    },
+    {
+     "number": "3.17",
+     "title": "Ricerca e recupero dell'informazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-17-ricerca-e-recupero-dell-informazione/"
     }
    ]
   }
