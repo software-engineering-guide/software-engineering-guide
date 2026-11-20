@@ -36007,6 +36007,61 @@
      "number": "4.10",
      "title": "Penetration test e red teaming",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-10-penetration-test-e-red-teaming/"
+    },
+    {
+     "number": "5.0",
+     "title": "Introduzione alla Parte 5: Progettazione UI/UX",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-00-progettazione-ui-ux/"
+    },
+    {
+     "number": "5.1",
+     "title": "Fondamenti di UX",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-01-fondamenti-di-ux/"
+    },
+    {
+     "number": "5.2",
+     "title": "Progettazione UI e design system",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-02-progettazione-ui-e-design-system/"
+    },
+    {
+     "number": "5.3",
+     "title": "Accessibilità",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-03-accessibilita/"
+    },
+    {
+     "number": "5.4",
+     "title": "Progettazione dei contenuti e della comunicazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-04-progettazione-dei-contenuti-e-della-comunicazione/"
+    },
+    {
+     "number": "5.5",
+     "title": "Internazionalizzazione e localizzazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-05-internazionalizzazione-e-localizzazione/"
+    },
+    {
+     "number": "5.6",
+     "title": "Ingegneria frontend",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-06-ingegneria-frontend/"
+    },
+    {
+     "number": "5.7",
+     "title": "Sviluppo di applicazioni mobili",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-07-sviluppo-di-applicazioni-mobili/"
+    },
+    {
+     "number": "5.8",
+     "title": "Ricerca di design e test di usabilità",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-08-ricerca-di-design-e-test-di-usabilita/"
+    },
+    {
+     "number": "5.9",
+     "title": "Progettazione dei servizi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-09-progettazione-dei-servizi/"
+    },
+    {
+     "number": "5.10",
+     "title": "Progettazione della visualizzazione dei dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/05-10-progettazione-della-visualizzazione-dei-dati/"
     }
    ]
   }
