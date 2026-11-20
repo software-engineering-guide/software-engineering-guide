@@ -35952,6 +35952,61 @@
      "number": "3.17",
      "title": "Ricerca e recupero dell'informazione",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/03-17-ricerca-e-recupero-dell-informazione/"
+    },
+    {
+     "number": "4.0",
+     "title": "Introduzione alla Parte 4: Sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-00-sicurezza/"
+    },
+    {
+     "number": "4.1",
+     "title": "Fondamenti e cultura della sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-01-fondamenti-e-cultura-della-sicurezza/"
+    },
+    {
+     "number": "4.2",
+     "title": "Sicurezza delle applicazioni",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-02-sicurezza-delle-applicazioni/"
+    },
+    {
+     "number": "4.3",
+     "title": "Sicurezza dell'infrastruttura e del cloud",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-03-sicurezza-dell-infrastruttura-e-del-cloud/"
+    },
+    {
+     "number": "4.4",
+     "title": "Operazioni di sicurezza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-04-operazioni-di-sicurezza/"
+    },
+    {
+     "number": "4.5",
+     "title": "Privacy e protezione dei dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-05-privacy-e-protezione-dei-dati/"
+    },
+    {
+     "number": "4.6",
+     "title": "Conformità e governance",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-06-conformita-e-governance/"
+    },
+    {
+     "number": "4.7",
+     "title": "Gestione delle identità e degli accessi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-07-gestione-delle-identita-e-degli-accessi/"
+    },
+    {
+     "number": "4.8",
+     "title": "Crittografia e gestione delle chiavi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-08-crittografia-e-gestione-delle-chiavi/"
+    },
+    {
+     "number": "4.9",
+     "title": "Ciclo di vita sicuro dello sviluppo software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-09-ciclo-di-vita-sicuro-dello-sviluppo-software/"
+    },
+    {
+     "number": "4.10",
+     "title": "Penetration test e red teaming",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/04-10-penetration-test-e-red-teaming/"
     }
    ]
   }
