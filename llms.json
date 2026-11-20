@@ -37162,6 +37162,84 @@
      "url": "https://software-engineering-guide.github.io/it-001/argomenti/12-07-indice/"
     }
    ]
+  },
+  {
+   "code": "tr-tr",
+   "label": "Türkçe",
+   "home": "https://software-engineering-guide.github.io/tr-tr/",
+   "topicsSegment": "konular",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Bölüm 1'e Giriş: İnsanlar",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-00-insanlar/"
+    },
+    {
+     "number": "1.1",
+     "title": "Yazılım mühendisliği değerleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-01-yazılım-mühendisliği-değerleri/"
+    },
+    {
+     "number": "1.2",
+     "title": "Takım topolojileri ve örgütsel tasarım",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-02-takım-topolojileri/"
+    },
+    {
+     "number": "1.3",
+     "title": "Roller, kariyer basamakları ve gelişim",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-03-roller-kariyer-basamakları-ve-gelişim/"
+    },
+    {
+     "number": "1.4",
+     "title": "Çalışma biçimleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-04-çalışma-biçimleri/"
+    },
+    {
+     "number": "1.5",
+     "title": "Karar alma ve yönetişim",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-05-karar-alma-ve-yönetişim/"
+    },
+    {
+     "number": "1.6",
+     "title": "Karar kayıtları",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-06-karar-kayıtları/"
+    },
+    {
+     "number": "1.7",
+     "title": "Mühendislik standartları ve istisnalar",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-07-mühendislik-standartları-ve-istisnalar/"
+    },
+    {
+     "number": "1.8",
+     "title": "İşe alım, mülakat ve uyum",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-08-işe-alım-mülakat-ve-uyum/"
+    },
+    {
+     "number": "1.9",
+     "title": "Dağıtık ve uzaktan çalışma",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-09-dağıtık-ve-uzaktan-çalışma/"
+    },
+    {
+     "number": "1.10",
+     "title": "Mühendislik etkinliği ve geliştirici verimliliği",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-10-mühendislik-etkinliği-ve-geliştirici-verimliliği/"
+    },
+    {
+     "number": "1.11",
+     "title": "Mühendislik yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-11-mühendislik-yönetimi/"
+    },
+    {
+     "number": "1.12",
+     "title": "Çeşitlilik, hakkaniyet, kapsayıcılık ve aidiyet",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-12-çeşitlilik-hakkaniyet-kapsayıcılık-ve-aidiyet/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentorluk, koçluk ve bilgi paylaşımı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-13-mentorluk-koçluk-ve-bilgi-paylaşımı/"
+    }
+   ]
   }
  ]
 }
