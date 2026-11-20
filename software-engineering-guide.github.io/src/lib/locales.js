@@ -35,6 +35,8 @@ export const LOCALE_LABELS = {
   'it-001': 'Italiano',
   'tr-tr': 'Türkçe',
   'tr-001': 'Türkçe',
+  'th-th': 'ไทย',
+  'th-001': 'ไทย',
   'vi-vn': 'Tiếng Việt',
   'vi-001': 'Tiếng Việt',
   'nl-nl': 'Nederlands',
