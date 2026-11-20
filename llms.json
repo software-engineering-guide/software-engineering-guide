@@ -36247,6 +36247,101 @@
      "number": "9.8",
      "title": "Reperibilità e prontezza operativa",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/09-08-reperibilita-e-prontezza-operativa/"
+    },
+    {
+     "number": "10.0",
+     "title": "Introduzione alla Parte 10: gestione di progetti, prodotti e programmi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-00-gestione-di-progetti-prodotti-e-programmi/"
+    },
+    {
+     "number": "10.1",
+     "title": "Gestione di portafoglio e programmi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-01-gestione-di-portafoglio-e-programmi/"
+    },
+    {
+     "number": "10.2",
+     "title": "Rischio, audit e garanzia",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-02-rischio-audit-e-garanzia/"
+    },
+    {
+     "number": "10.3",
+     "title": "Appalti, open source e licenze",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-03-appalti-open-source-e-licenze/"
+    },
+    {
+     "number": "10.4",
+     "title": "Sostenere sistemi grandi e di lunga vita",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-04-sostenere-sistemi-grandi-e-di-lunga-vita/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etica, responsabilità e interesse pubblico",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-05-etica-responsabilita-e-interesse-pubblico/"
+    },
+    {
+     "number": "10.6",
+     "title": "Gestione dei progetti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-06-gestione-dei-progetti/"
+    },
+    {
+     "number": "10.7",
+     "title": "Agile",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-07-agile/"
+    },
+    {
+     "number": "10.8",
+     "title": "Modelli di maturità",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-08-modelli-di-maturita/"
+    },
+    {
+     "number": "10.9",
+     "title": "Innovazione e partnership",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-09-innovazione-e-partnership/"
+    },
+    {
+     "number": "10.10",
+     "title": "Economia dell'ingegneria del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-10-economia-dell-ingegneria-del-software/"
+    },
+    {
+     "number": "10.11",
+     "title": "Sovranità digitale",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-11-sovranita-digitale/"
+    },
+    {
+     "number": "10.12",
+     "title": "Open source contro sorgente chiuso",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-12-open-source-contro-sorgente-chiuso/"
+    },
+    {
+     "number": "10.13",
+     "title": "Collaborazione tra organizzazioni",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-13-collaborazione-tra-organizzazioni/"
+    },
+    {
+     "number": "10.14",
+     "title": "Gestione del prodotto e scoperta",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-14-gestione-del-prodotto-e-scoperta/"
+    },
+    {
+     "number": "10.15",
+     "title": "Stima e previsione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-15-stima-e-previsione/"
+    },
+    {
+     "number": "10.16",
+     "title": "Gestione degli stakeholder e comunicazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-16-gestione-degli-stakeholder-e-comunicazione/"
+    },
+    {
+     "number": "10.17",
+     "title": "Gestione del cambiamento organizzativo",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-17-gestione-del-cambiamento-organizzativo/"
+    },
+    {
+     "number": "10.18",
+     "title": "Ufficio di programma open source (OSPO) e contributo a monte",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-18-ufficio-di-programma-open-source/"
     }
    ]
   }
