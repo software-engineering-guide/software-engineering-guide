@@ -36342,6 +36342,41 @@
      "number": "10.18",
      "title": "Ufficio di programma open source (OSPO) e contributo a monte",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/10-18-ufficio-di-programma-open-source/"
+    },
+    {
+     "number": "11.0",
+     "title": "Introduzione alla Parte 11: Flusso: pipeline di scoperta e di consegna",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-00-flusso-scoperta-e-consegna/"
+    },
+    {
+     "number": "11.1",
+     "title": "La pipeline di scoperta",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-01-pipeline-di-scoperta/"
+    },
+    {
+     "number": "11.2",
+     "title": "La pipeline di consegna",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-02-pipeline-di-consegna/"
+    },
+    {
+     "number": "11.3",
+     "title": "Teoria delle code",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-03-teoria-delle-code/"
+    },
+    {
+     "number": "11.4",
+     "title": "Obiettivi e risultati chiave (OKR)",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-04-obiettivi-e-risultati-chiave/"
+    },
+    {
+     "number": "11.5",
+     "title": "Indicatori chiave di prestazione (KPI)",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-05-indicatori-chiave-di-prestazione/"
+    },
+    {
+     "number": "11.6",
+     "title": "Mappatura del flusso di valore e costo del ritardo",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/11-06-mappatura-del-flusso-di-valore-e-costo-del-ritardo/"
     }
    ]
   }
