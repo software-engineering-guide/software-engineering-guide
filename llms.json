@@ -36112,6 +36112,56 @@
      "number": "6.9",
      "title": "Prompt engineering e progettazione del contesto",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/06-09-prompt-engineering-e-progettazione-del-contesto/"
+    },
+    {
+     "number": "7.0",
+     "title": "Introduzione alla Parte 7: dati, analisi e conoscenza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-00-dati-e-analisi/"
+    },
+    {
+     "number": "7.1",
+     "title": "Strategia e governance dei dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-01-strategia-e-governance-dei-dati/"
+    },
+    {
+     "number": "7.2",
+     "title": "Ingegneria dei dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-02-ingegneria-dei-dati/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analisi e business intelligence",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-03-analisi-e-business-intelligence/"
+    },
+    {
+     "number": "7.4",
+     "title": "Analisi di prodotto e sperimentazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-04-analisi-di-prodotto-e-sperimentazione/"
+    },
+    {
+     "number": "7.5",
+     "title": "Scienza delle decisioni e cultura basata sui dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-05-scienza-delle-decisioni-e-cultura-dei-dati/"
+    },
+    {
+     "number": "7.6",
+     "title": "Dati in tempo reale e in streaming",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-06-dati-in-tempo-reale-e-in-streaming/"
+    },
+    {
+     "number": "7.7",
+     "title": "Modellazione dei dati e strato semantico",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-07-modellazione-dei-dati-e-strato-semantico/"
+    },
+    {
+     "number": "7.8",
+     "title": "Qualità e osservabilità dei dati",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-08-qualita-e-osservabilita-dei-dati/"
+    },
+    {
+     "number": "7.9",
+     "title": "Gestione dei dati master e di riferimento",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-09-gestione-dei-dati-master-e-di-riferimento/"
     }
    ]
   }
