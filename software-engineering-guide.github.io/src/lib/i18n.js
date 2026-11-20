@@ -468,6 +468,9 @@ OVERRIDES['bn-in'] = OVERRIDES['bn-001'];
 OVERRIDES['id-my'] = OVERRIDES['id-001'];
 OVERRIDES['pt-pt'] = OVERRIDES['pt-001'];
 OVERRIDES['pt-br'] = OVERRIDES['pt-001'];
+OVERRIDES['zh-th'] = OVERRIDES['zh-cn'];
+OVERRIDES['hi-np'] = OVERRIDES['hi-001'];
+OVERRIDES['cy-ar'] = OVERRIDES['cy-001'];
 
 /** @param {string} locale */
 export function ui(locale) {
@@ -694,6 +697,9 @@ PART_TITLE_OVERRIDES['bn-in'] = PART_TITLE_OVERRIDES['bn-001'];
 PART_TITLE_OVERRIDES['id-my'] = PART_TITLE_OVERRIDES['id-001'];
 PART_TITLE_OVERRIDES['pt-pt'] = PART_TITLE_OVERRIDES['pt-001'];
 PART_TITLE_OVERRIDES['pt-br'] = PART_TITLE_OVERRIDES['pt-001'];
+PART_TITLE_OVERRIDES['zh-th'] = PART_TITLE_OVERRIDES['zh-cn'];
+PART_TITLE_OVERRIDES['hi-np'] = PART_TITLE_OVERRIDES['hi-001'];
+PART_TITLE_OVERRIDES['cy-ar'] = PART_TITLE_OVERRIDES['cy-001'];
 
 /** @param {string} locale */
 export function partTitles(locale) {

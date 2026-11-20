@@ -65,6 +65,14 @@ export const HERO = {
   "contents": "Cynnwys",
   "translations": "Cyfieithiadau: "
  },
+ "cy-ar": {
+  "headline": "Canllaw Peirianneg Meddalwedd",
+  "tagline": "Rhad ac am ddim · agored · wedi'i gynnal gan y gymuned",
+  "intro": "Canllaw o arferion da ar gyfer timau datblygu meddalwedd, sy'n cwmpasu ffyrdd o weithio, crefft rhaglennu, saernïaeth, diogelwch, deallusrwydd artiffisial, data a dadansoddeg, UI/UX, awtomeiddio, cyflawni, gweithrediadau, llif a rheolaeth, ar gyfer busnesau newydd, mentrau a sefydliadau'r llywodraeth fel ei gilydd.",
+  "start": "Dechrau darllen",
+  "contents": "Cynnwys",
+  "translations": "Cyfieithiadau: "
+ },
  "da-001": {
   "headline": "Guide til softwareudvikling",
   "tagline": "Gratis · åben · vedligeholdt af fællesskabet",
@@ -82,6 +90,14 @@ export const HERO = {
   "translations": "Übersetzungen: "
  },
  "de-de": {
+  "headline": "Leitfaden Softwareentwicklung",
+  "tagline": "Kostenlos · offen · von der Community gepflegt",
+  "intro": "Ein Leitfaden bewährter Praktiken für Softwareentwicklungsteams, von Arbeitsweisen über Programmierhandwerk, Architektur, Sicherheit, KI, Daten und Analytik, UI/UX, Automatisierung, Auslieferung und Betrieb bis zu Fluss und Management, für Start-ups, Unternehmen und Behörden gleichermaßen.",
+  "start": "Mit dem Lesen beginnen",
+  "contents": "Inhalt",
+  "translations": "Übersetzungen: "
+ },
+ "de-at": {
   "headline": "Leitfaden Softwareentwicklung",
   "tagline": "Kostenlos · offen · von der Community gepflegt",
   "intro": "Ein Leitfaden bewährter Praktiken für Softwareentwicklungsteams, von Arbeitsweisen über Programmierhandwerk, Architektur, Sicherheit, KI, Daten und Analytik, UI/UX, Automatisierung, Auslieferung und Betrieb bis zu Fluss und Management, für Start-ups, Unternehmen und Behörden gleichermaßen.",
@@ -170,6 +186,14 @@ export const HERO = {
   "translations": "अनुवाद: "
  },
  "hi-in": {
+  "headline": "सॉफ़्टवेयर इंजीनियरिंग गाइड",
+  "tagline": "मुफ़्त · खुला · समुदाय द्वारा संचालित",
+  "intro": "सॉफ़्टवेयर डेवलपर टीमों के लिए अच्छी प्रथाओं की एक मार्गदर्शिका, जो कार्य-पद्धतियाँ, प्रोग्रामिंग कौशल, आर्किटेक्चर, सुरक्षा, एआई, डेटा और विश्लेषण, UI/UX, स्वचालन, डिलीवरी, संचालन, प्रवाह और प्रबंधन को समेटती है, स्टार्टअप, उद्यमों और सरकारी संगठनों, सभी के लिए।",
+  "start": "पढ़ना शुरू करें",
+  "contents": "विषय-सूची",
+  "translations": "अनुवाद: "
+ },
+ "hi-np": {
   "headline": "सॉफ़्टवेयर इंजीनियरिंग गाइड",
   "tagline": "मुफ़्त · खुला · समुदाय द्वारा संचालित",
   "intro": "सॉफ़्टवेयर डेवलपर टीमों के लिए अच्छी प्रथाओं की एक मार्गदर्शिका, जो कार्य-पद्धतियाँ, प्रोग्रामिंग कौशल, आर्किटेक्चर, सुरक्षा, एआई, डेटा और विश्लेषण, UI/UX, स्वचालन, डिलीवरी, संचालन, प्रवाह और प्रबंधन को समेटती है, स्टार्टअप, उद्यमों और सरकारी संगठनों, सभी के लिए।",
@@ -400,7 +424,15 @@ export const HERO = {
   "start": "开始阅读",
   "contents": "目录",
   "translations": "翻译： "
- }
+ },
+ "zh-th": {
+  "headline": "软件工程指南",
+  "tagline": "免费 · 开放 · 社区维护",
+  "intro": "一本面向软件开发团队的良好实践指南，涵盖工作方式、编程技艺、架构、安全、AI、数据与分析、UI/UX、自动化、交付、运维、流动与管理，适用于初创公司、大型企业和政府机构。",
+  "start": "开始阅读",
+  "contents": "目录",
+  "translations": "翻译： "
+ },
 };
 
 /** @type {Record<string, string>} */
@@ -454,5 +486,9 @@ export const ENDONYMS = {
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
- "zh-cn": "简体中文"
+ "zh-cn": "简体中文",
+ "zh-th": "简体中文 (泰国)",
+ "hi-np": "हिन्दी (नेपाल)",
+ "cy-ar": "Cymraeg (Ariannin)",
+ "de-at": "Deutsch (Österreich)"
 };

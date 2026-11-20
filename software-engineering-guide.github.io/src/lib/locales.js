@@ -54,7 +54,11 @@ export const LOCALE_LABELS = {
   'bn-in': 'বাংলা - ভারত',
   'id-my': 'Bahasa Indonesia - Malaysia',
   'pt-pt': 'Português - Portugal',
-  'pt-br': 'Português - Brasil'
+  'pt-br': 'Português - Brasil',
+  'zh-th': '中文 - 泰国',
+  'hi-np': 'हिन्दी - नेपाल',
+  'cy-ar': 'Cymraeg - Ariannin',
+  'de-at': 'Deutsch - Österreich'
 };
 
 /** @param {string} code */
