@@ -31,6 +31,8 @@ export const LOCALE_LABELS = {
   'sv-001': 'Svenska',
   'sw-001': 'Kiswahili',
   'sw-tz': 'Kiswahili',
+  'it-it': 'Italiano',
+  'it-001': 'Italiano',
   'vi-vn': 'Tiếng Việt',
   'vi-001': 'Tiếng Việt',
   'nl-nl': 'Nederlands',

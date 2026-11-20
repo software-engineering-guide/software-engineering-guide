@@ -345,6 +345,22 @@ export const HERO = {
   "contents": "Yaliyomo",
   "translations": "Tafsiri: "
  },
+ "it-001": {
+  "headline": "Guida all'ingegneria del software",
+  "tagline": "Gratuita · aperta · mantenuta dalla comunità",
+  "intro": "Un manuale di buone pratiche per i team di sviluppo software, che copre modi di lavorare, mestiere della programmazione, architettura, sicurezza, IA, dati e analisi, UI/UX, automazione, consegna, operazioni, flusso e gestione, per startup, grandi imprese ed enti pubblici.",
+  "start": "Inizia a leggere",
+  "contents": "Indice",
+  "translations": "Traduzioni: "
+ },
+ "it-it": {
+  "headline": "Guida all'ingegneria del software",
+  "tagline": "Gratuita · aperta · mantenuta dalla comunità",
+  "intro": "Un manuale di buone pratiche per i team di sviluppo software, che copre modi di lavorare, mestiere della programmazione, architettura, sicurezza, IA, dati e analisi, UI/UX, automazione, consegna, operazioni, flusso e gestione, per startup, grandi imprese ed enti pubblici.",
+  "start": "Inizia a leggere",
+  "contents": "Indice",
+  "translations": "Traduzioni: "
+ },
  "vi-001": {
   "headline": "Hướng dẫn Kỹ thuật Phần mềm",
   "tagline": "Miễn phí · mở · do cộng đồng duy trì",
@@ -433,6 +449,8 @@ export const ENDONYMS = {
  "sw-tz": "Kiswahili (Tanzania)",
  "sv-se": "Svenska (Sverige)",
  "ur-001": "اردو",
+ "it-001": "Italiano",
+ "it-it": "Italiano (Italia)",
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
