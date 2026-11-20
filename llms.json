@@ -37907,6 +37907,749 @@
    ]
   },
   {
+   "code": "tr-001",
+   "label": "Türkçe",
+   "home": "https://software-engineering-guide.github.io/tr-001/",
+   "topicsSegment": "konular",
+   "topics": [
+    {
+     "number": "1.0",
+     "title": "Bölüm 1'e Giriş: İnsanlar",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-00-insanlar/"
+    },
+    {
+     "number": "1.1",
+     "title": "Yazılım mühendisliği değerleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-01-yazılım-mühendisliği-değerleri/"
+    },
+    {
+     "number": "1.2",
+     "title": "Takım topolojileri ve örgütsel tasarım",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-02-takım-topolojileri/"
+    },
+    {
+     "number": "1.3",
+     "title": "Roller, kariyer basamakları ve gelişim",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-03-roller-kariyer-basamakları-ve-gelişim/"
+    },
+    {
+     "number": "1.4",
+     "title": "Çalışma biçimleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-04-çalışma-biçimleri/"
+    },
+    {
+     "number": "1.5",
+     "title": "Karar alma ve yönetişim",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-05-karar-alma-ve-yönetişim/"
+    },
+    {
+     "number": "1.6",
+     "title": "Karar kayıtları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-06-karar-kayıtları/"
+    },
+    {
+     "number": "1.7",
+     "title": "Mühendislik standartları ve istisnalar",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-07-mühendislik-standartları-ve-istisnalar/"
+    },
+    {
+     "number": "1.8",
+     "title": "İşe alım, mülakat ve uyum",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-08-işe-alım-mülakat-ve-uyum/"
+    },
+    {
+     "number": "1.9",
+     "title": "Dağıtık ve uzaktan çalışma",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-09-dağıtık-ve-uzaktan-çalışma/"
+    },
+    {
+     "number": "1.10",
+     "title": "Mühendislik etkinliği ve geliştirici verimliliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-10-mühendislik-etkinliği-ve-geliştirici-verimliliği/"
+    },
+    {
+     "number": "1.11",
+     "title": "Mühendislik yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-11-mühendislik-yönetimi/"
+    },
+    {
+     "number": "1.12",
+     "title": "Çeşitlilik, hakkaniyet, kapsayıcılık ve aidiyet",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-12-çeşitlilik-hakkaniyet-kapsayıcılık-ve-aidiyet/"
+    },
+    {
+     "number": "1.13",
+     "title": "Mentorluk, koçluk ve bilgi paylaşımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/01-13-mentorluk-koçluk-ve-bilgi-paylaşımı/"
+    },
+    {
+     "number": "2.0",
+     "title": "Bölüm 2'ye Giriş: Yazılım Programlama",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-00-yazılım-programlama/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kodlama standartları ve üslup",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-01-kodlama-standartları-ve-üslup/"
+    },
+    {
+     "number": "2.2",
+     "title": "Yazılım tasarım ilkeleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-02-yazılım-tasarım-ilkeleri/"
+    },
+    {
+     "number": "2.3",
+     "title": "API'ler ve arayüz tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-03-api-ler-ve-arayüz-tasarımı/"
+    },
+    {
+     "number": "2.4",
+     "title": "Test stratejisi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-04-test-stratejisi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kod incelemesi ve iş birliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-05-kod-incelemesi-ve-iş-birliği/"
+    },
+    {
+     "number": "2.6",
+     "title": "Sürüm kontrolü ve kaynak yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-06-sürüm-kontrolü-ve-kaynak-yönetimi/"
+    },
+    {
+     "number": "2.7",
+     "title": "Belgeleme",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-07-belgeleme/"
+    },
+    {
+     "number": "2.8",
+     "title": "Yazılım gereksinimleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-08-yazılım-gereksinimleri/"
+    },
+    {
+     "number": "2.9",
+     "title": "Yazılım inşası",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-09-yazılım-inşası/"
+    },
+    {
+     "number": "2.10",
+     "title": "Yazılım yapılandırma yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-10-yazılım-yapılandırma-yönetimi/"
+    },
+    {
+     "number": "2.11",
+     "title": "Yazılım kalitesi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-11-yazılım-kalitesi/"
+    },
+    {
+     "number": "2.12",
+     "title": "Yazılım modelleri ve yöntemleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-12-yazılım-modelleri-ve-yöntemleri/"
+    },
+    {
+     "number": "2.13",
+     "title": "Bilişim, matematik ve mühendislik temelleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-13-bilişim-matematik-ve-mühendislik-temelleri/"
+    },
+    {
+     "number": "2.14",
+     "title": "Proje ve depo yapısı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-14-proje-ve-depo-yapısı/"
+    },
+    {
+     "number": "2.15",
+     "title": "Hata ayıklama ve sorun giderme",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-15-hata-ayıklama-ve-sorun-giderme/"
+    },
+    {
+     "number": "2.16",
+     "title": "Performans mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-16-performans-mühendisliği/"
+    },
+    {
+     "number": "2.17",
+     "title": "Eşzamanlılık ve paralellik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-17-eşzamanlılık-ve-paralellik/"
+    },
+    {
+     "number": "2.18",
+     "title": "Bağımlılık ve tedarik zinciri yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-18-bağımlılık-ve-tedarik-zinciri-yönetimi/"
+    },
+    {
+     "number": "2.19",
+     "title": "Yeniden düzenleme ve teknik borç",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-19-yeniden-düzenleme-ve-teknik-borç/"
+    },
+    {
+     "number": "2.20",
+     "title": "Hata yönetimi ve dayanıklılık kalıpları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-20-hata-yönetimi-ve-dayanıklılık-kalıpları/"
+    },
+    {
+     "number": "2.21",
+     "title": "Tür sistemleri ve statik analiz",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/02-21-tür-sistemleri-ve-statik-analiz/"
+    },
+    {
+     "number": "3.0",
+     "title": "Bölüm 3'e Giriş: Sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-00-sistemler/"
+    },
+    {
+     "number": "3.1",
+     "title": "Mimari temelleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-01-mimari-temelleri/"
+    },
+    {
+     "number": "3.2",
+     "title": "Mimari üsluplar ve kalıplar",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-02-mimari-üsluplar-ve-kalıplar/"
+    },
+    {
+     "number": "3.3",
+     "title": "Dağıtık sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-03-dağıtık-sistemler/"
+    },
+    {
+     "number": "3.4",
+     "title": "Veri mimarisi ve depolama",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-04-veri-mimarisi-ve-depolama/"
+    },
+    {
+     "number": "3.5",
+     "title": "Ölçeklenebilirlik, performans ve dayanıklılık",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-05-ölçeklenebilirlik-performans-dayanıklılık/"
+    },
+    {
+     "number": "3.6",
+     "title": "Eski sistem modernizasyonu",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-06-eski-sistem-modernizasyonu/"
+    },
+    {
+     "number": "3.7",
+     "title": "Yazılım bakımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-07-yazılım-bakımı/"
+    },
+    {
+     "number": "3.8",
+     "title": "Birlikte çalışabilirlik ve açık standartlar",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-08-birlikte-çalışabilirlik-ve-açık-standartlar/"
+    },
+    {
+     "number": "3.9",
+     "title": "Sistem mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-09-sistem-mühendisliği/"
+    },
+    {
+     "number": "3.10",
+     "title": "Gömülü ve gerçek zamanlı sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-10-gömülü-ve-gerçek-zamanlı-sistemler/"
+    },
+    {
+     "number": "3.11",
+     "title": "Bulut mimarisi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-11-bulut-mimarisi/"
+    },
+    {
+     "number": "3.12",
+     "title": "Olay güdümlü mimari ve mesajlaşma",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-12-olay-güdümlü-mimari-ve-mesajlaşma/"
+    },
+    {
+     "number": "3.13",
+     "title": "Ağ iletişimi ve bağlantı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-13-ağ-iletişimi-ve-bağlantı/"
+    },
+    {
+     "number": "3.14",
+     "title": "Çok kiracılık ve SaaS mimarisi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-14-çok-kiracılık-ve-saas-mimarisi/"
+    },
+    {
+     "number": "3.15",
+     "title": "Önbellekleme ve içerik dağıtımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-15-önbellekleme-ve-içerik-dağıtımı/"
+    },
+    {
+     "number": "3.16",
+     "title": "API ağ geçitleri ve hizmet ağı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-16-api-ağ-geçitleri-ve-hizmet-ağı/"
+    },
+    {
+     "number": "3.17",
+     "title": "Arama ve bilgi erişimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/03-17-arama-ve-bilgi-erişimi/"
+    },
+    {
+     "number": "4.0",
+     "title": "Bölüm 4'e Giriş: Güvenlik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-00-güvenlik/"
+    },
+    {
+     "number": "4.1",
+     "title": "Güvenlik temelleri ve kültürü",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-01-güvenlik-temelleri-ve-kültürü/"
+    },
+    {
+     "number": "4.2",
+     "title": "Uygulama güvenliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-02-uygulama-güvenliği/"
+    },
+    {
+     "number": "4.3",
+     "title": "Altyapı ve bulut güvenliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-03-altyapı-ve-bulut-güvenliği/"
+    },
+    {
+     "number": "4.4",
+     "title": "Güvenlik operasyonları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-04-güvenlik-operasyonları/"
+    },
+    {
+     "number": "4.5",
+     "title": "Gizlilik ve veri koruma",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-05-gizlilik-ve-veri-koruma/"
+    },
+    {
+     "number": "4.6",
+     "title": "Uyum ve yönetişim",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-06-uyum-ve-yönetişim/"
+    },
+    {
+     "number": "4.7",
+     "title": "Kimlik ve erişim yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-07-kimlik-ve-erişim-yönetimi/"
+    },
+    {
+     "number": "4.8",
+     "title": "Şifreleme ve anahtar yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-08-şifreleme-ve-anahtar-yönetimi/"
+    },
+    {
+     "number": "4.9",
+     "title": "Güvenli yazılım geliştirme yaşam döngüsü",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-09-güvenli-yazılım-geliştirme-yaşam-döngüsü/"
+    },
+    {
+     "number": "4.10",
+     "title": "Sızma testi ve kırmızı takım",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/04-10-sızma-testi-ve-kırmızı-takım/"
+    },
+    {
+     "number": "5.0",
+     "title": "Bölüm 5'e Giriş: Arayüz ve Kullanıcı Deneyimi Tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-00-ara-yüz-ve-kullanıcı-deneyimi-tasarımı/"
+    },
+    {
+     "number": "5.1",
+     "title": "Kullanıcı deneyimi temelleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-01-kullanıcı-deneyimi-temelleri/"
+    },
+    {
+     "number": "5.2",
+     "title": "Arayüz tasarımı ve tasarım sistemleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-02-ara-yüz-tasarımı-ve-tasarım-sistemleri/"
+    },
+    {
+     "number": "5.3",
+     "title": "Erişilebilirlik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-03-erişilebilirlik/"
+    },
+    {
+     "number": "5.4",
+     "title": "İçerik ve iletişim tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-04-içerik-ve-iletişim-tasarımı/"
+    },
+    {
+     "number": "5.5",
+     "title": "Uluslararasılaştırma ve yerelleştirme",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-05-uluslararasılaştırma-ve-yerelleştirme/"
+    },
+    {
+     "number": "5.6",
+     "title": "Ön yüz mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-06-ön-yüz-mühendisliği/"
+    },
+    {
+     "number": "5.7",
+     "title": "Mobil uygulama geliştirme",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-07-mobil-uygulama-geliştirme/"
+    },
+    {
+     "number": "5.8",
+     "title": "Tasarım araştırması ve kullanılabilirlik testi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-08-tasarım-araştırması-ve-kullanılabilirlik-testi/"
+    },
+    {
+     "number": "5.9",
+     "title": "Hizmet tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-09-hizmet-tasarımı/"
+    },
+    {
+     "number": "5.10",
+     "title": "Veri görselleştirme tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/05-10-veri-görselleştirme-tasarımı/"
+    },
+    {
+     "number": "6.0",
+     "title": "Bölüm 6'ya Giriş: Yapay Zeka",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-00-yapay-zeka/"
+    },
+    {
+     "number": "6.1",
+     "title": "Yapay zeka stratejisi ve hazırlık",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-01-yapay-zeka-stratejisi-ve-hazırlık/"
+    },
+    {
+     "number": "6.2",
+     "title": "Makine öğrenimi mühendisliği (MLOps)",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-02-mlops/"
+    },
+    {
+     "number": "6.3",
+     "title": "Üretken yapay zeka ve LLM uygulamaları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-03-üretken-yapay-zeka-ve-llm-uygulamaları/"
+    },
+    {
+     "number": "6.4",
+     "title": "Yapay zeka destekli yazılım geliştirme",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-04-yapay-zeka-destekli-yazılım-geliştirme/"
+    },
+    {
+     "number": "6.5",
+     "title": "Sorumlu ve güvenilir yapay zeka",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-05-sorumlu-ve-güvenilir-yapay-zeka/"
+    },
+    {
+     "number": "6.6",
+     "title": "Yapay zeka altyapısı ve operasyonları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-06-yapay-zeka-altyapısı-ve-operasyonları/"
+    },
+    {
+     "number": "6.7",
+     "title": "Yapay zeka ajanları ve ajan sistemleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-07-yapay-zeka-ajanları-ve-ajan-sistemleri/"
+    },
+    {
+     "number": "6.8",
+     "title": "Yapay zeka değerlendirmesi ve testi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-08-yapay-zeka-değerlendirmesi-ve-testi/"
+    },
+    {
+     "number": "6.9",
+     "title": "İstem mühendisliği ve bağlam tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/06-09-istem-mühendisliği-ve-bağlam-tasarımı/"
+    },
+    {
+     "number": "7.0",
+     "title": "Bölüm 7'ye Giriş: Veri, Analitik ve İçgörü",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-00-veri-ve-analitik/"
+    },
+    {
+     "number": "7.1",
+     "title": "Veri stratejisi ve yönetişimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-01-veri-stratejisi-ve-yönetişimi/"
+    },
+    {
+     "number": "7.2",
+     "title": "Veri mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-02-veri-mühendisliği/"
+    },
+    {
+     "number": "7.3",
+     "title": "Analitik ve iş zekası",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-03-analitik-ve-iş-zekası/"
+    },
+    {
+     "number": "7.4",
+     "title": "Ürün analitiği ve deney",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-04-ürün-analitiği-ve-deney/"
+    },
+    {
+     "number": "7.5",
+     "title": "Karar bilimi ve veriye dayalı kültür",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-05-karar-bilimi-ve-veri-kültürü/"
+    },
+    {
+     "number": "7.6",
+     "title": "Gerçek zamanlı ve akan veri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-06-gerçek-zamanlı-ve-akan-veri/"
+    },
+    {
+     "number": "7.7",
+     "title": "Veri modelleme ve anlamsal katman",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-07-veri-modelleme-ve-anlamsal-katman/"
+    },
+    {
+     "number": "7.8",
+     "title": "Veri kalitesi ve gözlemlenebilirlik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-08-veri-kalitesi-ve-gözlemlenebilirlik/"
+    },
+    {
+     "number": "7.9",
+     "title": "Ana veri ve referans veri yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/07-09-ana-veri-ve-referans-veri-yönetimi/"
+    },
+    {
+     "number": "8.0",
+     "title": "Bölüm 8'e Giriş: Otomasyon",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-00-otomasyon/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD ve teslimat",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-01-ci-cd-ve-teslimat/"
+    },
+    {
+     "number": "8.2",
+     "title": "Kod olarak altyapı ve yapılandırma",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-02-kod-olarak-altyapı-ve-yapılandırma/"
+    },
+    {
+     "number": "8.3",
+     "title": "Kapsayıcılar, orkestrasyon ve bulut yerlisi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-03-kapsayıcılar-orkestrasyon-bulut-yerlisi/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platform mühendisliği ve geliştirici deneyimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-04-platform-mühendisliği-ve-geliştirici-deneyimi/"
+    },
+    {
+     "number": "8.5",
+     "title": "Test ve süreç otomasyonu",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-05-test-ve-süreç-otomasyonu/"
+    },
+    {
+     "number": "8.6",
+     "title": "Sürüm yönetimi ve aşamalı teslimat",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-06-sürüm-yönetimi-ve-aşamalı-teslimat/"
+    },
+    {
+     "number": "8.7",
+     "title": "Derleme sistemleri ve yapıt yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/08-07-derleme-sistemleri-ve-yapıt-yönetimi/"
+    },
+    {
+     "number": "9.0",
+     "title": "Bölüm 9'a Giriş: Operasyonlar, Güvenilirlik ve Gözlemlenebilirlik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-00-operasyonlar-ve-güvenilirlik/"
+    },
+    {
+     "number": "9.1",
+     "title": "Site güvenilirliği mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-01-site-güvenilirliği-mühendisliği/"
+    },
+    {
+     "number": "9.2",
+     "title": "Gözlemlenebilirlik ve telemetri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-02-gözlemlenebilirlik-ve-telemetri/"
+    },
+    {
+     "number": "9.3",
+     "title": "Olay yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-03-olay-yönetimi/"
+    },
+    {
+     "number": "9.4",
+     "title": "Maliyet, sürdürülebilirlik ve yeşil yazılım",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-04-maliyet-sürdürülebilirlik-yeşil-yazılım/"
+    },
+    {
+     "number": "9.5",
+     "title": "Felaket kurtarma ve iş sürekliliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-05-felaket-kurtarma-ve-iş-sürekliliği/"
+    },
+    {
+     "number": "9.6",
+     "title": "Kaos mühendisliği ve dayanıklılık testi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-06-kaos-mühendisliği-ve-dayanıklılık-testi/"
+    },
+    {
+     "number": "9.7",
+     "title": "Kapasite planlama ve talep tahmini",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-07-kapasite-planlama-ve-talep-tahmini/"
+    },
+    {
+     "number": "9.8",
+     "title": "Nöbet ve operasyonel hazırlık",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/09-08-nöbet-ve-operasyonel-hazırlık/"
+    },
+    {
+     "number": "10.0",
+     "title": "Bölüm 10'a Giriş: Proje, Ürün ve Program Yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-00-proje-ürün-ve-program-yönetimi/"
+    },
+    {
+     "number": "10.1",
+     "title": "Portföy ve program yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-01-portföy-ve-program-yönetimi/"
+    },
+    {
+     "number": "10.2",
+     "title": "Risk, denetim ve güvence",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-02-risk-denetim-ve-güvence/"
+    },
+    {
+     "number": "10.3",
+     "title": "Tedarik, açık kaynak ve lisanslama",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-03-tedarik-açık-kaynak-ve-lisanslama/"
+    },
+    {
+     "number": "10.4",
+     "title": "Büyük ve uzun ömürlü sistemleri sürdürmek",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-04-büyük-ve-uzun-ömürlü-sistemleri-sürdürmek/"
+    },
+    {
+     "number": "10.5",
+     "title": "Etik, hesap verebilirlik ve kamu yararı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-05-etik-hesap-verebilirlik-kamu-yararı/"
+    },
+    {
+     "number": "10.6",
+     "title": "Proje yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-06-proje-yönetimi/"
+    },
+    {
+     "number": "10.7",
+     "title": "Çeviklik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-07-çeviklik/"
+    },
+    {
+     "number": "10.8",
+     "title": "Olgunluk modelleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-08-olgunluk-modelleri/"
+    },
+    {
+     "number": "10.9",
+     "title": "Yenilik ortaklığı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-09-yenilik-ortaklık/"
+    },
+    {
+     "number": "10.10",
+     "title": "Yazılım mühendisliği ekonomisi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-10-yazılım-mühendisliği-ekonomisi/"
+    },
+    {
+     "number": "10.11",
+     "title": "Dijital egemenlik",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-11-dijital-egemenlik/"
+    },
+    {
+     "number": "10.12",
+     "title": "Açık kaynak ve kapalı kaynak",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-12-açık-kaynak-ve-kapalı-kaynak/"
+    },
+    {
+     "number": "10.13",
+     "title": "Kurumlar arası iş birliği",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-13-kurumlar-arası-iş-birliği/"
+    },
+    {
+     "number": "10.14",
+     "title": "Ürün yönetimi ve keşif",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-14-ürün-yönetimi-ve-keşif/"
+    },
+    {
+     "number": "10.15",
+     "title": "Tahmin ve öngörü",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-15-tahmin-ve-öngörü/"
+    },
+    {
+     "number": "10.16",
+     "title": "Paydaş yönetimi ve iletişim",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-16-paydaş-yönetimi-ve-iletişim/"
+    },
+    {
+     "number": "10.17",
+     "title": "Kurumsal değişim yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-17-kurumsal-değişim-yönetimi/"
+    },
+    {
+     "number": "10.18",
+     "title": "Açık kaynak program ofisi (OSPO) ve yukarı akışa katkı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/10-18-açık-kaynak-program-ofisi/"
+    },
+    {
+     "number": "11.0",
+     "title": "Bölüm 11'e Giriş: Akış: Keşif ve Teslimat Hatları",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-00-akış-keşif-ve-teslimat/"
+    },
+    {
+     "number": "11.1",
+     "title": "Keşif hattı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-01-keşif-hattı/"
+    },
+    {
+     "number": "11.2",
+     "title": "Teslimat hattı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-02-teslimat-hattı/"
+    },
+    {
+     "number": "11.3",
+     "title": "Kuyruk kuramı",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-03-kuyruk-kuramı/"
+    },
+    {
+     "number": "11.4",
+     "title": "Hedefler ve anahtar sonuçlar (OKR'ler)",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-04-hedefler-ve-anahtar-sonuçlar/"
+    },
+    {
+     "number": "11.5",
+     "title": "Temel performans göstergeleri (KPI'lar)",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-05-temel-performans-göstergeleri/"
+    },
+    {
+     "number": "11.6",
+     "title": "Değer akışı haritalama ve gecikme maliyeti",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/11-06-değer-akışı-haritalama-ve-gecikme-maliyeti/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bölüm 12'ye Giriş: Ekler",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-00-ekler/"
+    },
+    {
+     "number": "12.1",
+     "title": "Sözlük",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-01-sözlük/"
+    },
+    {
+     "number": "12.2",
+     "title": "Kontrol listeleri",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-02-kontrol-listeleri/"
+    },
+    {
+     "number": "12.3",
+     "title": "Şablonlar",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-03-şablonlar/"
+    },
+    {
+     "number": "12.4",
+     "title": "Olgunluk öz değerlendirmesi",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-04-olgunluk-öz-değerlendirmesi/"
+    },
+    {
+     "number": "12.5",
+     "title": "Kaynakça",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-05-kaynakça/"
+    },
+    {
+     "number": "12.6",
+     "title": "Benimseme yol haritası",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-06-benimseme-yol-haritası/"
+    },
+    {
+     "number": "12.7",
+     "title": "Dizin",
+     "url": "https://software-engineering-guide.github.io/tr-001/konular/12-07-dizin/"
+    }
+   ]
+  },
+  {
    "code": "zh-th",
    "label": "Chinese - Thailand",
    "home": "https://software-engineering-guide.github.io/zh-th/",

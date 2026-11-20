@@ -245,6 +245,7 @@ The guide is published in several locales. The English locale below is the defau
 - [Italiano (it-it)](https://software-engineering-guide.github.io/it-it/)
 - [Italiano (it-001)](https://software-engineering-guide.github.io/it-001/)
 - [Türkçe (tr-tr)](https://software-engineering-guide.github.io/tr-tr/)
+- [Türkçe (tr-001)](https://software-engineering-guide.github.io/tr-001/)
 - [Chinese - Thailand (zh-th)](https://software-engineering-guide.github.io/zh-th/)
 - [हिन्दी (hi-np)](https://software-engineering-guide.github.io/hi-np/)
 - [Cymraeg (cy-ar)](https://software-engineering-guide.github.io/cy-ar/)

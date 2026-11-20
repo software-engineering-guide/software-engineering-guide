@@ -7,6 +7,9 @@ the top. Dates use ISO 8601 (YYYY-MM-DD).
 
 ### Added
 
+- Locales `tr-tr` and `tr-001` (Turkish): all 147 chapters translated by hand, with Turkish
+  directory segments under `konular/` and matching `.locale-peer-id` files; both registered in
+  `locales.tsv`, each with a `sitemap.xml`.
 - Locales `it-it` and `it-001` (Italian): all 147 chapters translated by hand, with Italian
   directory segments under `argomenti/` and matching `.locale-peer-id` files; both registered in
   `locales.tsv`, each with a `sitemap.xml`.
