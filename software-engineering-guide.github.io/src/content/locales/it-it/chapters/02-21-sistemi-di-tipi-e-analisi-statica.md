@@ -66,7 +66,7 @@ All'estremo dello spettro sta la [verifica formale](https://en.wikipedia.org/wik
 
 ### Mantieni onesta la soppressione
 
-Nessun analizzatore è perfetto, e la disciplina che separa uno strumento di cui ci si fida da uno ignorato è come gestisci i suoi errori. Ogni strumento serio ti permette di sopprimere un rilievo. Richiedi che ogni soppressione sia stretta (una riga o un rilievo, mai un intero file o una regola), porti una motivazione in un commento ed sia visibile in revisione come qualsiasi altro codice. Una disattivazione generalizzata in cima a un file è il modo in cui la copertura marcisce in silenzio. Verifica periodicamente le soppressioni e tratta una pila crescente di esse come segnale che una regola è tarata male o che il codice ha un vero problema che qualcuno sta nascondendo. Una soppressione onesta mantiene credibile lo strumento; una soppressione silenziosa e generalizzata lo trasforma in teatro.
+Nessun analizzatore è perfetto, e la disciplina che separa uno strumento di cui ci si fida da uno ignorato è come gestisci i suoi errori. Ogni strumento serio ti permette di sopprimere un rilievo. Richiedi che ogni soppressione sia stretta (una riga o un rilievo, mai un intero file o una regola), porti una motivazione in un commento e sia visibile in revisione come qualsiasi altro codice. Una disattivazione generalizzata in cima a un file è il modo in cui la copertura marcisce in silenzio. Verifica periodicamente le soppressioni e tratta una pila crescente di esse come segnale che una regola è tarata male o che il codice ha un vero problema che qualcuno sta nascondendo. Una soppressione onesta mantiene credibile lo strumento; una soppressione silenziosa e generalizzata lo trasforma in teatro.
 
 ## Compromessi: vantaggi e svantaggi
 
