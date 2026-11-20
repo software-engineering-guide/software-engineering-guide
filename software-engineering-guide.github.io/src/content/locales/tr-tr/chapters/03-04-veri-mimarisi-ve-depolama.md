@@ -1,0 +1,141 @@
+# 3.4 Veri mimarisi ve depolama
+
+## Genel bakış ve motivasyon
+
+Veri koddan uzun yaşar. Uygulamalar birkaç yılda bir yeniden yazılır, ama yönettikleri veri (müşteri kayıtları, mali defterler, yardım geçmişleri, sağlık kayıtları) onlarca yıl kalır. Çoğu zaman kuruluşun en değerli ve en çok düzenlenen varlığıdır. Veri mimarisi, bu verinin nasıl modellendiğine, nerede saklandığına, nasıl tutarlı tutulduğuna, nasıl evrildiğine ve ölçekte yeterince hızlı nasıl sunulduğuna karar verme disiplinidir. Büyük bir kuruluş için bu kararlar temeldir. Depolama motorlarınız ve veri modelleriniz seçimi, sistemin tüm ömrü boyunca işin neler yapabileceğini, ne kadar hızlı hareket edebileceğini ve ne kadara mal olacağını sınırlar.
+
+Bahisler ölçek, uzun ömür ve düzenleme nedeniyle kurumsal ve kamu alanında en yüksektir. Bir bankanın işlem deposu tek bir kuruşu bile asla kaybetmemeli ya da iki kez saymamalıdır. Bir devlet sicili kayıtları yasal sürelerce saklamalı ve bütünlüklerini denetçilere kanıtlamalıdır. Bir sağlık sistemi ince taneli erişim ve yerleşim kurallarını uygulamalıdır. Aynı zamanda bu kuruluşlar çok büyük okuma ve yazma hacimlerine hizmet eder ve her sorgunun tek bir [ilişkisel veritabanına](https://en.wikipedia.org/wiki/Relational_database) çarpmasını kaldıramaz. Bu yüzden veri mimarisi, doğruluk ve kalıcılığı performans ve ölçekle uzlaştırmak zorundadır ve bunu şema yeni yükümlülüklere uymak için değişmeye devam ederken yapmalıdır.
+
+Bu bölüm başlıca depolama paradigmalarını ve her birinin ne zaman kullanılacağını, [çok dilli kalıcılık](https://en.wikipedia.org/wiki/Polyglot_persistence) disiplinini, veri modellemeyi ve çoğu zaman hafife alınan şema evrimi ve geçişi sorununu, [önbelleklemeyi](https://en.wikipedia.org/wiki/Cache_(computing)) ve [CDN'leri](https://en.wikipedia.org/wiki/Content_delivery_network) (içerik dağıtım ağları) ve bunlarla birlikte gelen kötü şöhretli geçersiz kılma sorununu, ayrıca işlemlerin, kilitlemenin ve eşzamanlılığın ölçeğe taşındığında nasıl davrandığını kapsar. Ana çizgi basittir: evrensel bir veritabanı yoktur. Ödünleşimler vardır ve iyi veri mimarisi, onları bilinçli olarak, iş yükü iş yükü seçmek demektir.
+
+## Temel ilkeler
+
+- **Veriyi erişim kalıplarına uyacak şekilde modelleyin, tersine değil.** Depolamayı, soyut bir "doğru" model etrafında değil, verinin nasıl okunacağı ve yazılacağı etrafında tasarlayın.
+- **Hepsine hükmeden tek bir veritabanı yoktur.** Farklı iş yükleri farklı motorlar ister; ölçekte çok dilli kalıcılık normaldir.
+- **Kayıt sistemleri için önce doğruluk.** Yetkili veri için kalıcılık ve tutarlılık pazarlık konusu değildir; performansı onların etrafında optimize edin, onların içinden geçerek değil.
+- **Şema değişecek, bu yüzden bunu planlayın.** Geçişler tek seferlik değil, birinci sınıf ve sürekli bir mühendislik etkinliğidir.
+- **Verinize bir hizmet sınırının ardında sahip çıkın.** Her sınırlı bağlam (kendi açık sınırı olan, kendi içinde tamamlanmış bir alan modeli) kendi verisinin sahibidir; bir veritabanını paylaşmak takımları bağlar ve özerkliği yok eder.
+- **Önbellekleme, performans kazancı kılığına girmiş bir doğruluk sorunudur.** Her önbellek eskilik ve geçersiz kılma riski getirir; onu bilinçli ele alın.
+- **Normalleştirmeyi gevşetmek bir ödünleşimdir, günah değil.** Okuma performansı için veriyi çoğaltmak, tutarlılık sonuçlarını üstlenirseniz meşrudur.
+- **Tutarlılık ve ölçek ödünleşir.** İşlem garantisi ne kadar güçlüyse dağıtmak o kadar zordur; yalnızca iş yükünün ihtiyaç duyduğunu satın alın.
+
+## Öneriler
+
+### Depolama paradigmasını iş yüküne göre seçin
+
+Her iş yükünü ona uyan modelle eşleştirin. **İlişkisel** veritabanları güçlü tutarlılık, birleştirmeler ve olgun işlemler sunar; kayıt sistemleri ve karmaşık bütünlük kuralları olan her şey için varsayılandır. **[Belge](https://en.wikipedia.org/wiki/Document-oriented_database)** depoları, bir bütün olarak okunan hiyerarşik, şeması esnek verilere (tüm bir sipariş, tüm bir profil) uyar. **[Anahtar-değer](https://en.wikipedia.org/wiki/Key-value_database)** depoları basit aramalar için (oturumlar, özellik bayrakları, önbellekler) aşırı hız verir. **[Çizge](https://en.wikipedia.org/wiki/Graph_database)** veritabanları, ilişkilerin sorgunun kendisi olduğu yerde (sahtecilik halkaları, organizasyon şemaları, yetkilendirmeler, tedarik zincirleri) öne çıkar. **[Sütunlu](https://en.wikipedia.org/wiki/Column-oriented_DBMS)** depolar, milyarlarca satır üzerinde az sayıda sütunu tarayan analitik sorguları (veri ambarları, raporlama) güçlendirir. **[Zaman serisi](https://en.wikipedia.org/wiki/Time_series_database)** veritabanları, ekleme ağırlıklı, zaman damgalı veriler (metrikler, telemetri, [Nesnelerin İnterneti](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) sensörleri, piyasa verisi) için optimize edilir. Tek bir motoru her işi yapmaya zorlamaktan kaçının. İlişkisel bir veritabanını kuyruk olarak ya da bir belge deposunu defter olarak kullanmak acıyı davet eder.
+
+### Çok dilli kalıcılığı bilinçli benimseyin
+
+Büyük sistemler meşru olarak birkaç depo kullanır: ilişkisel bir kayıt sistemi, bir arama dizini, bir önbellek, bir analitik ambarı ve belki bir çizge ya da zaman serisi motoru. Buna **çok dilli kalıcılık** denir ve iş yükleri gerçekten farklı olduğunda doğru kalıptır. Maliyet operasyoneldir, çünkü artık işletmeniz, güvenceye almanız, yedeklemeniz ve kadro sağlamanız gereken daha fazla motor vardır. Bu maliyeti, her depoyu bir hizmetin sahipliğinde ele alarak, operasyonel araçları standartlaştırarak ve teknoloji sayısını yerini hak edenlerle sınırlı tutarak yönetin. Her küçük ihtiyaç için yeni bir veritabanı benimsemeye karşı temkinli olun. Her biri kalıcı bir operasyonel taahhüttür.
+
+### Veriyi modelleyin ve şema evrimini sürekli ele alın
+
+Kayıt sistemleri için baştan veri modellemeye yatırım yapın. Bütünlüğü korumak için normalleştirin, sonra kanıtlanmış okuma sıcak noktaları için seçici olarak normalleştirmeyi gevşetin. Model ne olursa olsun, **şema sonsuza kadar evrilir**; bu yüzden geçişleri güvenli ve rutin yapın. Kaynak denetimine alınmış, sürümlü, otomatik, yalnızca ileri yönlü geçiş betikleri kullanın ve bunları dağıtım boru hattı üzerinden uygulayın. Büyük tablolarda kesintisiz değişiklikler için **genişlet-daralt (paralel değişiklik)** kalıbını kullanın: yeni sütunu ya da tabloyu ekleyin, eski veriyi doldurun ve çift yazın, okuyucuları taşıyın, sonra eski biçimi kaldırın. Asla tek bir geriye uyumsuz alter değil. Şema değişikliklerini dağıtımlar boyunca geriye uyumlu yapın; böylece eski ve yeni kod aynı anda çalışır. Olay kaynaklı ya da ileti tabanlı sistemlerde, olay ve ileti şemalarınızı açıkça sürümleyin ve eski olayların yukarı dönüştürülmesini (okuma sırasında bunları güncel şemaya çevirmeyi) destekleyin.
+
+### Önbellekleme ve geçersiz kılmayı gözünüz açık tasarlayın
+
+Önbellekleme ve CDN'ler en yüksek kaldıraçlı performans araçlarıdır. Bir CDN, statik ve önbelleğe alınabilir içeriği kullanıcıların yakınındaki uçtan sunar ve uygulama önbellekleri veritabanını tekrarlanan okumalardan kurtarır. Ama zor kısım geçersiz kılmadır: önbellekteki verinin ne zaman eskidiğini bilmek. Duruma göre bir strateji seçin. Hafif eskiliğin kabul edilebilir olduğu ve en basit olduğu yerde zamana dayalı sona erme (TTL) kullanın. Tazeliğin önemli olduğu yerde açık geçersiz kılma ya da write-through kullanın. Uygulamanın doldurmayı yönettiği yerde cache-aside kullanın. TTL'leri bilinçli belirleyin, **önbellek izdihamlarına** (birçok istemcinin aynı süresi dolmuş girdiyi aynı anda yeniden kurması) kilitleme ya da istek birleştirme ile karşı koyun ve soğuk önbelleklerde **gürleyen sürüleri** önleyin. Eskiliği bir doğruluk ya da uyum başarısızlığına yol açabilecek veriyi (yetkilendirmeler, bakiyeler, rıza) açık, sınanmış bir geçersiz kılma yolu olmadan asla önbelleğe almayın. Önbellek anahtarlarını, TTL'leri ve geçersiz kılmayı tesadüfi yapılandırma değil, tasarlanmış çıktılar olarak ele alın.
+
+### Ölçek için işlemleri, kilitlemeyi ve eşzamanlılığı yönetin
+
+Yalıtım düzeylerini anlayın ve her işlem için hâlâ doğru olan en zayıfını seçin, çünkü daha yüksek yalıtım eşzamanlılığa mal olur. Düşük çekişmeli, okuma ağırlıklı iş yükleri için **[iyimser eşzamanlılığı](https://en.wikipedia.org/wiki/Optimistic_concurrency_control)** (yazarken sürüm kontrolleri) tercih edin ve **kötümser kilitlemeye** yalnızca gerçek sıcak çekişmede başvurun; kilitleri kısa tutun ve kilitlenmeleri önlemek için tutarlı bir sıraya koyun. Ölçeklendikçe tek yazılabilir bir veritabanı darboğaz olur. Okuma ölçeklemesi için okuma kopyaları getirin (çoğaltma gecikmesini kabul ederek) ve yükü eşit dağıtan, ilişkili veriyi bir arada tutarak parçalar arası işlemlerden kaçınan bir anahtarla **[parçalayın](https://en.wikipedia.org/wiki/Shard_(database_architecture))/bölümleyin**. Parçalamanın kolay parçalar arası birleştirmelerden ve çok parçalı [ACID](https://en.wikipedia.org/wiki/ACID) (Atomiklik, Tutarlılık, Yalıtım, Dayanıklılık) işlemlerinden vazgeçmek anlamına geldiğini unutmayın; saga'ların ve normalleştirmeyi gevşetmenin sık görülmesinin nedeni de çoğu zaman budur. Bu teknikleri yalnızca iş yükü gerektirdikçe devreye alın. Erken parçalama kalıcı karmaşıklık ekler.
+
+## Ödünleşimler: artılar ve eksiler
+
+| Depo türü | En uygun olduğu yer | Güçlü yanlar | Zayıf yanlar |
+|---|---|---|---|
+| İlişkisel | Kayıt sistemleri, karmaşık bütünlük | ACID, birleştirmeler, olgun araçlar | Yazmaları yatay ölçeklemek daha zor |
+| Belge | Bütünleşik okumalar, esnek şema | Hızlı tüm nesne okuma/yazma, esnek | Belgeler arası birleştirme/işlemler zayıf |
+| Anahtar-değer | Oturumlar, önbellekler, basit aramalar | Aşırı hız ve ölçek | Anahtarın ötesinde sorgulama yok |
+| Çizge | İlişki ağırlıklı sorgular | Hızlı gezinmeler, anlatımı güçlü | Niş operasyon becerileri, ölçekleme sınırları |
+| Sütunlu | Analitik, raporlama | Hızlı toplu taramalar, sıkıştırma | Satır düzeyinde işlem yazmaları için zayıf |
+| Zaman serisi | Metrikler, telemetri, IoT | Verimli ekleme ve zaman sorguları | Dar amaçlı |
+
+Baskın ödünleşim, tutarlılık ve zengin sorgulama ile yatay ölçeklenebilirlik ve hız arasındadır. İlişkisel sistemler en güçlü garantileri ve en esnek sorguları verir, ama yazmaları birçok makineye yaymak en zor olanlardır. [NoSQL](https://en.wikipedia.org/wiki/NoSQL) (ilişkisel olmayan) aileleri ölçek ve hız kazanmak için birleştirmeleri, işlemleri ya da şemayı gevşetir. Önbellekleme tazeliği gecikmeyle takas eder. Parçalama, bölümler arası işlemleri yazma verimiyle takas eder. Bunların hiçbiri evrensel olarak doğru değildir. Sanat, her iş yükünü doğruluk ve performans ihtiyaçlarının gerçekten gerektirdiği eğri noktasına yerleştirmektir.
+
+## Takımınızla tartışılacak sorular
+
+1. **Her kritik veri kümesi için herkes tek kayıt sistemini söyleyebiliyor mu, yoksa önbellekler ve izdüşümler sessizce gerçek gibi mi ele alınıyor?** Veri koddan uzun yaşar ve en zarar verici veri olayları sürüklenmeden gelir: bir önbellek, arama dizini ya da okuma izdüşümü yetkili sanılır ve sessizce gerçek kaynaktan ayrılır. Büyük bir takımda bu, sahiplik bulanık olduğunda ve birkaç hizmet örtüşen kopyalar yazdığında olur; böylece bir olay sırasında hiç kimse hangi değerin doğru olduğunu söyleyemez. Önemli verilerinizin bir haritasını getirin ve her öğe için yetkili tek deposunu ve ondan yeniden kurulabilmesi gereken türetilmiş kopyaları gösterin. Finans ve kamuda, hangi kaydın yasal kaynak olduğunu kanıtlayabilmek ve geri kalanı yeniden kurabilmek çoğu zaman bir kolaylık değil, düzenleyici bir gerekliliktir. Kayıt sisteminden yeniden kuramayacağınız her şey, bunu istemiş olsanız da olmasanız da kendisi bir kayıt sistemidir.
+
+2. **Mülkünüzdeki her veritabanı motorunu işletmek, güvenceye almak ve yedeklemek gerçekte neye mal oluyor ve her biri hâlâ yerini hak ediyor mu?** İş yükleri gerçekten farklı olduğunda çok dilli kalıcılık doğrudur, ama her motor kalıcı bir operasyonel taahhüttür: yama, yedekleme, izleme, güvenlik incelemesi ve sabah üçte onu bilen insanlar. Büyük bir kuruluş, her biri tek bir özellik için benimsenmiş bir depo hayvanat bahçesine sürüklenebilir ve marjinal olan sonsuza dek maliyet ekler, oysa zaten işlettiğiniz bir depo o iş yükünü karşılayabilir. Her motoru, onu haklı çıkaran iş yükünü ve nöbetçisini listeleyin, sonra bir birincil deponun artık karşılayabileceği bir ihtiyaç için benimsenmiş olanları işaretleyin. Yeni veritabanı benimsemek yüksek bir eşiği aşmalıdır, çünkü sonradan birini kaldırmak bir geçiş daha demektir. Tuttuğunuz depolar arasında operasyonel araçları standartlaştırmak, tek bir motoru her işi yapmaya zorlamadan maliyeti düşük tutmanın yoludur.
+
+3. **Bir kullanıcı kendi yazmasından hemen sonra bir kopyadan eski bir değeri nerede okuyabilir ve bu, ona verdiğiniz bir sözü bozuyor mu?** Okuma kopyaları okumaları ölçekler ama birincilin gerisinde kalır; bu yüzden bir profili güncelleyip hemen yeniden yükleyen bir kullanıcı eski değeri görebilir; bu bir hata gibi, bir bakiye ya da rıza bayrağı için ise bir uyum başarısızlığı gibi okunur. Kendi yazdığını okumanın hangi akışlar için önemli olduğuna karar verin ve bu okumaları birincile yönlendirin ya da bir oturum tutarlılığı mekanizması kullanın. Kopyalardan sunulan akışların listesini getirin ve hangilerinde kullanıcının yazdıktan hemen sonra eyleme geçtiğini işaretleyin. Bakiyeler, yetkilendirmeler ve rıza için eski okumaları kozmetik değil, doğruluk başarısızlıkları olarak ele alın. Mesele, her iş yükünün gerçekten ihtiyaç duyduğu tutarlılığı satın almak ve kabul ettiğiniz eskiliği kazara değil, açık yapmaktır.
+
+4. **En büyük, en yoğun tablonuzun şemasını bugün kesintisiz değiştirebilir misiniz ve genişlet-daralt adımlarını gerçekte kim prova etti?** Şema sonsuza kadar evrilir ve en çok acıtan başarısızlık, devasa bir tabloyu kilitleyen, hizmeti donduran ve temiz biçimde geri alınamayan büyük patlamalı bir alter'dır. Büyük bir takımda risk katlanır, çünkü birkaç hizmet aynı biçimi okur; bu yüzden geriye uyumsuz bir değişiklik, aşamalı bir dağıtım boyunca eski ve yeni kodun yan yana çalışmasını gerektirir. Karşıt çekim hızdır: tek bir alter yazması hızlıdır, oysa genişlet-daralt (yeni biçimi ekle, eski veriyi doldur, çift yaz, okuyucuları taşı, eski biçimi bırak) daha çok adım ve daha çok sabır ister. En büyük tablonuzu, saf bir alter'ın onu ne kadar süre kilitleyeceğine dair dürüst bir tahmini ve birinin teoride değil, bir provada uçtan uca yürüttüğü belirli bir geçişi getirin. Kesintisiz çalışan ve yasal erişilebilirlik hedefleri taşıyan kurumsal ve kamu sistemlerinde, bir geçiş için kesinti bir ihlaldir; bu yüzden genişlet-daralt disiplini, şemayı hiç değiştirmenize izin verilmesinin bedelidir.
+
+5. **Hangi önbelleğe alınmış ya da çoğaltılmış değerler eski sunulursa kozmetik değil, uyum ya da güvenlik başarısızlığına yol açar ve bu geçersiz kılma yollarının her biri sınanmış mı?** Önbellekleme, performans kostümü giymiş bir doğruluk sorunudur: tehlike yavaşlık değil, değiştikten sonra bir yetkilendirmenin, bakiyenin, rıza bayrağının ya da erişim kararının sunulmasıdır. Büyük bir kuruluş için tehlike dağınıktır, çünkü önbellekler ve uç katmanlar takımlar arasında birikir ve hiç kimse nerede neyin önbelleğe alındığını ya da ne zaman temizlendiğini listeleyemez. Gerilim gerçektir: agresif önbellekleme ve uzun TTL'ler gecikme satın alır ve veritabanını korur, katı tazelik ise ikisine de mal olur. Önbelleğe alınmış ve CDN'den sunulan verilerin, hangi girdilerin uyum ya da güvenlik sonucu taşıdığı işaretlenmiş bir envanterini ve bunların her biri için geçersiz kılma yolunun yalnızca yapılandırılmakla kalmayıp pratikte denendiğine dair kanıtı getirin. Düzenlenen ve kamusal ortamlarda eski bir rıza ya da uygunluk değeri denetlenebilir bir başarısızlıktır; bu yüzden bu öğelerin açık, sınanmış bir geçersiz kılma yolu olmalıdır, yoksa hiç önbelleğe alınmamalıdır.
+
+6. **Her yetkili depo için saklama, arşivleme ve veri yerleşimi stratejiniz nedir ve bunu bir denetçiye kanıtlayabilir misiniz?** Veri koddan uzun yaşar ve çoğu zaman onu yazan takımdan da uzun yaşar; bu yüzden sınırsız büyüme ve belirsiz yerleşim kuralları, bir tablo yönetilemez hale gelene ya da bir kayıt yanlış yargı alanında duruncaya kadar kimsenin sahiplenmediği sorun olur. Büyük bir kuruluş birçok depoya ve bölgeye yayılır ve rekabet eden hususlar maliyet (sıcak depolama pahalıdır, bu yüzden arşivleyin ve katmanlayın), performans (şişmiş tablolar her şeyi yavaşlatır) ve çatışabilen yasal görevdir (yasal saklama tabanları ve yerleşim tavanları). Her yetkili veri kümesi için saklama süresini, verinin fiziksel olarak nerede durduğunu, arşivleme ve silme mekanizmasını ve bundan sorumlu kişinin adını getirin. Kurumsal ve özellikle kamu sistemlerinde saklama ve yerleşim genellikle denetim ve egemenlik gereksinimleri olan yasal zorunluluklardır; bu yüzden her kaydın nerede durduğunu, ne kadar saklandığını ve ne zaman yok edildiğini kanıtlayabilmek bir incelik değil, çalışma ruhsatıdır.
+
+## Sektör merceği
+
+**Girişim.** Tek bir veritabanı çalıştırın ve hayvanat bahçesine direnin. Tek bir yönetilen ilişkisel depo size işlemler, yedeklenecek tek bir şey ve tutarlılık üzerine düşünülecek tek bir yer verir; bu da üç kişilik bir takımın kafasında tutabileceği şeydir. Bir önbelleği, okuma kopyasını ya da arama dizinini yalnızca belirli bir yavaş sorgu ya da gerçek okuma hacmi zorladığında ekleyin; böylece karmaşıklık ödenmiş bir nedenle gelir. Geçişleri ilk günden sürümlü tutun, çünkü canlı bir ürüne geçiş disiplinini sonradan eklemek, onunla başlamaktan çok daha zordur.
+
+**Küçük işletme.** Veritabanı uzmanınız ve birden fazla motoru işletecek zamanınız yok; bu yüzden yönetilen bir depoyu tercih edin ve yedeklemeyi, yamayı ve çoğaltmayı platform sağlayıcınıza bırakın. Depo seçimini bir satın alma kararı olarak ele alın: bir kıyaslamadaki en hızlıyı değil, araçlarınızın zaten entegre olduğu sıkıcı, iyi desteklenen motoru seçin. Gerçekten doğrulayabileceğiniz basit bir saklama ve yedekleme ilkesi belirleyin ve para ya da izinlerle ilgili hiçbir şeyi, temizlemenin net bir yolu olmadan asla önbelleğe almayın, çünkü eski bir fiyat ya da yetkilendirme size bir müşteriye mal olur.
+
+**Kurumsal.** Temel zorluk birçok takım boyunca çok dilli kalıcılıktır: ilişkisel bir kayıt sistemi artı arama, önbellek, ambar ve belki çizge ya da zaman serisi motorları; her biri paylaşılmak yerine bir hizmetin sahipliğinde. Tuttuğunuz depolar arasında operasyonel araçları, yedeklemeyi ve izlemeyi standartlaştırın, yeni motor benimsemeyi yüksek bir eşikte tutun ve genişlet-daralt geçişlerini ve açık önbellek geçersiz kılmayı varsayılan yapın. Mülkü, net veri sahipliğiyle bir portföy olarak yönetin; böylece hiçbir motor onu haklı çıkaran iş yükünden sonra hayatta kalmaz ve hiçbir takım paylaşılan bir veritabanı yoluyla bağlanmaz.
+
+**Kamu.** Veri yerleşimi, yasal saklama ve kanıtlanabilir bütünlük her seçimi biçimlendirir. Her depoyu egemen bölgelerde kurun, CDN'leri yalnızca kişisel olmayan veriyi önbelleğe alacak şekilde yapılandırın ve düzenleyiciler için yeniden kurulabilir olması gereken kayıtlar için değiştirilemez bir denetim geçmişi tutun. Yeni mevzuatın zorunlu kıldığı geçişler, hizmet yasal son tarihler boyunca erişilebilir kalsın diye boru hattı üzerinden geriye uyumlu uygulanmalıdır ve kayıt sistemi tanımlanabilir olmalıdır; böylece hangi değerin yasal kaynak olduğunu kanıtlayabilir ve her türetilmiş kopyayı ondan yeniden kurabilirsiniz.
+
+## Örnekler
+
+**Girişim.** Tohum aşamasındaki bir girişim her şeyi tek bir yönetilen PostgreSQL örneğinde çalıştırır ve ayrı bir arama motoru, önbellek ve ambar eklemeye, onlara ihtiyaç duymadan önce direnir. Tek bir veritabanı, yedeklenecek tek bir şey, tutarlılık üzerine düşünülecek tek bir yer ve sorunsuz çalışan işlemler demektir; bütün takım üç mühendisten oluştuğunda bu önemlidir. Bir Redis önbelleği ve bir okuma kopyasını yalnızca belirli bir yavaş sorgu ve gerçek okuma hacmi haklı çıkardığında eklerler; böylece karmaşıklık, önceden değil, ödenmiş bir nedenle gelir.
+
+**Kurumsal.** Bir perakende bankası yetkili defterini güçlü tutarlı bir ilişkisel veritabanında tutar: her kayıt düzgün bir ACID işlemidir ve yazma ölçeği için hesap aralığına göre parçalanmıştır. Çevresinde çok dilli bir mülk durur: müşteri araması için bir arama dizini, mobil uygulamadaki hesap özetleri için bir Redis önbelleği (write-through, kısa TTL), düzenleyici ve analitik raporlama için bir sütunlu ambar ve işlem ağı sahtecilik tespiti için bir çizge veritabanı. Deftere yapılan şema değişiklikleri çift yazmalı genişlet-daralt kullanır; böylece 7/24 çalışan sistem bir geçiş için asla kesinti yaşamaz.
+
+**Kamu.** Ulusal bir araç sicili, yetkili kayıtlarını yasal saklama ve tam denetim geçmişiyle ilişkisel bir kayıt sisteminde tutar. Halka dönük "bir aracı sorgula" aramaları bir okuma kopyasından ve kısa TTL'li bir uç önbelleğinden sunulur, çünkü biraz eski kamuya açık veri kabul edilebilirdir ve okuma hacmi yazmaları bastırır. Veri yerleşimi yasası tüm kayıtların ülke içinde kalmasını gerektirir; bu yüzden her depo egemen bölgelerde kurulur ve CDN yalnızca kişisel olmayan veriyi önbelleğe alacak şekilde yapılandırılır. Ulaştırma politikasının zorunlu kıldığı yeni alanları eklemek için yapılan geçişler boru hattı üzerinden geriye uyumlu uygulanır; böylece hizmet yasal son tarihler sırasında erişilebilir kalır.
+
+## İş gerekçesi: motivasyonlar, YG ve TSM
+
+Veri mimarisi kararları yazılımdaki en uzun ve en büyük maliyet kuyruklarından birine sahiptir, çünkü veri ve şeması, sistemler ve entegrasyonlar onlara bağlandıktan sonra değiştirilmesi en zor şeylerdir. İyi uygulamanın benimseme maliyeti (bilinçli depo seçimi, disiplinli geçişler, tasarlanmış önbellekleme ve uygun parçalama) çoğunlukla kıdemli mühendislik zamanı ve bir miktar ek operasyonel araçtır. Benimsememenin maliyeti, tüm işi kısıtlayan tek bir aşırı yüklü veritabanı, yanlış depo çok geç keşfedildiğinde acil yeniden platformlama, bozuk bir geçişten kaynaklanan uzun kesintiler ve en zarar vereni, yanlış geçersiz kılınmış bir önbellekten ya da kaybolan bir işlemden kaynaklanan veri bozulması ya da uyum ihlali olarak ortaya çıkar.
+
+Vakayı yönetime ölçeklenebilirlik payı, olay riski ve düzenleyici maruziyet cinsinden yapın. Doğru depolama seçimleri, işin yeniden yazım olmadan okuma ve yazma hacmini büyütmesini sağlar. Disiplinli geçişler, şemanın kesintisiz biçimde yeni yükümlülüklere ayak uydurmasını sağlar. Doğru önbellekleme, sessiz eskilik hataları olmadan hızlı kullanıcı deneyimleri sunar. TSM'yi sistemin ömrü boyunca ölçün. İyi seçilmiş tek bir veri mimarisi, kötü bir mimarinin etrafından dolaşmanın yinelenen maliyetinden kaçınır ve önlenen tek bir veri bozulması olayı, onu iyi yapmanın tüm maliyetini genellikle gölgede bırakır. Düzenlenen sektörlerde veri bütünlüğünü ve yerleşimini kanıtlayabilmek bir maliyet merkezi değil, bir çalışma ruhsatıdır.
+
+## Anti-kalıplar ve tuzaklar
+
+- **Hizmetler arasında paylaşılan veritabanı.** Birden fazla hizmetin tek bir şemayı okuyup yazması; takımları bağlar ve her değişikliği bir eşgüdüm krizine çevirir.
+- **Her şey için tek veritabanı.** Analitiği, kuyrukları, aramayı ve işlemleri çökene kadar tek bir ilişkisel motora yüklemek.
+- **Büyük patlamalı geçişler.** Kesinti gerektiren ve güvenle geri alınamayan tek, geriye uyumsuz şema değişiklikleri.
+- **Geçersiz kılma stratejisi olmadan önbellekleme.** Süresiz sunulan eski veri ya da önbelleğin ne zaman temizlendiğine kimse sahip olmadığı için doğruluk hataları.
+- **Erken parçalama.** Yük gerektirmeden önce veriyi dağıtmak; hiçbir fayda sağlamadan birleştirmeleri ve işlemleri kalıcı olarak kaybetmek.
+- **Çoğaltma gecikmesini görmezden gelmek.** Kendi yazdığını gecikmiş bir kopyadan okuyup eski veri almak ve kullanıcı beklentilerini bozmak.
+- **Sınırsız veri büyümesi.** Arşivleme ya da saklama stratejisi yok; bu yüzden tablolar performans ve maliyet sürdürülemez olana kadar büyür.
+- **Türetilmiş veriyi gerçek olarak saklamak.** Bir önbelleği, dizini ya da izdüşümü kayıt sistemi saymak, sonra sürüklendiğini keşfetmek.
+
+## Olgunluk modeli
+
+- **Düzey 1, Başlangıç.** Her amaç için tek bir veritabanı kullanılır. Şema değişiklikleri elle ve plansızdır; geçiş disiplini yoktur. Önbellekleme tesadüfidir ve geçersiz kılma sonradan düşünülür. Performans sorunları daha büyük bir makine alarak tepkisel çözülür ve kimse belirli bir veri kümesi için kayıt sistemini güvenilir biçimde adlandıramaz.
+- **Düzey 2, Geliştirme.** Bazı depolama seçimleri bilinçlidir ve bir önbellek ya da ambar ortaya çıkmıştır, ama uygulama takıma göre değişir. Geçişler sürümlüdür ama bazen kesinti gerektirir ve genişlet-daralt, tesadüfen bilen kişi tarafından kullanılır. Birkaç hizmet hâlâ bir veritabanını paylaşır ve önbellekleme stratejileri takımdan takıma farklıdır.
+- **Düzey 3, Standartlaştırma.** Çok dilli kalıcılık iş yüklerine uydurulmuştur; her depo bir hizmetin sahipliğindedir ve asla paylaşılmaz. Otomatik, geriye uyumlu, kesintisiz genişlet-daralt geçişleri kuruluş genelinde belgelenmiş, uygulanan standarttır. Önbellekleme stratejileri, TTL'ler ve geçersiz kılma yolları açık tasarım çıktılarıdır ve her veri kümesi için tek kayıt sistemi belgelenmiştir; türetilmiş kopyalar ondan yeniden kurulabilir.
+- **Düzey 4, Yönetme.** Veri mülkü taban çizgilerine karşı ölçülür ve denetlenir. Geçiş süresini ve geri alma oranını, kendi yazdığını okuma gereksinimlerine karşı çoğaltma gecikmesini, önbellek isabet oranını ve eskilik olaylarını, depo başına operasyonel maliyeti ve hedef yüzdeliklerde sorgu gecikmesini izler, sonra sayılara göre hareket edersiniz. Saklama ve yerleşim yasal gereksinimlere karşı denetlenir, türetilmiş verinin doğruluğu sürekli doğrulanır ve her motor, hizmet ettiği iş yüküne karşı maliyetini haklı çıkarmak zorundadır.
+- **Düzey 5, Orkestrasyon.** Veri mimarisi sürekli iyileştirilir ve kuruluş genelindeki kapasite, maliyet ve risk planlamasıyla bütünleşir. Parçalama, önbellekleme ve tutarlılık seçimleri, erişim kalıpları ve maliyet değiştikçe iş yükü başına yeniden dengelenir ve artık yerini hak etmeyen depolar planlı geçişlerle emekliye ayrılır. Şema evrimi, arşivleme ve yerleşim tamamen otomatik ve uyarlanabilirdir; böylece mülk, acil yeniden platformlama olmadan yeni yükümlülüklere ve yüke göre kendini yeniden şekillendirir.
+
+## Tartışma fikirleri
+
+1. Mevcut depolarınızdan hangileri tasarlanmadıkları bir işi yapıyor ve doğru motor ne olurdu?
+2. En büyük tablonuzda bugün kesintisiz bir şema değişikliği yapabilir misiniz? Yapamıyorsanız neden?
+3. Sisteminiz, eskiliği bir uyum ya da doğruluk başarısızlığına yol açabilecek veriyi nerede önbelleğe alıyor?
+4. Hangi hizmetler bir veritabanını paylaşıyor ve her birine kendi veritabanını vermek için ne gerekir?
+5. Tek yazılabilir veritabanı nerede ölçekleme tavanınız ve okuma çoğaltma ya da parçalama doğru sonraki adım mı?
+6. Saklama ve arşivleme stratejiniz nedir ve bundan kim sorumludur?
+
+## Önemli çıkarımlar
+
+- Veri koddan uzun yaşar; depolama ve modelleme kararları sistemin tüm ömrü boyunca işi sınırlar.
+- Her iş yükünü erişim kalıbına uyan depolama paradigmasıyla eşleştirin; ölçekte çok dilli kalıcılık bekleyin.
+- Her hizmete verisinin sahipliğini verin; takımları asla paylaşılan bir veritabanıyla bağlamayın.
+- Şema evrimini sürekli ele alın ve geriye uyumlu, kesintisiz genişlet-daralt geçişleri kullanın.
+- Önbellekleme bir doğruluk sorunudur: TTL'leri, geçersiz kılmayı ve izdiham korumasını bilinçli tasarlayın ve uyum açısından kritik veriyi sınanmış bir geçersiz kılma yolu olmadan asla önbelleğe almayın.
+- Yalnızca her iş yükünün ihtiyaç duyduğu tutarlılık ve işlem garantilerini satın alın; parçalama ve çoğaltma, bölümler arası işlemleri ölçekle takas eder.
+
+## Kaynaklar ve ileri okuma
+
+- Martin Kleppmann, *Designing Data-Intensive Applications*
+- Pramod Sadalage and Martin Fowler, *NoSQL Distilled*
+- Pramod Sadalage and Scott Ambler, *Refactoring Databases: Evolutionary Database Design*
+- C. J. Date, *An Introduction to Database Systems*
+- Joe Celko, *SQL for Smarties*
+- Vlad Mihalcea, *High-Performance Java Persistence* (transactions, isolation, concurrency)
+- Eric Evans, *Domain-Driven Design* (bounded contexts and data ownership)
+- Werner Vogels, "Eventually Consistent"

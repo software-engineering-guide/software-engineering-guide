@@ -385,6 +385,22 @@ export const HERO = {
   "contents": "Indice",
   "translations": "Traduzioni: "
  },
+ "tr-001": {
+  "headline": "Yazılım Mühendisliği Rehberi",
+  "tagline": "Ücretsiz · açık · topluluk tarafından sürdürülür",
+  "intro": "Yazılım geliştirme takımları için, çalışma biçimlerini, programlama zanaatını, mimariyi, güvenliği, yapay zekayı, veri ve analitiği, ara yüz ve kullanıcı deneyimi tasarımını, otomasyonu, teslimatı, operasyonları, akışı ve yönetimi kapsayan; girişimler, büyük kurumlar ve kamu kurumları için iyi uygulamalar el kitabı.",
+  "start": "Okumaya başla",
+  "contents": "İçindekiler",
+  "translations": "Çeviriler: "
+ },
+ "tr-tr": {
+  "headline": "Yazılım Mühendisliği Rehberi",
+  "tagline": "Ücretsiz · açık · topluluk tarafından sürdürülür",
+  "intro": "Yazılım geliştirme takımları için, çalışma biçimlerini, programlama zanaatını, mimariyi, güvenliği, yapay zekayı, veri ve analitiği, ara yüz ve kullanıcı deneyimi tasarımını, otomasyonu, teslimatı, operasyonları, akışı ve yönetimi kapsayan; girişimler, büyük kurumlar ve kamu kurumları için iyi uygulamalar el kitabı.",
+  "start": "Okumaya başla",
+  "contents": "İçindekiler",
+  "translations": "Çeviriler: "
+ },
  "vi-001": {
   "headline": "Hướng dẫn Kỹ thuật Phần mềm",
   "tagline": "Miễn phí · mở · do cộng đồng duy trì",
@@ -483,6 +499,8 @@ export const ENDONYMS = {
  "ur-001": "اردو",
  "it-001": "Italiano",
  "it-it": "Italiano (Italia)",
+ "tr-001": "Türkçe",
+ "tr-tr": "Türkçe (Türkiye)",
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
