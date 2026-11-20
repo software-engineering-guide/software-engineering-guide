@@ -36162,6 +36162,46 @@
      "number": "7.9",
      "title": "Gestione dei dati master e di riferimento",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/07-09-gestione-dei-dati-master-e-di-riferimento/"
+    },
+    {
+     "number": "8.0",
+     "title": "Introduzione alla Parte 8: automazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-00-automazione/"
+    },
+    {
+     "number": "8.1",
+     "title": "CI/CD e distribuzione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-01-ci-cd-e-distribuzione/"
+    },
+    {
+     "number": "8.2",
+     "title": "Infrastruttura come codice e configurazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-02-infrastruttura-come-codice-e-configurazione/"
+    },
+    {
+     "number": "8.3",
+     "title": "Container, orchestrazione e cloud-native",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-03-container-orchestrazione-cloud-native/"
+    },
+    {
+     "number": "8.4",
+     "title": "Platform engineering ed esperienza degli sviluppatori",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-04-platform-engineering-e-devex/"
+    },
+    {
+     "number": "8.5",
+     "title": "Automazione di test e processi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-05-automazione-di-test-e-processi/"
+    },
+    {
+     "number": "8.6",
+     "title": "Gestione dei rilasci e distribuzione progressiva",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-06-gestione-dei-rilasci-e-distribuzione-progressiva/"
+    },
+    {
+     "number": "8.7",
+     "title": "Sistemi di build e gestione degli artefatti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/08-07-sistemi-di-build-e-gestione-degli-artefatti/"
     }
    ]
   }
