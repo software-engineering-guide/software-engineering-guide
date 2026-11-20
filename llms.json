@@ -37863,6 +37863,46 @@
      "number": "11.6",
      "title": "Değer akışı haritalama ve gecikme maliyeti",
      "url": "https://software-engineering-guide.github.io/tr-tr/konular/11-06-değer-akışı-haritalama-ve-gecikme-maliyeti/"
+    },
+    {
+     "number": "12.0",
+     "title": "Bölüm 12'ye Giriş: Ekler",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-00-ekler/"
+    },
+    {
+     "number": "12.1",
+     "title": "Sözlük",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-01-sözlük/"
+    },
+    {
+     "number": "12.2",
+     "title": "Kontrol listeleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-02-kontrol-listeleri/"
+    },
+    {
+     "number": "12.3",
+     "title": "Şablonlar",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-03-şablonlar/"
+    },
+    {
+     "number": "12.4",
+     "title": "Olgunluk öz değerlendirmesi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-04-olgunluk-öz-değerlendirmesi/"
+    },
+    {
+     "number": "12.5",
+     "title": "Kaynakça",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-05-kaynakça/"
+    },
+    {
+     "number": "12.6",
+     "title": "Benimseme yol haritası",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-06-benimseme-yol-haritası/"
+    },
+    {
+     "number": "12.7",
+     "title": "Dizin",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/12-07-dizin/"
     }
    ]
   },
