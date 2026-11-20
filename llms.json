@@ -37348,6 +37348,96 @@
      "number": "2.21",
      "title": "Tür sistemleri ve statik analiz",
      "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-21-tür-sistemleri-ve-statik-analiz/"
+    },
+    {
+     "number": "3.0",
+     "title": "Bölüm 3'e Giriş: Sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-00-sistemler/"
+    },
+    {
+     "number": "3.1",
+     "title": "Mimari temelleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-01-mimari-temelleri/"
+    },
+    {
+     "number": "3.2",
+     "title": "Mimari üsluplar ve kalıplar",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-02-mimari-üsluplar-ve-kalıplar/"
+    },
+    {
+     "number": "3.3",
+     "title": "Dağıtık sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-03-dağıtık-sistemler/"
+    },
+    {
+     "number": "3.4",
+     "title": "Veri mimarisi ve depolama",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-04-veri-mimarisi-ve-depolama/"
+    },
+    {
+     "number": "3.5",
+     "title": "Ölçeklenebilirlik, performans ve dayanıklılık",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-05-ölçeklenebilirlik-performans-dayanıklılık/"
+    },
+    {
+     "number": "3.6",
+     "title": "Eski sistem modernizasyonu",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-06-eski-sistem-modernizasyonu/"
+    },
+    {
+     "number": "3.7",
+     "title": "Yazılım bakımı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-07-yazılım-bakımı/"
+    },
+    {
+     "number": "3.8",
+     "title": "Birlikte çalışabilirlik ve açık standartlar",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-08-birlikte-çalışabilirlik-ve-açık-standartlar/"
+    },
+    {
+     "number": "3.9",
+     "title": "Sistem mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-09-sistem-mühendisliği/"
+    },
+    {
+     "number": "3.10",
+     "title": "Gömülü ve gerçek zamanlı sistemler",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-10-gömülü-ve-gerçek-zamanlı-sistemler/"
+    },
+    {
+     "number": "3.11",
+     "title": "Bulut mimarisi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-11-bulut-mimarisi/"
+    },
+    {
+     "number": "3.12",
+     "title": "Olay güdümlü mimari ve mesajlaşma",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-12-olay-güdümlü-mimari-ve-mesajlaşma/"
+    },
+    {
+     "number": "3.13",
+     "title": "Ağ iletişimi ve bağlantı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-13-ağ-iletişimi-ve-bağlantı/"
+    },
+    {
+     "number": "3.14",
+     "title": "Çok kiracılık ve SaaS mimarisi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-14-çok-kiracılık-ve-saas-mimarisi/"
+    },
+    {
+     "number": "3.15",
+     "title": "Önbellekleme ve içerik dağıtımı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-15-önbellekleme-ve-içerik-dağıtımı/"
+    },
+    {
+     "number": "3.16",
+     "title": "API ağ geçitleri ve hizmet ağı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-16-api-ağ-geçitleri-ve-hizmet-ağı/"
+    },
+    {
+     "number": "3.17",
+     "title": "Arama ve bilgi erişimi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/03-17-arama-ve-bilgi-erişimi/"
     }
    ]
   }
