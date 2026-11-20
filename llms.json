@@ -37238,6 +37238,116 @@
      "number": "1.13",
      "title": "Mentorluk, koçluk ve bilgi paylaşımı",
      "url": "https://software-engineering-guide.github.io/tr-tr/konular/01-13-mentorluk-koçluk-ve-bilgi-paylaşımı/"
+    },
+    {
+     "number": "2.0",
+     "title": "Bölüm 2'ye Giriş: Yazılım Programlama",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-00-yazılım-programlama/"
+    },
+    {
+     "number": "2.1",
+     "title": "Kodlama standartları ve üslup",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-01-kodlama-standartları-ve-üslup/"
+    },
+    {
+     "number": "2.2",
+     "title": "Yazılım tasarım ilkeleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-02-yazılım-tasarım-ilkeleri/"
+    },
+    {
+     "number": "2.3",
+     "title": "API'ler ve arayüz tasarımı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-03-api-ler-ve-arayüz-tasarımı/"
+    },
+    {
+     "number": "2.4",
+     "title": "Test stratejisi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-04-test-stratejisi/"
+    },
+    {
+     "number": "2.5",
+     "title": "Kod incelemesi ve iş birliği",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-05-kod-incelemesi-ve-iş-birliği/"
+    },
+    {
+     "number": "2.6",
+     "title": "Sürüm kontrolü ve kaynak yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-06-sürüm-kontrolü-ve-kaynak-yönetimi/"
+    },
+    {
+     "number": "2.7",
+     "title": "Belgeleme",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-07-belgeleme/"
+    },
+    {
+     "number": "2.8",
+     "title": "Yazılım gereksinimleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-08-yazılım-gereksinimleri/"
+    },
+    {
+     "number": "2.9",
+     "title": "Yazılım inşası",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-09-yazılım-inşası/"
+    },
+    {
+     "number": "2.10",
+     "title": "Yazılım yapılandırma yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-10-yazılım-yapılandırma-yönetimi/"
+    },
+    {
+     "number": "2.11",
+     "title": "Yazılım kalitesi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-11-yazılım-kalitesi/"
+    },
+    {
+     "number": "2.12",
+     "title": "Yazılım modelleri ve yöntemleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-12-yazılım-modelleri-ve-yöntemleri/"
+    },
+    {
+     "number": "2.13",
+     "title": "Bilişim, matematik ve mühendislik temelleri",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-13-bilişim-matematik-ve-mühendislik-temelleri/"
+    },
+    {
+     "number": "2.14",
+     "title": "Proje ve depo yapısı",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-14-proje-ve-depo-yapısı/"
+    },
+    {
+     "number": "2.15",
+     "title": "Hata ayıklama ve sorun giderme",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-15-hata-ayıklama-ve-sorun-giderme/"
+    },
+    {
+     "number": "2.16",
+     "title": "Performans mühendisliği",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-16-performans-mühendisliği/"
+    },
+    {
+     "number": "2.17",
+     "title": "Eşzamanlılık ve paralellik",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-17-eşzamanlılık-ve-paralellik/"
+    },
+    {
+     "number": "2.18",
+     "title": "Bağımlılık ve tedarik zinciri yönetimi",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-18-bağımlılık-ve-tedarik-zinciri-yönetimi/"
+    },
+    {
+     "number": "2.19",
+     "title": "Yeniden düzenleme ve teknik borç",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-19-yeniden-düzenleme-ve-teknik-borç/"
+    },
+    {
+     "number": "2.20",
+     "title": "Hata yönetimi ve dayanıklılık kalıpları",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-20-hata-yönetimi-ve-dayanıklılık-kalıpları/"
+    },
+    {
+     "number": "2.21",
+     "title": "Tür sistemleri ve statik analiz",
+     "url": "https://software-engineering-guide.github.io/tr-tr/konular/02-21-tür-sistemleri-ve-statik-analiz/"
     }
    ]
   }
