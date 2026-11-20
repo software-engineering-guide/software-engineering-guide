@@ -35752,6 +35752,116 @@
      "number": "1.13",
      "title": "Mentoring, coaching e condivisione della conoscenza",
      "url": "https://software-engineering-guide.github.io/it-it/argomenti/01-13-mentoring-coaching-e-condivisione-della-conoscenza/"
+    },
+    {
+     "number": "2.0",
+     "title": "Introduzione alla Parte 2: Programmazione del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-00-programmazione-del-software/"
+    },
+    {
+     "number": "2.1",
+     "title": "Standard di codifica e stile",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-01-standard-di-codifica-e-stile/"
+    },
+    {
+     "number": "2.2",
+     "title": "Principi di progettazione del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-02-principi-di-progettazione-del-software/"
+    },
+    {
+     "number": "2.3",
+     "title": "API e progettazione delle interfacce",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-03-api-e-progettazione-delle-interfacce/"
+    },
+    {
+     "number": "2.4",
+     "title": "Strategia di test",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-04-strategia-di-test/"
+    },
+    {
+     "number": "2.5",
+     "title": "Revisione del codice e collaborazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-05-revisione-del-codice-e-collaborazione/"
+    },
+    {
+     "number": "2.6",
+     "title": "Controllo di versione e gestione dei sorgenti",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-06-controllo-di-versione-e-gestione-dei-sorgenti/"
+    },
+    {
+     "number": "2.7",
+     "title": "Documentazione",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-07-documentazione/"
+    },
+    {
+     "number": "2.8",
+     "title": "Requisiti del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-08-requisiti-del-software/"
+    },
+    {
+     "number": "2.9",
+     "title": "Costruzione del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-09-costruzione-del-software/"
+    },
+    {
+     "number": "2.10",
+     "title": "Gestione della configurazione del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-10-gestione-della-configurazione-del-software/"
+    },
+    {
+     "number": "2.11",
+     "title": "Qualità del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-11-qualita-del-software/"
+    },
+    {
+     "number": "2.12",
+     "title": "Modelli e metodi del software",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-12-modelli-e-metodi-del-software/"
+    },
+    {
+     "number": "2.13",
+     "title": "Fondamenti di informatica, matematica e ingegneria",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-13-fondamenti-di-informatica-matematica-e-ingegneria/"
+    },
+    {
+     "number": "2.14",
+     "title": "Struttura di progetto e repository",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-14-struttura-di-progetto-e-repository/"
+    },
+    {
+     "number": "2.15",
+     "title": "Debug e risoluzione dei problemi",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-15-debug-e-risoluzione-dei-problemi/"
+    },
+    {
+     "number": "2.16",
+     "title": "Ingegneria delle prestazioni",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-16-ingegneria-delle-prestazioni/"
+    },
+    {
+     "number": "2.17",
+     "title": "Concorrenza e parallelismo",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-17-concorrenza-e-parallelismo/"
+    },
+    {
+     "number": "2.18",
+     "title": "Gestione delle dipendenze e della supply chain",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-18-gestione-delle-dipendenze-e-della-supply-chain/"
+    },
+    {
+     "number": "2.19",
+     "title": "Refactoring e debito tecnico",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-19-refactoring-e-debito-tecnico/"
+    },
+    {
+     "number": "2.20",
+     "title": "Gestione degli errori e schemi di resilienza",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-20-gestione-degli-errori-e-schemi-di-resilienza/"
+    },
+    {
+     "number": "2.21",
+     "title": "Sistemi di tipi e analisi statica",
+     "url": "https://software-engineering-guide.github.io/it-it/argomenti/02-21-sistemi-di-tipi-e-analisi-statica/"
     }
    ]
   }
